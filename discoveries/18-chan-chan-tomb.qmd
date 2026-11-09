@@ -71,6 +71,13 @@ Recommended set:
 
 The available photographs are credited to the **Peruvian Ministry of Culture / Reuters**. They are **not copied into the repository** without explicit reuse permission.
 
+## 页面图像 | Page images
+
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html" target="_blank">View original image / 查看原图 →</a></div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - Media imagery to be archived after rights review / 媒体图片待版权核查
