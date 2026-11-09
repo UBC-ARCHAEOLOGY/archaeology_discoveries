@@ -80,6 +80,15 @@ Recommended visual set:
 
 Project photographs visible in media reports are **copyrighted project images**, not open-licence assets. The magnetometer-study repository copy is CC BY-NC-ND 4.0 and may be reused **unchanged for non-commercial use** with attribution; third-party credits in individual figures must still be respected.
 
+## 页面图像 | Page images
+
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.campus.uni-konstanz.de/en/node/2537" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.theartnewspaper.com/2026/03/25/excavations-at-alexander-the-greats-lost-city-in-iraq-postponed-due-to-war" target="_blank">View original image / 查看原图 →</a></div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Archaeology Magazine report](https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/)
