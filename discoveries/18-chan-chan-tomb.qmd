@@ -1,0 +1,81 @@
+---
+title: "18. 秘鲁Chan Chan未盗扰Chimú精英墓"
+subtitle: "An unusually intact Chimú elite tomb at Chan Chan"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Chan Chan, Peru / 秘鲁昌昌
+
+**Date / 年代**  
+Late Intermediate Period · ca. 600 years ago / 晚期中间期 · 约600年前
+
+**Research / excavation institutions / 发掘或研究机构**  
+Peru Ministry of Culture; Proyecto Especial Complejo Arqueológico Chan Chan (PECACH)
+
+**Lead researchers / 主要负责人**  
+Jorge Meneses (archaeologist in charge of the investigation / PECACH)
+
+**Evidence status / 证据状态**  
+Major field discovery with official documentation and extensive international coverage; formal full scholarly publication is still pending.
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** Chimú考古一个长期结构性问题是盗墓：大量精美金属器、纺织品和装饰品很早进入收藏与艺术市场，却失去了埋葬组合、人体关系和墓葬使用过程。Chan Chan这座墓最重要的不是“有很多贵重器物”，而是保存了近乎完整的原始情境，使精英身份、多人埋葬、墓室使用、祖先实践和随葬品组合可以一起研究。
+
+**English.** A structural problem in Chimú archaeology is looting. Many spectacular metal objects, textiles, and ornaments entered collections without their burial associations, human remains, or depositional histories. The Chan Chan tomb therefore matters not because it contains “treasure,” but because it preserves context: elite identity, multiple burials, tomb use, ancestor practices, and grave-good associations can be studied together.
+
+## 主要发现 | Major findings
+
+**中文。** Chan Chan的Utzh An围墙建筑群发现一座近乎完整的Chimú墓葬平台，保存38名个体及金属、贝壳、石英饰物和武器等随葬品。其最大价值是首次让精英墓葬在未被系统盗扰的原始组合关系中接受研究。
+
+**English.** An unusually intact Chimú funerary platform at Chan Chan preserved 38 individuals and rich grave goods, allowing elite burial practices to be examined in a relatively complete archaeological context.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** Chimú精品长期受到盗墓和收藏史影响，许多器物失去原始组合关系。该发现最重要的是重新获得context：个体身份、随葬品组合、墓葬反复进入和祖先实践可以在原位关系中研究，而不是只依赖博物馆孤立器物。
+
+**English.** Chimú archaeology has long been distorted by looting and collecting, which stripped many prestigious objects of context. The key contribution here is the recovery of context itself: identities, grave-good associations, repeated tomb access, and ancestor practices can be studied relationally rather than through isolated museum objects.
+
+## 论文核查 | Publication verification
+
+- **Formal peer-reviewed publication:** none identified as of 8 November 2026.
+- **Primary source:** Peru Ministry of Culture / Proyecto Especial Complejo Arqueológico Chan Chan (PECACH).
+- **Lead field archaeologist quoted in international coverage:** Jorge Meneses.
+- **Scholarly status:** major field discovery; full osteological, artefactual, chronological, and architectural publication remains pending.
+- **Open access / reuse:** official and Reuters/NYT photographs are copyrighted; no general CC licence identified.
+
+## 学术论文 | Academic publications
+
+- Formal publication pending / 正式论文待发表
+
+## 主要媒体报道 | Major media coverage
+
+- [The New York Times — “Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands”](https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html)
+- [El País English](https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html)
+- Reuters imagery is reproduced by several outlets and credited to the Peruvian Ministry of Culture.
+
+## 关键图像与许可 | Key images and permissions
+
+Recommended set:
+
+1. **Overall funerary platform / architecture.**
+2. **Central and side chambers.**
+3. **Human remains in situ, showing multiple burial arrangement.**
+4. **Metal, shell and ornament assemblages.**
+5. **Chan Chan / Utzh An walled-complex context.**
+
+The available photographs are credited to the **Peruvian Ministry of Culture / Reuters**. They are **not copied into the repository** without explicit reuse permission.
+
+## 图像与图版来源 | Images and figure sources
+
+- Media imagery to be archived after rights review / 媒体图片待版权核查
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
