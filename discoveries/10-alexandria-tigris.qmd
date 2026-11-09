@@ -17,12 +17,7 @@ University of Konstanz; Charax Spasinou Project; British archaeological and geop
 Stefan R. Hauser; Jane Moon; Robert Killick; Stuart Campbell
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: English: Substantial multi-season field research (B), but 2026 coverage is a synthesis of work begun years earlier rather than a newly discovered location.  
-中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
-中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
-中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
-中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
-中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
+English: Substantial multi-season field research (B), but 2026 coverage is a synthesis of work begun years earlier rather than a newly discovered location.  
 中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
 
 **CCTV status / 央视遴选状态**  
@@ -60,6 +55,7 @@ Campbell, S., Hauser, S. R., Killick, R., Moon, J., Shepperson, M., &amp; Dolež
 <!-- APA-V2.1 -->
 
 
+
 ## 主要媒体报道 | Major media coverage
 
 - [Archaeology Magazine](https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/)
@@ -75,11 +71,11 @@ Campbell, S., Hauser, S. R., Killick, R., Moon, J., Shepperson, M., &amp; Dolež
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.campus.uni-konstanz.de/en/node/2537" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.campus.uni-konstanz.de/en/node/2537" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.theartnewspaper.com/2026/03/25/excavations-at-alexander-the-greats-lost-city-in-iraq-postponed-due-to-war" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.theartnewspaper.com/2026/03/25/excavations-at-alexander-the-greats-lost-city-in-iraq-postponed-due-to-war" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

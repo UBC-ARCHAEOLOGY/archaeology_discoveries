@@ -17,12 +17,7 @@ Universidad de Chile; Universidad de Tarapacá; Trinity College Dublin; Kanazawa
 Bruno Romero González; Margarita Reyes-Madrid; Bernardo Arriaza; Constanza de la Fuente Castro; Shigeki Nakagome
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: English: Top-tier peer-reviewed archaeogenomic research (A).  
-中文：顶级同行评议古病原体基因组研究（A级）。
-中文：顶级同行评议古病原体基因组研究（A级）。
-中文：顶级同行评议古病原体基因组研究（A级）。
-中文：顶级同行评议古病原体基因组研究（A级）。
-中文：顶级同行评议古病原体基因组研究（A级）。
+English: Top-tier peer-reviewed archaeogenomic research (A).  
 中文：顶级同行评议古病原体基因组研究（A级）。
 
 **CCTV status / 央视遴选状态**  
@@ -58,6 +53,7 @@ Romero GonzÃ¡lez, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M
 **What the publication shows (English).** The study reconstructs the earliest ancient smallpox genomes yet recovered in the Americas from two early colonial individuals at Camarones 9 in northern Chile and places them within the global variola phylogeny. It provides direct molecular evidence for the introduction of smallpox into South America after European contact and shows that the early American viruses belonged to an extinct lineage.
 
 <!-- APA-V2.1 -->
+
 
 
 ## 主要媒体报道 | Major media coverage

@@ -17,12 +17,7 @@ University of Coimbra; University of Vienna; Sapienza University of Rome; Centre
 Daniel M. Fernandes; Ron Pinhasi; Adrian F. Daly; Alfredo Coppa
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: English: Peer-reviewed clinical-genetic communication in NEJM (A for the molecular diagnosis); archaeological significance lies mainly in bioarchaeology of care and individual life history.  
-中文：NEJM同行评议临床遗传学通讯；分子诊断证据强，考古意义主要体现在照护生物考古和个体生命史。
-中文：NEJM同行评议临床遗传学通讯；分子诊断证据强，考古意义主要体现在照护生物考古和个体生命史。
-中文：NEJM同行评议临床遗传学通讯；分子诊断证据强，考古意义主要体现在照护生物考古和个体生命史。
-中文：NEJM同行评议临床遗传学通讯；分子诊断证据强，考古意义主要体现在照护生物考古和个体生命史。
-中文：NEJM同行评议临床遗传学通讯；分子诊断证据强，考古意义主要体现在照护生物考古和个体生命史。
+English: Peer-reviewed clinical-genetic communication in NEJM (A for the molecular diagnosis); archaeological significance lies mainly in bioarchaeology of care and individual life history.  
 中文：NEJM同行评议临床遗传学通讯；分子诊断证据强，考古意义主要体现在照护生物考古和个体生命史。
 
 **CCTV status / 央视遴选状态**  
@@ -60,6 +55,7 @@ Fernandes, D. M., Llanos-Lizcano, A., BrÃ¼ck, F., Oberreiter, V., ÃzdoÄa
 <!-- APA-V2.1 -->
 
 
+
 ## 主要媒体报道 | Major media coverage
 
 - [ScienceDaily](https://www.sciencedaily.com/releases/2026/02/260217005754.htm)
@@ -72,9 +68,9 @@ Fernandes, D. M., Llanos-Lizcano, A., BrÃ¼ck, F., Oberreiter, V., ÃzdoÄa
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2513616" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2513616" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.sciencedaily.com/releases/2026/02/260217005754.htm" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.sciencedaily.com/releases/2026/02/260217005754.htm" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

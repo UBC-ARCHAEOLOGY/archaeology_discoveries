@@ -17,12 +17,7 @@ Koç University; Türkiye Ministry of Culture and Tourism
 Çiğdem Maner (excavation director)
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: English: Major field discovery (D/C): official excavation announcement; tablets are still being read and full scholarly publication is pending.  
-中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
-中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
-中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
-中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
-中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
+English: Major field discovery (D/C): official excavation announcement; tablets are still being read and full scholarly publication is pending.  
 中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
 
 **CCTV status / 央视遴选状态**  
@@ -58,6 +53,7 @@ Additional candidate / 补充建议
 **What the current source shows (English).** The corpus of 184 tablets is still being catalogued and deciphered, and no complete scholarly edition has yet appeared. Reports of epidemic disease, royal funerals, bird divination and military requests are preliminary readings; the archive's historical significance will require formal publication of tablet numbers, copies, translations, dates and find contexts.
 
 <!-- APA-V2.1 -->
+
 
 
 ## 主要媒体报道 | Major media coverage

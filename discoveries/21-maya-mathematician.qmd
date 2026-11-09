@@ -17,12 +17,7 @@ Massachusetts Institute of Technology; University of Texas at Austin; Skidmore C
 Franco D. Rossi; David Stuart; Heather Hurst
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: English: Peer-reviewed specialist-journal research (B/A-level significance for epigraphy and history of science).  
-中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
-中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
-中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
-中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
-中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
+English: Peer-reviewed specialist-journal research (B/A-level significance for epigraphy and history of science).  
 中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
 
 **CCTV status / 央视遴选状态**  
@@ -58,6 +53,7 @@ Rossi, F. D., Stuart, D., & Hurst, H. (2026). The identification and work of an 
 **What the publication shows (English).** The paper reconstructs and deciphers Text 19 on the east wall of Structure 10K-2 at Xultun, identifying a mathematical-astronomical formula that coordinates calendrical intervals with cycles including Venus and Mars and attributes the work to Sak Tahn Waax. It transforms Classic Maya science from an anonymous body of knowledge into an archaeological study of named intellectual workers, scholarly workspace and authorship.
 
 <!-- APA-V2.1 -->
+
 
 
 ## 主要媒体报道 | Major media coverage

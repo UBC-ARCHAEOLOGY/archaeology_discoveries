@@ -17,12 +17,7 @@ University of Helsinki; University of Turku; Federal University of Acre; Finnish
 Martti Pärssinen; Risto Kalliola; Alceu Ranzi; Evandro Ferreira
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: English: Top-tier peer-reviewed research (A); a major omitted candidate from the original CCTV list.  
-中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
-中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
-中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
-中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
-中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
+English: Top-tier peer-reviewed research (A); a major omitted candidate from the original CCTV list.  
 中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
 
 **CCTV status / 央视遴选状态**  
@@ -60,6 +55,7 @@ PÃ¤rssinen, M., Kalliola, R., Ranzi, A., Puttonen, E., Lopes, R. C., Virtanen,
 <!-- APA-V2.1 -->
 
 
+
 ## 主要媒体报道 | Major media coverage
 
 ### 主要报道 | Major coverage
@@ -83,21 +79,21 @@ PÃ¤rssinen, M., Kalliola, R., Ranzi, A., Puttonen, E., Lopes, R. C., Virtanen,
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/17/fig1.png" alt="图1—西南亚马孙Aquiry土方工程区域分布 / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/17/fig1.png" alt="图1—西南亚马孙Aquiry土方工程区域分布 / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—西南亚马孙Aquiry土方工程区域分布 / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—西南亚马孙Aquiry土方工程区域分布 / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/17/fig2.png" alt="图2—LiDAR揭示的几何土方工程 / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/17/fig2.png" alt="图2—LiDAR揭示的几何土方工程 / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—LiDAR揭示的几何土方工程 / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—LiDAR揭示的几何土方工程 / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR / Figure 2—Geometric earthworks revealed by LiDAR—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/17/fig3.png" alt="图3—土方工程密度与区域尺度模型 / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/17/fig3.png" alt="图3—土方工程密度与区域尺度模型 / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—土方工程密度与区域尺度模型 / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—土方工程密度与区域尺度模型 / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling / Figure 3—Earthwork density and regional-scale modelling—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
 </div>
 
 
