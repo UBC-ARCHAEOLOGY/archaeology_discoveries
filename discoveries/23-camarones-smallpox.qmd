@@ -17,7 +17,8 @@ Universidad de Chile; Universidad de Tarapacá; Trinity College Dublin; Kanazawa
 Bruno Romero González; Margarita Reyes-Madrid; Bernardo Arriaza; Constanza de la Fuente Castro; Shigeki Nakagome
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: Top-tier peer-reviewed archaeogenomic research (A).  
+English: English: English: English: English: English: Top-tier peer-reviewed archaeogenomic research (A).  
+中文：顶级同行评议古病原体基因组研究（A级）。
 中文：顶级同行评议古病原体基因组研究（A级）。
 中文：顶级同行评议古病原体基因组研究（A级）。
 中文：顶级同行评议古病原体基因组研究（A级）。
@@ -50,11 +51,14 @@ Additional candidate / 补充建议
 
 Romero GonzÃ¡lez, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M., la Fuente Castro, C. d., & Nakagome, S. (2026). The genomic identity of early smallpox in South America. Science, 393(6810), 504â508. https://doi.org/10.1126/science.aee6957
 
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
+
 **出版物内容（中文）。** 文章从智利北部 Camarones 9 两名早期殖民时期个体中重建出美洲最早的古代天花病毒基因组，并将其置于全球 variola 病毒系统发育树中。结果为欧洲接触后天花进入南美洲提供病原体本身的直接分子证据，并显示早期美洲毒株属于后来消失的谱系。
 
 **What the publication shows (English).** The study reconstructs the earliest ancient smallpox genomes yet recovered in the Americas from two early colonial individuals at Camarones 9 in northern Chile and places them within the global variola phylogeny. It provides direct molecular evidence for the introduction of smallpox into South America after European contact and shows that the early American viruses belonged to an extinct lineage.
 
 <!-- APA-V2.1 -->
+
 
 ## 主要媒体报道 | Major media coverage
 

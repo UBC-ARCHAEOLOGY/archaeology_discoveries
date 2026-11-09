@@ -17,7 +17,8 @@ Massachusetts Institute of Technology; University of Texas at Austin; Skidmore C
 Franco D. Rossi; David Stuart; Heather Hurst
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: Peer-reviewed specialist-journal research (B/A-level significance for epigraphy and history of science).  
+English: English: English: English: English: English: Peer-reviewed specialist-journal research (B/A-level significance for epigraphy and history of science).  
+中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
 中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
 中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
 中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
@@ -50,11 +51,14 @@ Additional candidate / 补充建议
 
 Rossi, F. D., Stuart, D., & Hurst, H. (2026). The identification and work of an eighth-century Maya mathematician. Antiquity, 100(413), 1369â1384. https://doi.org/10.15184/aqy.2026.10378
 
+**开放获取状态 | Open-access status.** 开放获取，CC BY-NC 4.0。 / Open access, CC BY-NC 4.0.
+
 **出版物内容（中文）。** 文章重新构建并释读 Xultun 10K-2 建筑东墙的 Text 19，识别出协调历法与金星、火星等周期的数学—天文公式，并确认末尾将成果归于 Sak Tahn Waax。它把古典玛雅科学从匿名知识体系转化为可以讨论具体知识工作者、书写空间和知识产权意识的考古对象。
 
 **What the publication shows (English).** The paper reconstructs and deciphers Text 19 on the east wall of Structure 10K-2 at Xultun, identifying a mathematical-astronomical formula that coordinates calendrical intervals with cycles including Venus and Mars and attributes the work to Sak Tahn Waax. It transforms Classic Maya science from an anonymous body of knowledge into an archaeological study of named intellectual workers, scholarly workspace and authorship.
 
 <!-- APA-V2.1 -->
+
 
 ## 主要媒体报道 | Major media coverage
 

@@ -17,7 +17,8 @@ Natural History Museum (London); Ludwig Maximilian University of Munich; Univers
 William A. Marsh; Lachie Scarsbrook; Laurent A. F. Frantz; Ian Barnes; Greger Larson; Anders Bergström
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: Top-tier peer-reviewed research (A); best read together with the companion Nature paper on the genomic history of early European dogs.  
+English: English: English: English: English: English: Top-tier peer-reviewed research (A); best read together with the companion Nature paper on the genomic history of early European dogs.  
+中文：顶级同行评议研究（A级）；应与同期关于欧洲早期家犬基因组史的Nature论文合并阅读。
 中文：顶级同行评议研究（A级）；应与同期关于欧洲早期家犬基因组史的Nature论文合并阅读。
 中文：顶级同行评议研究（A级）；应与同期关于欧洲早期家犬基因组史的Nature论文合并阅读。
 中文：顶级同行评议研究（A级）；应与同期关于欧洲早期家犬基因组史的Nature论文合并阅读。
@@ -52,6 +53,8 @@ CCTV candidate / 央视候选
 
 Marsh, W. A., Scarsbrook, L., YÃ¼ncÃ¼, E., Hodgson, L., Lin, A. T., De Iorio, M., Thalmann, O., Thomas, M. G., Goor, M., BergstrÃ¶m, A., Noseda, A., Amiri, S., Biglari, F., BoriÄ, D., Bougiouri, K., Carmagnini, A., GiannÃ¬, M., Higham, T., Lebrasseur, O., et al. (2026). Dogs were widely distributed across western Eurasia during the Palaeolithic. Nature, 651(8107), 995â1003. https://doi.org/10.1038/s41586-026-10170-x
 
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
+
 **出版物内容（中文）。** 文章获得安纳托利亚 Pınarbaşı 约1.58万年前和英国 Gough's Cave 约1.43万年前犬科个体的核基因组，并确认其属于早期家犬而非狼。研究显示晚旧石器时代家犬已经分布于西欧与安纳托利亚，并把可靠的直接遗传证据推进到农业出现之前。
 
 **What the publication shows (English).** The study obtains nuclear genomes from canids including a ~15.8-ka individual from Pınarbaşı and a ~14.3-ka individual from Gough's Cave, identifying them as early dogs rather than wolves. It demonstrates that dogs were already distributed across western Europe and Anatolia in the Late Palaeolithic, well before agriculture.
@@ -60,11 +63,14 @@ Marsh, W. A., Scarsbrook, L., YÃ¼ncÃ¼, E., Hodgson, L., Lin, A. T., De Iorio
 
 BergstrÃ¶m, A., FurtwÃ¤ngler, A., Johnston, S., Rosengren, E., Breidenstein, A., Booth, T., McCabe, J. B., Peto, J., Williams, M., Kelly, M., Tait, F., Baumann, C., Radzeviciute, R., Barrington, C., Anastasiadou, K., Gilardet, A., Glocke, I., Sherman, M., Brativnyk, A., et al. (2026). Genomic history of early dogs in Europe. Nature, 651(8107), 986â994. https://doi.org/10.1038/s41586-026-10112-7
 
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
+
 **出版物内容（中文）。** 配套研究通过更大规模的古代犬科基因组资料重建欧洲早期家犬的群体史、连续性与混合过程。它说明晚冰期犬群并非孤立个案，而是后来欧洲犬类遗传史的重要组成部分。
 
 **What the publication shows (English).** The companion study uses a much larger ancient canid genomic dataset to reconstruct the population history, continuity and admixture of early European dogs. It shows that Late Glacial dogs were not isolated curiosities but important contributors to the later genomic history of European dogs.
 
 <!-- APA-V2.1 -->
+
 
 ## 主要媒体报道 | Major media coverage
 
@@ -88,11 +94,11 @@ BergstrÃ¶m, A., FurtwÃ¤ngler, A., Johnston, S., Rosengren, E., Breidenstein,
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10170-x" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10170-x" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nhm.ac.uk/discover/news/2026/march/oldest-evidence-of-domestic-dogs.html" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nhm.ac.uk/discover/news/2026/march/oldest-evidence-of-domestic-dogs.html" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

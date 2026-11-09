@@ -17,7 +17,8 @@ University of Geneva; Cheikh Anta Diop University; University of Cambridge; ETH 
 Mélissa Morel; Anne Mayor; Vincent Serneels; Ladji Dianifaba
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: Peer-reviewed specialist-journal research (B).  
+English: English: English: English: English: English: Peer-reviewed specialist-journal research (B).  
+中文：同行评议专业期刊研究（B级）。
 中文：同行评议专业期刊研究（B级）。
 中文：同行评议专业期刊研究（B级）。
 中文：同行评议专业期刊研究（B级）。
@@ -50,11 +51,14 @@ CCTV candidate / 央视候选
 
 Morel, M., Lamotte, P., Dianifaba, L., Walmsley, A., Hajdas, I., Serneels, V., & Mayor, A. (2026). Evolution of an Early and Long-Lasting Iron Smelting Technique at DidÃ© West 1, FalÃ©mÃ© Valley, Eastern Senegal. African Archaeological Review, 43(2), 339â365. https://doi.org/10.1007/s10437-026-09653-z
 
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
+
 **出版物内容（中文）。** 文章报告 Didé West 1 约公元前4世纪至公元4世纪的冶铁作坊，分析35个炉基、多孔大型风嘴、炉渣和棕榈果核填料等证据。其核心贡献不是解决非洲冶铁起源，而是展示一种地方工艺传统如何在约八百年中保持基本稳定并发生有限调整。
 
 **What the publication shows (English).** The article reports an iron-smelting workshop at Didé West 1 used from roughly the fourth century BCE to the fourth century CE, analysing 35 furnace bases, large multiperforated tuyères, slag and palm-nut packing. Its central contribution is not to resolve the origin of African iron metallurgy, but to show how a local technological tradition persisted for about eight centuries while undergoing limited adjustment.
 
 <!-- APA-V2.1 -->
+
 
 ## 主要媒体报道 | Major media coverage
 
@@ -70,9 +74,9 @@ Morel, M., Lamotte, P., Dianifaba, L., Walmsley, A., Hajdas, I., Serneels, V., &
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13654891/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13654891/" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://archaeology.org/news/2026/04/02/iron-workshop-in-senegal-operated-for-800-years/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://archaeology.org/news/2026/04/02/iron-workshop-in-senegal-operated-for-800-years/" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

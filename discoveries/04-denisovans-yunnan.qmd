@@ -17,7 +17,8 @@ Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Yunnan Provi
 Fahu Chen; Qiaomei Fu; Qijun Ruan; Huan Rao; Song Xing
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: Top-tier peer-reviewed research (A); this page now treats the 2026 Denisovan results as a linked research cluster rather than a single paper.  
+English: English: English: English: English: English: Top-tier peer-reviewed research (A); this page now treats the 2026 Denisovan results as a linked research cluster rather than a single paper.  
+中文：顶级同行评议研究（A级）；本页把2026年丹尼索瓦人多项成果作为相互关联的研究群处理。
 中文：顶级同行评议研究（A级）；本页把2026年丹尼索瓦人多项成果作为相互关联的研究群处理。
 中文：顶级同行评议研究（A级）；本页把2026年丹尼索瓦人多项成果作为相互关联的研究群处理。
 中文：顶级同行评议研究（A级）；本页把2026年丹尼索瓦人多项成果作为相互关联的研究群处理。
@@ -52,6 +53,8 @@ CCTV candidate / 央视候选
 
 Rao, H., Xing, S., Ruan, Q., Bai, F., Zhao, Y., Wu, Z., Tang, S., Andrew Bennett, E., Feng, X., Lin, S., Shao, Q., Yang, X., Li, Z., Zhou, K., Liu, F., & Fu, Q. (2026). Ancient proteins identify various Denisovan remains from Southwest China. Nature. https://doi.org/10.1038/s41586-026-10976-9
 
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
+
 **出版物内容（中文）。** 文章通过形态预筛、ZooMS 与古蛋白分析，从蝙蝠洞大量碎骨中确认多件丹尼索瓦人遗存，并扩展其已知身体部位与牙齿变异范围。它把古蛋白组学从“鉴别人群”推进到建立更丰富的丹尼索瓦化石样本。
 
 **What the publication shows (English).** Using morphological prescreening, ZooMS and palaeoproteomics, the study identifies multiple Denisovan remains among highly fragmented bones from Bianfu Cave and expands the known anatomical and dental variation of the group. It demonstrates how palaeoproteomics can move beyond identification to building a richer Denisovan fossil record.
@@ -59,6 +62,8 @@ Rao, H., Xing, S., Ruan, Q., Bai, F., Zhao, Y., Wu, Z., Tang, S., Andrew Bennett
 ### 论文 2 | Paper 2
 
 Ruan, Q., Li, H., Xing, S., Zhao, K., Liu, J., Zanolli, C., Doyon, L., Delpiano, D., Peresani, M., dâErrico, F., Demeter, F., Hublin, J.-J., Xiao, P., Wang, Y., Jia, Z., Yang, Q., Fu, Q., Sun, Q., Zhao, Y., et al. (2026). Denisovans from southwestern China and their subsistence strategies. Nature. https://doi.org/10.1038/s41586-026-10997-4
+
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
 
 **出版物内容（中文）。** 文章把约16.7万—13.4万年前的人类化石与约19万—7万年前的文化序列、石器、动物骨骼和环境记录结合起来，重建丹尼索瓦人的狩猎、骨骼利用与石器策略。其意义在于首次以完整遗址体系讨论丹尼索瓦人的行为与生态适应。
 
@@ -68,11 +73,14 @@ Ruan, Q., Li, H., Xing, S., Zhao, K., Liu, J., Zanolli, C., Doyon, L., Delpiano,
 
 Xing, S., Wu, Z., Shao, Q., Ge, J., Bennett, E. A., Rao, H., Lin, S., Zhao, Y., Liu, F., Liu, Y., Zhou, K., Feng, X., Jiangzuo, Q., & Fu, Q. (2026). The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology. Nature. https://doi.org/10.1038/s41586-026-11132-z
 
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
+
 **出版物内容（中文）。** 文章对徐家窑中更新世人类遗存进行古蛋白分析，并把所得蛋白组与东亚其他中更新世化石比较，以讨论丹尼索瓦人共有的形态特征。它扩大了丹尼索瓦人在华北的化石证据，并为重新审视东亚若干争议人类化石提供分子依据。
 
 **What the publication shows (English).** The study applies palaeoproteomics to Middle Pleistocene human remains from Xujiayao and compares them with other East Asian fossils to investigate shared Denisovan morphology. It broadens the Denisovan fossil record in northern China and supplies molecular evidence for reassessing several taxonomically debated East Asian hominins.
 
 <!-- APA-V2.1 -->
+
 
 ## 主要媒体报道 | Major media coverage
 
@@ -99,11 +107,11 @@ Xing, S., Wu, Z., Shao, Q., Ge, J., Bennett, E. A., Rao, H., Lin, S., Zhao, Y., 
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10976-9" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10976-9" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10997-4" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10997-4" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-11132-z" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-11132-z" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

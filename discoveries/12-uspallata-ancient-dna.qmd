@@ -17,7 +17,8 @@ CONICET and Argentine archaeological teams; Institut Pasteur / Université Paris
 Ramiro Barberena; Nicolás Rascovan and collaborating ancient-DNA researchers
 
 **Evidence status / 证据状态**  
-English: English: English: English: English: Top-tier peer-reviewed research (A); exemplary integration of genomics, isotopes, pathogens, palaeoclimate, archaeology and Indigenous-community collaboration.  
+English: English: English: English: English: English: Top-tier peer-reviewed research (A); exemplary integration of genomics, isotopes, pathogens, palaeoclimate, archaeology and Indigenous-community collaboration.  
+中文：顶级同行评议研究（A级）；在古基因组、同位素、病原体、古气候、考古和原住民社区合作方面整合度很高。
 中文：顶级同行评议研究（A级）；在古基因组、同位素、病原体、古气候、考古和原住民社区合作方面整合度很高。
 中文：顶级同行评议研究（A级）；在古基因组、同位素、病原体、古气候、考古和原住民社区合作方面整合度很高。
 中文：顶级同行评议研究（A级）；在古基因组、同位素、病原体、古气候、考古和原住民社区合作方面整合度很高。
@@ -50,11 +51,14 @@ CCTV candidate / 央视候选
 
 Barberena, R., Luisi, P., Novellino, P., Tessone, A., Guevara, D., GarcÃ­a, A., Nelson, E. A., le Roux, P., Herrera, C., Coz, G., Candito, M., Lopopolo, M., Le Corre, M., Becerra-Valdivia, L., Orbegozo, M. I., TressiÃ¨res, G., Lucero, G., Cardillo, M., Carbajo, J. M., et al. (2026). Local agricultural transition, crisis and migration in the Southern Andes. Nature, 653(8113), 124â133. https://doi.org/10.1038/s41586-026-10233-z
 
+**开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
+
 **出版物内容（中文）。** 文章分析46名古代个体的全基因组，并结合稳定同位素、病原体DNA、考古和古气候资料，显示乌斯帕利亚塔谷地从狩猎采集向农业转型时存在长期遗传连续性。后期危机阶段的亲属迁移进一步说明，农业转型并非单纯的人口替代，而与家庭网络、疾病和环境压力共同作用。
 
 **What the publication shows (English).** The paper analyses whole genomes from 46 ancient individuals together with isotopes, pathogen DNA, archaeology and palaeoclimate. It demonstrates long-term genetic continuity across the local transition from foraging to farming and shows how kin-structured migration later mediated crises involving disease, nutrition and environmental stress.
 
 <!-- APA-V2.1 -->
+
 
 ## 主要媒体报道 | Major media coverage
 
@@ -68,7 +72,7 @@ Barberena, R., Luisi, P., Novellino, P., Tessone, A., Guevara, D., GarcÃ­a, A.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10233-z" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10233-z" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources
