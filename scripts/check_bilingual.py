@@ -3,9 +3,18 @@ from pathlib import Path
 import re, sys
 
 errors=[]
+mojibake_markers=["Ã¡","Ã©","Ã­","Ã³","Ãº","Ã±","â","Â ","Â·"]
 for path in sorted(Path("discoveries").glob("*.qmd")):
     txt=path.read_text(encoding="utf-8")
     name=path.name
+    if "English: English:" in txt:
+        errors.append(f"{name}: repeated English evidence-status prefix")
+    evidence_chunk = txt.split("**Evidence status / 证据状态**",1)[1].split("**CCTV status / 央视遴选状态**",1)[0] if "**Evidence status / 证据状态**" in txt else ""
+    if evidence_chunk.count("中文：") != 1:
+        errors.append(f"{name}: evidence status must contain exactly one Chinese line")
+    for marker in mojibake_markers:
+        if marker in txt:
+            errors.append(f"{name}: possible mojibake marker {marker!r}")
     for section,next_section in [
         ("## 主要学术背景 | Scholarly background","## 主要发现 | Major findings"),
         ("## 主要发现 | Major findings","## 学术重要性 | Intellectual significance"),
