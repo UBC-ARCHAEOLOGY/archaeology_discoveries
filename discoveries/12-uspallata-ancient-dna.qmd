@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A); exemplary integration of genomics, isotopes
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 农业传播究竟主要由农民迁徙推动，还是由本地狩猎采集者逐步采纳，是全球史前史的核心问题之一。南安第斯农业边缘区的优势在于转型较晚、时间序列清楚，并可把遗传、饮食、病原体和气候资料整合到一个地方人口史中。乌斯帕利亚塔案例因此可以检验“农业=人口替代”这一过度简化模型。
+
+**English.** Whether farming spread primarily through migrating farmers or through adoption by local hunter-gatherers is a central problem in global prehistory. The southern Andean frontier is especially informative because agriculture arrived relatively late and can be studied through a tightly resolved sequence combining genomes, diet, pathogens, climate, and archaeology. Uspallata therefore tests overly simple equations between agricultural change and population replacement.
+
 ## 主要发现 | Major findings
 
 **中文。** 古人类DNA、病原体DNA、同位素、考古与古气候证据共同显示，当地狩猎采集者在较强遗传连续性下逐步采用农业；后期人口危机中又出现以亲属关系为基础的迁移。
@@ -35,13 +41,35 @@ CCTV candidate / 央视候选
 
 **English.** The study provides a high-resolution case for the long-standing question of whether farming spread through migrating farmers or local adoption. It also links agricultural transition to nutrition, disease, climatic stress, and resilience, with kin networks turning population history into a study of social organization.
 
+## 论文核查 | Publication verification
+
+- **Barberena, Ramiro; Pierre Luisi; Pablo Novellino; et al.**
+- **Title:** *Local agricultural transition, crisis and migration in the Southern Andes*
+- **Journal:** *Nature* 653: 124–133
+- **DOI:** [10.1038/s41586-026-10233-z](https://doi.org/10.1038/s41586-026-10233-z)
+- **Published:** 18 March 2026; issue date 7 May 2026
+- **Corresponding authors:** Ramiro Barberena, Pierre Luisi, Nicolás Rascovan
+- **Open access:** the Nature page does not display a general Creative Commons licence in the current record; figures should therefore be treated as **permission-controlled unless a specific caption/licence states otherwise**.
+
 ## 学术论文 | Academic publications
 
 - [Nature](https://www.nature.com/articles/s41586-026-10233-z)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Nature article page](https://www.nature.com/articles/s41586-026-10233-z)
+- [Nature — original article](https://www.nature.com/articles/s41586-026-10233-z)
+- Coverage in secondary science outlets exists, but no verified item from the requested NYT/BBC/CNN/Guardian/Smithsonian/Archaeology Magazine set was located in this audit.
+
+## 关键图像与许可 | Key images and permissions
+
+Recommended explanatory set from the paper:
+
+1. **Map and chronological sampling design of Uspallata Valley.**
+2. **Genetic continuity / ancestry results.**
+3. **Kinship and migration-network figure.**
+4. **Diet, disease and demographic-stress synthesis.**
+
+Until Nature confirms an open figure licence or permission is obtained, these figures remain **linked, not embedded**.
 
 ## 图像与图版来源 | Images and figure sources
 
