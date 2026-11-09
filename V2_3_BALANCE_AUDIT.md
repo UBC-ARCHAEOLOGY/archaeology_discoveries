@@ -1,22 +1,22 @@
 # V2.3 Overall Balance Audit | V2.3 整体平衡审计
 
 **Project:** 2026 Archaeological Discoveries | 2026年世界考古发现  
-**Audit baseline:** 34 formally included discoveries  
+**Audit baseline:** 33 formally included discoveries  
 **Date:** 2026-11-09  
 **Purpose:** assess regional, chronological, evidentiary and discovery-type balance before further promotion from the under-review pool.
 
 ## Executive conclusion | 总体结论
 
-**中文。** V2.3 已经从最初明显偏向欧亚大陆、北美几乎空白的结构，发展为一个区域分布明显更均衡的31项正式名单。北美缺口已经基本补上，但新的结构性问题开始出现：古基因组、古蛋白和病原体基因组研究占比上升；欧洲、东亚和美洲的高影响期刊研究较密集；南亚、中亚、澳大利亚/太平洋本土仍基本缺席。现阶段不宜继续机械地从第二档晋升项目，更合理的策略是暂时冻结正式名单，转入定向补缺扫描。
+**中文。** V2.3 已经从最初明显偏向欧亚大陆、北美几乎空白的结构，发展为一个区域分布明显更均衡的33项正式名单。北美缺口已基本补上；中亚和澳大利亚本土也分别由Karatau与Widgingarri进入正式名单，苏门答腊/印度洋海事考古则由Bongal补入。当前最明显的地区缺口主要转向南亚以及太平洋其他地区，同时仍需防止古基因组、古蛋白和高影响期刊研究过度主导。现阶段应再次冻结正式名单，优先做定向补缺与结构复核。
 
-**English.** V2.3 has moved from an initially Eurasia-heavy list with almost no North American representation to a substantially more balanced set of 34 formal entries. The North American gap is now largely corrected, but new structural issues have emerged: archaeogenomics, palaeoproteomics and pathogen genomics now occupy a substantial share; high-impact work from Europe, East Asia and the Americas is dense; and South Asia, Central Asia, and mainland Australia/Pacific archaeology remain effectively absent. Further promotion should therefore pause while targeted gap-filling searches are conducted.
+**English.** V2.3 has moved from an initially Eurasia-heavy list with almost no North American representation to a more balanced set of 33 formal entries. North America is now substantially represented; Central Asia and mainland Australia are represented by Karatau and Widgingarri, and Bongal adds Sumatran/Indian Ocean maritime archaeology. The clearest remaining geographic gaps are South Asia and other parts of the Pacific, while the project must still guard against over-concentration in archaeogenomics, palaeoproteomics and high-impact-journal studies. Further promotion should pause pending targeted gap scans and another balance check.
 
 ## 1. Regional distribution | 地区分布
 
 Using broad geographic categories:
 
 - **Asia (excluding Wallacea): 10** — China (2), Lake Baikal/Russia (1), Türkiye (2), Iraq (1), Armenia (1), Laos (1), Tajikistan/Central Asia (1), Sumatra/Indonesia (1)
-- **North America: 6** — Guatemala (1), Alaska (1), Mexico (2), Georgia (1), Florida (1)
+- **North America: 5** — Guatemala (1), Alaska (1), Mexico (2), Florida (1)
 - **Europe: 6** — Greece (2), Italy (1), pan-European ancient genomics (1), Catalonia/Spain (1), Iberia (1)
 - **Africa: 5** — South Africa (1), Egypt (2), Senegal (1), Sudan (1)
 - **South America: 4** — Argentina (1), southwestern Amazonia (1), Peru (1), Chile (1)
@@ -26,7 +26,7 @@ Using broad geographic categories:
 
 ### Regional interpretation | 地区判断
 
-**中文。** 北美从V2.2时期的明显空白增加到6项，已经不再需要为“地图平衡”主动降低门槛。真正的缺口转移到了**南亚、中亚、澳大利亚/太平洋本土**。撒哈拉以南非洲有南非、塞内加尔和苏丹3项，数量不多但并非完全缺席。东南亚除老挝和苏拉威西外仍偏薄。
+**中文。** 北美从V2.2时期的明显空白增加到5项，已经不再需要为“地图平衡”主动降低门槛。中亚和澳大利亚本土已经补入，东南亚也由老挝、苏拉威西和苏门答腊形成更完整的分布。当前最明显的地区缺口主要是**南亚与太平洋其他地区**；撒哈拉以南非洲虽有南非、塞内加尔和苏丹，但仍值得继续关注新的高质量田野发现。
 
 **English.** North America has risen to six entries and no longer requires corrective selection merely for map balance. The clearest current gaps are **South Asia, Central Asia, and mainland Australia/the Pacific**. Sub-Saharan Africa is represented by South Africa, Senegal and Sudan but remains relatively thin. Southeast Asia is still sparse outside Laos and Sulawesi.
 
@@ -42,10 +42,10 @@ Using broad geographic categories:
 
 Current formal entries are approximately:
 
-- **A: 17 / 34 (50.0%)**
-- **B: 10 / 34 (29.4%)**
-- **C: 6 / 34 (17.6%)**
-- **D: 1 / 34 (2.9%)**
+- **A: 17 / 33 (51.5%)**
+- **B: 9 / 33 (27.3%)**
+- **C: 5 / 33 (15.2%)**
+- **D: 2 / 33 (6.1%)**
 
 ### Interpretation | 判断
 
@@ -55,7 +55,7 @@ Current formal entries are approximately:
 
 ## 4. Discovery-type balance | 发现类型结构
 
-The 31 entries now mix several intellectual modes:
+The 33 formal entries now mix several intellectual modes:
 
 1. **New field discoveries / excavation and survey:** e.g. Marathousa 1, Egyptian tombs, Arsinoe, Chan Chan, Shég’ Xdaltth’í’, Huitzo, Plain of Jars.
 2. **Landscape / remote sensing / environmental reconstruction:** Amazon earthworks, Urartian irrigation, Maya mercury.
@@ -66,9 +66,9 @@ The 31 entries now mix several intellectual modes:
 
 ### Molecular-method concentration | 分子方法集中度
 
-**中文。** 约9项（约26%）以古DNA、病原体基因组或古蛋白为核心证据。这个比例还没有失衡到需要删除项目，但已经足以触发一个新的编辑规则：**后续分子考古研究只有在改变一个重要历史问题、而不仅仅是扩大样本量时，才应晋升正式名单。**
+**中文。** 约8项（约24%）以古DNA、病原体基因组或古蛋白为核心证据。这个比例还没有失衡到需要删除项目，但已经足以触发一个新的编辑规则：**后续分子考古研究只有在改变一个重要历史问题、而不仅仅是扩大样本量时，才应晋升正式名单。**
 
-**English.** Roughly nine entries (about 26%) are centered on ancient DNA, pathogen genomics or palaeoproteomics. This does not justify removing strong studies, but it does justify a new editorial threshold: **future molecular-archaeology studies should be promoted only when they materially change an important historical problem, not merely because they enlarge a dataset.**
+**English.** Roughly eight entries (about 24%) are centered on ancient DNA, pathogen genomics or palaeoproteomics. This does not justify removing strong studies, but it does justify a new editorial threshold: **future molecular-archaeology studies should be promoted only when they materially change an important historical problem, not merely because they enlarge a dataset.**
 
 ## 5. New field discovery vs. new analysis | 新田野发现与新分析
 
@@ -100,7 +100,7 @@ Before promoting any further item, ask five questions:
 
 1. **Does it change a substantive archaeological question, rather than merely add another case?**
 2. **Is the evidence at least B-grade unless there is an exceptional field-discovery reason?**
-3. **Does it add regional, chronological, methodological or thematic diversity to the current 34?**
+3. **Does it add regional, chronological, methodological or thematic diversity to the current 33?**
 4. **If it is a molecular/genomic study, does it change interpretation rather than only increase sample size?**
 5. **If it is an “oldest / earliest / largest” claim, does its importance survive if the superlative is removed?**
 
@@ -126,13 +126,13 @@ Priority thematic searches:
 
 ## 9. Editorial recommendation | 编辑建议
 
-**中文。** 经过定向补缺深审，正式名单已扩展到34项。建议再次暂时冻结在34项，待下一轮定向扫描和平衡复核后再决定是否增加。第二档候选继续保留，但下一轮不从中自动晋升。先完成上述区域和主题的定向扫描，再把新发现与现有第二档放在同一框架中比较。这样可以防止“先进入候选池者”获得不必要的路径优势，也能使V2.3真正成为一个全球年度考古发现档案，而不是按发现顺序不断累积的清单。
+**中文。** 经过定向补缺深审与本轮Etowah降回待评估，正式名单现为33项。建议再次暂时冻结在33项，待下一轮定向扫描和平衡复核后再决定是否增加。第二档候选继续保留，但下一轮不从中自动晋升。先完成上述区域和主题的定向扫描，再把新发现与现有第二档放在同一框架中比较。这样可以防止“先进入候选池者”获得不必要的路径优势，也能使V2.3真正成为一个全球年度考古发现档案，而不是按发现顺序不断累积的清单。
 
-**English.** Following the targeted gap review, the formal list has expanded to 34 entries. Freeze the list again at 34 pending another targeted scan and balance check. Retain all Tier 2 items, but do not promote them automatically. First conduct the targeted regional and thematic scan above, then compare new finds against the existing Tier 2 pool under the same criteria. This reduces path dependence and keeps V2.3 a genuinely global annual archaeological-discovery archive rather than a list that simply grows in order of discovery.
+**English.** Following targeted gap review and the return of Etowah to under review, the formal list now contains 33 entries. Freeze the list again at 33 pending another targeted scan and balance check. Retain all Tier 2 items, but do not promote them automatically. First conduct the targeted regional and thematic scan above, then compare new finds against the existing Tier 2 pool under the same criteria. This reduces path dependence and keeps V2.3 a genuinely global annual archaeological-discovery archive rather than a list that simply grows in order of discovery.
 
 
 ## 10. Post-audit amendment after targeted gap review | 定向补缺深审后的修订
 
-**中文。** 平衡审计之后，对Karatau、Widgingarri Shelter 1和Bongal三项进行了独立深审，三项均晋升正式补充建议名单。它们分别补入**中亚、澳大利亚本土和苏门答腊/印度洋海事考古**，而且核心证据均来自田野考古、地层/年代、石器或船体构件，而非古DNA或其他分子方法。新增后正式名单为34项，证据等级为A 17项、B 10项、C 6项、D 1项；分子考古项目比例由约29%降至约26%。这说明“定向补缺 + 田野发现优先”的策略确实改善了名单结构。
+**中文。** 平衡审计之后，对Karatau、Widgingarri Shelter 1和Bongal三项进行了独立深审，三项均晋升正式补充建议名单。它们分别补入**中亚、澳大利亚本土和苏门答腊/印度洋海事考古**，而且核心证据均来自田野考古、地层/年代、石器或船体构件，而非古DNA或其他分子方法。当前正式名单为33项，证据等级为A 17项、B 9项、C 5项、D 2项；Etowah降回待评估后，以分子方法为核心的正式项目约8项（约24%）。这说明“定向补缺 + 田野发现优先”的策略确实改善了名单结构。
 
-**English.** Following the balance audit, Karatau, Widgingarri Shelter 1 and Bongal received independent deep review and were promoted. They add **Central Asian, mainland Australian and Sumatran/Indian Ocean maritime archaeology**, respectively, and are grounded primarily in field archaeology, stratigraphy/chronology, lithics or watercraft remains rather than molecular methods. The formal list now contains 34 entries: 17 A-grade, 10 B-grade, 6 C-grade and 1 D-grade. The molecular-archaeology share falls from roughly 29% to about 26%, showing that targeted gap-filling with a field-discovery priority improves the overall structure.
+**English.** Following the balance audit, Karatau, Widgingarri Shelter 1 and Bongal received independent deep review and were promoted. They add **Central Asian, mainland Australian and Sumatran/Indian Ocean maritime archaeology**, respectively, and are grounded primarily in field archaeology, stratigraphy/chronology, lithics or watercraft remains rather than molecular methods. The formal list now contains 33 entries: 17 A-grade, 9 B-grade, 5 C-grade and 2 D-grade. With Etowah returned to under review, roughly eight formal entries (about 24%) are centered on molecular methods, showing that targeted gap-filling with a field-discovery priority improves the overall structure.
