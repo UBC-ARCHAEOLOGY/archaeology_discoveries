@@ -1,0 +1,44 @@
+---
+title: "17. 西南亚马孙超过两万处前殖民土方工程"
+subtitle: "More than 20,000 precolonial earthworks in southwestern Amazonia"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Southwestern Amazonia / 西南亚马孙
+
+**Date / 年代**  
+Precolonial Amazonia, especially ca. 100–300 CE / 前殖民时期，重点约公元100–300年
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 大规模LiDAR与空间模型显著扩大了西南亚马孙已知土方工程的数量级，并据此重新估计区域人口与土地利用强度。
+
+**English.** Large-scale LiDAR and spatial modeling greatly expanded the known scale of earthworks in southwestern Amazonia and enabled new estimates of regional population and land-use intensity.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这项研究触及亚马孙考古的百年核心问题：热带雨林究竟主要是“原始自然”，还是长期被人类塑造的文化景观。数万处土方工程意味着前殖民人口规模、聚落密度、土壤改造以及森林生态史都需要重新评估。
+
+**English.** The study addresses a century-old question in Amazonian archaeology: whether tropical forests were mainly pristine environments or long-term cultural landscapes. Tens of thousands of earthworks imply substantial reassessment of precolonial population, settlement density, soil modification, and forest ecological history.
+
+## 学术论文 | Academic publications
+
+- [Nature](https://www.nature.com/articles/s41586-026-10835-7)
+
+## 主要媒体报道 | Major media coverage
+
+- [Nature archaeology coverage](https://www.nature.com/subjects/archaeology)\n- [The New York Times archaeology coverage](https://www.nytimes.com/topic/subject/archaeology-and-anthropology)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature article figures](https://www.nature.com/articles/s41586-026-10835-7)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
