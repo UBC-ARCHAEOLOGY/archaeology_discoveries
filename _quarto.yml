@@ -51,6 +51,10 @@ website:
           - discoveries/18-shang-copper-network.qmd
           - discoveries/19-chan-chan-tomb.qmd
           - discoveries/20-celtic-ancient-dna.qmd
+          - discoveries/21-sulawesi-rock-art.qmd
+          - discoveries/22-maya-mathematician.qmd
+          - discoveries/23-hittite-royal-archive.qmd
+          - discoveries/24-camarones-smallpox.qmd
 
 format:
   html:
