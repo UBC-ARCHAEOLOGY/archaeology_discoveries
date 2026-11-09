@@ -12,14 +12,14 @@ This page records 2026 discoveries and studies of clear scholarly interest that 
 Uyuk Valley, Tuva, southern Siberia, Russia / 俄罗斯图瓦共和国乌尤克谷地；early 8th century BCE / 约公元前8世纪初。
 
 **主要发现 | Major findings**  
-**中文。** Tunnug 1早期斯基泰大型墓葬中发现1400余枚大麻种子和保存的人发。毛发化学分析检出与THC及其降解产物相关的信号。研究者据此提出，这是目前最早的直接考古证据之一，显示大麻可能被用于精神活性目的。
+**中文。** Tunnug 1早期斯基泰大型墓葬中发现1000多枚大麻种子和保存的人发；论文对其中6枚种子进行了直接放射性碳测年。毛发化学分析检出与THC及其降解产物相关的信号。研究者据此提出，这是目前最早的直接考古证据之一，显示大麻可能被用于精神活性目的。
 
 **English.** More than 1,400 cannabis seeds and preserved human hair were recovered from the early Scythian monumental burial at Tunnug 1. Chemical analysis of the hair detected signals consistent with THC-related compounds and degradation products, leading the authors to propose the earliest direct archaeological evidence for psychoactive cannabis use.
 
 **学术判断 | Assessment**  
-**中文。** 值得作为新增候选，但表述必须保守。种子、年代和墓葬情境都很强；毛发毒理解释则受到独立法医毒理学家的质疑，因为外源污染与真实摄入尚难完全区分。因此，“存在大麻并与葬仪有关”证据强，“明确用于致幻”则仍有争论。
+**中文。** 值得作为新增候选，但表述必须保守。种子、直接测年和墓葬情境都很强；真正有争议的是作为“实际摄入”核心证据的毛发分析。未参与研究的弗赖堡大学医学中心法医毒理学家 **Volker Auwärter** 认为，这部分分析“科学上较弱”，没有充分排除墓内植物材料造成的外源污染，也没有采用能够更清楚区分摄入与接触的代谢物检验。因此，“墓中存在大麻并与葬仪有关”证据强，“死者明确摄入并用于致幻”仍有实质争论。
 
-**English.** This is a strong candidate for future inclusion, but the wording must remain cautious. The seeds, chronology and funerary context are robust; the toxicological interpretation of the hair has been challenged because external contamination cannot yet be fully excluded. Evidence for cannabis in the mortuary context is strong, while deliberate psychoactive consumption remains debated.
+**English.** This is a strong candidate for future inclusion, but the wording must remain cautious. The seeds, direct dating and funerary context are robust; the disputed step is the hair evidence used to infer actual consumption. **Volker Auwärter**, a forensic toxicologist at University Medical Center Freiburg who was not involved in the study, argued that the hair analysis was scientifically too weak to exclude external contamination from cannabis placed in the tomb and did not use metabolite testing that could more clearly distinguish ingestion from exposure. Evidence for cannabis in the mortuary context is strong, whereas deliberate psychoactive consumption remains debated.
 
 **Publication / 出版物**  
 Caspari, G., et al. (2026). *Direct evidence for psychoactive cannabis use 2,800 years ago*. *Science*. https://doi.org/10.1126/science.aeg3800
