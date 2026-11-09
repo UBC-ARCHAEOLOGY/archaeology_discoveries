@@ -99,6 +99,22 @@ UNPUBLISHED={
 "22-hittite-royal-archive.qmd":("Koç University / Türkiye Ministry of Culture and Tourism. (2026). *Kayalıpınar (Šamuḫa) excavation: Preliminary announcement of the Hittite royal archive*.","184块泥板仍在整理与释读，尚无完整档案学出版。新闻中关于疫情、王室丧葬、鸟卜和军事求援的内容属于初步释读；真正的历史意义必须等待逐片编号、抄本、翻译、年代和出土情境正式发表后才能评估。","The corpus of 184 tablets is still being catalogued and deciphered, and no complete scholarly edition has yet appeared. Reports of epidemic disease, royal funerals, bird divination and military requests are preliminary readings; the archive's historical significance will require formal publication of tablet numbers, copies, translations, dates and find contexts.","https://www.hurriyetdailynews.com/cuneiform-tablets-from-hittite-king-unearthed-227946")
 }
 
+def oa_status(doi):
+    cc_by={"10.1371/journal.pone.0347480","10.1038/s41586-026-10540-5","10.15184/aqy.2026.10344","10.15184/aqy.2026.10434","10.1038/s41586-026-10835-7","10.1038/s41586-026-11198-9"}
+    cc_by_nc_nd={"10.1073/pnas.2515479123","10.1038/s41586-025-09968-y"}
+    cc_by_nc={"10.15184/aqy.2026.10378"}
+    if doi in cc_by:
+        return "开放获取，CC BY 4.0；单幅图仍需检查第三方署名。 / Open access, CC BY 4.0; individual figure credits are still checked."
+    if doi in cc_by_nc_nd:
+        return "开放获取，CC BY-NC-ND 4.0；原图仅按许可原样使用。 / Open access, CC BY-NC-ND 4.0; figures are used unmodified under the licence."
+    if doi in cc_by_nc:
+        return "开放获取，CC BY-NC 4.0。 / Open access, CC BY-NC 4.0."
+    if doi=="10.1056/NEJMc2513616":
+        return "可免费阅读，但不是Creative Commons许可；再利用需遵循NEJM权限政策。 / Free to read, but not Creative Commons licensed; reuse follows NEJM permissions."
+    if doi=="10.34780/te7a-edx2":
+        return "期刊页面为订阅访问；没有确认通用开放许可。 / Subscription access on the journal site; no general open licence confirmed."
+    return "文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits."
+
 def apa(doi):
     url="https://doi.org/"+doi
     r=requests.get(url,headers={**UA,"Accept":"text/x-bibliography; style=apa; locale=en-US"},timeout=30)
@@ -114,7 +130,7 @@ def make_block(name, items):
                 citation=f"DOI: https://doi.org/{doi}"
             if len(items)>1:
                 out += [f"### 论文 {i} | Paper {i}",""]
-            out += [citation,"",f"**出版物内容（中文）。** {zh}","",f"**What the publication shows (English).** {en}",""]
+            out += [citation,"",f"**开放获取状态 | Open-access status.** {oa_status(doi)}","",f"**出版物内容（中文）。** {zh}","",f"**What the publication shows (English).** {en}",""]
     else:
         citation,zh,en,url=UNPUBLISHED[name]
         out += ["**尚无同行评议论文 | No peer-reviewed publication yet.**","",f"[{citation}]({url})","",f"**现有资料内容（中文）。** {zh}","",f"**What the current source shows (English).** {en}",""]
