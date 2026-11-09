@@ -147,14 +147,15 @@ for path in sorted(Path("discoveries").glob("*.qmd")):
     if name not in DATA:
         continue
     txt=path.read_text(encoding="utf-8")
-    if "<!-- APA-V2.1 -->" in txt:
-        continue
     block=make_block(name,DATA[name])
-    # Replace both older publication sections, stopping at media.
-    pat=r"## 论文核查 \| Publication verification[\s\S]*?(?=## 主要媒体报道 \| Major media coverage)"
-    if re.search(pat,txt):
-        txt=re.sub(pat,block+"\n",txt)
+    # Rebuild an existing APA module, or replace older publication sections.
+    apa_pat=r"## 学术出版物 \| Academic publications[\s\S]*?<!-- APA-V2\.1 -->\n?"
+    old_verify=r"## 论文核查 \| Publication verification[\s\S]*?(?=## 主要媒体报道 \| Major media coverage)"
+    old_pubs=r"## 学术论文 \| Academic publications[\s\S]*?(?=## 主要媒体报道 \| Major media coverage)"
+    if re.search(apa_pat,txt):
+        txt=re.sub(apa_pat,block+"\n",txt)
+    elif re.search(old_verify,txt):
+        txt=re.sub(old_verify,block+"\n",txt)
     else:
-        pat2=r"## 学术论文 \| Academic publications[\s\S]*?(?=## 主要媒体报道 \| Major media coverage)"
-        txt=re.sub(pat2,block+"\n",txt)
+        txt=re.sub(old_pubs,block+"\n",txt)
     path.write_text(txt,encoding="utf-8")
