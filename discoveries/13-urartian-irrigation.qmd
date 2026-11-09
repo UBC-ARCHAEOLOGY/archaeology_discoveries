@@ -1,0 +1,44 @@
+---
+title: "13. 亚美尼亚乌拉尔图大型灌溉景观"
+subtitle: "Large-scale Urartian irrigation landscape in Armenia"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Ararat Plain, Armenia / 亚美尼亚亚拉拉特平原
+
+**Date / 年代**  
+Urartian period · ca. 2,700 years ago / 乌拉尔图时期 · 约2700年前
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 卫星、多光谱和数字地形模型识别出阿尔吉什蒂希尼利周边复杂水利景观，其中包括约135公里疑似古代运河以及保存较好的古代渠段。
+
+**English.** Satellite, multispectral, and digital terrain analysis identified a complex water-management landscape around Argishtikhinili, including roughly 135 km of probable ancient canals and well-preserved canal segments.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 研究把灌溉理解为国家形成与景观改造的一部分，而不只是农业附属设施。水利网络涉及劳动力动员、地形测量、水权、维护与行政协调，可用于讨论乌拉尔图国家如何把干旱环境转变为稳定的农业生产景观。
+
+**English.** The study treats irrigation as part of state formation and landscape transformation rather than merely an agricultural accessory. The network implies labor mobilization, surveying, water rights, maintenance, and administrative coordination, illuminating how the Urartian state converted an arid setting into a productive landscape.
+
+## 学术论文 | Academic publications
+
+- [Antiquity](https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D)
+
+## 主要媒体报道 | Major media coverage
+
+- [Archaeology Magazine](https://archaeology.org/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Antiquity article figures](https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
