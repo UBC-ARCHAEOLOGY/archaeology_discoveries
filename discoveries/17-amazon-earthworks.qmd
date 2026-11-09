@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A); a major omitted candidate from the original
 Additional candidate / 补充建议
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 亚马孙考古长期受“热带雨林承载不了高人口密度和复杂社会”的环境限制论影响。terra preta、几何土方工程、道路和大型聚落不断削弱这一模型，但森林覆盖使区域尺度估算一直困难。LiDAR的真正作用，是把零散可见遗迹转化为可估计的文化景观密度，从而重新讨论前殖民人口规模以及这些社会对森林、土壤和生物多样性的长期塑造。
+
+**English.** Amazonian archaeology has long been shaped by environmental-limitation models that treated tropical forests as incapable of sustaining dense or complex societies. Terra preta, geometric earthworks, roads, and large settlements have steadily challenged that view, but canopy cover made regional estimates difficult. LiDAR changes the scale of inference by converting isolated visible sites into estimates of cultural-landscape density, reopening questions of precolonial population and long-term human effects on soils, forests, and biodiversity.
+
 ## 主要发现 | Major findings
 
 **中文。** Aquiry及西南亚马孙研究利用约4430公里LiDAR航线与既有调查，新识别并统计大量土垣/几何土方工程；研究据此估算整个文化区可能存在约2.4万–3万处土方工程，并对公元100–300年前后人口规模作出125万–300万人的模型外推。后者应视为有争议的估计，而不是直接人口计数。
@@ -35,13 +41,37 @@ Additional candidate / 补充建议
 
 **English.** The study addresses a century-old question in Amazonian archaeology: whether tropical forests were mainly pristine environments or long-term cultural landscapes. Tens of thousands of earthworks imply substantial reassessment of precolonial population, settlement density, soil modification, and forest ecological history.
 
+## 论文核查 | Publication verification
+
+- **Pärssinen, Martti; Risto Kalliola; Alceu Ranzi; Eetu Puttonen; Rhuan Carlos Lopes; Pirjo Kristiina Virtanen; Francisco Apurinã; Kalle Ruokolainen; Juha Hyyppä; Antero Kukko; Mariana Campos; Fabio de Novaes; Markku Oinonen; Antonia D. Barbosa; Sanna Saunaluoma; et al.; Evandro Ferreira.**
+- **Title:** *Over 20,000 precolonial earthworks in the Southwest Amazonia*
+- **Journal:** *Nature* 657: 420–425
+- **DOI:** [10.1038/s41586-026-10835-7](https://doi.org/10.1038/s41586-026-10835-7)
+- **Published:** 29 July 2026
+- **Open access:** **Yes**. The article is marked open access; however, individual figure captions must still be checked before image copying because third-party material can be excluded from the article licence.
+
 ## 学术论文 | Academic publications
 
 - [Nature](https://www.nature.com/articles/s41586-026-10835-7)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Nature archaeology coverage](https://www.nature.com/subjects/archaeology)\n- [The New York Times archaeology coverage](https://www.nytimes.com/topic/subject/archaeology-and-anthropology)
+- [Nature Research Briefing](https://www.nature.com/articles/d41586-026-02321-x)
+- [Nature Podcast / news](https://www.nature.com/articles/d41586-026-02367-x)
+- [Nature — original article](https://www.nature.com/articles/s41586-026-10835-7)
+- NYT reporting on Amazonian archaeology was identified in the earlier audit, but a stable direct article URL was not available in the present search environment.
+
+## 关键图像与许可 | Key images and permissions
+
+Recommended set from the open-access Nature paper:
+
+1. **Regional distribution of Aquiry / southwestern Amazonian earthworks.**
+2. **LiDAR visualization of newly detected geometric earthworks.**
+3. **Observed versus modelled earthwork-density map.**
+4. **Population-estimation model / uncertainty range.**
+5. **Representative earthwork morphology.**
+
+Because the article is open access but the exact licence text was not retrievable in this pass, the page should **link to figures first** and embed only after each caption is checked for licence and third-party credits.
 
 ## 图像与图版来源 | Images and figure sources
 
