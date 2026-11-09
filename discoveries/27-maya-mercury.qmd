@@ -8,7 +8,7 @@ subtitle: "Mercury pollution and aquatic ecosystem collapse in the ancient Maya 
 Lago Cobá and Cenote Xcach, northern Yucatán Peninsula, Mexico / 墨西哥尤卡坦半岛北部Cobá湖与Xcach天然井
 
 **Date / 年代**  
-Classic-period and adjacent pre-Columbian occupation, with major contamination during the first millennium CE / 主要污染集中在公元第一千纪玛雅占据时期
+Cobá: rise from ca. AD 40, peak ca. AD 250–300, return to background by ca. AD 520; Xcach: three episodes, latest ca. AD 535–820 / Cobá约公元40年起上升、250–300年达峰、约520年回落；Xcach有三次污染高峰，最后一次约535–820年
 
 **Research / excavation institutions / 发掘或研究机构**  
 Auburn University and collaborating U.S., U.K. and Mexican research institutions
@@ -35,9 +35,9 @@ Additional candidate / 补充建议
 
 ## 主要发现 | Major findings
 
-**中文。** Waters等分析Cobá湖和Xcach天然井的沉积岩芯，并与两个对照湖比较。两个玛雅水体在长期人类占据期间出现显著汞升高，古典期浓度在数百年内高出背景值，并超过现代沉积物毒性阈值一个至数个数量级。与此同时，藻类、细菌、蓝藻、介形虫、螺类和摇蚊等多个水生食物网指标出现显著衰退。
+**中文。** Waters等分析Cobá湖和Xcach天然井的沉积岩芯，并与两个对照湖比较。Cobá的自然背景值约为0.02 μg/g，约公元40年开始上升，并在公元250–300年达到约2.3 μg/g；Xcach出现三次污染事件，最严重的一次约在公元535–820年，平均约8.4 μg/g，并在约公元720年达到约18 μg/g。研究采用的现代沉积物参考阈值中，约1.06 μg/g为“probable effect”水平，约2.0 μg/g为“severe effect”水平；因此Xcach最严重阶段远超这些阈值。与此同时，藻类、细菌、蓝藻、介形虫、螺类和摇蚊等多个水生食物网指标出现显著衰退。
 
-**English.** Waters and colleagues analyzed sediment cores from Lago Cobá and Cenote Xcach and compared them with two reference lakes. Both Maya-associated water bodies show major anthropogenic mercury enrichment during occupation, with Classic-period concentrations exceeding background levels and modern sediment-toxicity thresholds by orders of magnitude for centuries. Multiple aquatic proxies—including algae, bacteria, cyanobacteria, ostracods, snails and non-biting midges—declined during intervals of high mercury.
+**English.** Waters and colleagues analyzed sediment cores from Lago Cobá and Cenote Xcach and compared them with two reference lakes. At Cobá, mercury rose from a background near 0.02 μg/g beginning around AD 40 and peaked at about 2.3 μg/g around AD 250–300. Xcach records three contamination episodes; the most severe lasted roughly AD 535–820, averaged about 8.4 μg/g, and peaked near 18 μg/g around AD 720. The study compares these values with modern sediment benchmarks of about 1.06 μg/g for probable effects and 2.0 μg/g for severe effects. Multiple aquatic proxies—including algae, bacteria, cyanobacteria, ostracods, snails and non-biting midges—declined during intervals of high mercury.
 
 **中文。** 两个对照湖没有出现同步的高汞峰值，支持污染主要来自局地人类活动而非区域性大气沉降。研究把这些结果与玛雅长期使用和输入辰砂、汞的实践联系起来。
 
@@ -45,9 +45,9 @@ Additional candidate / 补充建议
 
 ## 学术重要性 | Intellectual significance
 
-**中文。** 这一成果把“古代社会的象征性材料使用”与“城市生态后果”建立起直接联系。它说明古代环境压力不仅来自气候变化和土地利用，也可能来自污染物在水体中的长期累积。需要严格限制的是因果范围：研究没有测定甲基汞，也没有直接证明居民发生汞中毒，更没有证明汞污染导致某一城市或整个玛雅文明“崩溃”。最稳妥的结论是，水质下降构成了干旱等压力之外一个此前被低估的附加环境压力。
+**中文。** 这一成果把“古代社会的象征性材料使用”与“城市生态后果”建立起直接联系。Cobá的汞浓度到约公元520年已经回落到背景水平；作者也指出，到古典玛雅政治危机发生时，一些地点的污染影响已经下降了数百年，因此它不能被当作解释“玛雅崩溃”的单一原因。它说明古代环境压力不仅来自气候变化和土地利用，也可能来自污染物在水体中的长期累积。需要严格限制的是因果范围：研究没有测定甲基汞，也没有直接证明居民发生汞中毒，更没有证明汞污染导致某一城市或整个玛雅文明“崩溃”。最稳妥的结论是，水质下降构成了干旱等压力之外一个此前被低估的附加环境压力。
 
-**English.** The study directly links the cultural use of a symbolically important material with measurable ecological consequences. It demonstrates that ancient urban environmental stress could arise not only from climate and land use but also from long-term pollutant accumulation in water systems. The causal scope must remain limited: methylmercury was not measured, human poisoning was not directly demonstrated, and the study does not show that mercury caused the collapse of any city or of Maya civilization. The defensible conclusion is that declining water quality constituted an additional, previously underappreciated environmental stressor alongside drought and other pressures.
+**English.** The study directly links the cultural use of a symbolically important material with measurable ecological consequences. At Cobá, mercury had returned to background levels by about AD 520, and the authors note that at some places pollution effects had already been declining for centuries by the time of Classic Maya political disruption; mercury therefore cannot be treated as a single-cause explanation of “Maya collapse.” It demonstrates that ancient urban environmental stress could arise not only from climate and land use but also from long-term pollutant accumulation in water systems. The causal scope must remain limited: methylmercury was not measured, human poisoning was not directly demonstrated, and the study does not show that mercury caused the collapse of any city or of Maya civilization. The defensible conclusion is that declining water quality constituted an additional, previously underappreciated environmental stressor alongside drought and other pressures.
 
 ## 学术出版物 | Academic publications
 
