@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A); this page now treats the 2026 Denisovan res
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 丹尼索瓦人长期是一个“遗传学上清楚、考古学上模糊”的古人群：2010年以来我们知道其基因组、与现代人群的基因交流，以及西伯利亚、青藏高原、台湾海峡和东北中国的若干化石线索，但关于技术、生计、身体形态和生态适应的直接证据非常有限。蝙蝠洞把化石鉴定、古蛋白、ZooMS、牙体内部形态、石器、动物考古和环境证据放进同一遗址框架；徐家窑研究又把这一框架扩展到华北中更新世人群。
+
+**English.** Denisovans have long been a paradoxical population: genetically well known but archaeologically elusive. Since 2010, genomes and introgression signals have been joined by fossils from Siberia, the Tibetan Plateau, the Taiwan Strait, and northeastern China, yet direct evidence for technology, subsistence, anatomy, and ecology remained sparse. Bianfu Cave integrates proteomics, ZooMS, dental internal morphology, lithics, fauna, and environmental evidence within one site, while the Xujiayao study extends the morphological discussion into northern China.
+
 ## 主要发现 | Major findings
 
 **中文。** 2026年9月《Nature》同期两篇研究把蝙蝠洞丹尼索瓦人的化石身份与石器、动物利用和遗址环境联系起来；10月另一篇《Nature》古蛋白研究又将徐家窑一批人类遗存归入丹尼索瓦人相关支系。三篇论文共同构成2026年东亚丹尼索瓦人化石、形态与行为研究的重要进展。
@@ -35,6 +41,32 @@ CCTV candidate / 央视候选
 
 **English.** Denisovan research has long been asymmetrical: rich genetic evidence but sparse archaeology. Bat Cave shifts the agenda from identifying who Denisovans were toward reconstructing how they lived, bringing technology, subsistence, and ecological adaptation into a field once dominated by phylogeny and admixture.
 
+## 论文核查 | Publication verification
+
+**Paper 1**
+- **Rao, Huiyun; Song Xing; Qijun Ruan; Fan Bai; Yuhao Zhao; Zhongyou Wu; Siyuan Tang; E. Andrew Bennett; Xiaotian Feng; Sungui Lin; Qingfeng Shao; Xiong Yang; Zitao Li; Kai Zhou; Feng Liu; et al.; Qiaomei Fu.**
+- **Title:** *Ancient proteins identify various Denisovan remains from Southwest China*
+- **Journal:** *Nature*
+- **DOI:** [10.1038/s41586-026-10976-9](https://doi.org/10.1038/s41586-026-10976-9)
+- **Published:** 9 September 2026
+- **Open access:** **Yes**.
+
+**Paper 2**
+- **Ruan, Qijun; Hao Li; Song Xing; Keliang Zhao; et al.; Fahu Chen.**
+- **Title:** *Denisovans from southwestern China and their subsistence strategies*
+- **Journal:** *Nature*
+- **DOI:** [10.1038/s41586-026-10997-4](https://doi.org/10.1038/s41586-026-10997-4)
+- **Published:** 9 September 2026
+- **Open access:** article access is public, but reuse is under an exclusive Springer Nature licence rather than a general CC licence; figure reuse therefore requires caption-level permission checking.
+
+**Paper 3**
+- **Xing, Song; Zhongyou Wu; Qingfeng Shao; Junyi Ge; E. Andrew Bennett; Huiyun Rao; et al.; Qiaomei Fu.**
+- **Title:** *The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology*
+- **Journal:** *Nature*
+- **DOI:** [10.1038/s41586-026-11132-z](https://doi.org/10.1038/s41586-026-11132-z)
+- **Published:** 21 October 2026
+- **Open access:** **Yes**.
+
 ## 学术论文 | Academic publications
 
 - [Nature: Denisovans from southwestern China and their subsistence strategies](https://doi.org/10.1038/s41586-026-10997-4)
@@ -43,7 +75,23 @@ CCTV candidate / 央视候选
 
 ## 主要媒体报道 | Major media coverage
 
-- [CNN/KESQ report](https://kesq.com/cnn-other/2026/09/09/cave-fossils-in-china-reveal-lives-of-mysterious-human-relatives/)
+- [Nature Portfolio press release — lives of Denisovans revealed in southwestern China](https://www.natureasia.com/en/info/press-releases/detail/9437)
+- [CNN/KESQ](https://kesq.com/cnn-other/2026/09/09/cave-fossils-in-china-reveal-lives-of-mysterious-human-relatives/)
+- [Nature — Bianfu subsistence study](https://www.nature.com/articles/s41586-026-10997-4)
+- [Nature — Bianfu proteomics study](https://www.nature.com/articles/s41586-026-10976-9)
+- [Nature — Xujiayao proteomics study](https://www.nature.com/articles/s41586-026-11132-z)
+
+## 关键图像与许可 | Key images and permissions
+
+Recommended explanatory set:
+
+1. **Bianfu Cave location and site information** — Fig. 1 of the subsistence paper.
+2. **Stratigraphy, chronology and palaeoenvironment** — Fig. 2 of the subsistence paper.
+3. **Denisovan fossils from Bianfu Cave** — Fig. 3.
+4. **Stone artefacts and bone tools** — Fig. 4.
+5. **Xujiayao proteomic/morphological comparison** — key figure from the October paper.
+
+Only figures from papers explicitly carrying a reusable open licence should be embedded. The subsistence paper is not under a general CC licence, so those figures are linked but not copied until permission is confirmed.
 
 ## 图像与图版来源 | Images and figure sources
 
