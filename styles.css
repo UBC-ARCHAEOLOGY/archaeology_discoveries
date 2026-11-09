@@ -46,3 +46,38 @@ main.content table{font-size:.92rem}main.content table thead th{background:var(-
   background:var(--arch-soft);
   margin-bottom:.7rem;
 }
+
+
+/* V2.1 visual QA */
+.discovery-image-card img{
+  max-height:720px;
+  object-fit:contain;
+  background:#f8fafb;
+}
+.image-caption{
+  max-width:78ch;
+  overflow-wrap:anywhere;
+}
+main.content h3{
+  margin-top:1.35rem;
+}
+iframe[title="Interactive map of 2026 archaeological discoveries"]{
+  min-height:520px;
+}
+@media(max-width:767px){
+  iframe[title="Interactive map of 2026 archaeological discoveries"]{
+    height:420px !important;
+    min-height:420px;
+  }
+  .discovery-image-card,.image-source-card{
+    padding:.75rem;
+    margin:.8rem 0 1rem;
+  }
+  .discovery-image-card img{
+    max-height:62vh;
+  }
+  .image-caption{
+    font-size:.83rem;
+    line-height:1.5;
+  }
+}
