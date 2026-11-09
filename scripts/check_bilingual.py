@@ -56,7 +56,24 @@ for path in sorted(Path("discoveries").glob("*.qmd")):
     if "## 主要媒体报道 | Major media coverage" not in txt:
         errors.append(f"{name}: missing media coverage section")
 
+print("Discovery-page structural checks completed.")
+
+
+# Markdown list-spacing QA: a bold paragraph/label followed immediately by a
+# list marker is parsed by Pandoc as running text rather than a list.
+# Check both top-level pages and discovery pages.
+all_qmd = list(Path(".").glob("*.qmd")) + list(Path("discoveries").glob("*.qmd"))
+for path in sorted(all_qmd):
+    txt = path.read_text(encoding="utf-8")
+    for lineno, line in enumerate(txt.splitlines(), start=1):
+        lines = txt.splitlines()
+        if lineno < len(lines):
+            current = lines[lineno-1].strip()
+            nxt = lines[lineno].lstrip()
+            if re.fullmatch(r"\*\*[^*]+\*\*", current) and re.match(r"[-+*]\s+", nxt):
+                errors.append(f"{path}: line {lineno}: blank line required before Markdown list")
+
 if errors:
     print("\n".join(errors))
     sys.exit(2)
-print("Bilingual discovery-page QA passed for all discovery pages.")
+print("Bilingual and Markdown-layout QA passed.")
