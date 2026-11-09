@@ -18,7 +18,7 @@ jobs:
       - uses: quarto-dev/quarto-actions/setup@v2
       - uses: actions/configure-pages@v5
       - name: Install image integration dependencies
-        run: python -m pip install --quiet requests beautifulsoup4 pillow
+        run: python -m pip install --quiet requests beautifulsoup4 pillow playwright
       - name: Enrich APA publication sections
         run: python scripts/enrich_publications.py
       - name: Normalize bilingual content and media tiers
@@ -40,6 +40,14 @@ jobs:
         run: quarto render
       - name: Check rendered internal and external links
         run: python scripts/check_links.py
+      - name: Capture desktop and mobile visual QA
+        run: python scripts/capture_visual_qa.py
+      - name: Upload visual QA screenshots
+        uses: actions/upload-artifact@v4
+        with:
+          name: visual-qa
+          path: qa-screenshots
+          retention-days: 1
       - uses: actions/upload-pages-artifact@v4
         with:
           path: docs
