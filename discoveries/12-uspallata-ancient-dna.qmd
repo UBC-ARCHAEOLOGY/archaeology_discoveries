@@ -13,12 +13,15 @@ Last ~2,200 years / 过去约2200年（Nature online publication: March 2026）
 **Research / excavation institutions / 发掘或研究机构**  
 CONICET and Argentine archaeological teams; Institut Pasteur / Université Paris Cité collaborators; ancient-DNA and isotope laboratories working with Huarpe community partners
 
-**Lead researchers / 主要负责人**  
-Ramiro Barberena; Nicolás Rascovan and collaborating ancient-DNA researchers
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Ramiro Barberena; Pierre Luisi; Nicolás Rascovan (corresponding authors).
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); exemplary integration of genomics, isotopes, pathogens, palaeoclimate, archaeology and Indigenous-community collaboration.  
-中文：顶级同行评议研究（A级）；在古基因组、同位素、病原体、古气候、考古和原住民社区合作方面整合度很高。
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Nature* study integrating genome-wide ancient-DNA data with isotopes, pathogen DNA, palaeoclimate, archaeology and community engagement.  
+A级——《Nature》同行评议研究，综合全基因组范围古DNA数据、同位素、病原体DNA、古气候、考古和社区合作。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——为“农业扩散是人口迁移还是本地采纳”提供高分辨率案例，并把后期危机中的亲属网络与迁移纳入社会韧性讨论。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -48,9 +51,9 @@ Barberena, R., Luisi, P., Novellino, P., Tessone, A., Guevara, D., García, A., 
 
 **开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
 
-**出版物内容（中文）。** 文章分析46名古代个体的全基因组，并结合稳定同位素、病原体DNA、考古和古气候资料，显示乌斯帕利亚塔谷地从狩猎采集向农业转型时存在长期遗传连续性。后期危机阶段的亲属迁移进一步说明，农业转型并非单纯的人口替代，而与家庭网络、疾病和环境压力共同作用。
+**出版物内容（中文）。** 文章分析46名新测序古代个体的全基因组范围数据，并结合稳定同位素、病原体DNA、考古和古气候资料，显示乌斯帕利亚塔谷地从狩猎采集向农业转型时存在长期遗传连续性。后期危机阶段的亲属迁移进一步说明，农业转型并非单纯的人口替代，而与家庭网络、疾病和环境压力共同作用。
 
-**What the publication shows (English).** The paper analyses whole genomes from 46 ancient individuals together with isotopes, pathogen DNA, archaeology and palaeoclimate. It demonstrates long-term genetic continuity across the local transition from foraging to farming and shows how kin-structured migration later mediated crises involving disease, nutrition and environmental stress.
+**What the publication shows (English).** The paper analyses genome-wide data from 46 newly sequenced ancient individuals together with isotopes, pathogen DNA, archaeology and palaeoclimate. It demonstrates long-term genetic continuity across the local transition from foraging to farming and shows how kin-structured migration later mediated crises involving disease, nutrition and environmental stress.
 
 <!-- APA-V2.1 -->
 
