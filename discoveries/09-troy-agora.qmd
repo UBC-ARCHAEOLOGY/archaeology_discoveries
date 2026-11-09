@@ -1,0 +1,44 @@
+---
+title: "9. 特洛伊最早Agora与铁器时代复居"
+subtitle: "Troy's earliest agora and Iron Age reoccupation"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Hisarlık, Türkiye / 土耳其希萨尔立克
+
+**Date / 年代**  
+Early Iron Age · ca. 2,800 years ago / 铁器时代早期 · 约2800年前
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 发掘揭露城墙前的公共空间、铺砌道路、入口和相关建筑，并显示晚青铜时代毁灭后约80–90年这里已重新出现定居活动。
+
+**English.** Excavations exposed a public space, paved road, entrance features, and associated architecture near the fortifications, with evidence that settlement resumed roughly 80–90 years after Late Bronze Age destruction.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 其最有价值的学术问题不是“找到市场”本身，而是城市空间记忆与持续性：新居民如何在旧城废墟上重新组织生活，并继续利用具有既往公共意义的核心空间。
+
+**English.** The strongest scholarly contribution is not simply the identification of a marketplace, but the study of urban memory and persistence: how new inhabitants reorganized life among ruins while continuing to use spaces that already carried public significance.
+
+## 学术论文 | Academic publications
+
+- Formal publication pending / 正式论文待发表
+
+## 主要媒体报道 | Major media coverage
+
+- [Archaeology Magazine](https://archaeology.org/news/2026/09/15/troys-earliest-agora-unearthed/)\n- [Hürriyet Daily News](https://www.hurriyetdailynews.com/troys-ancient-agora-uncovered-in-recent-excavations-226718)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Archaeology Magazine report](https://archaeology.org/news/2026/09/15/troys-earliest-agora-unearthed/)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
