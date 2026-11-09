@@ -1,0 +1,68 @@
+---
+title: "32. 塔吉克斯坦Karatau：中亚早期旧石器绝对年代"
+subtitle: "An absolute chronology for the Early Palaeolithic Karatau Culture of Central Asia"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Khovaling Loess Plateau, Tajikistan / 塔吉克斯坦Khovaling黄土高原
+
+**Date / 年代**  
+Main Karatau occupations during MIS 15, 13 and 11, broadly Middle Pleistocene / Karatau主要占据对应MIS 15、13与11，中更新世
+
+**Research / excavation institutions / 发掘或研究机构**  
+International Tajik–European collaboration; Academy of Sciences of the Republic of Tajikistan; Aarhus University and collaborating institutions
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Anders L. Sørensen; Andrei A. Anoikin; Ksenia A. Kolobova; Mads F. Knudsen; collaborating Tajik and international team.
+
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Nature Communications* research combining recent excavation, 286 luminescence ages, cosmogenic ^26Al–^10Be measurements, magnetostratigraphy and technological analysis of 3,534 lithic artifacts.  
+A级——《Nature Communications》同行评议研究，结合近期田野发掘、286个释光年代、宇生核素^26Al–^10Be、磁性地层和3534件石器技术分析。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——首次为中亚一个持续约20–25万年的早期旧石器技术传统建立高分辨率绝对年代框架，使中亚能够真正进入欧亚早期人类迁徙、环境适应和技术持续性的比较研究。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 中亚位于黎凡特、南高加索、南亚与东北亚之间，是讨论早期人类欧亚扩散不可绕开的通道，但这一地区早期旧石器研究长期受年代学限制。Khovaling黄土高原的多个古土壤层保存丰富石器，苏联时期已提出“Karatau Culture”，但过去主要依靠黄土—古土壤层序和古地磁进行粗略对比，缺少能够与全球海洋氧同位素阶段直接比较的可靠绝对年代。
+
+**English.** Central Asia lies between the Levant, southern Caucasus, South Asia and Northeast Asia and is therefore central to models of early human dispersal across Eurasia. Yet its Early Palaeolithic record has long been constrained by chronology. Rich lithic assemblages in palaeosols of the Khovaling Loess Plateau were grouped historically as the “Karatau Culture,” but their ages depended largely on stratigraphic and palaeomagnetic correlation rather than robust absolute dating.
+
+## 主要发现 | Major findings
+
+**中文。** 研究团队在2021–2023年重新发掘Lakhuti-IV的PC6、PC5和PC4文化层，并结合塔吉克斯坦博物馆保存的历史发掘材料，对3534件石器进行统一技术分析。研究表明三个古土壤层的石器组合高度相似，不支持过去认为从“早期旧石器”逐步演变到“中期旧石器”的简单技术进化序列。
+
+**English.** Field campaigns from 2021 to 2023 re-excavated the PC6, PC5 and PC4 horizons at Lakhuti-IV and integrated these new materials with historically excavated collections curated in Tajikistan. Technological analysis of 3,534 artifacts shows strong continuity among the three assemblages and does not support an earlier model of simple directional evolution toward Middle Palaeolithic technology.
+
+**中文。** 年代学方面，研究综合三条黄土—古土壤剖面的286个释光年代、16组石英^26Al–^10Be宇生核素数据和磁性地层界线，建立概率年龄—深度模型。结果显示Karatau传统在MIS 15开始时出现，在MIS 13和MIS 11繁盛，并在MIS 10开始前后消失，持续约20–25万年。冰期黄土层中石器显著减少，提示气候波动与高原利用强度之间存在联系。
+
+**English.** Chronologically, the study combines 286 luminescence ages from three loess–palaeosol sections, 16 quartz ^26Al–^10Be measurements and magnetostratigraphic boundaries within probabilistic age-depth models. The Karatau tradition appears around the onset of MIS 15, flourishes during MIS 13 and 11 and disappears around the beginning of MIS 10, spanning roughly 200–250 thousand years. Sparse artifacts in intervening glacial loess suggest strong climatic modulation of occupation intensity.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这项工作的真正突破不是“发现更早的人类”，而是把中亚从一个年代模糊的迁徙走廊变成可以与中国黄土高原、南高加索和西亚直接比较的考古序列。一个技术传统跨越多个间冰期长期保持稳定，同时在寒冷阶段显著收缩，为讨论早期人群如何应对环境波动提供了罕见尺度的证据。
+
+**English.** The major advance is not simply an older human date. It turns Central Asia from a poorly dated “corridor” into a sequence that can be compared directly with the Chinese Loess Plateau, the southern Caucasus and western Eurasia. The persistence of a stable technological tradition across several interglacials, combined with occupation contraction during colder phases, provides an unusual long-term record of early human responses to environmental change.
+
+**中文。** 需要避免的过度解释是：年代框架本身不能决定Karatau人群究竟来自东亚还是西亚，也不能证明不同文化层由同一生物学人群连续占据。技术连续性与人口连续性不是同一个命题。
+
+**English.** The chronology does not establish whether Karatau populations derived from eastern or western Eurasia, nor does technological continuity prove biological population continuity. Those questions require additional archaeological and palaeoanthropological evidence.
+
+## 学术出版物 | Academic publications
+
+Sørensen, A. L., Anoikin, A. A., Kolobova, K. A., et al. (2026). Absolute chronology of the Early Palaeolithic Karatau Culture in Central Asia. *Nature Communications, 17*, 8217. https://doi.org/10.1038/s41467-026-74938-5
+
+**开放获取状态 | Open-access status.** Open access; figure-level reuse should follow the article licence and individual credits. / 开放获取；图版再利用按文章许可和具体图注核查。
+
+## 主要媒体报道 | Major media coverage
+
+- [Nature Communications article](https://doi.org/10.1038/s41467-026-74938-5)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature Communications article](https://doi.org/10.1038/s41467-026-74938-5)
