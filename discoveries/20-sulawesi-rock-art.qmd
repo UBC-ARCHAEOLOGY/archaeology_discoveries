@@ -24,6 +24,12 @@ English: Top-tier peer-reviewed research (A); strongly recommended addition miss
 Additional candidate / 补充建议
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 苏拉威西岩画研究已经连续改变“象征性图像何时出现”的时间尺度：过去十余年，岛上动物画和手印不断获得更新的铀系年代。穆纳岛的新结果进一步把可靠测年的手印传统推进到至少6.78万年前，并把岩画研究与现代人穿越华莱西亚、进入萨胡尔大陆的迁徙时间联系起来。由于岩画本身通常无法直接测年，覆盖其上的方解石测年方法和最小年代解释尤其关键。
+
+**English.** Research on Sulawesi rock art has repeatedly pushed back the chronology of symbolic image-making as animal paintings and hand stencils have received increasingly early uranium-series ages. The Muna Island result extends a securely dated hand-stencil tradition to at least 67.8 ka and links rock-art chronology with the timing of modern-human dispersal through Wallacea toward Sahul. Because the pigment itself is usually not directly datable, the method of dating overlying calcite and interpreting a minimum age is central to the claim.
+
 ## 主要发现 | Major findings
 
 **中文。** 研究团队在穆纳岛Liang Metanduno洞穴一处手印岩画表面覆盖的方解石上使用激光烧蚀铀系测年，得到71.6±3.8 ka的方解石年龄，从而给岩画本身提供≥67.8 ka的最小年代。团队在苏拉威西东南部系统调查44处岩画地点，其中14处此前未记录。
