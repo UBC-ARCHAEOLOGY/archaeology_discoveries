@@ -1,0 +1,67 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "2026 世界考古发现 | Archaeological Discoveries 2026"
+  site-url: https://zcjing2022.github.io/archaeology_discoveries/
+  repo-url: https://github.com/ZCJing2022/archaeology_discoveries
+  repo-actions: [edit, issue]
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: "首页 Home"
+      - href: discoveries.qmd
+        text: "发现 Discoveries"
+      - href: cctv.qmd
+        text: "央视遴选 CCTV"
+      - href: methods.qmd
+        text: "评选标准 Criteria"
+      - href: sources.qmd
+        text: "来源 Sources"
+    right:
+      - icon: github
+        href: https://github.com/ZCJing2022/archaeology_discoveries
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - section: "2026 CCTV候选 | CCTV candidates"
+        contents:
+          - discoveries/01-wonderwerk-fire.qmd
+          - discoveries/02-yunxian-homo-erectus.qmd
+          - discoveries/03-megalopolis-wood-tools.qmd
+          - discoveries/04-denisovans-yunnan.qmd
+          - discoveries/05-oldest-dog-genomes.qmd
+          - discoveries/06-romito-genetic-disease.qmd
+          - discoveries/07-baikal-plague.qmd
+          - discoveries/08-egypt-early-dynastic-tombs.qmd
+          - discoveries/09-troy-agora.qmd
+          - discoveries/10-alexandria-tigris.qmd
+          - discoveries/11-arsinoe-china-greece.qmd
+          - discoveries/12-uspallata-ancient-dna.qmd
+          - discoveries/13-urartian-irrigation.qmd
+          - discoveries/14-dide-west-iron-smelting.qmd
+          - discoveries/15-kush-faience.qmd
+          - discoveries/16-iliad-mummy.qmd
+      - section: "补充建议 | Additional candidates"
+        contents:
+          - discoveries/17-amazon-earthworks.qmd
+          - discoveries/18-shang-copper-network.qmd
+          - discoveries/19-chan-chan-tomb.qmd
+          - discoveries/20-celtic-ancient-dna.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    grid:
+      sidebar-width: 330px
+      body-width: 900px
+      margin-width: 230px
+      gutter-width: 1.5rem
+
+lang: zh
