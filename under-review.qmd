@@ -6,6 +6,38 @@ title: "其他待评估发现 | Other Discoveries Under Review"
 
 This page records 2026 discoveries and studies of clear scholarly interest that have **not yet been promoted to the main candidate list**. The distinction separates “worth monitoring” from “recommended as a major archaeological discovery.”
 
+## 分级排序 | Priority tiers
+
+::: {.callout-note title="分级说明 | How to read the tiers"}
+**中文。** 以下分级只决定下一轮审查优先级，不等于正式入选。第一档项目应优先做独立深审；第二档继续保留候选资格，等待更多证据或根据最终收录标准再判断；第三档作为重要研究动态保留，但原则上不优先晋升为“世界考古大发现”。巨石阵祭坛石单列为研究更新，不参加晋升排序。
+
+**English.** These tiers set review priority rather than selection status. Tier 1 items should receive the next independent deep review; Tier 2 items remain active candidates pending further evidence or a later decision about scope; Tier 3 items are retained as important research developments but are not prioritized for promotion to the main “major discoveries” list. The Stonehenge Altar Stone item remains a research update and is not ranked for promotion.
+:::
+
+### 第一档：高优先级晋升候选 | Tier 1 — High-priority promotion review
+
+1. **老挝石缸平原 Site 75“死亡之缸”** — 直接发掘、直接测年、长期悬而未决的功能问题，证据链完整。
+2. **玛雅低地汞污染与湖泊生态崩溃** — *Science Advances*，为古代城市环境压力增加新的直接证据链，但必须避免“汞导致玛雅崩溃”的过度因果表述。
+3. **Cova de la Font Major旧石器时代洞穴刻画** — *Antiquity*，显著填补东北伊比利亚旧石器时代洞穴艺术的地理空白；主要限制是部分图像缺少直接年代。
+4. **Tunnug 1大麻使用证据** — *Science*，直接测年和墓葬情境很强；是否能够证明“实际摄入”仍存在实质方法争论。
+
+### 第二档：继续观察 | Tier 2 — Continue monitoring
+
+- **Kekova早青铜时代沉船** — 同行评议基础真实，但年代主要依赖陶器类型学，“世界最早沉船”仍需谨慎。
+- **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观意义突出，但完整技术报告和年代证据尚待公开。
+- **美国西南祖先Pueblo蓝铜矿溯源** — 方法明确，但考古样本量小。
+- **Tampa Bay移民陶工社群** — 解释意义强，但属于旧材料产生的新认识。
+- **Holzman石器与猛犸象牙生产** — 对最早阿拉斯加人群重要，但2026年的贡献主要是综合性推进。
+- **北美晚更新世骰子与机会游戏** — 识别方法有创新，但“概率认知”属于更高层解释。
+- **Etowah可可古DNA** — 长距离交换意义明确，但旧藏陶片的污染与使用情境仍需谨慎。
+- **罗马统治与伊比利亚人口结构变化** — 高质量古基因组综合，但并非单一田野发现。
+
+### 第三档：仅研究动态 | Tier 3 — Research developments
+
+- **波利尼西亚现代人基因组与航海扩散** — 学术分量高，但证据主体是现代基因组而非考古遗存或古DNA。
+- **Crawford Lake沉积古DNA** — 方法与人地关系研究重要，但更接近古环境/分子生态综合研究，而非传统意义上的考古“发现”。
+
+
 ## 1. Tunnug 1 / Uyuk谷地：约2800年前大麻使用证据 | Cannabis use at Tunnug 1, Uyuk Valley
 
 **地区与年代 | Region and date**  
@@ -80,6 +112,15 @@ Kekova region, Antalya, Türkiye / 土耳其安塔利亚Kekova海域；proposed 
 
 **Publication / 出版物**  
 Öniz, H., & Öztosun, C. (2026). Preliminary report on the Early Bronze Age shipwreck in the Kekova region of Antalya. *Journal of Maritime Archaeology, 21*(3). https://doi.org/10.1007/s11457-026-09532-3
+
+**主要媒体报道 | Major media coverage**
+
+- [BBC News — World’s oldest shipwreck found off coast of Turkey](https://www.bbc.com/news/articles/c6gr80rk1yyko)
+
+**相关视频 | Related videos**
+
+- [BBC Newsround — World’s oldest known shipwreck reveals incredible Bronze Age cargo](https://www.bbc.co.uk/newsround/articles/cve8r27k1e3zo)
+- [Reuters Connect / Anadolu Agency — World’s oldest shipwreck in Türkiye enters Guinness World Records](https://www.reutersconnect.com/item/worlds-oldest-shipwreck-in-turkiye-enters-guinness-world-records/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQU5BQ0FBVklERU8yMDI2MTEwNDQyOTYxOTIz)
 
 ## 研究更新：巨石阵祭坛石 | Research update: Stonehenge Altar Stone
 
