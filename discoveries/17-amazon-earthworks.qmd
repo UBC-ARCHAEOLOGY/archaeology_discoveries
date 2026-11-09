@@ -8,17 +8,20 @@ subtitle: "More than 20,000 precolonial earthworks in southwestern Amazonia"
 Southwestern Amazonia / 西南亚马孙
 
 **Date / 年代**  
-Precolonial Amazonia, especially ca. 100–300 CE / 前殖民时期，重点约公元100–300年
+Earthworks ca. 600 BCE–850 CE; modelled population peak ca. AD 100–300 / 土方工程约公元前600年—公元850年；人口模型高峰约公元100–300年
 
 **Research / excavation institutions / 发掘或研究机构**  
 University of Helsinki; University of Turku; Federal University of Acre; Finnish Geospatial Research Institute; Federal University of Pará and collaborating Indigenous/community researchers
 
-**Lead researchers / 主要负责人**  
-Martti Pärssinen; Risto Kalliola; Alceu Ranzi; Evandro Ferreira
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Martti Pärssinen; Risto Kalliola; Alceu Ranzi; Evandro Ferreira and collaborating Indigenous/community researchers.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); a major omitted candidate from the original CCTV list.  
-中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Nature* study combining LiDAR, regional survey and spatial modelling.  
+A级——《Nature》同行评议研究，综合LiDAR、区域调查与空间模型。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——显著改变对西南亚马孙前殖民聚落密度、人口规模和长期人地关系的理解，也是原央视名单中最明显的遗漏之一。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -32,9 +35,9 @@ Additional candidate / 补充建议
 
 ## 主要发现 | Major findings
 
-**中文。** Aquiry及西南亚马孙研究利用约4430公里LiDAR航线与既有调查，新识别并统计大量土垣/几何土方工程；研究据此估算整个文化区可能存在约2.4万–3万处土方工程，并对公元100–300年前后人口规模作出125万–300万人的模型外推。后者应视为有争议的估计，而不是直接人口计数。
+**中文。** 研究团队利用约4497平方公里的LiDAR调查覆盖范围，并结合既有遥感和地面调查，在西南亚马孙Aquiry及相关区域新识别和汇总大量几何土方工程。土方工程整体年代约为公元前600年至公元850年；研究据此估算更广泛文化区可能存在约2.4万—3万处土方遗迹。作者进一步把公元100–300年前后作为人口模型的高峰期，并提出约125万—300万人的区域人口估计。该数字属于模型外推，不是直接人口计数。
 
-**English.** LiDAR survey and spatial modelling across southwestern Amazonia greatly expanded the known scale of geometric earthworks. The authors estimate roughly 24,000–30,000 earthworks across the broader cultural area and model a population of 1.25–3 million around AD 100–300; the population figure is an extrapolation and should be treated as such.
+**English.** The study combines LiDAR coverage of roughly 4,497 km² with existing remote sensing and ground survey to identify and compile large numbers of geometric earthworks in the Aquiry and wider southwestern Amazonian region. The earthworks as a whole date broadly from about 600 BCE to AD 850. The authors estimate that the wider cultural region may contain roughly 24,000–30,000 earthworks and model a population peak around AD 100–300, with a regional population estimate of approximately 1.25–3 million. That population figure is a modelled extrapolation, not a direct count.
 
 ## 学术重要性 | Intellectual significance
 
