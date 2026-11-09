@@ -15,7 +15,7 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image
 
-UA={"User-Agent":"Mozilla/5.0 (compatible; archaeology-discoveries/2.1; +https://github.com/ZCJing2022/archaeology_discoveries)"}
+UA={"User-Agent":"Mozilla/5.0 (compatible; archaeology-discoveries/2.1; +https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries)"}
 ROOT=Path("figures/discoveries")
 ROOT.mkdir(parents=True,exist_ok=True)
 
