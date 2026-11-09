@@ -1,0 +1,44 @@
+---
+title: "1. 南非Wonderwerk Cave约180万年前古人类用火证据"
+subtitle: "Evidence for hominin fire use at Wonderwerk Cave ~1.8 million years ago"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+South Africa / 南非
+
+**Date / 年代**  
+Early Pleistocene · ca. 1.7–1.8 Ma / 早更新世 · 约170–180万年前
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 研究者在Wonderwerk Cave更深层沉积中识别出受热的微小动物骨骼，并结合骨骼发光性质与FTIR验证受热状态，将洞穴内古人类用火证据推进到约170–180万年前。
+
+**English.** Researchers identified heat-altered microfaunal bones in deeper deposits at Wonderwerk Cave and combined luminescence-based screening with FTIR confirmation, placing hominin fire use at roughly 1.7–1.8 million years ago.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 其意义并不只是刷新“最早纪录”。人类何时开始稳定利用火，关系到营地组织、食物加工、昼夜活动、捕食风险和社会交往。该发现提示火可能在早期Homo erectus行为生态中已经发挥作用。不过，它支持的是“用火”而不是已经掌握“人工取火”。
+
+**English.** The importance is not simply an earlier record. The timing of habitual fire use bears on food processing, camp organization, activity schedules, predator avoidance, and social interaction. The evidence suggests that fire already mattered within the behavioral ecology of early Homo erectus, while not demonstrating deliberate fire-making.
+
+## 学术论文 | Academic publications
+
+- [PLOS ONE paper](https://doi.org/10.1371/journal.pone.0347480)
+
+## 主要媒体报道 | Major media coverage
+
+- [Archaeology Magazine](https://archaeology.org/news/2026/06/26/traces-of-homo-erectus-fire-use-dated-to-1-8-million-years-ago/)\n- [Science News](https://www.sciencenews.org/article/hominids-had-fire-longer-than-thought)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Archaeology Magazine report and excavation imagery](https://archaeology.org/news/2026/06/26/traces-of-homo-erectus-fire-use-dated-to-1-8-million-years-ago/)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
