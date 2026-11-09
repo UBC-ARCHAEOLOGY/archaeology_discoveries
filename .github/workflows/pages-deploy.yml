@@ -41,6 +41,86 @@ jobs:
           name: visual-qa
           path: qa-screenshots
           retention-days: 1
+
+      - name: Build V2.2 offline editorial review package
+        run: |
+          set -euo pipefail
+          PKG="editorial-review-v2.2"
+          rm -rf "$PKG"
+          mkdir -p "$PKG/offline_site" "$PKG/source_qmd/discoveries" "$PKG/visual_qa"
+
+          cp -a docs/. "$PKG/offline_site/"
+          cp -a qa-screenshots/. "$PKG/visual_qa/"
+
+          cp index.qmd discoveries.qmd cctv.qmd methods.qmd sources.qmd under-review.qmd _quarto.yml styles.css "$PKG/source_qmd/"
+          cp discoveries/*.qmd "$PKG/source_qmd/discoveries/"
+          cp EDITORIAL_RESPONSE_V2_2.md "$PKG/"
+
+          if [ -f docs/link-report.md ]; then
+            cp docs/link-report.md "$PKG/LINK_QA_REPORT.md"
+          fi
+          if [ -f docs/link-report.json ]; then
+            cp docs/link-report.json "$PKG/LINK_QA_REPORT.json"
+          fi
+
+          cat > "$PKG/README_FOR_REVIEWER.md" <<'EOF'
+          # 2026 世界考古发现 — V2.2 离线编审包
+
+          本包对应当前 GitHub Pages 已部署版本。
+
+          ## 推荐审阅方式
+
+          1. **按网站浏览**：打开 `offline_site/index.html`。
+          2. **按正文连续审阅**：打开 `CONTENT_REVIEW.md`。
+          3. **逐项查看源文件**：进入 `source_qmd/discoveries/`。
+          4. **核对修改回应**：打开 `EDITORIAL_RESPONSE_V2_2.md`。
+          5. **视觉抽查**：进入 `visual_qa/` 查看桌面与手机截图。
+          6. **链接检查**：查看 `LINK_QA_REPORT.md`。
+
+          外部论文和媒体链接保留原URL；离线环境中无法打开外部网页，但网站正文、已缓存图片、地图、图注和来源信息均随包保存。
+          EOF
+
+          {
+            echo "# 2026 世界考古发现 — V2.2 连续编审稿"
+            echo
+            echo "> 本文件按网站结构汇总主要说明页、23项正式条目和待评估页，便于离线全文搜索与批注。"
+            echo
+            for x in index.qmd methods.qmd sources.qmd discoveries.qmd cctv.qmd; do
+              echo
+              echo "---"
+              echo
+              echo "## SOURCE: $x"
+              echo
+              sed '/^---$/,/^---$/d' "$x"
+            done
+            for x in discoveries/*.qmd; do
+              echo
+              echo "---"
+              echo
+              echo "## SOURCE: $x"
+              echo
+              sed '/^---$/,/^---$/d' "$x"
+            done
+            echo
+            echo "---"
+            echo
+            echo "## SOURCE: under-review.qmd"
+            echo
+            sed '/^---$/,/^---$/d' under-review.qmd
+          } > "$PKG/CONTENT_REVIEW.md"
+
+          printf '%s\n' "Repository: https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries" > "$PKG/VERSION.txt"
+          printf '%s\n' "Commit: $GITHUB_SHA" >> "$PKG/VERSION.txt"
+          printf '%s\n' "Website: https://ubc-archaeology.github.io/archaeology_discoveries/" >> "$PKG/VERSION.txt"
+
+          zip -qr "2026_archaeological_discoveries_V2.2_editorial_review_offline.zip" "$PKG"
+
+      - name: Upload V2.2 offline editorial review package
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-review-v2-2
+          path: 2026_archaeological_discoveries_V2.2_editorial_review_offline.zip
+          retention-days: 7
       - uses: actions/upload-pages-artifact@v4
         with:
           path: docs
