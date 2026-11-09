@@ -1,0 +1,76 @@
+---
+title: "24. 阿拉斯加Shég’ Xdaltth’í’：13,800年前的东白令营地"
+subtitle: "A 13,800-year-old eastern Beringian base camp in interior Alaska"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Tanana Flats, interior Alaska, USA / 美国阿拉斯加内陆Tanana Flats
+
+**Date / 年代**  
+Earliest component ca. 13.8 ka; later Late Pleistocene occupations ca. 13.0 and 12.7 ka / 最早文化层约13,800年前；另有约13,000和12,700年前文化层
+
+**Research / excavation institutions / 发掘或研究机构**  
+University of Kansas; Texas A&M University; U.S. Army Garrison Alaska / Fort Wainwright; collaborating institutions represented in the multidisciplinary research team
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Kelly E. Graf; Ted Goebel; multidisciplinary Shég’ Xdaltth’í’ research team.
+
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Science Advances* study, well-stratified contexts, 66 AMS radiocarbon dates, and a large directly documented archaeological assemblage.  
+A级——《Science Advances》同行评议研究，地层清楚，包含66个AMS放射性碳年代和大规模直接记录的考古组合。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——为晚更新世东白令地区人群“定居下来”的过程提供异常完整的居住与活动证据，并通过独特带柄双面器把白令陆桥东西两侧的考古材料具体联系起来。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 美洲最初人群如何经过白令地区进入北美，是旧石器时代与美洲考古的核心问题之一。遗传学已经提出晚冰期白令地区存在多个祖源群体，但考古材料如何与这些人口模型对应仍不清楚。阿拉斯加内陆塔纳纳河流域保存了北美最密集的一批Clovis时代之前和同时期遗址，因此能够直接检验早期人群进入东白令地区后如何组织居住、狩猎、技术和原料流动。
+
+**English.** How the first populations moved through Beringia into the Americas remains a central problem in Pleistocene archaeology. Genomic models imply multiple Late Glacial populations in Beringia, but connecting those populations to archaeological variability is difficult. The Tanana River basin of interior Alaska preserves one of the densest concentrations of pre-Clovis and Clovis-age occupations in eastern Beringia, making it critical for understanding how early groups settled, moved, hunted and organized technology after entering the region.
+
+## 主要发现 | Major findings
+
+**中文。** Shég’ Xdaltth’í’（遗址号FAI-02043，旧称McDonald Creek）保存三个晚更新世文化层，年代约为13.8、13.0和12.7 ka。最早的C1层包含超过8万件考古材料；研究团队对其中大量遗物进行了三维定位，并识别出炉址、小型土坑、土炉、动物骨骼集中区以及可能的人工遮蔽/居住结构。遗物包括石器、骨针和其他骨器，以及野牛、猛犸象、马、兔、狼和多种鸟类等动物遗存。
+
+**English.** Shég’ Xdaltth’í’ (FAI-02043, formerly McDonald Creek) preserves three Late Pleistocene archaeological components dating to about 13.8, 13.0 and 12.7 ka. The earliest component contains more than 80,000 archaeological specimens and unusually well-preserved spatial patterning, including hearths, a small pit, an earth oven, faunal concentrations and a probable artificial shelter or dwelling area. The assemblage includes lithics, bone needles and other osseous tools together with bison, mammoth, horse, hare, wolf and diverse bird remains.
+
+**中文。** 66个AMS年代为遗址建立了坚实年代框架。最早文化层中一组带柄、菱形双面器在阿拉斯加中部十分罕见，却与白令陆桥西侧Nikita Lake和Berelekh的同期材料具有明显相似性。研究者因此把这一遗址视为连接白令陆桥东西两侧物质文化的重要证据。
+
+**English.** Sixty-six AMS radiocarbon dates provide a robust chronology. A distinctive set of stemmed, diamond-shaped bifaces in the earliest component is unusual in central Alaska but resembles coeval artifacts at Nikita Lake and Berelekh in western Beringia. The authors therefore identify the site as an important archaeological link across the former Bering Land Bridge.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这项成果的重要性不在于简单刷新“最早遗址”纪录——论文明确指出Shég’ Xdaltth’í’并不是白令地区最早的遗址——而在于它提供了约13,800年前异常完整的日常生活空间。空间组织、烹饪设施、骨骼加工、远距离石材来源和工具组合共同显示，使用者并非只是短暂停留，而是在东白令地区形成了反复使用的生活基地。它使“人群抵达美洲”这一宏观命题进一步转化为“人群如何在新环境中定居下来”的可检验考古问题。
+
+**English.** The significance of Shég’ Xdaltth’í’ is not a simple “oldest site” claim—the authors explicitly note that it is not Beringia’s oldest known site. Its importance lies in an unusually complete record of everyday life around 13.8 ka. Spatial organization, cooking facilities, bone processing, long-distance lithic procurement and tool production indicate repeated use of a substantial residential base. The study therefore shifts attention from the abstract question of when people entered the Americas toward the archaeological problem of how people settled into eastern Beringian landscapes.
+
+**中文。** 对所谓“最早住宅”一类媒体化表述应保持谨慎。论文将部分遗迹解释为最可能属于部分覆盖的lean-to式人工遮蔽结构，但这一功能解释仍建立在炉址、柱洞、染色沉积和空间分布的综合推断上，不宜写成无条件的世界纪录。
+
+**English.** Superlative claims about an “earliest dwelling” should remain cautious. The paper interprets part of the feature complex as most likely representing a partially covered lean-to structure, based on the combined pattern of a hearth, post mold, stained sediment and artifact distributions. That interpretation is important but should not be converted into an unconditional record claim.
+
+## 学术出版物 | Academic publications
+
+Graf, K. E., Goebel, T., Henry, A., et al. (2026). Highlights from an early base camp in Beringia 13,800 years ago: Shég’ Xdaltth’í’ and the Late Pleistocene peopling of Alaska. *Science Advances, 12*(42), eaeh0802. https://doi.org/10.1126/sciadv.aeh0802
+
+**开放获取状态 | Open-access status.** 文章可在线阅读全文；具体图版的再利用仍应逐图核查许可与第三方署名。 / The article is available online in full; figure reuse should still be checked at caption level for licence and third-party credits.
+
+**出版物内容（中文）。** 论文系统公布遗址的地层、66个AMS年代、石器与骨器、动物与植物遗存以及空间分布，重点讨论13.8 ka最早文化层，并将其置于晚冰期东、西白令地区考古联系和北美最初人群“定居下来”的框架中。
+
+**What the publication shows (English).** The paper presents the site stratigraphy, 66 AMS dates, lithic and osseous technology, fauna, flora and spatial organization, focusing on the 13.8-ka component and its implications for trans-Beringian cultural links and Late Glacial “settling-in” behavior in eastern Beringia.
+
+<!-- APA-V2.1 -->
+
+## 主要媒体报道 | Major media coverage
+
+- [Archaeology Magazine — Cultural Connection Identified Between Prehistoric Sites in Alaska and Russia (October 20, 2026)](https://archaeology.org/news/2026/10/20/cultural-connection-identified-between-prehistoric-sites-in-alaska-and-russia/)
+- [U.S. Army Garrison Alaska — McDonald Creek Site](https://home.army.mil/wainwright/about/garrison/public-works/environmental/cultural-resources/archaeology/mcdonald-creek-site)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Science Advances article](https://doi.org/10.1126/sciadv.aeh0802)
+- [Archaeology Magazine report](https://archaeology.org/news/2026/10/20/cultural-connection-identified-between-prehistoric-sites-in-alaska-and-russia/)
