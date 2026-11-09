@@ -60,6 +60,8 @@ website:
           - discoveries/21-maya-mathematician.qmd
           - discoveries/22-hittite-royal-archive.qmd
           - discoveries/23-camarones-smallpox.qmd
+          - discoveries/24-sheg-xdaltthi.qmd
+          - discoveries/25-huitzo-tomb-10.qmd
 
 format:
   html:
