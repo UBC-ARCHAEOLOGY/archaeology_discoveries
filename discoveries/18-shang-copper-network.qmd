@@ -1,0 +1,44 @@
+---
+title: "18. 商代约700公里铜资源供应网络"
+subtitle: "A ~700-km copper supply network in Bronze Age China"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Zhengzhou–Middle Yangtze, China / 中国郑州—长江中游
+
+**Date / 年代**  
+Early Shang period / 商代早期
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 多指标矿石指纹研究将郑州商城铸铜遗址中的部分铜矿原料与约700公里以南的长江中游九瑞矿区联系起来。
+
+**English.** Multi-proxy ore fingerprinting links copper-bearing materials from Shang-period bronze-production contexts at Zhengzhou with the Jiurui mining region roughly 700 km to the south in the middle Yangtze.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这项研究绕开成品青铜器在熔炼与合金化过程中造成的产地信号混合，直接从矿石材料重建供应链。它为早期国家如何跨区域动员铜资源、组织运输与维系青铜工业提供了新的实物证据。
+
+**English.** By focusing on ore materials rather than finished bronzes whose provenance signals are altered by smelting and alloying, the study reconstructs supply chains more directly. It offers new evidence for how an early state mobilized copper across regions, organized transport, and sustained a large bronze industry.
+
+## 学术论文 | Academic publications
+
+- [Nature Communications](https://www.nature.com/articles/s41467-026-78864-4)
+
+## 主要媒体报道 | Major media coverage
+
+- [Nature Communications article page](https://www.nature.com/articles/s41467-026-78864-4)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature Communications figures](https://www.nature.com/articles/s41467-026-78864-4)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
