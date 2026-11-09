@@ -68,6 +68,9 @@ website:
           - discoveries/29-etowah-cacao.qmd
           - discoveries/30-roman-iberia-adna.qmd
           - discoveries/31-tampa-bay-migrant-potters.qmd
+          - discoveries/32-karatau-palaeolithic.qmd
+          - discoveries/33-widgingarri-shelter.qmd
+          - discoveries/34-bongal-boats.qmd
 
 format:
   html:
