@@ -24,10 +24,9 @@ The table below summarizes all entries currently included in the site.
 | 15 | [库施faience生产](discoveries/15-kush-faience.qmd)<br>Kushite faience production | 苏丹 | 前7世纪 | 候选 |
 | 16 | [木乃伊葬仪中的《伊利亚特》](discoveries/16-iliad-mummy.qmd)<br>Iliad in mummification context | 埃及 | 约1600年前 | 候选 |
 | 17 | [西南亚马孙土方工程](discoveries/17-amazon-earthworks.qmd)<br>Amazonian earthworks | 亚马孙 | 前殖民时期 | 补充建议 |
-| 18 | [商代700公里铜资源网络](discoveries/18-shang-copper-network.qmd)<br>Shang copper network | 中国 | 商代早期 | 补充建议 |
-| 19 | [Chan Chan Chimú精英墓](discoveries/19-chan-chan-tomb.qmd)<br>Chimú elite tomb | 秘鲁 | 约600年前 | 补充建议 |
-| 20 | [古基因组与凯尔特语、日耳曼语传播](discoveries/20-celtic-ancient-dna.qmd)<br>Ancient genomes & Celtic/Germanic dispersal | 欧洲 | 青铜—铁器时代 | 补充建议 |
-| 21 | [苏拉威西≥6.78万年手印岩画](discoveries/21-sulawesi-rock-art.qmd)<br>Rock art ≥67.8 ka in Sulawesi | 印度尼西亚 | ≥6.78万年前 | 补充建议 |
-| 22 | [Xultun玛雅数学家Sak Tahn Waax](discoveries/22-maya-mathematician.qmd)<br>Named Maya mathematician-astronomer | 危地马拉 | 约公元781年 | 补充建议 |
-| 23 | [Kayalıpınar赫梯王室档案](discoveries/23-hittite-royal-archive.qmd)<br>Hittite royal archive | 土耳其 | 约前1400年 | 补充建议 |
-| 24 | [Camarones 9美洲早期天花基因组](discoveries/24-camarones-smallpox.qmd)<br>Early smallpox genomes in the Americas | 智利 | 公元1492–1631年 | 补充建议 |
+| 18 | [Chan Chan Chimú精英墓](discoveries/18-chan-chan-tomb.qmd)<br>Chimú elite tomb | 秘鲁 | 约600年前 | 补充建议 |
+| 19 | [古基因组与凯尔特语、日耳曼语传播](discoveries/19-celtic-ancient-dna.qmd)<br>Ancient genomes & Celtic/Germanic dispersal | 欧洲 | 青铜—铁器时代 | 补充建议 |
+| 20 | [苏拉威西≥6.78万年手印岩画](discoveries/20-sulawesi-rock-art.qmd)<br>Rock art ≥67.8 ka in Sulawesi | 印度尼西亚 | ≥6.78万年前 | 补充建议 |
+| 21 | [Xultun玛雅数学家Sak Tahn Waax](discoveries/21-maya-mathematician.qmd)<br>Named Maya mathematician-astronomer | 危地马拉 | 约公元781年 | 补充建议 |
+| 22 | [Kayalıpınar赫梯王室档案](discoveries/22-hittite-royal-archive.qmd)<br>Hittite royal archive | 土耳其 | 约前1400年 | 补充建议 |
+| 23 | [Camarones 9美洲早期天花基因组](discoveries/23-camarones-smallpox.qmd)<br>Early smallpox genomes in the Americas | 智利 | 公元1492–1631年 | 补充建议 |
