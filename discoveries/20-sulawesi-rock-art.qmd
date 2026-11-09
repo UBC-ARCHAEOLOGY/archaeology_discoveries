@@ -45,6 +45,27 @@ Additional candidate / 补充建议
 - [National Geographic](https://www.nationalgeographic.com/history/article/worlds-oldest-rock-art-indonesia-hand-stencil)
 - [Nature press release](https://www.natureasia.com/en/info/press-releases/detail/9213)
 
+## 页面图像 | Page images
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/20/fig1.png" alt="图1—苏拉威西东南部岩画地点与区域位置" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图1—苏拉威西东南部岩画地点与区域位置—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/20/fig2.png" alt="图2—Liang Metanduno手印岩画及最小年代" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图2—Liang Metanduno手印岩画及最小年代—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/20/fig3.png" alt="图3—激光烧蚀铀系测年与岩画年代关系" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图3—激光烧蚀铀系测年与岩画年代关系—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+</div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Nature article figures](https://www.nature.com/articles/s41586-025-09968-y)
