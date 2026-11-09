@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 import json, re, sys, time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urlparse, unquote
 import requests
@@ -8,7 +9,7 @@ from bs4 import BeautifulSoup
 
 ROOT=Path("docs")
 UA={"User-Agent":"Mozilla/5.0 archaeology-discoveries-link-check/2.1"}
-TIMEOUT=15
+TIMEOUT=8
 
 internal_broken=[]
 external={}
@@ -42,9 +43,13 @@ def check(url):
     except Exception as e:
         return {"status":"unreachable","error":str(e)[:180]}
 
-for i,url in enumerate(external):
-    external[url]=check(url)
-    if i and i%25==0: time.sleep(.3)
+urls=list(external)
+with ThreadPoolExecutor(max_workers=12) as pool:
+    futs={pool.submit(check,u):u for u in urls}
+    for fut in as_completed(futs):
+        u=futs[fut]
+        try: external[u]=fut.result()
+        except Exception as e: external[u]={"status":"unreachable","error":str(e)[:180]}
 
 report={"internal_broken":internal_broken,"external":external}
 (ROOT/"link-report.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
