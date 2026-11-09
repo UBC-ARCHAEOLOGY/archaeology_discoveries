@@ -3,7 +3,7 @@ title-block-style: none
 ---
 
 ::: {.homepage-hero}
-<p class="hero-kicker">ARCHAEOLOGY · 2026 · BILINGUAL RESEARCH GUIDE</p>
+<p class="hero-kicker">ARCHAEOLOGY · 2026 · 中英双语研究指南 / BILINGUAL RESEARCH GUIDE</p>
 
 # 2026 世界考古发现 {.hero-title}
 
@@ -13,7 +13,7 @@ title-block-style: none
 
 <p class="hero-description">This bilingual research guide documents major archaeological discoveries reported in 2026. It begins with the CCTV candidate list and adds internationally significant discoveries highlighted by major journals and media. Each entry records place and period, principal findings, intellectual significance, CCTV selection status, academic publications, media coverage, and image sources.</p>
 
-[浏览全部发现](discoveries.qmd){.btn .btn-primary .me-2} [查看央视候选](cctv.qmd){.btn .btn-outline-primary}
+[浏览全部发现 / Browse all discoveries](discoveries.qmd){.btn .btn-primary .me-2} [央视候选 / CCTV candidates](cctv.qmd){.btn .btn-outline-primary}
 :::
 
 ## 世界地图 | World map
