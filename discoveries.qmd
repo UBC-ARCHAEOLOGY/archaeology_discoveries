@@ -37,3 +37,4 @@ The table below summarizes all entries currently included in the site.
 | 28 | [Cova de la Font Major旧石器时代洞穴刻画](discoveries/28-font-major-rock-art.qmd)<br>Palaeolithic engravings at Cova de la Font Major | Catalonia, Spain / 西班牙加泰罗尼亚 | Palaeolithic / 旧石器时代 | Additional candidate / 补充建议 |
 | 29 | [Etowah密西西比文化中的可可古DNA](discoveries/29-etowah-cacao.qmd)<br>Archaeogenomic evidence for cacao at Etowah | Georgia, USA / 美国乔治亚州 | 11th–12th c. CE / 公元11–12世纪 | Additional candidate / 补充建议 |
 | 30 | [罗马统治与伊比利亚人口结构变化](discoveries/30-roman-iberia-adna.qmd)<br>Roman and post-Roman population change in Iberia | Iberian Peninsula / 伊比利亚半岛 | ca. AD 100–800 / 约公元100–800年 | Additional candidate / 补充建议 |
+| 31 | [Tampa Bay密西西比移民陶工与技术知识](discoveries/31-tampa-bay-migrant-potters.qmd)<br>Migrant Mississippian potters in Tampa Bay | Florida, USA / 美国佛罗里达 | ca. AD 1000–1600 / 约公元1000–1600年 | Additional candidate / 补充建议 |
