@@ -10,13 +10,22 @@ Anatolia, Britain & Europe / 安纳托利亚、英国及欧洲
 **Date / 年代**  
 Late Palaeolithic · ca. 15.8–14.3 ka / 旧石器时代晚期
 
+**Research / excavation institutions / 发掘或研究机构**  
+Natural History Museum (London); Ludwig Maximilian University of Munich; University of Oxford; University of York; Francis Crick Institute; University College London and collaborating archaeological institutions across Türkiye, Britain and Serbia
+
+**Lead researchers / 主要负责人**  
+William A. Marsh; Lachie Scarsbrook; Laurent A. F. Frantz; Ian Barnes; Greger Larson; Anders Bergström
+
+**Evidence status / 证据状态**  
+Top-tier peer-reviewed research (A); best read together with the companion Nature paper on the genomic history of early European dogs.
+
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
 :::
 
 ## 主要发现 | Major findings
 
-**中文。** 大规模犬科考古标本基因组研究识别出安纳托利亚约1.58万年前与英国Gough's Cave约1.43万年前的早期犬，为旧石器时代家犬提供直接遗传证据。
+**中文。** 两篇同期《Nature》研究共同把家犬的可靠遗传证据推进到旧石器时代晚期：安纳托利亚Pınarbaşı约1.58万年前、英国Gough's Cave约1.43万年前，并显示到约1.4万年前遗传上较为同质的犬群已广布西欧与安纳托利亚。
 
 **English.** Large-scale genomic screening of archaeological canids identified early dogs from Anatolia at about 15,800 years ago and from Gough's Cave in Britain at about 14,300 years ago, providing direct Late Palaeolithic genetic evidence.
 
@@ -28,7 +37,8 @@ CCTV candidate / 央视候选
 
 ## 学术论文 | Academic publications
 
-- [Nature](https://www.nature.com/articles/s41586-026-10170-x)
+- [Nature: Dogs were widely distributed across western Eurasia during the Palaeolithic](https://www.nature.com/articles/s41586-026-10170-x)
+- [Nature: Genomic history of early dogs in Europe](https://doi.org/10.1038/s41586-026-10112-7)
 
 ## 主要媒体报道 | Major media coverage
 
