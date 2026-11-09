@@ -1,0 +1,68 @@
+---
+title: "29. 美国Etowah：密西西比文化中的可可古DNA"
+subtitle: "Archaeogenomic evidence for cacao in the Mississippian world at Etowah"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Etowah, Georgia, USA / 美国乔治亚州Etowah
+
+**Date / 年代**  
+11th–12th centuries CE / 公元11–12世纪
+
+**Research / excavation institutions / 发掘或研究机构**  
+University of South Carolina; Kennesaw State University; CIRAD; Muséum national d’Histoire naturelle; collaborating institutions
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Adam King; Terry G. Powis; Xavier Argout; Claire Lanaud; collaborating team.
+
+**Evidence grade / 证据等级**  
+B — peer-reviewed archaeogenomic study with authenticated ancient *Theobroma cacao* DNA in two archaeological ceramic-residue samples, but a small positive sample and complex curation/depositional histories require caution.  
+B级——同行评议古基因组研究，在两件考古陶片残留样品中鉴定出经古DNA特征支持的*Theobroma cacao*序列；但阳性样本少，器物保存和沉积过程复杂，需谨慎解释。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——首次把前哥伦布时期可可的直接分子证据扩展到密西西比文化核心区，为美国东南部与更南方地区之间的远距离交换和仪式消费提出新的研究方向。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 可可原产热带美洲，过去北美前哥伦布时期的可靠证据主要来自美国西南部。Etowah位于美国东南部密西西比文化核心区，长期缺乏与中美洲可可直接联系的材料。早期化学残留研究又受到yaupon holly与可可共享甲基黄嘌呤指标的限制，难以仅靠theobromine、caffeine等化合物区分两者。
+
+**English.** Cacao is native to tropical America, and secure pre-contact evidence north of Mexico had previously been concentrated in the American Southwest. Etowah lies in the Mississippian Southeast, where direct evidence for cacao was lacking. Earlier residue studies were also limited because cacao and yaupon holly share key methylxanthine compounds, making chemical identification alone ambiguous.
+
+## 主要发现 | Major findings
+
+**中文。** 研究对三件11–12世纪宴飨情境陶片的残留样品进行古DNA分析，其中两件检出*Theobroma cacao*特异序列。研究团队采用专门古DNA实验室、阴性对照、生物信息学双重筛选和DNA碎片化特征等方法检验现代污染；两件阳性样品的序列长度和扩增行为符合高度降解古DNA的特征。
+
+**English.** Ancient-DNA analyses were conducted on residue samples from three 11th–12th century pottery sherds from feasting contexts. Two yielded sequences specific to *Theobroma cacao*. Dedicated ancient-DNA facilities, negative controls, stringent bioinformatic filtering and fragmentation patterns were used to test against modern contamination, and the positive samples displayed characteristics consistent with highly degraded ancient DNA.
+
+**中文。** 这两件陶片来自Etowah第一座台基土丘建造阶段的宴飨堆积。由于可可不能在当地生长，其存在意味着某种跨区域流动。但现有DNA不能确定可可究竟来自中美洲、美国西南部还是其他中介网络。
+
+**English.** The positive sherds came from feasting deposits associated with construction of Etowah’s first platform mound. Because cacao could not grow locally, its presence implies long-distance movement. The current DNA evidence cannot identify whether it arrived directly from Mesoamerica, through the American Southwest, or through another intermediary network.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这一成果真正改变的是北美东南部前哥伦布交换网络的可能范围。它说明可可至少已经到达Etowah，从而迫使研究者重新考虑密西西比世界与中美洲、美国西南部之间长期被认为很弱的联系。
+
+**English.** The major implication is a wider possible geography of pre-contact exchange in the Eastern Woodlands. The presence of cacao at Etowah requires renewed consideration of connections among the Mississippian world, Mesoamerica and the American Southwest.
+
+**中文。** 但解释必须严格分层。作者明确指出，陶片曾在20世纪中期发掘后清洗和长期保存；虽然古DNA特征支持序列并非现代巧克力污染，但无法完全排除古代沉积后DNA进入陶片。此外，只能较有力地说“Etowah存在并消费过可可”，不能证明这两只具体容器一定盛装可可，也不能由此重建一条确定的贸易路线。
+
+**English.** Interpretation must remain layered. The sherds were washed and curated after mid-twentieth-century excavation. Although ancient-DNA signatures argue against modern chocolate contamination, the authors cannot exclude ancient post-depositional transfer into the ceramic fabric. The evidence strongly supports cacao presence and consumption at Etowah, but does not prove that the two specific vessels necessarily held cacao or reveal a definite trade route.
+
+## 学术出版物 | Academic publications
+
+King, A., Powis, T. G., Argout, X., et al. (2026). Cacao in the Mississippian World: Archaeogenomic evidence for *T. cacao* consumption at the Etowah Site, Georgia. *PLOS ONE, 21*(8), e0353607. https://doi.org/10.1371/journal.pone.0353607
+
+**开放获取状态 | Open-access status.** CC BY. / 文章采用CC BY开放许可。
+
+## 主要媒体报道 | Major media coverage
+
+- [PLOS ONE article](https://doi.org/10.1371/journal.pone.0353607)
+
+## 图像与图版来源 | Images and figure sources
+
+- [PLOS ONE article — CC BY](https://doi.org/10.1371/journal.pone.0353607)
