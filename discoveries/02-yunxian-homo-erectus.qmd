@@ -1,0 +1,44 @@
+---
+title: "2. 湖北郧县约177万年前直立人头骨"
+subtitle: "Yunxian Homo erectus crania dated to ~1.77 million years ago"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Hubei, China / 中国湖北
+
+**Date / 年代**  
+Early Pleistocene · ca. 1.77 Ma / 早更新世 · 约177万年前
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 新的沉积年代研究把郧县人头骨所在层位修正到约177万年前，使这批原位头骨成为东亚最早的一组可靠直立人化石记录之一。
+
+**English.** New sediment dating places the Yunxian crania at about 1.77 million years ago, making them among the earliest securely contextualized Homo erectus fossils in eastern Asia.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这项研究直接进入“人属何时、以多快速度走出非洲并扩散到东亚”的核心争论。郧县的新年代与格鲁吉亚Dmanisi接近，意味着早期Homo在离开非洲后可能很快跨越欧亚大陆，而不是经过漫长的分阶段东进。
+
+**English.** The result bears directly on how quickly early Homo dispersed beyond Africa. The revised age approaches that of Dmanisi in Georgia, suggesting that hominins may have reached far eastern Eurasia soon after the earliest extra-African dispersals rather than only after a long staged expansion.
+
+## 学术论文 | Academic publications
+
+- [Science Advances](https://www.science.org/doi/10.1126/sciadv.ady2270)
+
+## 主要媒体报道 | Major media coverage
+
+- [Archaeology Magazine summary](https://archaeologymag.com/2026/02/1-77-million-year-old-homo-erectus-skulls-in-china/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Science Advances article figures](https://www.science.org/doi/10.1126/sciadv.ady2270)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
