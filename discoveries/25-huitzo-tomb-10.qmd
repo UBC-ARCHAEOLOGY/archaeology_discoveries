@@ -1,0 +1,72 @@
+---
+title: "25. 墨西哥San Pablo Huitzo萨波特克10号墓"
+subtitle: "Tomb 10 at San Pablo Huitzo: an exceptionally preserved Late Classic Zapotec tomb"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Cerro de la Cantera, San Pablo Huitzo, Oaxaca, Mexico / 墨西哥瓦哈卡州San Pablo Huitzo的Cerro de la Cantera
+
+**Date / 年代**  
+Late Classic, around AD 600; broader official range AD 600–900 / 晚期古典时代，约公元600年；官方后续材料给出约公元600–900年
+
+**Research / excavation institutions / 发掘或研究机构**  
+Instituto Nacional de Antropología e Historia (INAH), Secretaría de Cultura, Gobierno de México
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+INAH archaeological, conservation, epigraphic and physical-anthropology teams; detailed publication authorship remains pending.
+
+**Evidence grade / 证据等级**  
+C — official INAH excavation and conservation documentation is substantial, but no peer-reviewed archaeological publication has yet been identified.  
+C级——INAH正式发掘、保护与机构公告提供了较充分的一手信息，但目前尚未检索到同行评议的考古学正式论文。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High, provisional / 高，暂定——保存突出的建筑、雕塑、彩绘和历法铭文为研究Zapotec精英墓葬、祖先崇拜、地方王朝和图像体系提供重要材料，但完整学术意义仍需等待正式发表。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** Oaxaca中央谷地的Zapotec墓葬长期是研究地方王朝、祖先崇拜、书写系统和精英身份的核心材料。San Pablo Huitzo与邻近的Huijazoo/Cerro de la Campana地区拥有重要的古典时代墓葬传统，其中1985年发现的5号墓以大型壁画、人物和历法铭文著称。2026年公布的10号墓因此不是孤立的“华丽墓葬”，而可能为理解Etla谷地晚期古典时代地方政治和谱系传统增加一个保存异常完整的新样本。
+
+**English.** Zapotec tombs of Oaxaca’s Central Valleys are central evidence for local dynasties, ancestor veneration, writing and elite identity. San Pablo Huitzo and the neighboring Huijazoo/Cerro de la Campana area preserve an important Classic-period funerary tradition, including Tomb 5, discovered in 1985 and noted for extensive murals, figures and calendrical inscriptions. Tomb 10 therefore matters not simply as an ornate burial but as a potentially major new source for Late Classic political, genealogical and mortuary history in the Etla Valley.
+
+## 主要发现 | Major findings
+
+**中文。** INAH于2026年1月23日正式公布San Pablo Huitzo的10号墓。墓位于Cerro de la Cantera，年代约公元600年，后续官方材料将其置于约公元600–900年的晚期古典时代。墓室保存阶梯式石板券顶、灰泥和彩绘装饰。入口处以猫头鹰形象构成大型雕塑元素，鸟喙覆盖或包围一张灰泥塑成并上色的人脸；门楣和门框保存历法名号与人物形象。墓内壁画以赭、白、绿、红、蓝等颜色描绘一列携带copal香料的人物。
+
+**English.** INAH formally announced Tomb 10 at San Pablo Huitzo on 23 January 2026. Located at Cerro de la Cantera, the tomb dates to around AD 600; later official reporting places it within the Late Classic period, approximately AD 600–900. The chamber preserves stepped stone roofing, stucco and painted decoration. A large owl motif frames the entrance, with a modeled and painted human face emerging from or covered by the beak. The lintel and jambs preserve calendrical names and human figures, while murals in ochre, white, green, red and blue depict a procession of figures carrying copal.
+
+**中文。** 目前正在进行陶器、图像学、铭文学和人骨分析。官方报道说明，墓室内只保存少量人骨碎片，墓外发现不同时期的小型陶器；因此关于墓主人身份、使用次数和谱系关系的解释仍未完成。
+
+**English.** Ceramic, iconographic, epigraphic and physical-anthropological analyses are ongoing. Official reporting notes that only limited human skeletal fragments survive inside the chamber and that miniature vessels of different periods were found outside it. Interpretation of the tomb occupant, reuse history and dynastic relationships is therefore still incomplete.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 10号墓的主要价值在于保存程度与信息密度。建筑、雕塑、壁画和历法书写同时出现，使其可能成为研究晚期古典时代Zapotec祖先崇拜、地方政治与视觉传播的重要材料。Javier Urcid在媒体访谈中把它称为1985年5号墓之后已知第二大的Zapotec墓葬；这一排序来自专家访谈，不是同行评议发表物，因此本站仅作为背景记录，不把它当作已建立的学术结论。
+
+**English.** Tomb 10 is important because of its preservation and unusually dense combination of architecture, sculpture, mural painting and calendrical writing. It may become a major source for Late Classic Zapotec ancestor veneration, local politics and visual communication. In a media interview, Javier Urcid described it as the second-largest known Zapotec tomb after Tomb 5, but that ranking is an expert comment rather than a peer-reviewed conclusion and is treated here only as contextual information.
+
+**中文。** 墨西哥总统Claudia Sheinbaum在公布发现时称其为墨西哥“十年来最重要的考古发现”。这一说法明确属于政治人物对发现价值的公开评价，不作为本站证据等级或学术重要性评级的依据。根据媒体对发现过程的报道，调查是在收到匿名盗掘举报后展开，这一背景也应与发现本身的学术评价分开。
+
+**English.** When announcing the find, Mexican President Claudia Sheinbaum called it the country’s most important archaeological discovery of the last decade. This is explicitly a political public assessment, not the basis for this site’s evidence grade or scholarly ranking. Media reporting also states that investigation followed an anonymous looting report; that discovery history is recorded separately from evaluation of the archaeology itself.
+
+## 学术出版物 | Academic publications
+
+**截至2026年11月9日尚未检索到同行评议的正式考古学论文。** 当前一手证据主要来自INAH与墨西哥文化部的正式公告、保护工作更新和正在进行的分析说明。  
+**No peer-reviewed archaeological publication has been identified as of 9 November 2026.** Current primary documentation consists of official INAH and Mexican Ministry of Culture announcements, conservation updates and descriptions of analyses in progress.
+
+<!-- APA-V2.1 -->
+
+## 主要媒体报道 | Major media coverage
+
+- [INAH — El Gobierno de México anuncia el descubrimiento de una milenaria tumba zapoteca (January 23, 2026)](https://www.inah.gob.mx/boletines/el-gobierno-de-mexico-anuncia-el-descubrimiento-de-una-milenaria-tumba-zapoteca)
+- [INAH — Preservación de la Tumba 10 de Huitzo (January 29, 2026)](https://inah.gob.mx/boletines/secretaria-claudia-curiel-de-icaza-refrenda-el-compromiso-con-las-comunidades-para-la-preservacion-de-la-tumba-10-de-huitzo)
+- [The Art Newspaper — Ornate 1,400-year-old Zapotec tomb discovered in Mexico (February 11, 2026)](https://www.theartnewspaper.com/2026/02/11/zapotec-tomb-discovered-oaxaca-mexico)
+
+## 图像与图版来源 | Images and figure sources
+
+- [INAH official announcement](https://www.inah.gob.mx/boletines/el-gobierno-de-mexico-anuncia-el-descubrimiento-de-una-milenaria-tumba-zapoteca)
+- [INAH — El guardián del Inframundo de la tumba de Huitzo](https://www.inah.gob.mx/foto-del-dia/el-guardian-del-inframundo-de-la-tumba-de-huitzo)
