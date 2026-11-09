@@ -11,14 +11,18 @@ Anatolia, Britain & Europe / 安纳托利亚、英国及欧洲
 Late Palaeolithic · ca. 15.8–14.3 ka / 旧石器时代晚期
 
 **Research / excavation institutions / 发掘或研究机构**  
-Natural History Museum (London); Ludwig Maximilian University of Munich; University of Oxford; University of York; Francis Crick Institute; University College London and collaborating archaeological institutions across Türkiye, Britain and Serbia
+Natural History Museum (London); Ludwig Maximilian University of Munich; University of Oxford; University of York and collaborating archaeological institutions across Türkiye, Britain, Switzerland and continental Europe
 
-**Lead researchers / 主要负责人**  
-William A. Marsh; Lachie Scarsbrook; Laurent A. F. Frantz; Ian Barnes; Greger Larson; Anders Bergström
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Palaeolithic western Eurasia study: William A. Marsh; Lachie Scarsbrook; Greger Larson; Ian Barnes; Laurent A. F. Frantz.  
+Early European dog genomic-history study: Anders Bergström and colleagues.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); best read together with the companion Nature paper on the genomic history of early European dogs.  
-中文：顶级同行评议研究（A级）；应与同期关于欧洲早期家犬基因组史的Nature论文合并阅读。
+**Evidence grade / 证据等级**  
+A — two peer-reviewed *Nature* studies with directly dated, genome-wide ancient-DNA evidence.  
+A级——两篇《Nature》同行评议论文，包含直接测年和全基因组范围的古DNA证据。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——把可靠家犬遗传证据推进到旧石器时代晚期，并显示家犬在农业出现之前已经形成广域交流与区域分化。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -32,9 +36,9 @@ CCTV candidate / 央视候选
 
 ## 主要发现 | Major findings
 
-**中文。** 两篇同期《Nature》研究共同把家犬的可靠遗传证据推进到旧石器时代晚期：安纳托利亚Pınarbaşı约1.58万年前、英国Gough's Cave约1.43万年前，并显示到约1.4万年前遗传上较为同质的犬群已广布西欧与安纳托利亚。
+**中文。** 两篇同期 *Nature* 研究共同把可靠的家犬遗传证据推进到旧石器时代晚期。第一篇确认安纳托利亚 Pınarbaşı 约1.58万年前和英国 Gough's Cave 约1.43万年前的犬类属于家犬；第二篇则确认瑞士 Kesslerloch 约1.42万年前的家犬，并显示欧洲家犬的遗传分化在此时已经形成。Pınarbaşı 的幼犬与人类墓葬同处，稳定同位素还显示其饮食包含水生资源；遗址中丰富的小型淡水鱼提示人类很可能直接或间接给狗喂鱼。这些情境证据与基因组结果共同说明，人犬关系在农业出现之前已经相当紧密。
 
-**English.** Large-scale genomic screening of archaeological canids identified early dogs from Anatolia at about 15,800 years ago and from Gough's Cave in Britain at about 14,300 years ago, providing direct Late Palaeolithic genetic evidence.
+**English.** Two companion *Nature* studies together extend secure genetic evidence for domestic dogs into the Late Palaeolithic. One identifies dogs from Pınarbaşı in Anatolia at about 15.8 ka and Gough's Cave in Britain at about 14.3 ka; the companion study confirms a 14.2-ka dog from Kesslerloch in Switzerland and shows that regional differentiation among European dogs was already underway. At Pınarbaşı, perinatal dogs were intentionally buried in human occupation contexts, and isotope data indicate an aquatic dietary component. Because small freshwater fish are common in the human-occupied layers, the authors suggest that people probably provisioned the dogs directly or indirectly with fish. These contextual observations strengthen the genomic evidence for a close human–dog relationship before agriculture.
 
 ## 学术重要性 | Intellectual significance
 
