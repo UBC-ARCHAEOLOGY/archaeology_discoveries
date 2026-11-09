@@ -8,8 +8,8 @@ project:
 
 website:
   title: "2026 世界考古发现 | Archaeological Discoveries 2026"
-  site-url: https://zcjing2022.github.io/archaeology_discoveries/
-  repo-url: https://github.com/ZCJing2022/archaeology_discoveries
+  site-url: https://ubc-archaeology.github.io/archaeology_discoveries/
+  repo-url: https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries
   repo-actions: [edit, issue]
   search: true
   navbar:
@@ -26,7 +26,7 @@ website:
         text: "来源 Sources"
     right:
       - icon: github
-        href: https://github.com/ZCJing2022/archaeology_discoveries
+        href: https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries
   sidebar:
     style: docked
     search: true
