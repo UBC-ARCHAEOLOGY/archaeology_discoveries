@@ -3,21 +3,21 @@
 **Project:** 2026 世界考古发现 | Archaeological Discoveries 2026  
 **Current review baseline:** V2.3 rolling update  
 **V2.2 locked editorial baseline:** `dd6c083df0477f1ab85b0b06739f0fc8630ffb6e`  
-**Current formal list:** 34 discoveries (16 CCTV candidates + 18 additional candidates)  
-**Current under-review pool:** 10 candidate projects, plus one Stonehenge research update/correction  
+**Current formal list:** 33 discoveries (16 CCTV candidates + 17 additional candidates)  
+**Current under-review pool:** 11 candidate projects, plus one Stonehenge research update/correction  
 **Tentative ranking:** 44 ranked candidate projects; Stonehenge update is not ranked
 
 ## What the editor should review first | 编辑优先审阅内容
 
 ### 1. New formal entries added after the V2.2 baseline
-Please review **discoveries 24–34** in full:
+Please review **discoveries 24–34** in full as the V2.3 change set. Items 24–28 and 30–34 are formal additions; item 29 (Etowah cacao) was returned to under review during this re-review and should be checked as a status-change case:
 
 - 24 Shég’ Xdaltth’í’, Alaska
 - 25 San Pablo Huitzo Tomb 10, Oaxaca
 - 26 Plain of Jars Site 75 “death jar”
 - 27 Maya mercury pollution and aquatic ecosystem collapse
 - 28 Cova de la Font Major Palaeolithic engravings
-- 29 Etowah cacao archaeogenomics
+- 29 Etowah cacao archaeogenomics — **returned to under review / Reanalysis**
 - 30 Roman/post-Roman population genomics in Iberia
 - 31 Tampa Bay migrant potters
 - 32 Karatau Early Palaeolithic chronology
@@ -59,7 +59,7 @@ The V2.2 baseline files `RELEASE_V2_2.md` and `EDITORIAL_RESPONSE_V2_2.md` are i
 
 ## Specific editorial questions | 本轮特别希望编辑回答的问题
 
-1. Are discoveries 24–34 all defensible as formal “Additional candidates” under the stated criteria?
+1. Are the current formal V2.3 additions (24–28 and 30–34) defensible as Additional candidates, and is the decision to return #29 Etowah to under review appropriate?
 2. Does the 44-project tentative ranking appropriately prioritize field archaeology and scholarly significance over journal prestige and method novelty?
 3. Are there any cases where regional/chronological balance has artificially inflated a weaker discovery?
 4. Conversely, are there strong field discoveries currently ranked too low because they lack high-profile publication?
@@ -73,7 +73,7 @@ The V2.2 baseline files `RELEASE_V2_2.md` and `EDITORIAL_RESPONSE_V2_2.md` are i
 2. `ranking.qmd`
 3. `methods.qmd`
 4. `V2_3_BALANCE_AUDIT.md`
-5. `discoveries/24-*.qmd` through `discoveries/34-*.qmd`
+5. `discoveries/24-*.qmd` through `discoveries/34-*.qmd` — the complete V2.3 change set, including #29 Etowah as a returned-to-review case
 6. `under-review.qmd`
 7. `CONTENT_REVIEW_V2_3.md` for continuous full-text search
 8. rendered `offline_site/` and `visual_qa/` for layout / navigation / map checking
