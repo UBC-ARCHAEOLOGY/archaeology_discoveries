@@ -71,6 +71,27 @@ The article is **CC BY 4.0**. Preferred figures:
 
 [Open-access article and figures](https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D)
 
+## 页面图像 | Page images
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/13/fig1.png" alt="图1—阿尔吉什蒂希尼利与亚拉拉特平原研究区" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图1—阿尔吉什蒂希尼利与亚拉拉特平原研究区—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/13/fig2.png" alt="图2—遗址周边古代与现代水管理景观" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图2—遗址周边古代与现代水管理景观—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/13/fig3.png" alt="图3—遥感识别的运河、古河道与地形信息" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图3—遥感识别的运河、古河道与地形信息—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
+</div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Antiquity article figures](https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D)
