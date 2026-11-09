@@ -13,12 +13,15 @@ Classical–Hellenistic antiquity / 古典—希腊化时期
 **Research / excavation institutions / 发掘或研究机构**  
 Hellenic Ministry of Culture; Chinese School of Classical Studies at Athens; Ephorate of Antiquities of Aetolia-Acarnania and Lefkada
 
-**Lead researchers / 主要负责人**  
-Olympia Vikatou (programme director); Li Xinwei (Chinese-side lead)
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Olympia Vikatou (programme director); Li Xinwei (head of the Chinese School of Classical Studies at Athens).
 
-**Evidence status / 证据状态**  
-English: First-season institutional field report (D/C); important as international collaboration, but not yet a major interpretive breakthrough.  
-中文：首季机构性田野报告（D/C级）；国际合作意义突出，但尚未形成重大解释性突破。
+**Evidence grade / 证据等级**  
+C — official first-season field report from the Hellenic Ministry of Culture; no peer-reviewed excavation publication yet.  
+C级——希腊文化部发布的首季正式田野报告；尚无同行评议的发掘论文。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Moderate / 中等——首季资料对古阿西诺城市研究和中希长期田野合作具有意义，但尚未形成重大的历史解释突破。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -46,11 +49,11 @@ CCTV candidate / 央视候选
 
 **尚无同行评议论文 | No peer-reviewed publication yet.**
 
-[Hellenic Ministry of Culture. (2026, October 16). *Greek-Chinese archaeological research at Angelokastro in Aetolia-Acarnania*.](https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816)
+Υπουργείο Πολιτισμού. (2026, October 16). *Ελληνοκινεζική αρχαιολογική έρευνα στο Αγγελόκαστρο Αιτωλοακαρνανίας*. https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816
 
-**现有资料内容（中文）。** 2026年首季成果尚无同行评议论文，主要依据希腊文化部的项目报告。报告确认了柱廊庭院建筑、多期使用和相关遗物，但这一阶段的主要意义是建立长期田野资料基础，而不是已经形成新的古典城市史解释。
+**现有资料内容（中文）。** 希腊文化部正式新闻稿确认2026年为五年计划首季，项目由 Olympia Vikatou 负责，Chinese School一方由 Li Xinwei 负责；报告描述了柱廊庭院建筑、多期使用和出土遗物，但尚未形成同行评议论文。
 
-**What the current source shows (English).** The first 2026 season has not yet produced a peer-reviewed publication and is documented primarily through the Hellenic Ministry of Culture project report. The report establishes a peristyle building, multiple use phases and associated finds, but the main contribution at this stage is the creation of a long-term field-data base rather than a new historical interpretation of the city.
+**What the current source shows (English).** The Hellenic Ministry of Culture press release identifies 2026 as the first season of a five-year programme directed by Olympia Vikatou, with Li Xinwei leading the Chinese School side. It reports the peristyle building, multiple phases of use and associated finds, but it is not yet a peer-reviewed excavation publication.
 
 <!-- APA-V2.1 -->
 
