@@ -23,6 +23,8 @@ jobs:
         run: python scripts/enrich_publications.py
       - name: Normalize bilingual content and media tiers
         run: python scripts/normalize_bilingual_media.py
+      - name: Check bilingual discovery-page structure
+        run: python scripts/check_bilingual.py
       - name: Fetch licence-cleared publication figures
         run: python scripts/fetch_licensed_images.py
       - name: Cache licence-cleared figures in repository
