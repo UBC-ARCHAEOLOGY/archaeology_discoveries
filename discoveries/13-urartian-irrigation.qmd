@@ -17,7 +17,8 @@ Department of Oriental Archaeology, University of Warsaw; Institute of Archaeolo
 Nazarij Buławka; Krzysztof Jakubiak; Inessa Karapetyan
 
 **Evidence status / 证据状态**  
-English: Peer-reviewed specialist-journal research (B); remote-sensing interpretation is strong, but ancient-canal attribution is partly inferential rather than directly dated.  
+English: English: Peer-reviewed specialist-journal research (B); remote-sensing interpretation is strong, but ancient-canal attribution is partly inferential rather than directly dated.  
+中文：同行评议专业期刊研究（B级）；遥感证据较强，但部分古代运河的年代归属仍依赖空间推断。
 中文：同行评议专业期刊研究（B级）；遥感证据较强，但部分古代运河的年代归属仍依赖空间推断。
 
 **CCTV status / 央视遴选状态**  
@@ -66,21 +67,21 @@ BuÅawka, N., Jakubiak, K., & Karapetyan, I. (2026). The water management arou
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/13/fig1.png" alt="图1—阿尔吉什蒂希尼利与亚拉拉特平原研究区 / Figure 1—Argishtikhinili and the Ararat Plain study area" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/13/fig1.png" alt="图1—阿尔吉什蒂希尼利与亚拉拉特平原研究区 / Figure 1—Argishtikhinili and the Ararat Plain study area / Figure 1—Argishtikhinili and the Ararat Plain study area" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—阿尔吉什蒂希尼利与亚拉拉特平原研究区 / Figure 1—Argishtikhinili and the Ararat Plain study area—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—阿尔吉什蒂希尼利与亚拉拉特平原研究区 / Figure 1—Argishtikhinili and the Ararat Plain study area / Figure 1—Argishtikhinili and the Ararat Plain study area—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/13/fig2.png" alt="图2—遗址周边古代与现代水管理景观 / Figure 2—Ancient and modern water-management landscape around the site" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/13/fig2.png" alt="图2—遗址周边古代与现代水管理景观 / Figure 2—Ancient and modern water-management landscape around the site / Figure 2—Ancient and modern water-management landscape around the site" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—遗址周边古代与现代水管理景观 / Figure 2—Ancient and modern water-management landscape around the site—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—遗址周边古代与现代水管理景观 / Figure 2—Ancient and modern water-management landscape around the site / Figure 2—Ancient and modern water-management landscape around the site—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/13/fig3.png" alt="图3—遥感识别的运河、古河道与地形信息 / Figure 3—Remotely sensed canals, palaeochannels and terrain" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/13/fig3.png" alt="图3—遥感识别的运河、古河道与地形信息 / Figure 3—Remotely sensed canals, palaeochannels and terrain / Figure 3—Remotely sensed canals, palaeochannels and terrain" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—遥感识别的运河、古河道与地形信息 / Figure 3—Remotely sensed canals, palaeochannels and terrain—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—遥感识别的运河、古河道与地形信息 / Figure 3—Remotely sensed canals, palaeochannels and terrain / Figure 3—Remotely sensed canals, palaeochannels and terrain—来源 Source：Antiquity—作者 Author：Buławka, Jakubiak & Karapetyan 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D" target="_blank">原文链接 Original</a></p>
 </div>
 
 

@@ -17,7 +17,8 @@ University of Reading; University of Tübingen; American School of Classical Stu
 Annemieke Milks; Katerina Harvati; Eleni Panagopoulou; Vangelis Tourloukis; Panagiotis Karkanas
 
 **Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A).  
+English: English: Top-tier peer-reviewed research (A).  
+中文：顶级同行评议研究（A级）。
 中文：顶级同行评议研究（A级）。
 
 **CCTV status / 央视遴选状态**  
@@ -69,21 +70,21 @@ Milks, A., Ntinou, M., Koutalis, S., Michailidis, D., Konidaris, G. E., Giusti, 
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/03/fig1.png" alt="图1—Marathousa 1遗址与木器发现背景 / Figure 1—Marathousa 1 site and wooden-tool context" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/03/fig1.png" alt="图1—Marathousa 1遗址与木器发现背景 / Figure 1—Marathousa 1 site and wooden-tool context / Figure 1—Marathousa 1 site and wooden-tool context" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—Marathousa 1遗址与木器发现背景 / Figure 1—Marathousa 1 site and wooden-tool context—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—Marathousa 1遗址与木器发现背景 / Figure 1—Marathousa 1 site and wooden-tool context / Figure 1—Marathousa 1 site and wooden-tool context—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/03/fig2.png" alt="图2—43万年前木制手持工具及加工痕迹 / Figure 2—Handheld wooden tools and modification traces from about 430 ka" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/03/fig2.png" alt="图2—43万年前木制手持工具及加工痕迹 / Figure 2—Handheld wooden tools and modification traces from about 430 ka / Figure 2—Handheld wooden tools and modification traces from about 430 ka" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—43万年前木制手持工具及加工痕迹 / Figure 2—Handheld wooden tools and modification traces from about 430 ka—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—43万年前木制手持工具及加工痕迹 / Figure 2—Handheld wooden tools and modification traces from about 430 ka / Figure 2—Handheld wooden tools and modification traces from about 430 ka—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/03/fig3.png" alt="图3—木器使用痕迹与比较分析 / Figure 3—Use traces and comparative analysis of the wooden implements" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/03/fig3.png" alt="图3—木器使用痕迹与比较分析 / Figure 3—Use traces and comparative analysis of the wooden implements / Figure 3—Use traces and comparative analysis of the wooden implements" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—木器使用痕迹与比较分析 / Figure 3—Use traces and comparative analysis of the wooden implements—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—木器使用痕迹与比较分析 / Figure 3—Use traces and comparative analysis of the wooden implements / Figure 3—Use traces and comparative analysis of the wooden implements—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
 </div>
 
 

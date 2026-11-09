@@ -17,7 +17,8 @@ CONICET and Argentine archaeological teams; Institut Pasteur / Université Paris
 Ramiro Barberena; Nicolás Rascovan and collaborating ancient-DNA researchers
 
 **Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); exemplary integration of genomics, isotopes, pathogens, palaeoclimate, archaeology and Indigenous-community collaboration.  
+English: English: Top-tier peer-reviewed research (A); exemplary integration of genomics, isotopes, pathogens, palaeoclimate, archaeology and Indigenous-community collaboration.  
+中文：顶级同行评议研究（A级）；在古基因组、同位素、病原体、古气候、考古和原住民社区合作方面整合度很高。
 中文：顶级同行评议研究（A级）；在古基因组、同位素、病原体、古气候、考古和原住民社区合作方面整合度很高。
 
 **CCTV status / 央视遴选状态**  
@@ -64,7 +65,7 @@ Barberena, R., Luisi, P., Novellino, P., Tessone, A., Guevara, D., GarcÃ­a, A.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10233-z" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10233-z" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

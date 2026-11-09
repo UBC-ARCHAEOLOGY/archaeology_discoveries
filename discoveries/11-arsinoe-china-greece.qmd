@@ -17,7 +17,8 @@ Hellenic Ministry of Culture; Chinese School of Classical Studies at Athens; Eph
 Olympia Vikatou (programme director); Li Xinwei (Chinese-side lead)
 
 **Evidence status / 证据状态**  
-English: First-season institutional field report (D/C); important as international collaboration, but not yet a major interpretive breakthrough.  
+English: English: First-season institutional field report (D/C); important as international collaboration, but not yet a major interpretive breakthrough.  
+中文：首季机构性田野报告（D/C级）；国际合作意义突出，但尚未形成重大解释性突破。
 中文：首季机构性田野报告（D/C级）；国际合作意义突出，但尚未形成重大解释性突破。
 
 **CCTV status / 央视遴选状态**  
@@ -70,9 +71,9 @@ CCTV candidate / 央视候选
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://daysofart.gr/en/news/from-ministry/greek-chinese-archaeological-research-at-angelokastro-in-aetolia-acarnania/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://daysofart.gr/en/news/from-ministry/greek-chinese-archaeological-research-at-angelokastro-in-aetolia-acarnania/" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

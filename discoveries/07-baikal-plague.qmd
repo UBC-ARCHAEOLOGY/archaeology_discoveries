@@ -17,7 +17,8 @@ University of Oxford; University of Copenhagen (Globe Institute); University of 
 Ruairidh Macleod; Frederik V. Seersholm; Martin Sikora; Eske Willerslev; Andrzej W. Weber
 
 **Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); one of the strongest 2026 candidates.  
+English: English: Top-tier peer-reviewed research (A); one of the strongest 2026 candidates.  
+中文：顶级同行评议研究（A级）；是2026年最有分量的候选项目之一。
 中文：顶级同行评议研究（A级）；是2026年最有分量的候选项目之一。
 
 **CCTV status / 央视遴选状态**  
@@ -75,21 +76,21 @@ Macleod, R., Seersholm, F. V., De Sanctis, B., Lieverse, A., Timpson, A., Schult
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/07/fig1.png" alt="图1—贝加尔湖墓地、年代与鼠疫阳性个体分布 / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/07/fig1.png" alt="图1—贝加尔湖墓地、年代与鼠疫阳性个体分布 / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—贝加尔湖墓地、年代与鼠疫阳性个体分布 / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—贝加尔湖墓地、年代与鼠疫阳性个体分布 / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/07/fig2.png" alt="图2—古代鼠疫感染个体的亲属关系与疫情结构 / Figure 2—Kinship and outbreak structure among plague-positive individuals" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/07/fig2.png" alt="图2—古代鼠疫感染个体的亲属关系与疫情结构 / Figure 2—Kinship and outbreak structure among plague-positive individuals / Figure 2—Kinship and outbreak structure among plague-positive individuals" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—古代鼠疫感染个体的亲属关系与疫情结构 / Figure 2—Kinship and outbreak structure among plague-positive individuals—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—古代鼠疫感染个体的亲属关系与疫情结构 / Figure 2—Kinship and outbreak structure among plague-positive individuals / Figure 2—Kinship and outbreak structure among plague-positive individuals—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/07/fig3.png" alt="图3—早期鼠疫杆菌的系统发育位置 / Figure 3—Phylogenetic position of early Yersinia pestis" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/07/fig3.png" alt="图3—早期鼠疫杆菌的系统发育位置 / Figure 3—Phylogenetic position of early Yersinia pestis / Figure 3—Phylogenetic position of early Yersinia pestis" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—早期鼠疫杆菌的系统发育位置 / Figure 3—Phylogenetic position of early Yersinia pestis—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—早期鼠疫杆菌的系统发育位置 / Figure 3—Phylogenetic position of early Yersinia pestis / Figure 3—Phylogenetic position of early Yersinia pestis—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
 </div>
 
 
