@@ -1,0 +1,50 @@
+---
+title: "23. Kayalıpınar（Šamuḫa）赫梯王室档案"
+subtitle: "The Hittite royal archive from Kayalıpınar (Šamuḫa)"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Kayalıpınar (ancient Šamuḫa), Sivas, Türkiye / 土耳其中部Sivas省
+
+**Date / 年代**  
+Reign of Tudhaliya II, ca. 1400 BCE / 图塔利亚二世时期，约公元前1400年
+
+**Research / excavation institutions / 发掘或研究机构**  
+Koç University; Türkiye Ministry of Culture and Tourism
+
+**Lead researchers / 主要负责人**  
+Çiğdem Maner (excavation director)
+
+**Evidence status / 证据状态**  
+Major field discovery (D/C): official excavation announcement; tablets are still being read and full scholarly publication is pending.
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 2026年发掘新出131块楔形文字泥板及残片，与2025年的53块合计184块，被发掘团队视为一组赫梯王室档案。初步释读内容包括高热疫情、婴幼儿死亡、王室成员丧葬、鸟卜、祈祷以及前线将领请求军队、马匹和战车的信件。
+
+**English.** Excavations in 2026 recovered 131 cuneiform tablets and fragments; together with 53 pieces found in 2025, the corpus now totals 184. Preliminary readings include references to a fever epidemic, infant and royal death, funerary rites, bird divination, prayers, and military correspondence requesting troops, horses, and chariots.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 哈图沙以外保存成组王室文书的地点很少。Šamuḫa档案可能让研究者从区域性王室中心内部观察战争、疾病、占卜与行政实践。不过目前文本仍在释读，所谓“21世纪最大的赫梯语档案”等说法来自发掘方与官方发布，应在正式出版后再评估。
+
+**English.** Coherent royal archives outside Hattusa are uncommon. The Šamuḫa material could provide an unusually direct view of warfare, disease, divination, and administration at a regional royal centre. At present, however, the texts remain under study and claims about the archive’s scale should be reassessed after full publication.
+
+## 学术论文 | Academic publications
+
+- Formal edition and translations pending / 正式释读与论文待发表
+
+## 主要媒体报道 | Major media coverage
+
+- [National Geographic](https://www.nationalgeographic.com/history/article/hittites-cuneiform-tablets-discovery)
+- [Hürriyet Daily News](https://www.hurriyetdailynews.com/cuneiform-tablets-from-hittite-king-unearthed-227946)
+- [CNRS Le journal](https://lejournal.cnrs.fr/nos-blogs/breves-mesopotamiennes/decouverte-dune-archive-royale-hittite-a-samuha)
+
+## 图像与图版来源 | Images and figure sources
+
+- Türkiye Ministry of Culture and Tourism imagery as reproduced in the linked reports
