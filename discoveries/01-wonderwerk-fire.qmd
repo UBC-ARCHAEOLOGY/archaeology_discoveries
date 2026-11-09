@@ -13,12 +13,15 @@ Early Pleistocene · ca. 1.7–1.8 Ma / 早更新世 · 约170–180万年前
 **Research / excavation institutions / 发掘或研究机构**  
 Wonderwerk Cave Research Project; University of Toronto; Museo Nacional de Ciencias Naturales–CSIC; Hebrew University of Jerusalem; UNS–CONICET, Argentina
 
-**Lead researchers / 主要负责人**  
-Michael Chazan; Yolanda Fernández-Jalvo; M. Dolores Marin-Monfort
+**Key researchers / project leads / 主要研究者或项目负责人**  
+M. Dolores Marin-Monfort; Yolanda Fernández-Jalvo; Michael Chazan.
 
-**Evidence status / 证据状态**  
-English: Peer-reviewed specialist journal (B); important new method and early-fire evidence, but the age should be expressed as a range.  
-中文：同行评议专业期刊研究（B级）；提供重要的新方法和早期用火证据，但年代应以区间表达。
+**Evidence grade / 证据等级**  
+B — peer-reviewed specialist-journal research with direct contextual evidence and a new analytical screening method.
+B级——专业期刊同行评议研究，具有直接考古情境和新的分析筛查方法。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——若早更新世层位的人为用火解释成立，将显著推进火使用时间尺度；但年代区间和人为性仍需谨慎表达。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
