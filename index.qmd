@@ -18,11 +18,13 @@ title-block-style: none
 
 ## 世界地图 | World map
 
-下图标出目前收录的全部23项发现。蓝色为央视候选，橙色为补充建议。点击标记可查看中英文标题并进入相应发现页面。对于跨区域研究（如早期家犬和凯尔特/日耳曼古基因组），地图使用具有代表性的研究地点或区域中心，而不是把一个研究强行简化为单一地点。
+::: {.callout-note title="地图说明 | Map guide"}
+**中文。** 下图标出目前收录的**全部23项发现**。**蓝色**为央视候选，**橙色**为补充建议。将鼠标停留在标记上可查看中英文名称；点击标记即可进入相应发现页面。对于跨区域研究（如早期家犬和凯尔特/日耳曼古基因组），地图使用具有代表性的研究地点或区域中心，而不是把一个研究强行简化为单一地点。
 
-The map shows all 23 discoveries currently included in the project. Blue markers are CCTV candidates and orange markers are additional candidates. Click a marker to open the bilingual discovery page. For multi-regional studies, a representative site or regional centre is used.
+**English.** The map shows **all 23 discoveries** currently included in the project. **Blue** markers are CCTV candidates and **orange** markers are additional candidates. Hover over a marker to see the bilingual title, and click it to open the discovery page. For multi-regional studies, a representative site or regional centre is used rather than reducing the research to a single location.
+:::
 
-<iframe src="map.html" title="Interactive map of 2026 archaeological discoveries" style="width:100%;height:560px;border:1px solid #dce5e8;border-radius:10px;"></iframe>
+<iframe src="map.html" title="Interactive map of 2026 archaeological discoveries" style="width:100%;height:500px;border:1px solid #dce5e8;border-radius:10px;background:#f7fbfc;"></iframe>
 
 ## 本站如何理解“大发现” | What counts as a major discovery?
 
