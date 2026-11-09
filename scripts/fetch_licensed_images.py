@@ -30,6 +30,14 @@ RULES=[
     ("19","https://www.nature.com/articles/s41586-026-11198-9",[1,2,3],"CC BY 4.0"),
     ("20","https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/",[1,2,3],"CC BY-NC-ND 4.0"),
 ]
+DIRECT_FALLBACKS={
+    "19": {
+        1: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-11198-9/MediaObjects/41586_2026_11198_Fig1_HTML.png",
+        2: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-11198-9/MediaObjects/41586_2026_11198_Fig2_HTML.png",
+        3: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-026-11198-9/MediaObjects/41586_2026_11198_Fig3_HTML.png",
+    }
+}
+
 RIGHTS_RE=re.compile(r"(reproduced with permission|copyright|©|courtesy of|image credit|photo credit)",re.I)
 
 def figure_candidates(soup):
@@ -83,9 +91,14 @@ def fetch(folder,url,wanted,licence):
     log=[]
     for n in wanted:
         if n not in bynum:
-            log.append(f"Fig {n}: not found")
-            continue
-        src,cap=bynum[n]
+            direct = DIRECT_FALLBACKS.get(folder, {}).get(n)
+            if direct:
+                src, cap = direct, f"Figure {n}; direct Springer Nature media object; article licence {licence}"
+            else:
+                log.append(f"Fig {n}: not found")
+                continue
+        else:
+            src,cap=bynum[n]
         if RIGHTS_RE.search(cap):
             log.append(f"Fig {n}: SKIPPED third-party/copyright wording: {cap[:240]}")
             continue
