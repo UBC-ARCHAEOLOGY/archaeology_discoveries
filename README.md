@@ -15,3 +15,6 @@ V2.2 was finalized on 2026-11-09. The locked editorial baseline is commit `dd6c0
 
 See [RELEASE_V2_2.md](RELEASE_V2_2.md) for the finalization record, QA status, and baseline rule for subsequent work.
 
+## V2.3 balance audit
+
+The rolling-update phase now includes a formal regional, chronological, evidentiary, and discovery-type audit. See [V2_3_BALANCE_AUDIT.md](V2_3_BALANCE_AUDIT.md) for the current balance assessment and targeted gap-search priorities.
