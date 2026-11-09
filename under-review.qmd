@@ -16,18 +16,18 @@ This page records 2026 discoveries and studies of clear scholarly interest that 
 
 ### 第一档：高优先级晋升候选 | Tier 1 — High-priority promotion review
 
-本轮从第二档中筛出3项进入下一轮独立深审。  
-Three Tier 2 items have been promoted for the next independent deep review.
+本轮三项已完成独立深审：**Etowah cacao = PROMOTE；Roman Iberia aDNA = PROMOTE；Kekova shipwreck = HOLD**。前两项已移入正式补充建议名单；Kekova继续保留待评估。  
+The three Tier 1 items have completed independent deep review: **Etowah cacao = PROMOTE; Roman Iberia aDNA = PROMOTE; Kekova shipwreck = HOLD**. The first two have moved to the main additional-candidate list; Kekova remains under review.
 
-1. **Etowah可可古DNA** — *PLOS ONE*同行评议；两件11–12世纪宴飨情境陶片中检出具有古DNA损伤特征的*Theobroma cacao*特异序列，直接把可可的已知前哥伦布时期分布扩展到美国东南部。主要限制是样本仅两件阳性陶片、器物曾清洗保存，而且DNA进入器壁的具体使用过程仍不能完全确定。
-2. **罗马统治与伊比利亚人口结构变化** — *Cell*；243名新测古代个体加58名既有个体，直接比较罗马帝国时期与后罗马政治迁徙的人口影响。优势是样本量和比较设计都很强；主要问题不是证据硬度，而是它属于跨31处遗址的大尺度古基因组综合，下一轮需判断是否符合本站“考古发现”边界。
-3. **Kekova早青铜时代沉船** — *Journal of Maritime Archaeology*同行评议，且2026年进一步水下调查持续增加材料。其潜在意义极高，但船体未保存，年代主要依赖陶器类型学，三件石锚与同一船只的关系尚未完全确定；下一轮重点核查“最古老沉船”这一超级纪录是否足够稳固。
+当前暂无未完成深审的第一档项目。  
+No Tier 1 item is currently awaiting deep review.
 
 ### 第二档：继续观察 | Tier 2 — Continue monitoring
 
+- **Kekova早青铜时代沉船 — HOLD**：同行评议论文真实、潜在意义很高，但仍属preliminary report；木质船体未保存，年代主要依赖陶器类型学，三件石锚是否属于该船尚不确定。“世界最古老沉船”不能仅依赖Guinness或媒体认定。
 - **Tunnug 1大麻使用证据 — HOLD**：直接测年与葬仪情境很强，但毛发证据能否排除外部接触仍存在实质争议。
-- **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告；年代方法、构造细节和功能诊断尚未完全公开，因此暂不升级。
-- **Tampa Bay移民陶工社群** — *American Antiquity*同行评议、成分与岩相证据扎实，能够支持移民陶工与技术知识传播；但目前影响主要集中在Tampa Bay区域，而且属于既有陶器材料产生的新解释，暂不进入下一轮优先深审。
+- **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告。
+- **Tampa Bay移民陶工社群** — 同行评议和材料分析扎实，但目前主要改变区域性迁徙与技术传统问题。
 - **美国西南祖先Pueblo蓝铜矿溯源** — 方法明确，但考古样本量小。
 - **Holzman石器与猛犸象牙生产** — 对最早阿拉斯加人群重要，但2026年的贡献主要是综合性推进。
 - **北美晚更新世骰子与机会游戏** — 识别方法有创新，但“概率认知”属于更高层解释。
@@ -89,7 +89,8 @@ Kekova region, Antalya, Türkiye / 土耳其安塔利亚Kekova海域；proposed 
 **English.** The underwater site preserves roughly 30 Early Bronze Age amphorae and three stone anchors, but no wooden hull survives. Based on amphora form, decoration, fabric and regional comparison, the team interprets the assemblage as an Early Bronze Age trading vessel and proposes it as the oldest known shipwreck.
 
 **学术判断 | Assessment**  
-**中文。** 值得继续关注，但“世界最古老沉船”的年代目前主要建立在陶器类型学和比较材料上，石锚是否属于同一船只也尚未完全确定。它具有真实的同行评议论文基础，但超级纪录式标题应保持谨慎。
+**独立深审结论：HOLD / Independent deep-review decision: HOLD.**  
+**中文。** 值得继续关注，但现阶段不晋升正式名单。“世界最古老沉船”的年代目前主要建立在陶器类型学和比较材料上，石锚是否属于同一船只也尚未完全确定。它具有真实的同行评议论文基础，但超级纪录式标题应保持谨慎。
 
 **English.** The discovery merits continued attention, but the “world's oldest shipwreck” claim currently rests mainly on ceramic typology and comparison, while the association of the stone anchors with the vessel is not fully secure. The site has a peer-reviewed publication, but the superlative claim should remain provisional.
 
@@ -210,25 +211,8 @@ Potter, B. A., et al. (2026). Stone and mammoth ivory tool production, circulati
 **Publication / 出版物**  
 Madden, R. J. (2026). Probability in the Pleistocene: Origins and antiquity of Native American dice, games of chance, and gambling. *American Antiquity, 91*, 584–618.
 
-## 9. Etowah密西西比文化遗址的可可古DNA | Archaeogenomic evidence for cacao at Etowah
 
-**地区与年代 | Region and date**  
-Etowah, Georgia, USA / 美国乔治亚州Etowah；11–12世纪。
-
-**主要发现 | Major findings**  
-**中文。** King等从Etowah早期筑丘阶段宴飨堆积中的陶片内表面提取并鉴定出与*Theobroma cacao*一致的古DNA信号。由于可可无法在乔治亚当地生长，如果这一鉴定成立，就意味着可可通过跨区域交换网络到达了北美东南部，其传播范围远超此前较明确的美国西南部材料。
-
-**English.** Ancient DNA consistent with *Theobroma cacao* was recovered from the interior surfaces of pottery sherds from feasting contexts associated with Etowah’s early mound-building phase. Because cacao could not have grown locally in Georgia, the result implies long-distance movement of cacao into the Mississippian Southeast, extending its known pre-contact distribution beyond the better-documented American Southwest.
-
-**学术判断 | Assessment**  
-**中文。** **值得待评估。** 同行评议论文和古DNA证据使它具有真实分量，但材料来自20世纪中期发掘、之后长期清洗和保存的陶片，污染和具体使用情境仍需谨慎讨论。研究能较有力支持“Etowah存在可可”，但尚不能确定产地、交换路线或具体饮用方式。
-
-**English.** **Worth retaining under review.** The peer-reviewed archaeogenomic evidence is significant, but the sherds were excavated and curated decades ago, so contamination and precise use context require caution. The study supports cacao presence at Etowah more strongly than it establishes its source, exchange route or exact mode of consumption.
-
-**Publication / 出版物**  
-King, A., Powis, T. G., Argout, X., et al. (2026). Cacao in the Mississippian World: Archaeogenomic evidence for *T. cacao* consumption at the Etowah Site, Georgia. *PLOS ONE, 21*(8), e0353607. https://doi.org/10.1371/journal.pone.0353607
-
-## 10. Crawford Lake沉积古DNA与千年人地关系 | Crawford Lake sedaDNA and a millennium of human–environment interactions
+## 9. Crawford Lake沉积古DNA与千年人地关系 | Crawford Lake sedaDNA and a millennium of human–environment interactions
 
 **地区与年代 | Region and date**  
 Crawford Lake, Ontario, Canada / 加拿大安大略Crawford Lake；约过去1300年。
@@ -245,19 +229,4 @@ Crawford Lake, Ontario, Canada / 加拿大安大略Crawford Lake；约过去1300
 
 **Publication / 出版物**  
 Murchie, T. J., Emery, M. V., et al. (2026). Sedimentary ancient DNA tracks multi-kingdom ecosystem reorganizations following sequential human land use at Crawford Lake. *Molecular Ecology, 35*(17), e70529. https://doi.org/10.1111/mec.70529
-
-## 11. 罗马统治与伊比利亚人口结构变化 | Roman colonization and population change in Iberia
-
-**研究性质 | Nature of the study**  
-**中文。** Carrión等报告243名公元100–800年古代个体的新基因数据，并与58名已发表个体联合分析。研究识别出罗马时期来自东地中海和北非的显著祖源输入；相比之下，5世纪以后日耳曼和Alan政治集团到来后，伊比利亚本地人口整体连续性更强。
-
-**English.** Carrión and colleagues report new genetic data from 243 individuals dating to AD 100–800 and analyze them together with 58 previously published individuals. The study identifies substantial Eastern Mediterranean and North African ancestry influx during Roman rule, whereas population continuity remained stronger after fifth-century Germanic and Alan political takeovers.
-
-**学术判断 | Assessment**  
-**中文。** **高质量古基因组研究，先留待评估。** 样本量和问题意识都很强，能够比较“帝国殖民”与“后罗马政治迁徙”对人口的不同影响。但它属于跨31处遗址的大尺度古基因组综合，而不是单一考古发现，是否晋升取决于本站最终对“综合性新认识”的权重。
-
-**English.** **High-quality archaeogenomic research, retained under review.** The sample and comparative design directly address the contrasting demographic effects of Roman imperial integration and post-Roman political migrations. As a synthesis across 31 archaeological sites rather than a single field discovery, promotion depends on how strongly the final list weights large-scale interpretive advances.
-
-**Publication / 出版物**  
-Carrión, P., et al. (2026). Contrasting demographic impacts of Roman colonization and early medieval migrations in the Iberian Peninsula. *Cell*. https://doi.org/10.1016/j.cell.2026.09.052
 
