@@ -13,12 +13,15 @@ Late Intermediate Period · ca. 600 years ago / 晚期中间期 · 约600年前
 **Research / excavation institutions / 发掘或研究机构**  
 Peru Ministry of Culture; Proyecto Especial Complejo Arqueológico Chan Chan (PECACH)
 
-**Lead researchers / 主要负责人**  
-Jorge Meneses (archaeologist in charge of the investigation / PECACH)
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Jorge Meneses (archaeologist in charge of the investigation, Proyecto Especial Complejo Arqueológico Chan Chan, PECACH).
 
-**Evidence status / 证据状态**  
-English: Major field discovery with official documentation and extensive international coverage; formal full scholarly publication is still pending.  
-中文：重大田野发现，已有官方记录和广泛国际报道；完整同行评议研究仍待发表。
+**Evidence grade / 证据等级**  
+C — major officially documented field discovery, but no full peer-reviewed excavation publication has yet appeared.  
+C级——有官方记录的重大田野发现，但尚未发表完整同行评议发掘报告。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——价值主要来自保存较好的多人墓葬情境、反复葬仪操作和精英身份线索，而不是“未扰动宝藏”本身。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -32,25 +35,29 @@ Additional candidate / 补充建议
 
 ## 主要发现 | Major findings
 
-**中文。** Chan Chan的Utzh An围墙建筑群发现一座近乎完整的Chimú墓葬平台，保存38名个体及金属、贝壳、石英饰物和武器等随葬品。其最大价值是首次让精英墓葬在未被系统盗扰的原始组合关系中接受研究。
+**中文。** 2026年在Chan Chan的Utzh An围墙建筑群南墙外侧、紧贴墙体的位置发现一座大型Chimú墓葬平台，保存至少38名个体及金属、贝壳、石英饰物和武器等随葬品。主持研究的Jorge Meneses明确指出，这不是“原封未动”的一次性埋葬，而是**次生墓葬情境**：部分遗骸在死后被家族成员或墓地管理者反复移动和重新安置，但没有系统盗墓迹象。墓中还包括一具较为罕见的伸直葬个体，与Chimú常见的屈肢或坐姿屈肢葬不同。官方和研究团队也提出个别个体可能涉及人祭，但目前仍是待进一步检验的解释。
 
-**English.** An unusually intact Chimú funerary platform at Chan Chan preserved 38 individuals and rich grave goods, allowing elite burial practices to be examined in a relatively complete archaeological context.
+**English.** In 2026, archaeologists uncovered a large Chimú funerary platform immediately outside and against the southern wall of the Utzh An walled compound at Chan Chan. It contained at least 38 individuals together with metal objects, shell, quartz ornaments, weapons and other grave goods. Jorge Meneses, the archaeologist directing the investigation, explicitly described this as a **secondary funerary context**, not a sealed untouched burial: some remains had been repeatedly moved and rearranged after death by relatives or cemetery attendants, while there was no evidence of systematic looting. One individual was buried fully extended, an unusual treatment compared with more typical Chimú flexed or seated-flexed burials. Officials and researchers have also raised the possibility that some individuals may represent human sacrifice, but that interpretation remains preliminary.
 
 ## 学术重要性 | Intellectual significance
 
-**中文。** Chimú精品长期受到盗墓和收藏史影响，许多器物失去原始组合关系。该发现最重要的是重新获得context：个体身份、随葬品组合、墓葬反复进入和祖先实践可以在原位关系中研究，而不是只依赖博物馆孤立器物。
+**中文。** 这项发现最重要的地方不是“未被扰动”，而是墓葬在未遭盗墓破坏的情况下保存了复杂的**持续性葬仪操作**。遗骸反复移动说明墓葬平台可能长期参与家族纪念、祖先实践或墓地管理，而不是一次性封闭。平台位于Utzh An围墙之外但紧邻南墙，因此Meneses认为墓主和被葬者应属于Chimú社会中的重要人物，却**未必是统治者**。这种空间位置、多人埋葬和非典型伸直葬，为理解Chan Chan精英等级、祖先实践和墓葬管理提供了比“宝物发现”更重要的证据。
 
-**English.** Chimú archaeology has long been distorted by looting and collecting, which stripped many prestigious objects of context. The key contribution here is the recovery of context itself: identities, grave-good associations, repeated tomb access, and ancestor practices can be studied relationally rather than through isolated museum objects.
+**English.** The discovery matters not because it was completely undisturbed, but because it preserves a complex history of **continued mortuary manipulation without systematic looting**. Repeated movement of human remains suggests that the platform remained active in family commemoration, ancestor practices or cemetery management rather than being sealed after a single burial episode. Because it lies outside but directly against the southern wall of Utzh An, Meneses argues that the principal individuals were socially important, though **not necessarily rulers**. The spatial setting, multiple burials and unusual extended interment therefore provide stronger evidence for Chimú hierarchy, ancestor practice and mortuary management than a simple “treasure tomb” narrative.
 
 ## 学术出版物 | Academic publications
 
 **尚无同行评议论文 | No peer-reviewed publication yet.**
 
-[Ministerio de Cultura del Perú / Proyecto Especial Complejo Arqueológico Chan Chan. (2026). *Informe preliminar sobre la plataforma funeraria de Utzh An, Chan Chan*.](https://www.nytimes.com/topic/subject/archaeology-and-anthropology)
+Ministerio de Cultura del Perú. (2026, September 8). *Gran hallazgo de una plataforma funeraria en Chan Chan revela nuevas evidencias sobre la élite Chimú*. https://www.gob.pe/institucion/ddclalibertad/noticias/1443909-gran-hallazgo-de-una-plataforma-funeraria-en-chan-chan-revela-nuevas-evidencias-sobre-la-elite-chimu
 
-**现有资料内容（中文）。** 目前尚无完整同行评议论文，主要依据秘鲁文化部和PECACH的发掘公告及采访。现阶段最可靠的学术价值是墓葬情境保存完整、至少38名个体及其随葬品关系可在原位研究；身份、年代细分和墓葬使用过程仍需正式报告。
+Agencia Peruana de Noticias Andina. (2026). *Peru: Funerary platform with 38 high-status individuals uncovered at Chan Chan*. https://andina.pe/ingles/noticia-peru-funerary-platform-with-38-highstatus-individuals-uncovered-at-chan-chan-1090968.aspx
 
-**What the current source shows (English).** No full peer-reviewed publication has yet appeared; the evidence currently comes from Peru's Ministry of Culture/PECACH field announcements and interviews. The strongest present contribution is the unusually intact mortuary context, allowing at least 38 individuals and associated grave goods to be studied in situ; detailed identity, chronology and tomb-use history await formal publication.
+Agencia Peruana de Noticias Andina. (2026). *Peru: Chan Chan funerary platform reveals Chimu elite rituals 600 years ago*. https://andina.pe/agencia/noticia-peru-chan-chan-funerary-platform-reveals-chimu-elite-rituals-600-years-ago-1091732.aspx
+
+**现有资料内容（中文）。** 官方新闻稿确认墓葬平台、38名个体及丰富随葬品；Andina对Jorge Meneses的采访进一步明确了次生墓葬情境、反复移动遗骸、平台位于Utzh An南墙外侧以及墓主“重要但未必是统治者”等关键信息。现阶段应以这些官方和一手采访资料为依据，不再使用无法核实的“初步报告”题名。
+
+**What the current sources show (English).** The Ministry of Culture release documents the funerary platform, 38 individuals and associated grave goods. Andina's interviews with Jorge Meneses add the crucial interpretation of a secondary funerary context, repeated post-mortem manipulation, the platform's location outside the southern wall of Utzh An, and the conclusion that the principal individuals were important but not necessarily rulers. These official and first-hand interview sources replace the previously unverified “preliminary report” citation.
 
 <!-- APA-V2.1 -->
 
@@ -62,7 +69,6 @@ Additional candidate / 补充建议
 
 ## 主要媒体报道 | Major media coverage
 
-- [The New York Times — “Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands”](https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html)
 - [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/unsealed-for-the-first-time-in-600-years-this-tomb-in-peru-was-just-declared-the-discovery-of-the-decade-180989497/)
 - [National Geographic](https://www.nationalgeographic.com/history/article/peru-tomb-chimu-chan-chan)
 - [Archaeology Magazine](https://archaeology.org/news/2026/09/10/burial-platform-excavated-at-perus-chan-chan/)
@@ -76,7 +82,7 @@ Additional candidate / 补充建议
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.gob.pe/institucion/ddclalibertad/noticias/1443909-gran-hallazgo-de-una-plataforma-funeraria-en-chan-chan-revela-nuevas-evidencias-sobre-la-elite-chimu" target="_blank">View original image / 查看原图 →</a></div>
 
 <div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html" target="_blank">View original image / 查看原图 →</a></div>
 
