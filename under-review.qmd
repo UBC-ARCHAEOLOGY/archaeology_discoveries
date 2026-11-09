@@ -17,14 +17,15 @@ Uyuk Valley, Tuva, southern Siberia, Russia / 俄罗斯图瓦共和国乌尤克�
 **English.** More than 1,000 cannabis seeds and preserved human hair were recovered from the early Scythian monumental burial at Tunnug 1; six seeds were directly radiocarbon dated. Chemical analysis of the hair detected signals consistent with THC-related compounds and degradation products, leading the authors to propose the earliest direct archaeological evidence for psychoactive cannabis use.
 
 **学术判断 | Assessment**  
-**中文。** 值得作为新增候选，但表述必须保守。种子、直接测年和墓葬情境都很强；真正有争议的是作为“实际摄入”核心证据的毛发分析。未参与研究的弗赖堡大学医学中心法医毒理学家 **Volker Auwärter** 认为，这部分分析“科学上较弱”，没有充分排除墓内植物材料造成的外源污染，也没有采用能够更清楚区分摄入与接触的代谢物检验。因此，“墓中存在大麻并与葬仪有关”证据强，“死者明确摄入并用于致幻”仍有实质争论。
+**中文。** 值得作为新增候选，但表述必须保守。种子、直接测年和墓葬情境都很强；真正有争议的是作为“实际摄入”核心证据的毛发分析。美联社报道，未参与研究的弗赖堡大学医学中心法医毒理学家 **Volker Auwärter** 认为，现有毛发数据不足以区分真实摄入与墓中大麻造成的外部接触，并批评论文在这一核心证据上“far short of what would have been possible”。因此，“墓中存在大麻并与葬仪有关”证据强，“死者明确摄入并用于致幻”仍有实质争论。
 
-**English.** This is a strong candidate for future inclusion, but the wording must remain cautious. The seeds, direct dating and funerary context are robust; the disputed step is the hair evidence used to infer actual consumption. **Volker Auwärter**, a forensic toxicologist at University Medical Center Freiburg who was not involved in the study, argued that the hair analysis was scientifically too weak to exclude external contamination from cannabis placed in the tomb and did not use metabolite testing that could more clearly distinguish ingestion from exposure. Evidence for cannabis in the mortuary context is strong, whereas deliberate psychoactive consumption remains debated.
+**English.** This is a strong candidate for future inclusion, but the wording must remain cautious. The seeds, direct dating and funerary context are robust; the disputed step is the hair evidence used to infer actual consumption. According to the Associated Press, **Volker Auwärter**, a forensic toxicologist at University Medical Center Freiburg who was not involved in the study, argued that the hair data did not distinguish consumption from external exposure and that, for this central part of the study, the article “falls far short of what would have been possible.” Evidence for cannabis in the mortuary context is strong, whereas deliberate psychoactive consumption remains debated.
 
 **Publication / 出版物**  
 Caspari, G., et al. (2026). *Direct evidence for psychoactive cannabis use 2,800 years ago*. *Science*. https://doi.org/10.1126/science.aeg3800
 
 **Selected reporting / 媒体报道**
+
 - [Reuters](https://www.reuters.com/science/siberian-burial-site-reveals-ancient-use-cannabis-an-intoxicant-2026-11-05/)
 - [Associated Press](https://apnews.com/article/2af72e5afb915d835b233f14b20ad185)
 - [University of Bern](https://mediarelations.unibe.ch/media_releases/2026/media_releases_2026/cannabis_was_used_as_an_intoxicant_as_early_as_2800_years_ago/index_eng.html)
@@ -52,7 +53,7 @@ Skopal, N., et al. (2026). The death jar: A new mortuary tradition at the Plain 
 **研究性质 | Nature of the study**  
 **中文。** *Science* 研究分析1050名当代波利尼西亚人的全基因组序列，重建嵌套式创始者效应、岛屿间亲缘关系以及夏威夷、Rapa Nui和Mangareva之间的历史联系。
 
-**English.** The *Science* study analyses whole-genome sequences from 1,050 present-day Polynesians to reconstruct nested founder effects, inter-island relationships and historical connections among Hawai‘i, Rapa Nui and Mangareva.
+**English.** The *Science* study analyses whole-genome sequences from 1,050 present-day Polynesians to reconstruct nested founder effects, inter-island relationships and historical connections among Hawaiʻi, Rapa Nui and Mangareva.
 
 **学术判断 | Assessment**  
 **中文。** 学术分量很高，也直接讨论聚落史，但证据主体是现代人基因组而非古DNA或考古遗存。本站暂不把它列作“考古发现”主条目，可作为历史基因组学与太平洋聚落研究的重要相关成果。
@@ -60,7 +61,7 @@ Skopal, N., et al. (2026). The death jar: A new mortuary tradition at the Plain 
 **English.** The study is highly significant for settlement history, but its evidence comes from present-day genomes rather than ancient DNA or archaeological remains. It is therefore retained here as an important historical-genomic study rather than promoted to the main archaeological-discovery list.
 
 **Publication / 出版物**  
-Shanks, C., Huang, E. C., Thomassin, C., et al. (2026). Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawai‘i. *Science, 394*(6820), 216–221. https://doi.org/10.1126/science.aec7662
+Shanks, C., Huang, E. C., Thomassin, C., et al. (2026). Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawaiʻi. *Science, 394*(6820), 216–221. https://doi.org/10.1126/science.aec7662
 
 ## 4. 土耳其Kekova早青铜时代沉船 | Early Bronze Age wreck at Kekova, Türkiye
 
