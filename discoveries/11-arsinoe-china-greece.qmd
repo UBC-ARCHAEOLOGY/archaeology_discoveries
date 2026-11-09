@@ -23,6 +23,12 @@ First-season institutional field report (D/C); important as international collab
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 阿西诺项目的学术背景不在于某一座“柱廊庭院”本身，而在于中国古典考古研究开始以长期田野项目的方式进入希腊本土。对古典城市而言，真正重要的问题包括聚落布局、公共与居住空间、城防、区域交通以及多期城市演变。2026年首季只是建立基线，尚不足以提出重大历史重构。
+
+**English.** The significance of the Arsinoe project lies less in a single peristyle building than in the establishment of a long-term Sino-Greek field programme within mainland Classical archaeology. The larger questions concern settlement organization, public and domestic space, fortification, regional connectivity, and diachronic urban change. The first 2026 season establishes a baseline rather than a major historical reinterpretation.
+
 ## 主要发现 | Major findings
 
 **中文。** 2026年首季联合发掘扩展既有探方，进一步确认一座带柱廊庭院的方形建筑及其多期使用，并出土钱币、陶器、建筑陶构件和动物遗存。其意义主要在中希长期田野合作与资料生产，而不是单一“大发现”。
@@ -35,13 +41,34 @@ CCTV candidate / 央视候选
 
 **English.** Its main significance lies in the history of scholarship and international collaboration: Chinese researchers are now generating primary field data in a core region of Classical archaeology and participating directly in framing research questions. The global interpretive significance of the first excavation season itself remains to be established through future work.
 
+## 论文核查 | Publication verification
+
+- **Formal peer-reviewed publication for the 2026 excavation season:** none identified.
+- **Primary source:** Hellenic Ministry of Culture press release, 16 October 2026, reporting the completed July field season.
+- **Programme:** five-year systematic project, 2026–2030.
+- **Open access / reuse:** ministry page is public, but no general CC reuse licence for photographs was identified.
+
 ## 学术论文 | Academic publications
 
 - Formal publication pending / 正式论文待发表
 
 ## 主要媒体报道 | Major media coverage
 
-- [CCTV News](https://news.cctv.com/)
+- [Hellenic Ministry of Culture — official field report](https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816)
+- [Days of Art in Greece — English summary](https://daysofart.gr/en/news/from-ministry/greek-chinese-archaeological-research-at-angelokastro-in-aetolia-acarnania/)
+- CCTV coverage remains relevant to the Chinese institutional context.
+- No major Nature/Science/NYT/BBC/CNN/Guardian/Smithsonian/Archaeology Magazine report was located.
+
+## 关键图像与许可 | Key images and permissions
+
+Useful visual set from the official project report:
+
+1. **Aerial photograph of the excavation area.**
+2. **Plan/view of the square peristyle building.**
+3. **Coins, ceramics and architectural terracottas.**
+4. **Regional/site setting.**
+
+Because the Hellenic Ministry page does not state a general Creative Commons licence, these photographs are currently **link-only** and should not be copied into the repository without permission.
 
 ## 图像与图版来源 | Images and figure sources
 
