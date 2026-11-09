@@ -1,0 +1,68 @@
+---
+title: "33. 澳大利亚Widgingarri Shelter 1：≥55 ka Aboriginal文化序列"
+subtitle: "Widgingarri Shelter 1 and a ≥55 ka Aboriginal archaeological sequence"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Arraluli Country, west Kimberley, northwest Australia / 澳大利亚西北部Kimberley的Arraluli Country
+
+**Date / 年代**  
+Earliest securely inferred occupation ≥55 ± 4 ka; sequence continues through the last glacial period into the Holocene / 最早可靠推定占据≥55±4 ka，并延续至末次冰期和全新世
+
+**Research / excavation institutions / 发掘或研究机构**  
+Arraluli Clan and Arraluli Aboriginal Association; Australian Research Council Centre of Excellence for Australian Biodiversity and Heritage (CABAH); Australian National University; University of Wollongong and collaborators
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Wudugu Malanali (Isobel Peters); Peter Collins; Sue O’Connor; Sam C. Lin; Wanchese Saktura; collaborating Arraluli and archaeological research team.
+
+**Evidence grade / 证据等级**  
+B — peer-reviewed field archaeology with new 2022 excavation, a long stratified sequence and OSL-based chronology; the earliest occupation is conservatively inferred from low-density basal artifacts near the CU2a–CU2b transition rather than from a dense occupation floor.  
+B级——同行评议田野考古研究，包含2022年新发掘、长时段地层序列和OSL年代；最早占据依据底部低密度石器在CU2a–CU2b过渡附近的保守推定，而不是密集活动面。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——把Kimberley的可靠人类活动推进到≥55 ka，并通过一个从MIS 3延续到全新世的长序列讨论Aboriginal文化连续性、技术变化、颜料使用和对巨大环境变化的适应；同时体现Traditional Owners共同治理田野研究的模式。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 澳大利亚最早人类占据时间一直是全球现代人扩散研究的重要问题。Kimberley是早期Sahul考古的关键区域，但许多早期遗址的年代、地层完整性和器物密度都需要谨慎处理。Widgingarri Shelter 1在1985年已进行发掘，但当时由于巨石阻挡未达到基岩；2022年Arraluli Clan与CABAH合作重新打开旧探方并继续向下发掘。
+
+**English.** The timing and character of the first human occupation of Sahul remain central to global modern-human dispersal research. The Kimberley is a key region, but early dates must be evaluated carefully against stratigraphic integrity and artifact density. Widgingarri Shelter 1 was first excavated in 1985, when large blocks prevented reaching bedrock. In 2022, the Arraluli Clan and CABAH jointly reopened and deepened the excavation.
+
+## 主要发现 | Major findings
+
+**中文。** 2022年发掘共获得5000多件文化遗物，其中4708件为石器，另有654件赭石/赤铁矿。新探方穿过1985年停止的深度，进入新的CU2a层，并确认石器继续向下延伸。年龄模型把CU2a起始放在约64–55 ka，但作者注意到底部器物密度很低，因此没有把层位起始年代直接当作“首次占据”年代，而是采用CU2a–CU2b过渡附近较高密度器物的加权OSL年代，保守推定最早人类活动为≥55±4 ka。
+
+**English.** The 2022 excavation recovered more than 5,000 cultural objects, including 4,708 stone artifacts and 654 ochre/haematite pieces. Excavation extended below the 1985 limit into a newly defined CU2a, confirming deeper artifacts. Although the modeled onset of CU2a lies between about 64 and 55 ka, artifact densities are very low at its base. The authors therefore use the higher-density concentration near the CU2a–CU2b transition and conservatively infer initial activity at ≥55 ± 4 ka.
+
+**中文。** 约55–37 ka层段中出现大量赭石、磨石和石器活动，提示遗址不仅是短暂停留点，还可能承担食物加工、颜料处理和社会/仪式活动。整个序列跨越末次冰期到全新世，记录技术、原料和居住强度的长期变化。
+
+**English.** Between roughly 55 and 37 ka, abundant haematite, grinding stones and lithic activity suggest repeated use for food processing, pigment preparation and possibly social or ceremonial practices. The sequence continues through the last glacial period and into the Holocene, documenting long-term shifts in technology, raw materials and occupation intensity.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** Widgingarri的价值不在于争夺“澳大利亚最早遗址”纪录。它的重要性是以一个新发掘、长时段、社区共同治理的遗址，展示Aboriginal人在Kimberley至少5.5万年的持续存在与适应，并把石器、磨石、赭石、景观利用和岩画文化空间放在同一长时段框架中。
+
+**English.** Widgingarri matters less as a contender for an “oldest Australian site” record than as a newly excavated, long-duration and community-governed sequence documenting Aboriginal presence and adaptation in the Kimberley for at least 55,000 years. Lithics, grinding stones, ochre, landscape use and a culturally significant rock-art setting can be considered together across deep time.
+
+**中文。** Traditional Owners并非项目中的“咨询对象”。研究由已故Arraluli长者Wudugu Malanali与Peter Collins共同主导，并把Aboriginal知识与研究设计、田野、解释和遗产保护结合起来。这一点本身也是当代考古实践的重要学术维度。
+
+**English.** Traditional Owners were not merely consulted. The project was co-directed by the late Arraluli senior custodian Wudugu Malanali and Peter Collins and integrated Aboriginal knowledge into research design, fieldwork, interpretation and heritage protection. That governance model is itself an important dimension of contemporary archaeological practice.
+
+## 学术出版物 | Academic publications
+
+Lin, S. C., et al. (2026). Recent archaeological investigations at Widgingarri Shelter 1, northwest Australia. *Australian Archaeology*. https://doi.org/10.1080/03122417.2026.2717665
+
+Related geoarchaeological and material studies form part of the same re-excavation programme; the 2026 paper explicitly presents the field excavation, chronostratigraphic sequence and stone-artifact assemblages.
+
+## 主要媒体报道 | Major media coverage
+
+- [Australian Archaeology article](https://doi.org/10.1080/03122417.2026.2717665)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Australian Archaeology article](https://doi.org/10.1080/03122417.2026.2717665)
