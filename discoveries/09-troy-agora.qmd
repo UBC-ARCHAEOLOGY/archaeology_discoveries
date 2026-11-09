@@ -13,12 +13,15 @@ Early Iron Age reoccupation over a space interpreted as having Late Bronze Age a
 **Research / excavation institutions / 发掘或研究机构**  
 Turkish Ministry of Culture and Tourism; Çanakkale Onsekiz Mart University
 
-**Lead researchers / 主要负责人**  
-Rüstem Aslan (excavation director); Reyhan Körpe (deputy excavation director)
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Rüstem Aslan (excavation director); Reyhan Körpe (deputy excavation director).
 
-**Evidence status / 证据状态**  
-English: Media / excavation announcement only (D); interpretation of the space as an “agora” remains provisional.  
-中文：目前仅有媒体/发掘公告（D级）；把该空间解释为“agora”仍属初步判断。
+**Evidence grade / 证据等级**  
+D — interpretation currently rests on excavation-team statements and media reporting; no peer-reviewed publication for the 2026 “agora” claim has been identified.  
+D级——目前主要依据发掘团队公开表述和媒体报道；尚未发现针对2026年“agora”解释的同行评议论文。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Moderate / 中等——真正值得关注的是青铜时代遗址废弃后的复居与空间记忆；“agora”这一功能术语仍需正式建筑与活动面分析支持。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -32,9 +35,9 @@ CCTV candidate / 央视候选
 
 ## 主要发现 | Major findings
 
-**中文。** 2026年发掘报道聚焦特洛伊VI南门前空间。发掘者认为这里在晚青铜时代已具有市场功能，并在特洛伊青铜时代聚落废弃约80–90年后被新居民重新利用；但“agora”这一功能解释尚未有正式论文论证。
+**中文。** 2026年发掘报道聚焦特洛伊VI南门前空间。发掘者认为这里在晚青铜时代已具有市场或公共空间功能，并在青铜时代聚落**废弃（abandonment）**约80–90年后被新居民重新利用；但“agora”这一功能解释尚未有正式论文论证。
 
-**English.** Excavations exposed a public space, paved road, entrance features, and associated architecture near the fortifications, with evidence that settlement resumed roughly 80–90 years after Late Bronze Age destruction.
+**English.** The 2026 excavation reports focus on the area in front of Troy VI's South Gate. Excavators propose that the space may already have served a market or public function in the Late Bronze Age and that it was reused by new inhabitants about 80–90 years after the Bronze Age settlement was **abandoned**, not 80–90 years after a demonstrated destruction event. The functional interpretation of the space as an “agora” remains provisional pending formal publication.
 
 ## 学术重要性 | Intellectual significance
 
