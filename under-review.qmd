@@ -14,24 +14,21 @@ This page records 2026 discoveries and studies of clear scholarly interest that 
 **English.** The four former Tier 1 items have now received independent deep review: **Plain of Jars Site 75, Maya mercury pollution, and Cova de la Font Major = PROMOTE** and have moved to the main additional-candidate list; **Tunnug 1 = HOLD** and remains under review. The tiers below show the post-review status.
 :::
 
-### 第一档：高优先级晋升候选 | Tier 1 — High-priority promotion review
+### 当前高优先级状态 | Current priority status
 
-本轮定向补缺的三项已完成独立深审：**Karatau = PROMOTE；Widgingarri Shelter 1 = PROMOTE；Bongal boats = PROMOTE**。三项均已移入正式补充建议名单，但证据等级不同：Karatau为A级，Widgingarri与Bongal均为B级。  
-The three targeted gap candidates have completed independent deep review: **Karatau = PROMOTE; Widgingarri Shelter 1 = PROMOTE; Bongal boats = PROMOTE**. All three have moved to the main additional-candidate list, with different evidence grades: A for Karatau and B for Widgingarri and Bongal.
-
-当前暂无未完成深审的第一档项目。下一轮不应自动从第二档晋升，而应继续以地区、时代、发现类型和田野重要性为约束。  
-No Tier 1 item is currently awaiting deep review. The next round should not automatically promote Tier 2 items; regional, chronological, discovery-type and field-significance balance should remain explicit constraints.
+目前没有未完成深审的第一档项目。此前第一档的晋升/HOLD结果保留在各项目条目和版本记录中；新的高优先级项目将在下一轮定向扫描后重新提名。  
+No Tier 1 project is currently awaiting deep review. Earlier PROMOTE/HOLD decisions remain recorded in the individual entries and version history; new Tier 1 items will be nominated after the next targeted scan.
 
 ### 第二档：继续观察 | Tier 2 — Continue monitoring
 
 - **莱索托Likonong Shelter约242 ka** — 新发掘与释光年代把Lesotho高地最早可靠人类活动推进到约242 ka；区域意义明确，但目前仍主要改写Maloti-Drakensberg高地适应史。
 - **斯里兰卡Pabalugala玻璃珠生产** — 2–5世纪玻璃珠生产基地补充南亚工艺生产与印度洋贸易网络，但现有发表为short communication，生产链细节仍有限。
-- **北美晚更新世骰子与机会游戏 — HOLD**：器物识别链较强，但研究主要是对既有馆藏和发表材料的重新分类，从“骰子”进一步推到“概率认知”属于更高层解释。
+- **北美晚更新世骰子与机会游戏 — HOLD**：器物识别链较强，但从“这些器物是骰子”进一步推到“概率/随机性认知史”的解释跨度较大；在田野发现优先的年度名单中，暂不晋升。旧材料本身不再作为HOLD理由。
 - **Kekova早青铜时代沉船 — HOLD**：同行评议论文真实、潜在意义很高，但仍属preliminary report；木质船体未保存，年代主要依赖陶器类型学。
 - **Tunnug 1大麻使用证据 — HOLD**：直接测年与葬仪情境很强，但毛发证据能否排除外部接触仍存在实质争议。
 - **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告。
 - **美国西南祖先Pueblo蓝铜矿溯源** — 同位素方法很有潜力，但考古样本只有12件。
-- **Holzman石器与猛犸象牙生产** — 对约14 ka阿拉斯加人群重要，但关键象牙材料此前已有发表，且与Shég’ Xdaltth’í’高度重叠。
+- **Holzman石器与猛犸象牙生产** — 2026年的综合研究本身符合“首次完整/实质性同行评议发表”口径；继续留待评估的主要理由，是其解释增量与已晋升的Shég’ Xdaltth’í’在时间、区域和“最初阿拉斯加人群”问题上高度重叠，而非因为材料此前曾有发表。
 
 ### 第三档：仅研究动态 | Tier 3 — Research developments
 
@@ -173,7 +170,7 @@ Middle Tanana Valley, interior Alaska, USA / 美国阿拉斯加内陆塔纳纳�
 **English.** **Retain under review.** The study is important for the archaeology of the first Alaskans, but some of the key ivory-rod finds were published previously. The main 2026 contribution is the integrated interpretation of lithic production, ivory working, raw-material circulation and human dispersal. Relative to Shég’ Xdaltth’í’, it is better treated as a complementary candidate.
 
 **Publication / 出版物**  
-Potter, B. A., et al. (2026). Stone and mammoth ivory tool production, circulation, and human dispersals in the middle Tanana Valley, Alaska: Implications for the Pleistocene peopling of the Americas. *Quaternary International, 755*, 110087. https://doi.org/10.1016/j.quaint.2025.110087
+Wygal, B. T., Krasinski, K. E., Barber, L., Holmes, C. E., & Crass, B. A. (2026). Stone and mammoth ivory tool production, circulation, and human dispersals in the middle Tanana Valley, Alaska: Implications for the Pleistocene peopling of the Americas. *Quaternary International, 755*, 110087. https://doi.org/10.1016/j.quaint.2025.110087
 
 ## 7. 北美晚更新世骰子与机会游戏 | Late Pleistocene dice and games of chance in North America
 
@@ -184,23 +181,23 @@ Potter, B. A., et al. (2026). Stone and mammoth ivory tool production, circulati
 
 **学术判断 | Assessment**  
 **独立深审结论：HOLD / Independent deep-review decision: HOLD.**  
-**中文。** **值得继续待评估，但属于“旧材料的新解释”。** 文章的方法论创新和文化史意义很强，尤其是在如何客观识别史前骰子方面；但从“骰子”进一步推演到概率认知史，解释层级明显更高，不能把“认识随机性和概率”写成已经直接证明的心理事实。
+**中文。** **值得继续待评估。** 文章的方法论创新和文化史意义很强，尤其是在如何客观识别史前骰子方面；HOLD的核心理由不是材料是否为旧馆藏，而是从“骰子”进一步推演到概率认知史时解释层级明显升高。可以较有把握地讨论规则化随机结果的生成与使用，但不能把抽象概率概念写成已经被直接证明的心理事实。
 
-**English.** **Worth retaining under review, but as a reinterpretation of existing material.** The methodological contribution is substantial because it offers explicit criteria for identifying prehistoric dice. Claims about cognition, probability and randomness are more interpretive and should not be treated as direct archaeological demonstrations of abstract probabilistic reasoning.
+**English.** **Worth retaining under review.** The methodological contribution is substantial because it offers explicit criteria for identifying prehistoric dice. The HOLD decision rests not on the use of legacy collections itself, but on the interpretive step from dice to a broader history of probabilistic cognition; rule-governed generation of random outcomes is better supported than abstract probability concepts.
 
 **Publication / 出版物**  
-Madden, R. J. (2026). Probability in the Pleistocene: Origins and antiquity of Native American dice, games of chance, and gambling. *American Antiquity, 91*, 584–618.
+Madden, R. J. (2026). Probability in the Pleistocene: Origins and antiquity of Native American dice, games of chance, and gambling. *American Antiquity, 91*(3), 584–618. https://doi.org/10.1017/aaq.2025.10158
 
 
 ## 8. Crawford Lake沉积古DNA与千年人地关系 | Crawford Lake sedaDNA and a millennium of human–environment interactions
 
 **地区与年代 | Region and date**  
-Crawford Lake, Ontario, Canada / 加拿大安大略Crawford Lake；约过去1300年。
+Crawford Lake, Ontario, Canada / 加拿大安大略Crawford Lake；sedaDNA记录约过去1300年，其中论文重点讨论的人类—生态变化约过去1000年。
 
 **主要发现 | Major findings**  
 **中文。** Murchie、Emery等首次系统分析Crawford Lake过去约1300年的沉积古DNA记录，从植物、动物、藻类、真菌和细菌等多个类群重建生态变化。数据直接检出与13–16世纪原住民农业相关的玉米和向日葵DNA，并显示农业、定居和加拿大雁活动与富营养化及藻华变化相伴。
 
-**English.** Sedimentary ancient DNA from Crawford Lake reconstructs ecosystem change over roughly 1,300 years across plants, animals, algae, fungi and bacteria. The study directly detects maize and sunflower DNA associated with Indigenous farming between the thirteenth and sixteenth centuries and links agricultural settlement and Canada-goose activity with repeated eutrophication and algal change.
+**English.** Sedimentary ancient DNA from Crawford Lake extends back roughly 1,300 years, while the paper’s main human–ecosystem reconstruction focuses on approximately the past 1,000 years across plants, animals, algae, fungi and bacteria. The study directly detects maize and sunflower DNA associated with Indigenous farming between the thirteenth and sixteenth centuries and links agricultural settlement and Canada-goose activity with repeated eutrophication and algal change.
 
 **学术判断 | Assessment**  
 **中文。** **适合待评估，不宜直接作为传统“田野发现”。** 其重要性主要是方法学和人地关系研究：它把湖泊沉积古DNA与已有考古、孢粉和地球化学证据整合起来。它同时纠正一个容易过时的说法：Crawford Lake曾在2023年被选为拟议“人类世”金钉子候选地，但该正式地质时代提议已在2024年被否决。
@@ -249,3 +246,23 @@ Giribawa-Pabalugala, northwestern Sri Lanka / 斯里兰卡西北部；2nd–5th 
 **Publication / 出版物**  
 Katugampola, M., Gao, Z., Bandara, R., et al. (2026). Pabalugala: A 2nd–5th century glass bead production site in Sri Lanka. *Archaeological Research in Asia, 46*, 100716. https://doi.org/10.1016/j.ara.2026.100716
 
+
+
+## 11. Etowah可可古DNA（降回待评估） | Etowah cacao archaeogenomics (returned to review)
+
+**研究性质 | Nature of the study**  
+Reanalysis / 旧材料再分析。1954–1957年发掘并长期保存的Etowah陶片，在2026年通过古DNA方法重新分析。
+
+**主要发现 | Major findings**  
+**中文。** 三件11–12世纪宴飨情境陶片中，两件检出具有古DNA损伤特征的 *Theobroma cacao* 特异序列，说明古代可可DNA确实存在于Etowah的考古沉积/陶片样品中。论文作者据此解释为Etowah居民曾消费可可，但同时明确承认样本只有两件阳性陶片、器物曾清洗和长期保存，而且不能确认所取样的两只容器本身曾装过可可。
+
+**English.** Two of three sampled 11th–12th century sherds yielded *Theobroma cacao*-specific sequences with ancient-DNA signatures, establishing the presence of ancient cacao DNA in the Etowah archaeological samples. The authors interpret this as evidence for cacao consumption, but also acknowledge the small positive sample, the washed/curated history of the sherds, and the possibility that ancient cacao DNA entered the sampled ceramics after deposition.
+
+**学术判断 | Assessment**  
+**独立再审结论：HOLD / Independent re-review decision: HOLD.**  
+**中文。** 该研究符合“2026年旧材料再分析”的收录口径，并且对前哥伦布时期可可的地理分布很有启发性；但在田野发现优先的正式名单中，目前更稳妥的核心事实是“可可到达了Etowah考古情境”，而“消费”和具体交换路线仍属于解释层。先降回待评估，等待更多样本或独立验证。
+
+**English.** The study qualifies under the 2026 reanalysis rule and has important implications for the geography of pre-contact cacao. Under a field-discovery-priority framework, however, the most secure core claim is that cacao reached the Etowah archaeological context; consumption and specific exchange routes remain interpretive. It therefore returns to under review pending broader sampling or independent confirmation.
+
+**Publication / 出版物**  
+King, A., Powis, T. G., Argout, X., et al. (2026). Cacao in the Mississippian World: Archaeogenomic evidence for *T. cacao* consumption at the Etowah Site, Georgia. *PLOS ONE, 21*(8), e0353607. https://doi.org/10.1371/journal.pone.0353607
