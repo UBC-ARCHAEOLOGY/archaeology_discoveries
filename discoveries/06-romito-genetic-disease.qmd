@@ -44,7 +44,7 @@ CCTV candidate / 央视候选
 
 ## 学术出版物 | Academic publications
 
-Fernandes, D. M., Llanos-Lizcano, A., BrÃ¼ck, F., Oberreiter, V., ÃzdoÄan, K. T., Cheronet, O., Lucci, M., Beckers, A., PÃ©trossians, P., Coppa, A., Pinhasi, R., & Daly, A. F. (2026). A 12,000-Year-Old Case of <i>NPR2</i> -Related Acromesomelic Dysplasia. New England Journal of Medicine, 394(5), 513â515. https://doi.org/10.1056/nejmc2513616
+Fernandes, D. M., Llanos-Lizcano, A., Brück, F., Oberreiter, V., Özdoğan, K. T., Cheronet, O., Lucci, M., Beckers, A., Pétrossians, P., Coppa, A., Pinhasi, R., & Daly, A. F. (2026). A 12,000-Year-Old Case of <i>NPR2</i> -Related Acromesomelic Dysplasia. New England Journal of Medicine, 394(5), 513–515. https://doi.org/10.1056/nejmc2513616
 
 **开放获取状态 | Open-access status.** 可免费阅读，但不是Creative Commons许可；再利用需遵循NEJM权限政策。 / Free to read, but not Creative Commons licensed; reuse follows NEJM permissions.
 
@@ -53,6 +53,7 @@ Fernandes, D. M., Llanos-Lizcano, A., BrÃ¼ck, F., Oberreiter, V., ÃzdoÄa
 **What the publication shows (English).** This report uses ancient DNA to show that Romito 1 and Romito 2 were both female first-degree relatives and identifies NPR2 variants consistent with Maroteaux-type acromesomelic dysplasia. It moves a classic palaeopathological case from morphology-based inference to molecular clinical diagnosis and strengthens discussion of care for disabled individuals in prehistory.
 
 <!-- APA-V2.1 -->
+
 
 
 
@@ -68,9 +69,9 @@ Fernandes, D. M., Llanos-Lizcano, A., BrÃ¼ck, F., Oberreiter, V., ÃzdoÄa
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2513616" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2513616" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.sciencedaily.com/releases/2026/02/260217005754.htm" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.sciencedaily.com/releases/2026/02/260217005754.htm" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

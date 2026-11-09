@@ -44,7 +44,7 @@ Additional candidate / 补充建议
 
 ## 学术出版物 | Academic publications
 
-Rossi, F. D., Stuart, D., & Hurst, H. (2026). The identification and work of an eighth-century Maya mathematician. Antiquity, 100(413), 1369â1384. https://doi.org/10.15184/aqy.2026.10378
+Rossi, F. D., Stuart, D., & Hurst, H. (2026). The identification and work of an eighth-century Maya mathematician. Antiquity, 100(413), 1369–1384. https://doi.org/10.15184/aqy.2026.10378
 
 **开放获取状态 | Open-access status.** 开放获取，CC BY-NC 4.0。 / Open access, CC BY-NC 4.0.
 
@@ -53,6 +53,7 @@ Rossi, F. D., Stuart, D., & Hurst, H. (2026). The identification and work of an 
 **What the publication shows (English).** The paper reconstructs and deciphers Text 19 on the east wall of Structure 10K-2 at Xultun, identifying a mathematical-astronomical formula that coordinates calendrical intervals with cycles including Venus and Mars and attributes the work to Sak Tahn Waax. It transforms Classic Maya science from an anonymous body of knowledge into an archaeological study of named intellectual workers, scholarly workspace and authorship.
 
 <!-- APA-V2.1 -->
+
 
 
 

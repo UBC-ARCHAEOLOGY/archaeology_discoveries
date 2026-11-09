@@ -44,7 +44,7 @@ Additional candidate / 补充建议
 
 ## 学术出版物 | Academic publications
 
-Romero GonzÃ¡lez, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M., la Fuente Castro, C. d., & Nakagome, S. (2026). The genomic identity of early smallpox in South America. Science, 393(6810), 504â508. https://doi.org/10.1126/science.aee6957
+Romero González, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M., la Fuente Castro, C. d., & Nakagome, S. (2026). The genomic identity of early smallpox in South America. Science, 393(6810), 504–508. https://doi.org/10.1126/science.aee6957
 
 **开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
 
@@ -53,6 +53,7 @@ Romero GonzÃ¡lez, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M
 **What the publication shows (English).** The study reconstructs the earliest ancient smallpox genomes yet recovered in the Americas from two early colonial individuals at Camarones 9 in northern Chile and places them within the global variola phylogeny. It provides direct molecular evidence for the introduction of smallpox into South America after European contact and shows that the early American viruses belonged to an extinct lineage.
 
 <!-- APA-V2.1 -->
+
 
 
 
