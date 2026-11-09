@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A).
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 旧石器时代被称为“石器时代”，很大程度上源于保存偏差：木、纤维、皮革和植物性材料通常消失。舍宁根木矛、Clacton木矛尖和卡兰博瀑布木结构已经说明中更新世人类广泛利用木材，但真正保存下来的手持木工具仍极少。Marathousa 1的意义因此不是“木材第一次出现”，而是把可操作、可携带的日常木工具带入约43万年前的技术系统。
+
+**English.** The label “Stone Age” is partly a preservation artefact: wood, fibre, hide, and other organic technologies usually disappear. Finds such as the Schöningen spears, the Clacton spear point, and Kalambo Falls structures already show that Middle Pleistocene hominins worked wood. What makes Marathousa 1 exceptional is the preservation of handheld implements that broaden the reconstructed everyday technological repertoire.
+
 ## 主要发现 | Major findings
 
 **中文。** 伯罗奔尼撒Megalopolis盆地遗址出土两件具有明确加工与使用痕迹的木制品，其中一件为桤木，另一件可能为柳木或杨木。
@@ -35,13 +41,35 @@ CCTV candidate / 央视候选
 
 **English.** The apparent dominance of stone in Palaeolithic technology is strongly shaped by preservation bias. Wood, fiber, and hide rarely survive. These finds show that Middle Pleistocene technological systems were more diverse than lithic assemblages alone suggest and invite a broader reconstruction of woodworking and everyday toolkits.
 
+## 论文核查 | Publication verification
+
+- **Milks, Annemieke; Maria Ntinou; Stylianos Koutalis; Dimitrios Michailidis; George E. Konidaris; Domenico Giusti; Nicholas Thompson; Georgia Tsartsidou; Eleni Panagopoulou; Vangelis Tourloukis; Panagiotis Karkanas; Katerina Harvati.**
+- **Title:** *Evidence for the earliest hominin use of wooden handheld tools found at Marathousa 1 (Greece)*
+- **Journal:** *Proceedings of the National Academy of Sciences* 123(6): e2515479123
+- **DOI:** [10.1073/pnas.2515479123](https://doi.org/10.1073/pnas.2515479123)
+- **Published online:** 26 January 2026; issue date 10 February 2026
+- **Open access:** **Yes — CC BY-NC-ND 4.0**. Unmodified reproduction for non-commercial use is permitted with attribution; no adaptations.
+
 ## 学术论文 | Academic publications
 
 - [Open-access article (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
 
 ## 主要媒体报道 | Major media coverage
 
-- [BBC](https://www.bbc.co.uk/newsround/articles/cn0yp4g0ek4o)
+- [BBC report](https://www.bbc.co.uk/newsround/articles/cn0yp4g0ek4o)
+- [PNAS / PMC full article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
+- No additional verified report from the target NYT/CNN/Guardian/Smithsonian/Archaeology Magazine set was located in this audit.
+
+## 关键图像与许可 | Key images and permissions
+
+The PNAS article is CC BY-NC-ND 4.0. **Use figures only unmodified** and preserve attribution.
+
+1. **The worked alder implement** — primary object image from the paper.
+2. **The willow/poplar small tool** — primary object image from the paper.
+3. **Site stratigraphy / find context** — contextual figure from the paper.
+4. **Comparison of anthropogenic modification and carnivore clawing** — interpretive figure if caption credit permits.
+
+[Open-access article with figures](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
 
 ## 图像与图版来源 | Images and figure sources
 
