@@ -58,3 +58,10 @@ title: "评选标准 | Evaluation Criteria"
 **中文。** 证据等级衡量“我们目前有多大把握”，学术重要性评估衡量“如果结论成立，它有多重要”。A级研究可以只有中等学术影响；C级发现也可能具有很高的潜在重要性。  
 **English.** Evidence grade measures how securely a claim is currently supported; scholarly importance measures how consequential the finding would be if sustained. An A-grade study can have only moderate historical impact, while a C-grade discovery can have high potential importance.
 :::
+
+
+## 暂定综合排名 | Tentative overall ranking
+
+**中文。** 本站另设[暂定排名页面](ranking.qmd)，把央视候选、补充建议和待评估项目放在同一框架内比较。排名沿用本页四项核心标准，并进一步考虑**田野发现优先、地区与时代平衡、发现类型和研究类型平衡**；这些平衡因素用于整体组合校准，不覆盖证据质量和学术重要性。
+
+**English.** A separate [tentative ranking page](ranking.qmd) compares CCTV candidates, additional candidates, and under-review projects within one framework. It follows the four core criteria above while also considering **field-discovery priority, regional and chronological balance, and balance among discovery/research types**. These portfolio considerations do not override evidence quality or scholarly significance.
