@@ -28,6 +28,28 @@ title: "评选标准 | Evaluation Criteria"
 
 **English.** One key test is whether the discovery is likely to remain important in textbooks, syntheses, and theoretical debate five to ten years from now rather than only generating short-term publicity.
 
+
+
+## “2026年发现”的口径 | What counts as a 2026 discovery?
+
+**中文。** 本站把“2026年发现”定义为满足以下任一条件的项目：
+
+1. **2026年首次公开公布的田野发现**：包括2026年首次由正式考古机构、项目团队或同行评议论文公布的发掘、调查、遗址、墓葬、遗物组合或其他田野成果；实际发现或发掘可以发生在2026年以前，但页面必须明确说明实际发现时间与2026年公布时间。
+2. **2026年首次完整或实质性同行评议发表的发现/研究**：如果项目此前只有初步报告、区域性短报、会议材料或不完整发表，而2026年的论文首次提供足以改变主要学术判断的完整证据链，可以纳入，但必须披露此前发表史。
+3. **旧材料的新分析 / Reanalysis**：20世纪或更早出土的材料、既有馆藏或旧数据，可以因2026年的新方法或新分析进入候选池，但必须明确标注为 **Reanalysis / 旧材料再分析**。这类项目只有在新分析显著改变一个重要考古问题，而不是仅扩大样本量、更新分类或增加一个案例时，才达到正式补充建议门槛。
+
+**English.** A project qualifies as a “2026 discovery” through one of three routes:
+
+1. **First public announcement in 2026 of a field discovery.** Excavation or discovery may have occurred earlier, but the page must distinguish the actual discovery date from the 2026 public announcement.
+2. **First full or substantively transformative peer-reviewed publication in 2026.** A project previously known from preliminary reports, short regional publications, conference material, or partial publication may qualify when the 2026 study first provides the evidence necessary to change the main archaeological interpretation. Earlier publication history must be disclosed.
+3. **Reanalysis of legacy material.** Previously excavated collections or legacy data may enter the candidate pool when a 2026 method or analysis produces a major new archaeological interpretation. These projects are explicitly labelled **Reanalysis** and face a higher threshold: they should change an important question rather than merely expand a dataset, refine classification, or add another case.
+
+::: {.callout-note title="田野发现优先不是排除再分析 | Field priority does not exclude reanalysis"}
+**中文。** 在学术意义和证据质量接近时，本站优先新田野发现、原位情境和完整考古组合。旧材料再分析仍可入选，但必须显示出超过一般方法更新的解释增量。这一规则统一适用于Tampa Bay、Etowah、Folsom骰子等项目，也适用于此前已有初步发表而在2026年系统发表的Bongal、Widgingarri和Font Major。
+
+**English.** When scholarly significance and evidence quality are comparable, new field discoveries, in-situ contexts, and coherent archaeological assemblages receive priority. Reanalysis can still qualify, but only when its interpretive gain is substantial. The same rule applies to Tampa Bay, Etowah, the Folsom dice study, and projects such as Bongal, Widgingarri and Font Major that had earlier preliminary publication before fuller 2026 treatment.
+:::
+
 ## 状态标签 | Status labels
 
 - **CCTV candidate / 央视候选**：来自原始候选材料。 / From the original CCTV candidate list.
