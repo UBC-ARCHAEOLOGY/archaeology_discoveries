@@ -1,0 +1,44 @@
+---
+title: "14. 塞内加尔Didé West 1长期炼铁作坊"
+subtitle: "Long-lived iron-smelting workshop at Didé West 1, Senegal"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Falémé Valley, Senegal / 塞内加尔法莱梅河谷
+
+**Date / 年代**  
+ca. 4th c. BCE–4th c. CE / 约公元前4世纪至公元4世纪
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 遗址保存约35个炉基、成组风嘴和大量炉渣，并显示一种炼铁传统持续约八个世纪，仅发生有限技术调整。
+
+**English.** The site preserves about 35 furnace bases, grouped tuyères, and large quantities of slag, documenting an iron-smelting tradition that persisted for roughly eight centuries with only limited technical modification.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 其价值不主要是讨论“非洲冶铁起源于何处”，而是技术传统为何能够长期稳定。它为工匠学习、技能传承、地方资源条件与技术选择之间的关系提供罕见的长时段材料。
+
+**English.** Its strongest contribution is not to settle where African iron metallurgy originated, but to explain technological persistence. The long sequence offers rare evidence for craft learning, skill transmission, local resources, and culturally structured technological choice.
+
+## 学术论文 | Academic publications
+
+- [Publication record](https://pubmed.ncbi.nlm.nih.gov/42865535/)
+
+## 主要媒体报道 | Major media coverage
+
+- [Chinese Social Sciences Net / 中国社会科学网](https://www.cssn.cn/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Publication record / 论文图版入口](https://pubmed.ncbi.nlm.nih.gov/42865535/)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
