@@ -56,6 +56,7 @@ CCTV candidate / 央视候选
 
 ## 主要媒体报道 | Major media coverage
 
+- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/early-humans-may-have-used-fire-1-8-million-years-ago-nearly-doubling-the-age-of-the-oldest-known-evidence-for-the-feat-180989015/)
 - [Science News — “We’ve had fire for longer than we thought”](https://www.sciencenews.org/article/hominids-had-fire-longer-than-thought)
 - [Archaeology Magazine](https://archaeology.org/news/2026/06/26/traces-of-homo-erectus-fire-use-dated-to-1-8-million-years-ago/)
 - No additional report was located in the target NYT/BBC/CNN/Guardian/Smithsonian set during the current audit.
