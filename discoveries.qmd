@@ -2,8 +2,8 @@
 title: "全部发现 | All Discoveries"
 ---
 
-下表汇总当前收录项目。点击名称进入双语详情页。  
-The table below summarizes all entries currently included in the site.
+下表汇总当前正式收录项目。点击名称进入双语详情页。项目编号作为稳定ID保留；若某项退回待评估，后续项目不重新编号。  
+The table below summarizes all entries currently included in the formal list. Project numbers are stable IDs; if an item returns to under review, later entries are not renumbered.
 
 | # | 发现 / Discovery | 地区 / Region | 年代 / Period | CCTV status / 央视状态 |
 |---:|---|---|---|---|
@@ -35,7 +35,6 @@ The table below summarizes all entries currently included in the site.
 | 26 | [老挝石缸平原Site 75“死亡之缸”](discoveries/26-plain-of-jars-death-jar.qmd)<br>Plain of Jars Site 75 “death jar” | Laos / 老挝 | ca. AD 890–1160 / 约公元890–1160年 | Additional candidate / 补充建议 |
 | 27 | [玛雅低地汞污染与水生生态系统崩溃](discoveries/27-maya-mercury.qmd)<br>Maya mercury pollution and aquatic ecosystem collapse | Yucatán, Mexico / 墨西哥尤卡坦 | first millennium CE / 公元第一千纪 | Additional candidate / 补充建议 |
 | 28 | [Cova de la Font Major旧石器时代洞穴刻画](discoveries/28-font-major-rock-art.qmd)<br>Palaeolithic engravings at Cova de la Font Major | Catalonia, Spain / 西班牙加泰罗尼亚 | Palaeolithic / 旧石器时代 | Additional candidate / 补充建议 |
-| 29 | [Etowah密西西比文化中的可可古DNA](discoveries/29-etowah-cacao.qmd)<br>Archaeogenomic evidence for cacao at Etowah | Georgia, USA / 美国乔治亚州 | 11th–12th c. CE / 公元11–12世纪 | Additional candidate / 补充建议 |
 | 30 | [罗马统治与伊比利亚人口结构变化](discoveries/30-roman-iberia-adna.qmd)<br>Roman and post-Roman population change in Iberia | Iberian Peninsula / 伊比利亚半岛 | ca. AD 100–800 / 约公元100–800年 | Additional candidate / 补充建议 |
 | 31 | [Tampa Bay密西西比移民陶工与技术知识](discoveries/31-tampa-bay-migrant-potters.qmd)<br>Migrant Mississippian potters in Tampa Bay | Florida, USA / 美国佛罗里达 | ca. AD 1000–1600 / 约公元1000–1600年 | Additional candidate / 补充建议 |
 | 32 | [塔吉克斯坦Karatau早期旧石器绝对年代](discoveries/32-karatau-palaeolithic.qmd)<br>Karatau Early Palaeolithic chronology | Tajikistan / 塔吉克斯坦 | Middle Pleistocene / 中更新世 | Additional candidate / 补充建议 |
