@@ -82,6 +82,15 @@ Recommended set:
 
 Nature figure captions must be checked individually for third-party credits. In Fig. 2, for example, the Gough's Cave mandible photograph is explicitly reproduced with permission from the Trustees of the Natural History Museum, so it should **not** be copied independently under the article licence without confirming that permission extends to this site.
 
+## 页面图像 | Page images
+
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-10170-x" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nhm.ac.uk/discover/news/2026/march/oldest-evidence-of-domestic-dogs.html" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye" target="_blank">View original image / 查看原图 →</a></div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Nature article figures](https://www.nature.com/articles/s41586-026-10170-x)
