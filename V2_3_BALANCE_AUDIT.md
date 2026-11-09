@@ -28,7 +28,7 @@ Using broad geographic categories:
 
 **中文。** 北美从V2.2时期的明显空白增加到5项，已经不再需要为“地图平衡”主动降低门槛。中亚和澳大利亚本土已经补入，东南亚也由老挝、苏拉威西和苏门答腊形成更完整的分布。当前最明显的地区缺口主要是**南亚与太平洋其他地区**；撒哈拉以南非洲虽有南非、塞内加尔和苏丹，但仍值得继续关注新的高质量田野发现。
 
-**English.** North America has risen to six entries and no longer requires corrective selection merely for map balance. The clearest current gaps are **South Asia, Central Asia, and mainland Australia/the Pacific**. Sub-Saharan Africa is represented by South Africa, Senegal and Sudan but remains relatively thin. Southeast Asia is still sparse outside Laos and Sulawesi.
+**English.** North America has risen to five formal entries and no longer requires corrective selection merely for map balance. Central Asia and mainland Australia are now represented, and Southeast Asian coverage includes Laos, Sulawesi and Sumatra. The clearest remaining gaps are **South Asia and other parts of the Pacific**, while sub-Saharan Africa remains relatively thin despite representation from South Africa, Senegal and Sudan.
 
 ## 2. Chronological balance | 年代分布
 
@@ -89,7 +89,7 @@ Several of the strongest 2026 papers use genomics or proteomics. Their quality i
 Nature, Science, Cell and PNAS naturally generate international visibility. A rolling search based too heavily on those outlets can underrepresent excellent regional field archaeology published in specialist journals or institutional reports.
 
 ### C. Geographic source bias
-Current coverage is much stronger where English-language international reporting is dense. South Asia, Central Asia and parts of Africa/Pacific archaeology may be underrepresented because of discovery pipelines rather than a real absence of major work.
+Current coverage is much stronger where English-language international reporting is dense. South Asia, parts of Africa, and the wider Pacific may still be underrepresented because of discovery pipelines rather than a real absence of major work.
 
 ### D. “Record” inflation
 The list already contains several “earliest / oldest / largest” claims. These are useful when methodologically secure, but future record claims should be secondary to explanatory significance.
