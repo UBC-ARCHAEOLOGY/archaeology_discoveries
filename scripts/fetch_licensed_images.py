@@ -79,6 +79,10 @@ def to_png(data:bytes,dst:Path):
 def fetch(folder,url,wanted,licence):
     outdir=ROOT/folder
     outdir.mkdir(parents=True,exist_ok=True)
+    cached = [outdir/f"fig{n}.png" for n in wanted]
+    if cached and all(p.exists() for p in cached):
+        print(folder, "all requested figures already cached; skipping network fetch", sep="\n  ")
+        return
     (outdir/"LICENSE.txt").write_text(
         f"Article source: {url}\nVerified article licence: {licence}\n"
         "Each downloaded figure passed an automated caption screen for obvious "
