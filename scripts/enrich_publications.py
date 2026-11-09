@@ -4,7 +4,7 @@ import re, requests
 from ftfy import fix_text
 from pathlib import Path
 
-UA={"User-Agent":"archaeology-discoveries/2.1 (https://github.com/ZCJing2022/archaeology_discoveries)"}
+UA={"User-Agent":"archaeology-discoveries/2.1 (https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries)"}
 
 DATA={
 "01-wonderwerk-fire.qmd":[
