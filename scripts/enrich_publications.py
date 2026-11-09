@@ -124,7 +124,8 @@ def apa(doi):
     url="https://doi.org/"+doi
     r=requests.get(url,headers={**UA,"Accept":"text/x-bibliography; style=apa; locale=en-US"},timeout=30)
     r.raise_for_status()
-    return re.sub(r"\s+"," ",r.text.strip())
+    raw=r.content.decode("utf-8", errors="replace")
+    return fix_text(re.sub(r"\\s+"," ",raw.strip()))
 
 def make_block(name, items):
     out=["## 学术出版物 | Academic publications",""]
