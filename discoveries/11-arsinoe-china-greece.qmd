@@ -11,7 +11,7 @@ Aetolia-Acarnania, Greece / 希腊西部
 Classical–Hellenistic antiquity / 古典—希腊化时期
 
 **Research / excavation institutions / 发掘或研究机构**  
-Hellenic Ministry of Culture; Chinese School of Classical Studies at Athens; Ephorate of Antiquities of Aetolia-Acarnania and Lefkada
+Hellenic Ministry of Culture; Chinese School of Classical Studies at Athens (CSCSA); Ephorate of Antiquities of Aetolia-Acarnania and Lefkada
 
 **Key researchers / project leads / 主要研究者或项目负责人**  
 Olympia Vikatou (programme director); Li Xinwei (head of the Chinese School of Classical Studies at Athens).
@@ -53,7 +53,7 @@ CCTV candidate / 央视候选
 
 **现有资料内容（中文）。** 希腊文化部正式新闻稿确认2026年为五年计划首季，项目由 Olympia Vikatou 负责，Chinese School一方由 Li Xinwei 负责；报告描述了柱廊庭院建筑、多期使用和出土遗物，但尚未形成同行评议论文。
 
-**What the current source shows (English).** The Hellenic Ministry of Culture press release identifies 2026 as the first season of a five-year programme directed by Olympia Vikatou, with Li Xinwei leading the Chinese School side. It reports the peristyle building, multiple phases of use and associated finds, but it is not yet a peer-reviewed excavation publication.
+**What the current source shows (English).** The Hellenic Ministry of Culture press release identifies 2026 as the first season of a five-year programme directed by Olympia Vikatou, with Li Xinwei leading the Chinese side. The English institutional name **Chinese School of Classical Studies at Athens (CSCSA)** follows Xinhua's English-language coverage of the project's official launch and is not a translation created for this website. It reports the peristyle building, multiple phases of use and associated finds, but it is not yet a peer-reviewed excavation publication.
 
 <!-- APA-V2.1 -->
 
@@ -65,6 +65,7 @@ CCTV candidate / 央视候选
 
 ## 主要媒体报道 | Major media coverage
 
+- [Xinhua — China-Greece archaeological collaboration project launched in Athens](https://english.news.cn/20260425/aa8af45c728a4df585acb2c32e5032a8/c.html)
 - [Athens24](https://www.athens24.com/news/greek-chinese-excavation-sheds-light-on-ancient-arsinoe-at-angelokastro.html)
 - [Athinorama English](https://en.athinorama.gr/texnes/3079626/i-arxaia-arsinoi-apokaluptei-ta-mustika-tis-mesa-apo-ellinokineziki-anaskafi/)
 - [Archaeology News Online Magazine](https://archaeologymag.com/2026/10/excavation-at-arsinoe-reveals-columned-building/)
