@@ -1,0 +1,74 @@
+---
+title: "28. 加泰罗尼亚Cova de la Font Major：旧石器时代洞穴刻画"
+subtitle: "A major Palaeolithic engraving assemblage at Cova de la Font Major"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+L’Espluga de Francolí, Catalonia, Spain / 西班牙加泰罗尼亚L’Espluga de Francolí
+
+**Date / 年代**  
+Palaeolithic attribution, with many motifs assigned to pre-Magdalenian phases; direct dating remains limited / 归入旧石器时代，其中许多图像被判断为前Magdalenian阶段；直接年代仍有限
+
+**Research / excavation institutions / 发掘或研究机构**  
+IPHES-CERCA; Universitat Rovira i Virgili; collaborating Catalan research and heritage institutions
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Josep Maria Vergès Bosch; Míriam Salas-Altès.
+
+**Evidence grade / 证据等级**  
+B — peer-reviewed *Antiquity* publication and a large directly documented engraving corpus, but the chronology of many motifs relies on archaeological context and stylistic comparison rather than direct dating.  
+B级——《Antiquity》同行评议论文和规模很大的直接记录图像组合；但许多图像的年代主要依据考古背景和风格比较，而非直接测年。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——280个图像单元、55个动物形象使其成为伊比利亚地中海沿岸第三大的旧石器洞穴艺术组合，并显著改变了对东北伊比利亚旧石器艺术地理空白的认识。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 伊比利亚半岛拥有欧洲最丰富的旧石器时代洞穴艺术之一，但分布极不均衡。坎塔布里亚、巴斯克地区和安达卢西亚材料丰富，而加泰罗尼亚与东北伊比利亚长期只有极少数、甚至归属存疑的洞穴图像。因此这一地区的“空白”曾被解释为人口稀少、研究传统差异或保存条件造成的结果。
+
+**English.** The Iberian Peninsula preserves one of Europe’s richest records of Palaeolithic cave art, but its distribution is highly uneven. Cantabria, the Basque Country and Andalusia contain dense concentrations, whereas Catalonia and the north-eastern peninsula long yielded only isolated and sometimes uncertain examples. This apparent gap has been attributed variously to demographic history, research traditions and preservation.
+
+## 主要发现 | Major findings
+
+**中文。** 2019年在Cova de la Font Major的Gatoneres de Cal Palletes区域识别出此前长期被忽视的史前刻画；2026年论文首次系统发表该组合。研究共记录280个图像单元，其中55个为动物形象，包括马科、山羊类、鹿类、牛科和罕见的熊形象，其余包括大量非具象符号。
+
+**English.** Palaeolithic engravings were first recognized in 2019 in the Gatoneres de Cal Palletes sector of Cova de la Font Major, despite decades of tourist visitation. The 2026 publication provides the first systematic presentation of the corpus: 280 motifs, including 55 zoomorphic figures—equids, caprines, cervids, bovids and a rare bear—together with numerous non-figurative signs.
+
+**中文。** 以动物图像数量计，Font Major成为整个伊比利亚地中海沿岸第三大的旧石器洞穴艺术组合，仅次于南部的Ardales和La Pileta，也是目前东部伊比利亚唯一达到这一规模的洞穴艺术遗址。
+
+**English.** By number of zoomorphic representations, Font Major is now the third-largest Palaeolithic parietal-art assemblage along the Iberian Mediterranean façade, after Ardales and La Pileta, and the only large assemblage of this scale known in the eastern peninsula.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** Font Major最重要的贡献是改变地理分布模型：它表明东北伊比利亚此前的“艺术空白”至少部分可能来自研究与识别偏差，而不一定反映旧石器时代人群真的缺乏洞穴艺术实践。洞穴深部有约40,800–25,850 cal BP的人类活动年代，若干图像特征也与前Magdalenian传统相符。
+
+**English.** Font Major transforms the geographic model of Palaeolithic art in north-eastern Iberia. The discovery suggests that the former “artistic gap” may partly reflect research and recognition bias rather than an actual absence of graphic practice. Human presence in the inner cave is documented between roughly 40,800 and 25,850 cal BP, and several graphic conventions are consistent with pre-Magdalenian traditions.
+
+**中文。** 但年代限制必须写清：目前直接测年图像的条件有限，作者未来计划对覆盖部分图像的方解石开展铀系测年。现阶段许多图像的旧石器、尤其前Magdalenian归属主要依靠洞穴考古背景和风格比较。因此不能把280个图像全部写成“26,000年前”或某一精确年代。
+
+**English.** Chronological limits must remain explicit. Direct dating of the engravings is currently limited, and uranium-series dating of calcite overlying at least one zoomorph is planned. The Palaeolithic—and especially pre-Magdalenian—attribution of many motifs presently relies mainly on archaeological context and stylistic comparison. The full corpus therefore should not be assigned a single precise age such as “26,000 years old.”
+
+## 学术出版物 | Academic publications
+
+Vergès Bosch, J. M., & Salas-Altès, M. (2026). Filling gaps: The Palaeolithic rock art of the Cova de la Font Major on the north-east Iberian Peninsula. *Antiquity*, 1–22. https://doi.org/10.15184/aqy.2026.10447
+
+**开放获取状态 | Open-access status.** CC BY-NC-SA 4.0. / 文章采用CC BY-NC-SA 4.0开放许可。
+
+**出版物内容（中文）。** 论文系统记录280个图像单元、图像类型、洞穴空间背景和年代证据，并论证Font Major应成为地中海伊比利亚旧石器时代图像研究的重要参照点。
+
+**What the publication shows (English).** The article documents 280 motifs, their formal and thematic characteristics, cave context and chronological evidence, establishing Font Major as a major reference point for Palaeolithic graphic expression in Mediterranean Iberia.
+
+<!-- APA-V2.1 -->
+
+## 主要媒体报道 | Major media coverage
+
+- [Antiquity / Cambridge University Press](https://doi.org/10.15184/aqy.2026.10447)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Antiquity article — CC BY-NC-SA 4.0](https://doi.org/10.15184/aqy.2026.10447)
