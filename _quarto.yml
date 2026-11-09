@@ -65,6 +65,8 @@ website:
           - discoveries/26-plain-of-jars-death-jar.qmd
           - discoveries/27-maya-mercury.qmd
           - discoveries/28-font-major-rock-art.qmd
+          - discoveries/29-etowah-cacao.qmd
+          - discoveries/30-roman-iberia-adna.qmd
 
 format:
   html:
