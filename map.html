@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026 Archaeological Discoveries Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+ integrity="sha256-p4NxAoJBhIINfQ3yn5KpSmZun/GPmIm1RZQrMZp/4yM=" crossorigin="">
+<style>
+html,body,#map{height:100%;margin:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+.leaflet-popup-content{line-height:1.45;min-width:210px}
+.leaflet-popup-content a{color:#196b78;font-weight:650;text-decoration:none}
+.map-legend{background:white;padding:8px 10px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.25);font-size:12px;line-height:1.5}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px}
+.cctv{background:#196b78}.extra{background:#b36b2c}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+const map=L.map('map',{worldCopyJump:true,minZoom:2}).setView([20,20],2);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+ maxZoom:18,
+ attribution:'&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+const sites=[
+[1,-27.84,23.56,'Wonderwerk Cave约180万年前用火','Wonderwerk Cave fire use ~1.8 Ma','discoveries/01-wonderwerk-fire.html','cctv'],
+[2,32.83,110.82,'湖北郧县约177万年前直立人','Yunxian Homo erectus ~1.77 Ma','discoveries/02-yunxian-homo-erectus.html','cctv'],
+[3,37.40,22.10,'希腊Marathousa 1木制工具','Marathousa 1 wooden tools','discoveries/03-megalopolis-wood-tools.html','cctv'],
+[4,26.56,100.18,'云南蝙蝠洞丹尼索瓦人','Denisovans at Bianfu Cave','discoveries/04-denisovans-yunnan.html','cctv'],
+[5,38.35,33.50,'旧石器时代早期家犬（代表点：Pınarbaşı）','Early Palaeolithic dogs (Pınarbaşı)','discoveries/05-oldest-dog-genomes.html','cctv'],
+[6,39.95,16.00,'意大利Romito墓葬','Romito burial and NPR2 disorder','discoveries/06-romito-genetic-disease.html','cctv'],
+[7,53.50,107.50,'贝加尔湖早期鼠疫','Lake Baikal plague outbreaks','discoveries/07-baikal-plague.html','cctv'],
+[8,28.55,30.75,'埃及明亚早王朝墓葬','Early Dynastic tombs in Minya','discoveries/08-egypt-early-dynastic-tombs.html','cctv'],
+[9,39.96,26.24,'特洛伊早期铁器时代公共空间','Troy public space / proposed agora','discoveries/09-troy-agora.html','cctv'],
+[10,30.85,47.72,'底格里斯河畔亚历山大城/Charax','Alexandria on the Tigris / Charax','discoveries/10-alexandria-tigris.html','cctv'],
+[11,38.56,21.28,'希腊阿西诺中希联合发掘','Sino-Greek excavation at Arsinoe','discoveries/11-arsinoe-china-greece.html','cctv'],
+[12,-32.59,-69.35,'乌斯帕利亚塔谷地人口史','Uspallata Valley population history','discoveries/12-uspallata-ancient-dna.html','cctv'],
+[13,40.10,44.10,'阿尔吉什蒂希尼利水利网络','Argishtikhinili irrigation network','discoveries/13-urartian-irrigation.html','cctv'],
+[14,13.60,-12.20,'塞内加尔Didé West 1冶铁','Didé West 1 iron smelting','discoveries/14-dide-west-iron-smelting.html','cctv'],
+[15,18.45,31.82,'苏丹Sanam费昂斯作坊','Sanam faience workshop','discoveries/15-kush-faience.html','cctv'],
+[16,28.53,30.66,'奥克西林库斯《伊利亚特》木乃伊','Oxyrhynchus Iliad mummy context','discoveries/16-iliad-mummy.html','cctv'],
+[17,-9.80,-67.80,'西南亚马孙Aquiry土方工程','Aquiry / Southwest Amazon earthworks','discoveries/17-amazon-earthworks.html','extra'],
+[18,-8.11,-79.08,'秘鲁Chan Chan Chimú精英墓','Chan Chan Chimú elite tomb','discoveries/18-chan-chan-tomb.html','extra'],
+[19,49.50,12.50,'凯尔特语/日耳曼语古基因组（代表点：中欧）','Celtic/Germanic ancient genomics (central Europe)','discoveries/19-celtic-ancient-dna.html','extra'],
+[20,-4.85,122.55,'苏拉威西穆纳岛≥6.78万年岩画','Muna Island rock art ≥67.8 ka','discoveries/20-sulawesi-rock-art.html','extra']
+];
+
+function markerStyle(kind){
+ return {radius:7,fillColor:kind==='cctv'?'#196b78':'#b36b2c',color:'#fff',weight:1.5,opacity:1,fillOpacity:.9};
+}
+sites.forEach(([n,lat,lng,zh,en,url,kind])=>{
+ const m=L.circleMarker([lat,lng],markerStyle(kind)).addTo(map);
+ m.bindPopup('<b>'+n+'. '+zh+'</b><br>'+en+'<br><a href="'+url+'" target="_top">查看发现 / View discovery →</a>');
+});
+const legend=L.control({position:'bottomright'});
+legend.onAdd=function(){
+ const d=L.DomUtil.create('div','map-legend');
+ d.innerHTML='<span class="dot cctv"></span>CCTV候选 / CCTV candidate<br><span class="dot extra"></span>补充建议 / Additional';
+ return d;
+};
+legend.addTo(map);
+</script>
+</body>
+</html>
