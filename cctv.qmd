@@ -30,10 +30,9 @@ The 16 discoveries supplied in the original CCTV document are currently treated 
 ## 补充建议 | Additional discoveries proposed for consideration
 
 1. [西南亚马孙超过两万处前殖民土方工程](discoveries/17-amazon-earthworks.qmd)
-2. [商代约700公里铜资源供应网络](discoveries/18-shang-copper-network.qmd)
-3. [秘鲁Chan Chan未盗扰Chimú精英墓](discoveries/19-chan-chan-tomb.qmd)
-4. [古基因组与凯尔特语、日耳曼语传播模型](discoveries/20-celtic-ancient-dna.qmd)
-5. [苏拉威西穆纳岛≥6.78万年手印岩画](discoveries/21-sulawesi-rock-art.qmd)
-6. [Xultun署名玛雅数学家—天文学家Sak Tahn Waax](discoveries/22-maya-mathematician.qmd)
-7. [Kayalıpınar（Šamuḫa）赫梯王室档案](discoveries/23-hittite-royal-archive.qmd)
-8. [智利Camarones 9：美洲最早古代天花基因组](discoveries/24-camarones-smallpox.qmd)
+2. [秘鲁Chan Chan未盗扰Chimú精英墓](discoveries/18-chan-chan-tomb.qmd)
+3. [古基因组与凯尔特语、日耳曼语传播模型](discoveries/19-celtic-ancient-dna.qmd)
+4. [苏拉威西穆纳岛≥6.78万年手印岩画](discoveries/20-sulawesi-rock-art.qmd)
+5. [Xultun署名玛雅数学家—天文学家Sak Tahn Waax](discoveries/21-maya-mathematician.qmd)
+6. [Kayalıpınar（Šamuḫa）赫梯王室档案](discoveries/22-hittite-royal-archive.qmd)
+7. [智利Camarones 9：美洲最早古代天花基因组](discoveries/23-camarones-smallpox.qmd)
