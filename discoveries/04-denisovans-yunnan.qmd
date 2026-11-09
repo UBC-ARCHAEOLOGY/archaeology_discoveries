@@ -17,7 +17,8 @@ Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Yunnan Provi
 Fahu Chen; Qiaomei Fu; Qijun Ruan; Huan Rao; Song Xing
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A); this page now treats the 2026 Denisovan results as a linked research cluster rather than a single paper.
+English: Top-tier peer-reviewed research (A); this page now treats the 2026 Denisovan results as a linked research cluster rather than a single paper.  
+中文：顶级同行评议研究（A级）；本页把2026年丹尼索瓦人多项成果作为相互关联的研究群处理。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,70 +42,64 @@ CCTV candidate / 央视候选
 
 **English.** Denisovan research has long been asymmetrical: rich genetic evidence but sparse archaeology. Bat Cave shifts the agenda from identifying who Denisovans were toward reconstructing how they lived, bringing technology, subsistence, and ecological adaptation into a field once dominated by phylogeny and admixture.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-**Paper 1**
-- **Rao, Huiyun; Song Xing; Qijun Ruan; Fan Bai; Yuhao Zhao; Zhongyou Wu; Siyuan Tang; E. Andrew Bennett; Xiaotian Feng; Sungui Lin; Qingfeng Shao; Xiong Yang; Zitao Li; Kai Zhou; Feng Liu; et al.; Qiaomei Fu.**
-- **Title:** *Ancient proteins identify various Denisovan remains from Southwest China*
-- **Journal:** *Nature*
-- **DOI:** [10.1038/s41586-026-10976-9](https://doi.org/10.1038/s41586-026-10976-9)
-- **Published:** 9 September 2026
-- **Open access:** **Yes**.
+### 论文 1 | Paper 1
 
-**Paper 2**
-- **Ruan, Qijun; Hao Li; Song Xing; Keliang Zhao; et al.; Fahu Chen.**
-- **Title:** *Denisovans from southwestern China and their subsistence strategies*
-- **Journal:** *Nature*
-- **DOI:** [10.1038/s41586-026-10997-4](https://doi.org/10.1038/s41586-026-10997-4)
-- **Published:** 9 September 2026
-- **Open access:** article access is public, but reuse is under an exclusive Springer Nature licence rather than a general CC licence; figure reuse therefore requires caption-level permission checking.
+Rao, H., Xing, S., Ruan, Q., Bai, F., Zhao, Y., Wu, Z., Tang, S., Andrew Bennett, E., Feng, X., Lin, S., Shao, Q., Yang, X., Li, Z., Zhou, K., Liu, F., & Fu, Q. (2026). Ancient proteins identify various Denisovan remains from Southwest China. Nature. https://doi.org/10.1038/s41586-026-10976-9
 
-**Paper 3**
-- **Xing, Song; Zhongyou Wu; Qingfeng Shao; Junyi Ge; E. Andrew Bennett; Huiyun Rao; et al.; Qiaomei Fu.**
-- **Title:** *The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology*
-- **Journal:** *Nature*
-- **DOI:** [10.1038/s41586-026-11132-z](https://doi.org/10.1038/s41586-026-11132-z)
-- **Published:** 21 October 2026
-- **Open access:** **Yes**.
+**出版物内容（中文）。** 文章通过形态预筛、ZooMS 与古蛋白分析，从蝙蝠洞大量碎骨中确认多件丹尼索瓦人遗存，并扩展其已知身体部位与牙齿变异范围。它把古蛋白组学从“鉴别人群”推进到建立更丰富的丹尼索瓦化石样本。
 
-## 学术论文 | Academic publications
+**What the publication shows (English).** Using morphological prescreening, ZooMS and palaeoproteomics, the study identifies multiple Denisovan remains among highly fragmented bones from Bianfu Cave and expands the known anatomical and dental variation of the group. It demonstrates how palaeoproteomics can move beyond identification to building a richer Denisovan fossil record.
 
-- [Nature: Denisovans from southwestern China and their subsistence strategies](https://doi.org/10.1038/s41586-026-10997-4)
-- [Nature: Ancient proteins identify various Denisovan remains from Southwest China](https://doi.org/10.1038/s41586-026-10976-9)
-- [Nature: Xujiayao Denisovan palaeoproteomics](https://doi.org/10.1038/s41586-026-11132-z)
+### 论文 2 | Paper 2
+
+Ruan, Q., Li, H., Xing, S., Zhao, K., Liu, J., Zanolli, C., Doyon, L., Delpiano, D., Peresani, M., dâErrico, F., Demeter, F., Hublin, J.-J., Xiao, P., Wang, Y., Jia, Z., Yang, Q., Fu, Q., Sun, Q., Zhao, Y., et al. (2026). Denisovans from southwestern China and their subsistence strategies. Nature. https://doi.org/10.1038/s41586-026-10997-4
+
+**出版物内容（中文）。** 文章把约16.7万—13.4万年前的人类化石与约19万—7万年前的文化序列、石器、动物骨骼和环境记录结合起来，重建丹尼索瓦人的狩猎、骨骼利用与石器策略。其意义在于首次以完整遗址体系讨论丹尼索瓦人的行为与生态适应。
+
+**What the publication shows (English).** The paper integrates hominin fossils dated to roughly 167–134 ka with a cultural sequence spanning about 190–70 ka, lithics, fauna and environmental records. It provides the first site-scale reconstruction of Denisovan hunting, bone use, technological strategy and ecological adaptation.
+
+### 论文 3 | Paper 3
+
+Xing, S., Wu, Z., Shao, Q., Ge, J., Bennett, E. A., Rao, H., Lin, S., Zhao, Y., Liu, F., Liu, Y., Zhou, K., Feng, X., Jiangzuo, Q., & Fu, Q. (2026). The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology. Nature. https://doi.org/10.1038/s41586-026-11132-z
+
+**出版物内容（中文）。** 文章对徐家窑中更新世人类遗存进行古蛋白分析，并把所得蛋白组与东亚其他中更新世化石比较，以讨论丹尼索瓦人共有的形态特征。它扩大了丹尼索瓦人在华北的化石证据，并为重新审视东亚若干争议人类化石提供分子依据。
+
+**What the publication shows (English).** The study applies palaeoproteomics to Middle Pleistocene human remains from Xujiayao and compares them with other East Asian fossils to investigate shared Denisovan morphology. It broadens the Denisovan fossil record in northern China and supplies molecular evidence for reassessing several taxonomically debated East Asian hominins.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [Science News](https://www.sciencenews.org/article/new-fossils-denisovan-secrets-china)
-- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/)
-- [Chinese Academy of Sciences](https://english.cas.cn/newsroom/research-news/202609/t20260906_1192641.shtml)
-- [University of Wollongong](https://www.uow.edu.au/media/2026/190000-year-old-cave-reveals-how-ancient-human-species-lived-and-adapted.php)
-- [Nature Portfolio press release](https://www.natureasia.com/en/info/press-releases/detail/9437)
-- [Nature Portfolio press release — lives of Denisovans revealed in southwestern China](https://www.natureasia.com/en/info/press-releases/detail/9437)
+### 主要报道 | Major coverage
+
 - [CNN/KESQ](https://kesq.com/cnn-other/2026/09/09/cave-fossils-in-china-reveal-lives-of-mysterious-human-relatives/)
+- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/)
+- [Science News](https://www.sciencenews.org/article/new-fossils-denisovan-secrets-china)
+- [Nature Portfolio press release](https://www.natureasia.com/en/info/press-releases/detail/9437)
+- [Chinese Academy of Sciences](https://english.cas.cn/newsroom/research-news/202609/t20260906_1192641.shtml)
+
+### 其他报道 | Additional coverage
+
+- [University of Wollongong](https://www.uow.edu.au/media/2026/190000-year-old-cave-reveals-how-ancient-human-species-lived-and-adapted.php)
 - [Nature — Bianfu subsistence study](https://www.nature.com/articles/s41586-026-10997-4)
 - [Nature — Bianfu proteomics study](https://www.nature.com/articles/s41586-026-10976-9)
 - [Nature — Xujiayao proteomics study](https://www.nature.com/articles/s41586-026-11132-z)
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended explanatory set:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **Bianfu Cave location and site information** — Fig. 1 of the subsistence paper.
-2. **Stratigraphy, chronology and palaeoenvironment** — Fig. 2 of the subsistence paper.
-3. **Denisovan fossils from Bianfu Cave** — Fig. 3.
-4. **Stone artefacts and bone tools** — Fig. 4.
-5. **Xujiayao proteomic/morphological comparison** — key figure from the October paper.
-
-Only figures from papers explicitly carrying a reusable open licence should be embedded. The subsistence paper is not under a general CC licence, so those figures are linked but not copied until permission is confirmed.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-10976-9" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10976-9" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-10997-4" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10997-4" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-11132-z" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-11132-z" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

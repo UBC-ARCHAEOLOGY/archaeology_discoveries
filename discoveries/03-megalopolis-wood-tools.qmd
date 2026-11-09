@@ -17,7 +17,8 @@ University of Reading; University of Tübingen; American School of Classical Stu
 Annemieke Milks; Katerina Harvati; Eleni Panagopoulou; Vangelis Tourloukis; Panagiotis Karkanas
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A).
+English: Top-tier peer-reviewed research (A).  
+中文：顶级同行评议研究（A级）。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,57 +42,48 @@ CCTV candidate / 央视候选
 
 **English.** The apparent dominance of stone in Palaeolithic technology is strongly shaped by preservation bias. Wood, fiber, and hide rarely survive. These finds show that Middle Pleistocene technological systems were more diverse than lithic assemblages alone suggest and invite a broader reconstruction of woodworking and everyday toolkits.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Milks, Annemieke; Maria Ntinou; Stylianos Koutalis; Dimitrios Michailidis; George E. Konidaris; Domenico Giusti; Nicholas Thompson; Georgia Tsartsidou; Eleni Panagopoulou; Vangelis Tourloukis; Panagiotis Karkanas; Katerina Harvati.**
-- **Title:** *Evidence for the earliest hominin use of wooden handheld tools found at Marathousa 1 (Greece)*
-- **Journal:** *Proceedings of the National Academy of Sciences* 123(6): e2515479123
-- **DOI:** [10.1073/pnas.2515479123](https://doi.org/10.1073/pnas.2515479123)
-- **Published online:** 26 January 2026; issue date 10 February 2026
-- **Open access:** **Yes — CC BY-NC-ND 4.0**. Unmodified reproduction for non-commercial use is permitted with attribution; no adaptations.
+Milks, A., Ntinou, M., Koutalis, S., Michailidis, D., Konidaris, G. E., Giusti, D., Thompson, N., Tsartsidou, G., Panagopoulou, E., Tourloukis, V., Karkanas, P., & Harvati, K. (2026). Evidence for the earliest hominin use of wooden handheld tools found at Marathousa 1 (Greece). Proceedings of the National Academy of Sciences, 123(6). https://doi.org/10.1073/pnas.2515479123
 
-## 学术论文 | Academic publications
+**出版物内容（中文）。** 文章系统分析 Marathousa 1 的 144 件木质遗存，确认一件约81厘米长的桤木手持工具和一件较小的柳/杨木工具具有人工制作和使用痕迹。研究不仅把可确认的手持木器推到约43万年前，也说明中更新世技术系统不能仅依据石器来重建。
 
-- [Open-access article (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
+**What the publication shows (English).** The paper systematically analyses 144 wooden remains from Marathousa 1 and identifies an approximately 81-cm alder implement and a smaller willow/poplar tool with anthropogenic manufacture and use traces. It both extends the record of securely identified handheld wooden tools to about 430 ka and demonstrates why Middle Pleistocene technology cannot be reconstructed from lithics alone.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [University of Reading](https://www.reading.ac.uk/news/2026/Research-News/Earliest-evidence-of-wooden-tools-used-by-humans)
-- [Archaeology Magazine](https://archaeology.org/issues/online/digs-discoveries/turning-over-the-soil/)
 - [The New York Times (syndicated via eKathimerini)](https://www.ekathimerini.com/nytimes/1293855/)
 - [BBC report](https://www.bbc.co.uk/newsround/articles/cn0yp4g0ek4o)
+- [Archaeology Magazine](https://archaeology.org/issues/online/digs-discoveries/turning-over-the-soil/)
+- [University of Reading](https://www.reading.ac.uk/news/2026/Research-News/Earliest-evidence-of-wooden-tools-used-by-humans)
 - [PNAS / PMC full article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
-- No additional verified report from the target NYT/CNN/Guardian/Smithsonian/Archaeology Magazine set was located in this audit.
 
 ## 关键图像与许可 | Key images and permissions
 
-The PNAS article is CC BY-NC-ND 4.0. **Use figures only unmodified** and preserve attribution.
+**中文。** 下列图像来自已核查许可的学术出版物；图注同时标明来源、作者、许可与原文链接。若单幅图含第三方版权材料，自动抓取程序会跳过该图并改用原图链接。
 
-1. **The worked alder implement** — primary object image from the paper.
-2. **The willow/poplar small tool** — primary object image from the paper.
-3. **Site stratigraphy / find context** — contextual figure from the paper.
-4. **Comparison of anthropogenic modification and carnivore clawing** — interpretive figure if caption credit permits.
-
-[Open-access article with figures](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
+**English.** The images below come from scholarly publications with verified reuse licences. Each caption records the source, author, licence and original link. If an individual figure contains third-party rights language, the automated fetcher skips it and the page falls back to a source-image link.
 
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/03/fig1.png" alt="图1—Marathousa 1遗址与木器发现背景" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/03/fig1.png" alt="图1—Marathousa 1遗址与木器发现背景 / Figure 1—Marathousa 1 site and wooden-tool context" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—Marathousa 1遗址与木器发现背景—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—Marathousa 1遗址与木器发现背景 / Figure 1—Marathousa 1 site and wooden-tool context—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/03/fig2.png" alt="图2—43万年前木制手持工具及加工痕迹" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/03/fig2.png" alt="图2—43万年前木制手持工具及加工痕迹 / Figure 2—Handheld wooden tools and modification traces from about 430 ka" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—43万年前木制手持工具及加工痕迹—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—43万年前木制手持工具及加工痕迹 / Figure 2—Handheld wooden tools and modification traces from about 430 ka—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/03/fig3.png" alt="图3—木器使用痕迹与比较分析" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/03/fig3.png" alt="图3—木器使用痕迹与比较分析 / Figure 3—Use traces and comparative analysis of the wooden implements" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—木器使用痕迹与比较分析—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—木器使用痕迹与比较分析 / Figure 3—Use traces and comparative analysis of the wooden implements—来源 Source：PNAS—作者 Author：Milks et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/" target="_blank">原文链接 Original</a></p>
 </div>
 
 

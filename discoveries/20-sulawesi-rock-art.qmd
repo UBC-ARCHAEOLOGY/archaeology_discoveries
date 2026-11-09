@@ -17,7 +17,8 @@ National Research and Innovation Agency (BRIN), Indonesia; Griffith University; 
 Adhi Agus Oktaviana; Maxime Aubert; Adam Brumm; Renaud Joannes-Boyau
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A); strongly recommended addition missing from the original CCTV list.
+English: Top-tier peer-reviewed research (A); strongly recommended addition missing from the original CCTV list.  
+中文：顶级同行评议研究（A级）；是原央视名单中最重要的遗漏项目之一。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -35,38 +36,49 @@ Additional candidate / 补充建议
 
 **English.** The discovery matters beyond a record age. It links symbolic image-making with the early maritime dispersal of modern humans through Wallacea toward Sahul, showing that a developed hand-stencil tradition existed in Sulawesi by roughly 68,000 years ago. It therefore connects questions of cognition, symbolic practice, and maritime colonization.
 
-## 学术论文 | Academic publications
+## 学术出版物 | Academic publications
 
-- [Nature: Rock art from at least 67,800 years ago in Sulawesi](https://www.nature.com/articles/s41586-025-09968-y)
+Oktaviana, A. A., Joannes-Boyau, R., Hakim, B., Burhan, B., Sardi, R., Adhityatama, S., Jalandoni, A., Hamrullah, Sumantri, I., Tang, M., Lebe, R., Iswadi, Ilyas, I., Abbas, A., Jusdi, A., Mahardian, D. E., Intan, F. S., Noerwidi, S., Ririmasse, M. N. R., et al. (2026). Rock art from at least 67,800 years ago in Sulawesi. Nature, 650(8102), 652â656. https://doi.org/10.1038/s41586-025-09968-y
+
+**出版物内容（中文）。** 文章采用激光烧蚀铀系测年分析覆盖在穆纳岛手印岩画之上的方解石，得到岩画至少6.78万年的最小年代。研究把可靠测年的图像传统推进到现代人穿越华莱西亚并向萨胡尔扩散的早期阶段，使象征行为、海洋迁徙和区域文化连续性能够在同一时间框架中讨论。
+
+**What the publication shows (English).** The study uses laser-ablation uranium-series dating of calcite overlying a hand stencil on Muna Island to establish a minimum age of 67.8 ka. It places a securely dated image-making tradition within the early modern-human dispersal through Wallacea toward Sahul, allowing symbolic behaviour, maritime movement and regional cultural continuity to be discussed within the same chronology.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
+### 主要报道 | Major coverage
+
+- [CNN](https://www.cnn.com/2026/01/21/science/hand-stencil-oldest-rock-art)
 - [The Guardian](https://www.theguardian.com/science/2026/jan/21/hand-shape-indonesia-cave-rock-art-67800-years-old)
 - [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/can-you-see-the-faded-outline-of-a-hand-archaeologists-say-this-67800-year-old-stencil-may-be-the-worlds-oldest-known-rock-art-180988054/)
-- [CNN](https://www.cnn.com/2026/01/21/science/hand-stencil-oldest-rock-art)
 - [National Geographic](https://apple.news/AOuOEbRjyQYqxJ9CBu1tHdg)
-- [BRIN](https://www.brin.go.id/en/news/126407/worlds-oldest-rock-art-discovery-brin-strengthens-research-collaboration)
 - [National Geographic](https://www.nationalgeographic.com/history/article/worlds-oldest-rock-art-indonesia-hand-stencil)
+
+### 其他报道 | Additional coverage
+
+- [BRIN](https://www.brin.go.id/en/news/126407/worlds-oldest-rock-art-discovery-brin-strengthens-research-collaboration)
 - [Nature press release](https://www.natureasia.com/en/info/press-releases/detail/9213)
 
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/20/fig1.png" alt="图1—苏拉威西东南部岩画地点与区域位置" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/20/fig1.png" alt="图1—苏拉威西东南部岩画地点与区域位置 / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—苏拉威西东南部岩画地点与区域位置—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—苏拉威西东南部岩画地点与区域位置 / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/20/fig2.png" alt="图2—Liang Metanduno手印岩画及最小年代" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/20/fig2.png" alt="图2—Liang Metanduno手印岩画及最小年代 / Figure 2—Liang Metanduno hand stencil and minimum age" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—Liang Metanduno手印岩画及最小年代—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—Liang Metanduno手印岩画及最小年代 / Figure 2—Liang Metanduno hand stencil and minimum age—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/20/fig3.png" alt="图3—激光烧蚀铀系测年与岩画年代关系" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/20/fig3.png" alt="图3—激光烧蚀铀系测年与岩画年代关系 / Figure 3—Laser-ablation U-series dating and the age of the rock art" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—激光烧蚀铀系测年与岩画年代关系—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—激光烧蚀铀系测年与岩画年代关系 / Figure 3—Laser-ablation U-series dating and the age of the rock art—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
 </div>
 
 

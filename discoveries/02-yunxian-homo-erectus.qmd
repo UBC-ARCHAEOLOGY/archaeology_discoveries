@@ -17,7 +17,8 @@ Shantou University; Nanjing Normal University; Shanxi University; Purdue Univers
 Hua Tu; Guanjun Shen; Zhongping Lai; Darryl Granger; Xiaobo Feng
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A), but the revised chronology remains debated and reopens rather than closes the phylogenetic question.
+English: Top-tier peer-reviewed research (A), but the revised chronology remains debated and reopens rather than closes the phylogenetic question.  
+中文：顶级同行评议研究（A级）；新年代仍有争议，更适合视为重新打开而不是终结系统发育问题。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,42 +42,33 @@ CCTV candidate / 央视候选
 
 **English.** The result bears directly on how quickly early Homo dispersed beyond Africa, but its interpretation is contested because the much older chronology sits uneasily with recent morphological and phylogenetic work on the Yunxian crania. The revised age approaches that of Dmanisi in Georgia, suggesting that hominins may have reached far eastern Eurasia soon after the earliest extra-African dispersals rather than only after a long staged expansion.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Tu, Hua; Xiaobo Feng; Lan Luo; Zhongping Lai; Darryl Granger; Christopher Bae; Guanjun Shen.**
-- **Title:** *The oldest in situ Homo erectus crania in eastern Asia: The Yunxian site dates to ~1.77 Ma*
-- **Journal:** *Science Advances* 12(8): eady2270
-- **DOI:** [10.1126/sciadv.ady2270](https://doi.org/10.1126/sciadv.ady2270)
-- **Published online:** 18 February 2026; issue date 20 February 2026
-- **Open access:** **Yes** (Science Advances; free full text via PMC). Figure-specific reuse should follow the article licence and individual credit lines.
+Tu, H., Feng, X., Luo, L., Lai, Z., Granger, D., Bae, C., & Shen, G. (2026). The oldest in situ <i>Homo erectus</i> crania in eastern Asia: The Yunxian site dates to ~1.77 Ma. Science Advances, 12(8). https://doi.org/10.1126/sciadv.ady2270
 
-## 学术论文 | Academic publications
+**出版物内容（中文）。** 文章利用与郧县头骨同层石英砾石的宇生核素 ²⁶Al/¹⁰Be 埋藏测年，将化石层位测定为 1.77±0.08 Ma。其核心贡献是把东亚原位人类头骨记录推进到接近德马尼西的年代，但这一年代与近期形态学解释之间仍存在需要进一步检验的张力。
 
-- [Science Advances](https://www.science.org/doi/10.1126/sciadv.ady2270)
+**What the publication shows (English).** The study uses cosmogenic ²⁶Al/¹⁰Be burial dating of quartz clasts from the fossil-bearing layer to obtain an age of 1.77 ± 0.08 Ma. Its main contribution is to place securely contextualized East Asian hominin crania close in age to Dmanisi, while leaving an important tension with recent morphological interpretations that requires further testing.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [Live Science](https://www.livescience.com/archaeology/human-evolution/absolute-surprise-homo-erectus-skulls-found-in-china-are-almost-1-8-million-years-old-the-oldest-evidence-of-the-ancient-human-relatives-in-east-asia)
 - [Archaeology Magazine](https://archaeology.org/news/2026/02/23/new-dates-obtained-for-homo-erectus-fossils-in-east-asia/)
-- [Science Advances — original article](https://www.science.org/doi/10.1126/sciadv.ady2270)
 - [Archaeology Magazine summary](https://archaeologymag.com/2026/02/1-77-million-year-old-homo-erectus-skulls-in-china/)
-- No additional verified NYT/BBC/CNN/Guardian/Smithsonian report was located in the present audit.
+- [Live Science](https://www.livescience.com/archaeology/human-evolution/absolute-surprise-homo-erectus-skulls-found-in-china-are-almost-1-8-million-years-old-the-oldest-evidence-of-the-ancient-human-relatives-in-east-asia)
 
 ## 关键图像与许可 | Key images and permissions
 
-Preferred figure set from the open-access article:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **Site setting and stratigraphic context** — use the article's site/section figure.
-2. **Yunxian crania and depositional relationship** — use the article's fossil/context figure.
-3. **²⁶Al/¹⁰Be burial-age results** — use the chronology figure.
-
-Because Science-hosted figures may include third-party elements, each figure caption must be checked before direct embedding. Until that caption-level check is complete, the site links to the article rather than copying the image file.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.science.org/doi/10.1126/sciadv.ady2270" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.science.org/doi/10.1126/sciadv.ady2270" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13267281/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13267281/" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

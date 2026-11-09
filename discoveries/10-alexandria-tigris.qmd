@@ -17,7 +17,8 @@ University of Konstanz; Charax Spasinou Project; British archaeological and geop
 Stefan R. Hauser; Jane Moon; Robert Killick; Stuart Campbell
 
 **Evidence status / 证据状态**  
-Substantial multi-season field research (B), but 2026 coverage is a synthesis of work begun years earlier rather than a newly discovered location.
+English: Substantial multi-season field research (B), but 2026 coverage is a synthesis of work begun years earlier rather than a newly discovered location.  
+中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,26 +42,15 @@ CCTV candidate / 央视候选
 
 **English.** The project moves the archaeology of long-distance exchange beyond imported goods toward the infrastructure that sustained exchange. It connects Indian Ocean shipping, the Persian Gulf, Tigris river transport, and the Mesopotamian interior while linking urban fortunes to river migration and shoreline change.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-**Project synthesis / formal article**
-- **Campbell, Stuart; Stefan R. Hauser; Robert Killick; Jane Moon; Mary Shepperson; Věra Doležálková.**
-- **Title:** *Charax Spasinou: New Investigations at the Capital of Mesene*
-- **Journal:** *Zeitschrift für Orient-Archäologie* 11
-- **DOI:** [10.34780/te7a-edx2](https://doi.org/10.34780/te7a-edx2)
-- **Online release:** 30 April 2026 (the work reports earlier 2016–2017 field seasons)
-- **Open access:** subscription access on the journal page; no general open licence.
+Campbell, S., Hauser, S. R., Killick, R., Moon, J., Shepperson, M., &amp; Doležálková, V. (2026). Charax Spasinou: New Investigations at the Capital of Mesene. <i>Zeitschrift Für Orient-Archäologie</i>, <i>11</i>(Zeitschrift für Orient-Archäologie, Bd. 11 (2018): Zeitschrift für Orient-Archäologie). https://doi.org/10.34780/TE7A-EDX2
 
-**Geophysical study**
-- **Lambers, Lena; Jörg Faßbinder; Stuart Campbell; Stefan Hauser.**
-- **Title:** *Ancient Charax Spasinou (Iraq) – interpreting a multi-phase city based on magnetometer survey data*
-- **Publication:** conference proceedings, originally 2019; repository release 2026
-- **DOI:** [10.2307/jj.15135979.56](https://doi.org/10.2307/jj.15135979.56)
-- **Licence:** **CC BY-NC-ND 4.0** for the repository copy.
+**出版物内容（中文）。** 文章汇总 Charax Spasinou 项目的地表调查、陶器和城市考古成果，讨论这座希腊化—帕提亚时期港口城市的规模、年代与功能。它的重要性不在于2026年才找到遗址，而在于把长期已知的位置转化为可以分析街区、宗教、手工业、港口与区域贸易的城市考古资料。
 
-## 学术论文 | Academic publications
+**What the publication shows (English).** The article synthesizes surface survey, ceramic and urban evidence from the Charax Spasinou project to clarify the scale, chronology and functions of this Hellenistic–Parthian port city. Its contribution is not the first location of the site, but the conversion of a long-suspected location into an archaeologically analyzable urban landscape of neighbourhoods, religion, craft, harbour infrastructure and regional trade.
 
-- Project publication record to be expanded / 项目正式论文待补
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
@@ -71,22 +61,17 @@ CCTV candidate / 央视候选
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended visual set:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **City walls / aerial photograph** — Charax Spasinou Project, credited to Stuart Campbell.
-2. **Columns / architectural fragments** — project photograph credited to Robert Killick.
-3. **Magnetometer plan showing the multi-phase street grid.**
-4. **Drone/topographic reconstruction of harbour and canals.**
-
-Project photographs visible in media reports are **copyrighted project images**, not open-licence assets. The magnetometer-study repository copy is CC BY-NC-ND 4.0 and may be reused **unchanged for non-commercial use** with attribution; third-party credits in individual figures must still be respected.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.campus.uni-konstanz.de/en/node/2537" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.campus.uni-konstanz.de/en/node/2537" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://archaeology.org/news/2026/02/10/new-research-confirms-location-of-lost-city-founded-by-alexander-the-great/" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.theartnewspaper.com/2026/03/25/excavations-at-alexander-the-greats-lost-city-in-iraq-postponed-due-to-war" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.theartnewspaper.com/2026/03/25/excavations-at-alexander-the-greats-lost-city-in-iraq-postponed-due-to-war" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

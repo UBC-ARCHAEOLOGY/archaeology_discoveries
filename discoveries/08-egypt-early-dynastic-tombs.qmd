@@ -17,7 +17,8 @@ Supreme Council of Antiquities, Egypt; Central Department for Antiquities of Mid
 Sami Derderi (head of the archaeological mission); with oversight from the Supreme Council of Antiquities
 
 **Evidence status / 证据状态**  
-Government / excavation announcement only (D); no formal scholarly report identified as of the current review.
+English: Government / excavation announcement only (D); no formal scholarly report identified as of the current review.  
+中文：目前仅有政府/发掘公告（D级）；尚未发现正式学术报告。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,39 +42,35 @@ CCTV candidate / 央视候选
 
 **English.** The main significance lies in tracing the accumulation of engineering knowledge behind Egyptian monumental architecture: tomb construction, stone cutting, and structural stabilization before the major stone monuments of the Third Dynasty. It is more cautious to treat the finds as background to later developments rather than a demonstrated direct precursor to pyramids.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Formal peer-reviewed publication:** none identified as of 8 November 2026.
-- **Primary source:** Egyptian Supreme Council of Antiquities / State Information Service announcement, 20 June 2026.
-- **Scholarly status:** preliminary field announcement; architectural interpretation remains provisional.
-- **Open access / reuse:** the government news page is publicly accessible, but no general Creative Commons reuse licence was identified for its photographs.
+**尚无同行评议论文 | No peer-reviewed publication yet.**
 
-## 学术论文 | Academic publications
+[Egypt State Information Service. (2026, June 20). *Ancient tomb discovery sheds light on early Egyptian funerary architecture*.](https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/)
 
-- Formal publication not yet securely identified / 正式论文待核
+**现有资料内容（中文）。** 目前尚未发现正式同行评议论文。现有信息来自埃及最高文物委员会/国家信息服务的发掘公告，因此墓葬年代、建筑功能以及与后期金字塔工程之间的关系都应视为初步解释。
+
+**What the current source shows (English).** No peer-reviewed publication has yet been identified. Current information derives from the Egyptian Supreme Council of Antiquities/State Information Service field announcement, so chronology, architectural function and any relationship to later pyramid engineering remain preliminary interpretations.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [Egypt State Information Service](https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/)
 - [Archaeology Magazine](https://archaeology.org/news/2026/06/23/two-early-dynastic-tombs-exposed-in-egypt/)
+- [Egypt State Information Service](https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/)
 - [Ahram Online](https://english.ahram.org.eg/NewsContent/9/40/571225/Antiquities/Ancient-Egypt/Burials-discovery-in-Minya-sheds-new-light-on-Anci.aspx)
-- No formal Nature/Science/NYT/BBC/CNN/Guardian/Smithsonian treatment was located.
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended images are the official excavation photographs showing:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **Aerial view of the two tombs.**
-2. **Wall taper and masonry details.**
-3. **Wooden reinforcement / stone-cutting traces.**
-
-Archaeology Magazine credits the images to the **Egyptian Ministry of Tourism and Antiquities**. Because no open reuse licence was found, these images remain **link-only** and are not copied into the repository.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://archaeology.org/news/2026/06/23/two-early-dynastic-tombs-exposed-in-egypt/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://archaeology.org/news/2026/06/23/two-early-dynastic-tombs-exposed-in-egypt/" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

@@ -17,7 +17,8 @@ University of Oxford; University of Copenhagen (Globe Institute); University of 
 Ruairidh Macleod; Frederik V. Seersholm; Martin Sikora; Eske Willerslev; Andrzej W. Weber
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A); one of the strongest 2026 candidates.
+English: Top-tier peer-reviewed research (A); one of the strongest 2026 candidates.  
+中文：顶级同行评议研究（A级）；是2026年最有分量的候选项目之一。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,59 +42,54 @@ CCTV candidate / 央视候选
 
 **English.** The evidence complicates simple models that tie severe epidemics primarily to dense farming settlements and the Neolithic epidemiological transition. Highly lethal infectious disease could also affect relatively small and mobile hunter-gatherer populations.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Macleod, Ruairidh; Frederik V. Seersholm; Bianca De Sanctis; Angela Lieverse; Adrian Timpson; Rick Schulting; Jesper T. Stenderup; Charleen Gaunitz; Lasse Vinner; Olga I. Goriunova; Vladimir I. Bazaliiskii; Sergei V. Vasilyev; Erin Jessup; Yucheng Wang; Christopher Bronk Ramsey; Mark G. Thomas; Russell Corbett-Detig; Astrid K. N. Iversen; Andrzej W. Weber; Martin Sikora; Eske Willerslev.**
-- **Title:** *Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago*
-- **Journal:** *Nature* 654: 697–705
-- **DOI:** [10.1038/s41586-026-10540-5](https://doi.org/10.1038/s41586-026-10540-5)
-- **Published:** 17 June 2026
-- **Open access:** **Yes — CC BY 4.0**; figures are reusable with attribution unless a caption excludes third-party material.
+Macleod, R., Seersholm, F. V., De Sanctis, B., Lieverse, A., Timpson, A., Schulting, R., Stenderup, J. T., Gaunitz, C., Vinner, L., Goriunova, O. I., Bazaliiskii, V. I., Vasilyev, S. V., Jessup, E., Wang, Y., Ramsey, C. B., Thomas, M. G., Corbett-Detig, R., Iversen, A. K. N., Weber, A. W., et al. (2026). Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago. Nature, 654(8119), 697â705. https://doi.org/10.1038/s41586-026-10540-5
 
-## 学术论文 | Academic publications
+**出版物内容（中文）。** 文章在贝加尔湖地区46名狩猎采集者中检测到18例鼠疫杆菌阳性个体，并重建早期 Yersinia pestis 基因组、亲属关系和死亡模式。研究表明，在缺乏农业聚落高密度人口和经典跳蚤传播适应的情况下，鼠疫仍可能造成高死亡率暴发。
 
-- [Nature](https://www.nature.com/articles/s41586-026-10540-5)
+**What the publication shows (English).** The study detects Yersinia pestis in 18 of 46 hunter-gatherers from the Lake Baikal region and reconstructs early pathogen genomes, kinship and mortality patterns. It shows that highly lethal plague outbreaks could occur without dense farming settlements or the later classic flea-borne transmission adaptations.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/new-discovery-that-hunter-gatherer-children-died-of-plague-more-than-five-millennia-ago-sets-back-the-date-of-the-earliest-outbreak-180988983/)
-- [Associated Press](https://apnews.com/article/bc6f28c5c623a279100dacfbc3088595)
+### 主要报道 | Major coverage
+
 - [The New York Times (verified via Carl Zimmer archive)](https://carlzimmer.com/a-deadly-outbreak-of-plague-nearly-5000-years-before-the-black-death/)
 - [The Guardian](https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak)
+- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/new-discovery-that-hunter-gatherer-children-died-of-plague-more-than-five-millennia-ago-sets-back-the-date-of-the-earliest-outbreak-180988983/)
+- [Associated Press](https://apnews.com/article/bc6f28c5c623a279100dacfbc3088595)
 - [Science News](https://www.sciencenews.org/article/plague-outbreak-oldest-hunter-gatherers)
+
+### 其他报道 | Additional coverage
+
 - [Nature Portfolio press release](https://www.natureasia.com/en/info/press-releases/detail/9360)
-- [Nature — original article](https://www.nature.com/articles/s41586-026-10540-5)
-- NYT coverage was reported in the source audit; the direct NYT page was not reliably retrievable in the current environment.
 
 ## 关键图像与许可 | Key images and permissions
 
-The Nature paper is **CC BY 4.0**. Preferred figures:
+**中文。** 下列图像来自已核查许可的学术出版物；图注同时标明来源、作者、许可与原文链接。若单幅图含第三方版权材料，自动抓取程序会跳过该图并改用原图链接。
 
-1. **Fig. 1 — cemetery locations, chronology and plague-positive individuals** — reusable with attribution.
-2. **Kinship/pedigree figure** — shows familial clustering and epidemic structure.
-3. **Y. pestis phylogeny** — places the basal strains in pathogen evolution.
-4. **Virulence-locus comparison** — useful for explaining why these early strains may still have been lethal.
-
-[Open-access article with figures](https://pmc.ncbi.nlm.nih.gov/articles/PMC13275307/)
+**English.** The images below come from scholarly publications with verified reuse licences. Each caption records the source, author, licence and original link. If an individual figure contains third-party rights language, the automated fetcher skips it and the page falls back to a source-image link.
 
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/07/fig1.png" alt="图1—贝加尔湖墓地、年代与鼠疫阳性个体分布" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/07/fig1.png" alt="图1—贝加尔湖墓地、年代与鼠疫阳性个体分布 / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—贝加尔湖墓地、年代与鼠疫阳性个体分布—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—贝加尔湖墓地、年代与鼠疫阳性个体分布 / Figure 1—Lake Baikal cemeteries, chronology and plague-positive individuals—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/07/fig2.png" alt="图2—古代鼠疫感染个体的亲属关系与疫情结构" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/07/fig2.png" alt="图2—古代鼠疫感染个体的亲属关系与疫情结构 / Figure 2—Kinship and outbreak structure among plague-positive individuals" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—古代鼠疫感染个体的亲属关系与疫情结构—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—古代鼠疫感染个体的亲属关系与疫情结构 / Figure 2—Kinship and outbreak structure among plague-positive individuals—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/07/fig3.png" alt="图3—早期鼠疫杆菌的系统发育位置" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/07/fig3.png" alt="图3—早期鼠疫杆菌的系统发育位置 / Figure 3—Phylogenetic position of early Yersinia pestis" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—早期鼠疫杆菌的系统发育位置—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—早期鼠疫杆菌的系统发育位置 / Figure 3—Phylogenetic position of early Yersinia pestis—来源 Source：Nature—作者 Author：Macleod et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10540-5" target="_blank">原文链接 Original</a></p>
 </div>
 
 

@@ -17,7 +17,8 @@ University of Barcelona / Institute of the Ancient Near East; Egyptian Supreme C
 Maite Mascort Roca; Esther Pons Mellado; papyrus specialists working with the mission
 
 **Evidence status / 证据状态**  
-Excavation announcement with preliminary specialist reading (D→C); the papyrus has not yet received a full formal scholarly publication.
+English: Excavation announcement with preliminary specialist reading (D→C); the papyrus has not yet received a full formal scholarly publication.  
+中文：发掘公告与初步专家识读（D→C级）；纸草尚未正式完整发表。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,44 +42,45 @@ CCTV candidate / 央视候选
 
 **English.** Its value lies not in showing once again that Homer circulated in Egypt, but in preserving a literary text within a specific mortuary context, blurring the boundaries among literature, amuletic practice, ritual texts, and funerary behavior.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Formal peer-reviewed publication of the papyrus:** none identified as of 8 November 2026.
-- **Primary research announcement:** University of Barcelona, 20 April 2026.
-- **Text identification:** preliminary specialist identification as a passage from Book 2 of the *Iliad* (Catalogue of Ships).
-- **Open access / reuse:** press material is public, but no general CC licence for excavation photographs was identified.
+**尚无同行评议论文 | No peer-reviewed publication yet.**
 
-## 学术论文 | Academic publications
+[University of Barcelona. (2026, April 20). *Oxyrhynchus excavation identifies a Homeric Iliad text in a Roman-period mortuary context*.](https://web.ub.edu/en/web/actualitat/w/oxyrhynchus-iliad-homer)
 
-- Formal scholarly publication pending / 正式学术论文待发表
+**现有资料内容（中文）。** 纸草尚未正式发表，当前识读来自巴塞罗那大学考古队的研究公告。现有证据足以确认其与《伊利亚特》第二卷有关，但纸草在木乃伊中的精确位置及其是否具有仪式功能仍需等待正式纸草学出版。
+
+**What the current source shows (English).** The papyrus has not yet received a formal scholarly edition; its identification is currently reported through the University of Barcelona research announcement. The evidence supports an association with Book 2 of the *Iliad*, but the exact placement of the papyrus and whether it carried a deliberate ritual function await formal papyrological publication.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [Live Science](https://www.livescience.com/archaeology/ancient-egyptians/egyptian-mummy-has-part-of-the-iliad-in-its-abdomen-archaeologists-discover)
-- [Archaeology Magazine](https://archaeology.org/news/2026/04/21/roman-era-tomb-excavated-in-upper-egypt/)
-- [University of Barcelona — official research announcement](https://web.ub.edu/en/web/actualitat/w/oxyrhynchus-iliad-homer)
+### 主要报道 | Major coverage
+
 - [CNN](https://kesq.com/cnn-other/2026/04/30/egyptian-mummy-unearthed-with-literary-text-on-abdomen-in-first-ever-find/)
-- [National Geographic](https://www.nationalgeographic.com/history/article/egyptian-mummy-iliad-papyri)
 - [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/archaeologists-unearth-a-papyrus-fragment-from-the-iliad-tucked-inside-the-wrappings-of-a-1600-year-old-egyptian-mummy-180988603/)
+- [National Geographic](https://www.nationalgeographic.com/history/article/egyptian-mummy-iliad-papyri)
+- [Archaeology Magazine](https://archaeology.org/news/2026/04/21/roman-era-tomb-excavated-in-upper-egypt/)
+- [Live Science](https://www.livescience.com/archaeology/ancient-egyptians/egyptian-mummy-has-part-of-the-iliad-in-its-abdomen-archaeologists-discover)
+
+### 其他报道 | Additional coverage
+
+- [University of Barcelona — official research announcement](https://web.ub.edu/en/web/actualitat/w/oxyrhynchus-iliad-homer)
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended visual set:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **The mummy and mortuary context.**
-2. **Papyrus packet / fragment with the Iliad text.**
-3. **Tomb 65 / Upper Necropolis context.**
-4. **Oxyrhynchus site view.**
-
-The available photographs derive from the Egyptian Ministry / University of Barcelona and media partners. No general CC reuse licence was identified, so these images remain **link-only** until written permission or an explicit open licence is confirmed.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://web.ub.edu/en/web/actualitat/w/oxyrhynchus-iliad-homer" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://web.ub.edu/en/web/actualitat/w/oxyrhynchus-iliad-homer" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.smithsonianmag.com/smart-news/archaeologists-unearth-a-papyrus-fragment-from-the-iliad-tucked-inside-the-wrappings-of-a-1600-year-old-egyptian-mummy-180988603/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.smithsonianmag.com/smart-news/archaeologists-unearth-a-papyrus-fragment-from-the-iliad-tucked-inside-the-wrappings-of-a-1600-year-old-egyptian-mummy-180988603/" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://kesq.com/cnn-other/2026/04/30/egyptian-mummy-unearthed-with-literary-text-on-abdomen-in-first-ever-find/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://kesq.com/cnn-other/2026/04/30/egyptian-mummy-unearthed-with-literary-text-on-abdomen-in-first-ever-find/" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

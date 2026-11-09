@@ -17,7 +17,8 @@ Turkish Ministry of Culture and Tourism; Çanakkale Onsekiz Mart University
 Rüstem Aslan (excavation director); Reyhan Körpe (deputy excavation director)
 
 **Evidence status / 证据状态**  
-Media / excavation announcement only (D); interpretation of the space as an “agora” remains provisional.
+English: Media / excavation announcement only (D); interpretation of the space as an “agora” remains provisional.  
+中文：目前仅有媒体/发掘公告（D级）；把该空间解释为“agora”仍属初步判断。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,39 +42,35 @@ CCTV candidate / 央视候选
 
 **English.** The strongest scholarly contribution is not simply the identification of a marketplace, but the study of urban memory and persistence: how new inhabitants reorganized life among ruins while continuing to use spaces that already carried public significance.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Formal peer-reviewed publication for the 2026 “earliest agora” claim:** none identified.
-- **Primary 2026 source:** excavation-team statements reported by Hürriyet Daily News and summarized by *Archaeology Magazine*.
-- **Scholarly status:** preliminary interpretation from ongoing fieldwork.
-- **Open access / reuse:** media images are not under a general open licence.
+**尚无同行评议论文 | No peer-reviewed publication yet.**
 
-## 学术论文 | Academic publications
+[Hürriyet Daily News. (2026, September). *Troy’s ancient agora uncovered in recent excavations*.](https://www.hurriyetdailynews.com/troys-ancient-agora-uncovered-in-recent-excavations-226718)
 
-- Formal publication pending / 正式论文待发表
+**现有资料内容（中文）。** 目前没有针对2026年“最早agora”解释的同行评议论文。现有说法主要来自发掘团队接受媒体采访，因此晚青铜时代空间是否确为市场、以及“agora”这一术语是否适用，仍需等待正式建筑与出土物分析。
+
+**What the current source shows (English).** No peer-reviewed publication has yet established the 2026 “earliest agora” interpretation. The claim currently rests mainly on excavation-team statements to the media, so both the market function of the Late Bronze Age space and the use of the term “agora” await formal architectural and artefactual analysis.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [Daily Sabah](https://www.dailysabah.com/life/history/2800-year-old-agora-uncovered-at-turkiyes-ancient-city-of-troy)
 - [Archaeology Magazine](https://archaeology.org/news/2026/09/15/troys-earliest-agora-unearthed/)
+- [Daily Sabah](https://www.dailysabah.com/life/history/2800-year-old-agora-uncovered-at-turkiyes-ancient-city-of-troy)
 - [Hürriyet Daily News](https://www.hurriyetdailynews.com/troys-ancient-agora-uncovered-in-recent-excavations-226718)
-- No target-outlet Nature/Science/NYT/BBC/CNN/Guardian/Smithsonian report was located.
 
 ## 关键图像与许可 | Key images and permissions
 
-Useful images would be:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **Aerial/site view of the South Gate and proposed public space.**
-2. **Paved road from the lower city to the South Gate.**
-3. **Entrance/architectural remains associated with the proposed agora.**
-
-The available 2026 photographs are media/excavation-team images without a clear open reuse licence. They are therefore **linked, not embedded**.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://archaeology.org/news/2026/09/15/troys-earliest-agora-unearthed/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://archaeology.org/news/2026/09/15/troys-earliest-agora-unearthed/" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.hurriyetdailynews.com/troys-ancient-agora-uncovered-in-recent-excavations-226718" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.hurriyetdailynews.com/troys-ancient-agora-uncovered-in-recent-excavations-226718" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

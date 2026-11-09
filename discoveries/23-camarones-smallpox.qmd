@@ -17,11 +17,18 @@ Universidad de Chile; Universidad de Tarapacá; Trinity College Dublin; Kanazawa
 Bruno Romero González; Margarita Reyes-Madrid; Bernardo Arriaza; Constanza de la Fuente Castro; Shigeki Nakagome
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed archaeogenomic research (A).
+English: Top-tier peer-reviewed archaeogenomic research (A).  
+中文：顶级同行评议古病原体基因组研究（A级）。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
 :::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 欧洲接触后传染病造成的美洲人口崩溃是殖民史和生物考古学的核心问题，但长期主要依赖文献、人口模型和间接病理证据。古病原体基因组学能够直接识别感染个体，并比较古代病毒与后来的全球谱系，从而把“哪一种病原体何时进入美洲”转化为可以由分子证据检验的问题。
+
+**English.** The demographic collapse associated with post-contact epidemics is central to colonial history and bioarchaeology in the Americas, but it has long been reconstructed mainly from documentary sources, demographic models and indirect pathological evidence. Ancient pathogen genomics can identify infections directly and compare ancient viruses with later global lineages, turning questions about which pathogens entered the Americas and when into testable molecular problems.
 
 ## 主要发现 | Major findings
 
@@ -35,9 +42,15 @@ Additional candidate / 补充建议
 
 **English.** The demographic catastrophe caused by post-contact disease has long been reconstructed largely from documentary and demographic evidence. These genomes provide direct molecular evidence for smallpox introduction into South America and connect colonial history, pathogen evolution, and archaeological human remains.
 
-## 学术论文 | Academic publications
+## 学术出版物 | Academic publications
 
-- [Science: The genomic identity of early smallpox in South America](https://doi.org/10.1126/science.aee6957)
+Romero GonzÃ¡lez, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M., la Fuente Castro, C. d., & Nakagome, S. (2026). The genomic identity of early smallpox in South America. Science, 393(6810), 504â508. https://doi.org/10.1126/science.aee6957
+
+**出版物内容（中文）。** 文章从智利北部 Camarones 9 两名早期殖民时期个体中重建出美洲最早的古代天花病毒基因组，并将其置于全球 variola 病毒系统发育树中。结果为欧洲接触后天花进入南美洲提供病原体本身的直接分子证据，并显示早期美洲毒株属于后来消失的谱系。
+
+**What the publication shows (English).** The study reconstructs the earliest ancient smallpox genomes yet recovered in the Americas from two early colonial individuals at Camarones 9 in northern Chile and places them within the global variola phylogeny. It provides direct molecular evidence for the introduction of smallpox into South America after European contact and shows that the early American viruses belonged to an extinct lineage.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 

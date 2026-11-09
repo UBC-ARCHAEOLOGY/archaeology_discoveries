@@ -17,7 +17,8 @@ University of Helsinki; University of Turku; Federal University of Acre; Finnish
 Martti Pärssinen; Risto Kalliola; Alceu Ranzi; Evandro Ferreira
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A); a major omitted candidate from the original CCTV list.
+English: Top-tier peer-reviewed research (A); a major omitted candidate from the original CCTV list.  
+中文：顶级同行评议研究（A级）；是原央视名单中明显遗漏的重要候选。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -41,61 +42,54 @@ Additional candidate / 补充建议
 
 **English.** The study addresses a century-old question in Amazonian archaeology: whether tropical forests were mainly pristine environments or long-term cultural landscapes. Tens of thousands of earthworks imply substantial reassessment of precolonial population, settlement density, soil modification, and forest ecological history.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Pärssinen, Martti; Risto Kalliola; Alceu Ranzi; Eetu Puttonen; Rhuan Carlos Lopes; Pirjo Kristiina Virtanen; Francisco Apurinã; Kalle Ruokolainen; Juha Hyyppä; Antero Kukko; Mariana Campos; Fabio de Novaes; Markku Oinonen; Antonia D. Barbosa; Sanna Saunaluoma; et al.; Evandro Ferreira.**
-- **Title:** *Over 20,000 precolonial earthworks in the Southwest Amazonia*
-- **Journal:** *Nature* 657: 420–425
-- **DOI:** [10.1038/s41586-026-10835-7](https://doi.org/10.1038/s41586-026-10835-7)
-- **Published:** 29 July 2026
-- **Open access:** **Yes**. The article is marked open access; however, individual figure captions must still be checked before image copying because third-party material can be excluded from the article licence.
+PÃ¤rssinen, M., Kalliola, R., Ranzi, A., Puttonen, E., Lopes, R. C., Virtanen, P. K., ApurinÃ£, F., Ruokolainen, K., HyyppÃ¤, J., Kukko, A., Campos, M., de Novaes, F., Oinonen, M., Barbosa, A. D., Saunaluoma, S., & Ferreira, E. (2026). Over 20,000 precolonial earthworks in the Southwest Amazonia. Nature, 657(8131), 420â425. https://doi.org/10.1038/s41586-026-10835-7
 
-## 学术论文 | Academic publications
+**出版物内容（中文）。** 文章利用LiDAR调查和空间模型在西南亚马孙识别大量几何土方工程，并据此估算更广区域可能存在约2.4万—3万处前殖民土方遗迹。研究显著提高了对前殖民人口和土地利用强度的估计，但125万—300万人属于模型外推，应与直接考古计数区分。
 
-- [Nature](https://www.nature.com/articles/s41586-026-10835-7)
+**What the publication shows (English).** The study combines LiDAR survey and spatial modelling to identify large numbers of geometric earthworks in southwestern Amazonia and estimate roughly 24,000–30,000 precolonial earthworks across the broader cultural region. It substantially raises estimates of settlement and land-use intensity, although the proposed population of 1.25–3 million is a modelled extrapolation rather than a direct count.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
+### 主要报道 | Major coverage
+
 - [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/mysterious-shapes-hidden-beneath-the-amazon-canopy-reveal-a-sprawling-ancient-civilization-much-bigger-than-researchers-expected-180989236/)
+- [Nature Portfolio press release](https://www.natureasia.com/en/info/press-releases/detail/9397)
 - [Scientific American](https://www.scientificamerican.com/article/hundreds-of-ancient-never-before-seen-earthworks-discovered-in-the-amazon/)
 - [Archaeology Magazine](https://archaeology.org/news/2026/07/31/hundreds-of-geoglyphs-discovered-in-amazon-rainforest/)
 - [Nature Podcast](https://www.nature.com/articles/d41586-026-02367-x)
-- [Nature Portfolio press release](https://www.natureasia.com/en/info/press-releases/detail/9397)
+
+### 其他报道 | Additional coverage
+
 - [Nature Research Briefing](https://www.nature.com/articles/d41586-026-02321-x)
-- [Nature Podcast / news](https://www.nature.com/articles/d41586-026-02367-x)
-- [Nature — original article](https://www.nature.com/articles/s41586-026-10835-7)
-- NYT reporting on Amazonian archaeology was identified in the earlier audit, but a stable direct article URL was not available in the present search environment.
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended set from the open-access Nature paper:
+**中文。** 下列图像来自已核查许可的学术出版物；图注同时标明来源、作者、许可与原文链接。若单幅图含第三方版权材料，自动抓取程序会跳过该图并改用原图链接。
 
-1. **Regional distribution of Aquiry / southwestern Amazonian earthworks.**
-2. **LiDAR visualization of newly detected geometric earthworks.**
-3. **Observed versus modelled earthwork-density map.**
-4. **Population-estimation model / uncertainty range.**
-5. **Representative earthwork morphology.**
-
-Because the article is open access but the exact licence text was not retrievable in this pass, the page should **link to figures first** and embed only after each caption is checked for licence and third-party credits.
+**English.** The images below come from scholarly publications with verified reuse licences. Each caption records the source, author, licence and original link. If an individual figure contains third-party rights language, the automated fetcher skips it and the page falls back to a source-image link.
 
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/17/fig1.png" alt="图1—西南亚马孙Aquiry土方工程区域分布" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/17/fig1.png" alt="图1—西南亚马孙Aquiry土方工程区域分布 / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—西南亚马孙Aquiry土方工程区域分布—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—西南亚马孙Aquiry土方工程区域分布 / Figure 1—Regional distribution of Aquiry earthworks in southwestern Amazonia—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/17/fig2.png" alt="图2—LiDAR揭示的几何土方工程" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/17/fig2.png" alt="图2—LiDAR揭示的几何土方工程 / Figure 2—Geometric earthworks revealed by LiDAR" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—LiDAR揭示的几何土方工程—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—LiDAR揭示的几何土方工程 / Figure 2—Geometric earthworks revealed by LiDAR—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/17/fig3.png" alt="图3—土方工程密度与区域尺度模型" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/17/fig3.png" alt="图3—土方工程密度与区域尺度模型 / Figure 3—Earthwork density and regional-scale modelling" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—土方工程密度与区域尺度模型—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—土方工程密度与区域尺度模型 / Figure 3—Earthwork density and regional-scale modelling—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
 </div>
 
 

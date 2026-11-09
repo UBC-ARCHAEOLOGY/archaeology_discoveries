@@ -17,7 +17,8 @@ Durham University; Institute of Fine Arts, New York University; National Corpora
 Rennan Lemos; Kathryn Howley; Shadia Abdu Rabo; Siobhan Shinn
 
 **Evidence status / 证据状态**  
-Peer-reviewed specialist-journal research (B); first securely identified Middle Napatan faience-production workshop.
+English: Peer-reviewed specialist-journal research (B); first securely identified Middle Napatan faience-production workshop.  
+中文：同行评议专业期刊研究（B级）；目前是可靠识别的纳帕塔中期费昂斯生产作坊。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,59 +42,46 @@ CCTV candidate / 央视候选
 
 **English.** The study moves beyond viewing Kushite material culture as simple Egyptian imitation. More importantly, temple-based production connects prestige goods, raw materials, specialist knowledge, and labor organization to political economy and state power.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Lemos, Rennan; Kathryn Howley; Siobhan Shinn; Shadia Abdu Rabo.**
-- **Title:** *Crafting power in Kush: faience production and state control in the Napatan region*
-- **Journal:** *Antiquity*, First View
-- **DOI:** [10.15184/aqy.2026.10434](https://doi.org/10.15184/aqy.2026.10434)
-- **Published online:** 19 October 2026
-- **Open access:** **Yes — CC BY 4.0**. Reuse is permitted with attribution, subject to any separate third-party credit in individual captions.
+Lemos, R., Howley, K., Shinn, S., & Abdu Rabo, S. (2026). Crafting power in Kush: faience production and state control in the Napatan region. Antiquity, 1â20. https://doi.org/10.15184/aqy.2026.10434
 
-## 学术论文 | Academic publications
+**出版物内容（中文）。** 文章通过 Sanam 神庙中的窑炉、模具、费昂斯珠、沙布提俑和生产废品，重建纳帕塔时期费昂斯生产体系。研究指出当地工匠使用与埃及不同的材料配方，并把神庙生产、专业知识与国家控制联系起来，从生产组织层面重新讨论库施与埃及的关系。
 
-- [Antiquity](https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5)
+**What the publication shows (English).** Using kilns, moulds, faience beads, shabtis and production waste from Sanam Temple, the article reconstructs a Napatan faience-production system. It identifies local recipes that differed from Egyptian practice and links temple production, specialist knowledge and state control, reframing Kushite–Egyptian relations through production organization rather than imitation alone.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
+- [Archaeology Magazine](https://archaeology.org/news/2026/10/20/faience-workshop-found-in-ancient-nubia/)
 - [Phys.org](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html)
 - [Antiquity feature](https://antiquity.ac.uk/news/2026/uncovering-shimmering-material-helped-craft-power-ancient-nubia)
-- [Archaeology Magazine](https://archaeology.org/news/2026/10/20/faience-workshop-found-in-ancient-nubia/)
-- [Archaeology Magazine](https://archaeology.org/news/2026/10/20/faience-workshop-found-in-ancient-nubia/)
-- [Antiquity feature](https://antiquity.ac.uk/news/2026/uncovering-shimmering-material-helped-craft-power-ancient-nubia)
-- [Phys.org](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html)
-- [Antiquity — original article](https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5)
 
 ## 关键图像与许可 | Key images and permissions
 
-The article is **CC BY 4.0**. Preferred images:
+**中文。** 下列图像来自已核查许可的学术出版物；图注同时标明来源、作者、许可与原文链接。若单幅图含第三方版权材料，自动抓取程序会跳过该图并改用原图链接。
 
-1. **Plan/location of Sanam Temple and workshop context.**
-2. **Firing pit and mudbrick production installations.**
-3. **Multicoloured faience beads, vessel fragments and wasters.**
-4. **Green faience shabti and matching mould.**
-5. **Material/recipe evidence illustrating the use of local shell-derived calcium.**
-
-These images can be embedded with full article attribution unless an individual caption identifies third-party copyright.
+**English.** The images below come from scholarly publications with verified reuse licences. Each caption records the source, author, licence and original link. If an individual figure contains third-party rights language, the automated fetcher skips it and the page falls back to a source-image link.
 
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/15/fig1.png" alt="图1—Sanam神庙及费昂斯作坊位置" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/15/fig1.png" alt="图1—Sanam神庙及费昂斯作坊位置 / Figure 1—Location of Sanam Temple and the faience workshop" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—Sanam神庙及费昂斯作坊位置—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—Sanam神庙及费昂斯作坊位置 / Figure 1—Location of Sanam Temple and the faience workshop—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/15/fig2.png" alt="图2—神庙后部生产设施与作坊遗迹" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/15/fig2.png" alt="图2—神庙后部生产设施与作坊遗迹 / Figure 2—Production installations and workshop remains behind the temple" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—神庙后部生产设施与作坊遗迹—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—神庙后部生产设施与作坊遗迹 / Figure 2—Production installations and workshop remains behind the temple—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/15/fig3.png" alt="图3—费昂斯珠、废品与生产证据" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/15/fig3.png" alt="图3—费昂斯珠、废品与生产证据 / Figure 3—Faience beads, wasters and production evidence" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—费昂斯珠、废品与生产证据—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—费昂斯珠、废品与生产证据 / Figure 3—Faience beads, wasters and production evidence—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
 </div>
 
 

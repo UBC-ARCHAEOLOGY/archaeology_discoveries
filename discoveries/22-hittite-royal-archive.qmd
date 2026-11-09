@@ -17,11 +17,18 @@ Koç University; Türkiye Ministry of Culture and Tourism
 Çiğdem Maner (excavation director)
 
 **Evidence status / 证据状态**  
-Major field discovery (D/C): official excavation announcement; tablets are still being read and full scholarly publication is pending.
+English: Major field discovery (D/C): official excavation announcement; tablets are still being read and full scholarly publication is pending.  
+中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
 :::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 赫梯国家史高度依赖哈图沙王室档案，因此首都以外成组出土的王室文书尤其重要。Šamuḫa是赫梯政治、宗教和军事体系中的关键区域中心；如果Kayalıpınar泥板确属同一档案群，它们可以提供不同于首都视角的战争、行政、疾病、占卜和王室仪式记录。
+
+**English.** Hittite political history depends heavily on the royal archives from Hattusa, making coherent groups of royal documents from outside the capital especially valuable. Šamuḫa was an important regional centre within the Hittite political, religious and military system; if the Kayalıpınar tablets form a coherent archive, they can provide a perspective on warfare, administration, disease, divination and royal ritual that differs from the capital-centred record.
 
 ## 主要发现 | Major findings
 
@@ -35,9 +42,17 @@ Additional candidate / 补充建议
 
 **English.** Coherent royal archives outside Hattusa are uncommon. The Šamuḫa material could provide an unusually direct view of warfare, disease, divination, and administration at a regional royal centre. At present, however, the texts remain under study and claims about the archive’s scale should be reassessed after full publication.
 
-## 学术论文 | Academic publications
+## 学术出版物 | Academic publications
 
-- Formal edition and translations pending / 正式释读与论文待发表
+**尚无同行评议论文 | No peer-reviewed publication yet.**
+
+[Koç University / Türkiye Ministry of Culture and Tourism. (2026). *Kayalıpınar (Šamuḫa) excavation: Preliminary announcement of the Hittite royal archive*.](https://www.hurriyetdailynews.com/cuneiform-tablets-from-hittite-king-unearthed-227946)
+
+**现有资料内容（中文）。** 184块泥板仍在整理与释读，尚无完整档案学出版。新闻中关于疫情、王室丧葬、鸟卜和军事求援的内容属于初步释读；真正的历史意义必须等待逐片编号、抄本、翻译、年代和出土情境正式发表后才能评估。
+
+**What the current source shows (English).** The corpus of 184 tablets is still being catalogued and deciphered, and no complete scholarly edition has yet appeared. Reports of epidemic disease, royal funerals, bird divination and military requests are preliminary readings; the archive's historical significance will require formal publication of tablet numbers, copies, translations, dates and find contexts.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 

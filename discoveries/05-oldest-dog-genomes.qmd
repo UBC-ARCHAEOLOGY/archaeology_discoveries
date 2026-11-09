@@ -17,7 +17,8 @@ Natural History Museum (London); Ludwig Maximilian University of Munich; Univers
 William A. Marsh; Lachie Scarsbrook; Laurent A. F. Frantz; Ian Barnes; Greger Larson; Anders Bergström
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A); best read together with the companion Nature paper on the genomic history of early European dogs.
+English: Top-tier peer-reviewed research (A); best read together with the companion Nature paper on the genomic history of early European dogs.  
+中文：顶级同行评议研究（A级）；应与同期关于欧洲早期家犬基因组史的Nature论文合并阅读。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,56 +42,53 @@ CCTV candidate / 央视候选
 
 **English.** The study firmly places dogs within pre-agricultural societies. Canine domestication therefore cannot be treated simply as a by-product of Neolithization, but must be considered in relation to Late Glacial hunting, mobility, social networks, and changing human–animal relationships.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-**Paper 1**
-- **Marsh, William A.; Lachie Scarsbrook; et al.**
-- **Title:** *Dogs were widely distributed across western Eurasia during the Palaeolithic*
-- **Journal:** *Nature* 651: 995–1003
-- **DOI:** [10.1038/s41586-026-10170-x](https://doi.org/10.1038/s41586-026-10170-x)
-- **Published:** 25 March 2026
-- **Open access:** **Yes**.
+### 论文 1 | Paper 1
 
-**Paper 2**
-- **Bergström, Anders; Anna Furtwängler; Sarah Johnston; et al.**
-- **Title:** *Genomic history of early dogs in Europe*
-- **Journal:** *Nature* 651: 986–994
-- **DOI:** [10.1038/s41586-026-10112-7](https://doi.org/10.1038/s41586-026-10112-7)
-- **Published:** 25 March 2026
-- **Open access:** check the article's rights statement before embedding individual figures; article access is public.
+Marsh, W. A., Scarsbrook, L., YÃ¼ncÃ¼, E., Hodgson, L., Lin, A. T., De Iorio, M., Thalmann, O., Thomas, M. G., Goor, M., BergstrÃ¶m, A., Noseda, A., Amiri, S., Biglari, F., BoriÄ, D., Bougiouri, K., Carmagnini, A., GiannÃ¬, M., Higham, T., Lebrasseur, O., et al. (2026). Dogs were widely distributed across western Eurasia during the Palaeolithic. Nature, 651(8107), 995â1003. https://doi.org/10.1038/s41586-026-10170-x
 
-## 学术论文 | Academic publications
+**出版物内容（中文）。** 文章获得安纳托利亚 Pınarbaşı 约1.58万年前和英国 Gough's Cave 约1.43万年前犬科个体的核基因组，并确认其属于早期家犬而非狼。研究显示晚旧石器时代家犬已经分布于西欧与安纳托利亚，并把可靠的直接遗传证据推进到农业出现之前。
 
-- [Nature: Dogs were widely distributed across western Eurasia during the Palaeolithic](https://www.nature.com/articles/s41586-026-10170-x)
-- [Nature: Genomic history of early dogs in Europe](https://doi.org/10.1038/s41586-026-10112-7)
+**What the publication shows (English).** The study obtains nuclear genomes from canids including a ~15.8-ka individual from Pınarbaşı and a ~14.3-ka individual from Gough's Cave, identifying them as early dogs rather than wolves. It demonstrates that dogs were already distributed across western Europe and Anatolia in the Late Palaeolithic, well before agriculture.
+
+### 论文 2 | Paper 2
+
+BergstrÃ¶m, A., FurtwÃ¤ngler, A., Johnston, S., Rosengren, E., Breidenstein, A., Booth, T., McCabe, J. B., Peto, J., Williams, M., Kelly, M., Tait, F., Baumann, C., Radzeviciute, R., Barrington, C., Anastasiadou, K., Gilardet, A., Glocke, I., Sherman, M., Brativnyk, A., et al. (2026). Genomic history of early dogs in Europe. Nature, 651(8107), 986â994. https://doi.org/10.1038/s41586-026-10112-7
+
+**出版物内容（中文）。** 配套研究通过更大规模的古代犬科基因组资料重建欧洲早期家犬的群体史、连续性与混合过程。它说明晚冰期犬群并非孤立个案，而是后来欧洲犬类遗传史的重要组成部分。
+
+**What the publication shows (English).** The companion study uses a much larger ancient canid genomic dataset to reconstruct the population history, continuity and admixture of early European dogs. It shows that Late Glacial dogs were not isolated curiosities but important contributors to the later genomic history of European dogs.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
+### 主要报道 | Major coverage
+
 - [Natural History Museum — science news](https://www.nhm.ac.uk/discover/news/2026/march/oldest-evidence-of-domestic-dogs.html)
-- [University of Oxford](https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye)
 - [Nature News](https://www.nature.com/articles/d41586-026-00900-6)
+- [University of Oxford](https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye)
 - [Natural History Museum press release](https://www.nhm.ac.uk/press-office/press-releases/world-s-oldest-genetic-evidence-for-domestic-dogs-identified-in-.html)
 - [Nature — Palaeolithic dogs paper](https://www.nature.com/articles/s41586-026-10170-x)
+
+### 其他报道 | Additional coverage
+
 - [Nature — early dog genomic history](https://www.nature.com/articles/s41586-026-10112-7)
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended set:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **Map and genomic placement of Palaeolithic canids** — Fig. 1.
-2. **Pınarbaşı and Gough's Cave chronology plus Gough's Cave mandible** — Fig. 2.
-3. **Dog ancestry/admixture graph** — Fig. 3.
-4. **Pınarbaşı archaeological context** — supplementary/context figure.
-
-Nature figure captions must be checked individually for third-party credits. In Fig. 2, for example, the Gough's Cave mandible photograph is explicitly reproduced with permission from the Trustees of the Natural History Museum, so it should **not** be copied independently under the article licence without confirming that permission extends to this site.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-10170-x" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nature.com/articles/s41586-026-10170-x" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nhm.ac.uk/discover/news/2026/march/oldest-evidence-of-domestic-dogs.html" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.nhm.ac.uk/discover/news/2026/march/oldest-evidence-of-domestic-dogs.html" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.ox.ac.uk/news/2026-03-25-oldest-genetic-evidence-domestic-dogs-identified-europe-and-t-rkiye" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

@@ -17,11 +17,18 @@ Massachusetts Institute of Technology; University of Texas at Austin; Skidmore C
 Franco D. Rossi; David Stuart; Heather Hurst
 
 **Evidence status / 证据状态**  
-Peer-reviewed specialist-journal research (B/A-level significance for epigraphy and history of science).
+English: Peer-reviewed specialist-journal research (B/A-level significance for epigraphy and history of science).  
+中文：同行评议专业期刊研究；对玛雅铭文学和科学史具有很高解释价值。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
 :::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 古典期玛雅数学与天文学长期主要通过纪念碑铭文、历法记录和少数抄本传统来研究，但知识生产者本人通常是匿名的。Xultun 10K-2的壁画房间保存了大量小型计算文本、抄本制作相关证据和不同等级的书吏形象，使研究者能够把抽象的“玛雅科学”放回具体的工作空间、训练关系和知识劳动之中。
+
+**English.** Classic Maya mathematics and astronomy have traditionally been studied through monumental inscriptions, calendrical records and the small surviving codex tradition, while the people who produced this knowledge usually remain anonymous. The mural room in Xultun Structure 10K-2 preserves numerous small calculation texts, evidence related to book production and depictions of ranked scribes, allowing “Maya science” to be reconstructed as situated intellectual labour within a specific workspace and training community.
 
 ## 主要发现 | Major findings
 
@@ -35,9 +42,15 @@ Additional candidate / 补充建议
 
 **English.** This is the only known Classic Maya case in which mathematical-astronomical work is directly attributed to a named individual. It reframes Maya science as the work of identifiable scholars operating within social and courtly institutions, rather than as an anonymous civilizational achievement.
 
-## 学术论文 | Academic publications
+## 学术出版物 | Academic publications
 
-- [Antiquity: The identification and work of an eighth-century Maya mathematician](https://doi.org/10.15184/aqy.2026.10378)
+Rossi, F. D., Stuart, D., & Hurst, H. (2026). The identification and work of an eighth-century Maya mathematician. Antiquity, 100(413), 1369â1384. https://doi.org/10.15184/aqy.2026.10378
+
+**出版物内容（中文）。** 文章重新构建并释读 Xultun 10K-2 建筑东墙的 Text 19，识别出协调历法与金星、火星等周期的数学—天文公式，并确认末尾将成果归于 Sak Tahn Waax。它把古典玛雅科学从匿名知识体系转化为可以讨论具体知识工作者、书写空间和知识产权意识的考古对象。
+
+**What the publication shows (English).** The paper reconstructs and deciphers Text 19 on the east wall of Structure 10K-2 at Xultun, identifying a mathematical-astronomical formula that coordinates calendrical intervals with cycles including Venus and Mars and attributes the work to Sak Tahn Waax. It transforms Classic Maya science from an anonymous body of knowledge into an archaeological study of named intellectual workers, scholarly workspace and authorship.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 

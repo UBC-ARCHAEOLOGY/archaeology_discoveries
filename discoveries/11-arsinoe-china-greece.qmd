@@ -17,7 +17,8 @@ Hellenic Ministry of Culture; Chinese School of Classical Studies at Athens; Eph
 Olympia Vikatou (programme director); Li Xinwei (Chinese-side lead)
 
 **Evidence status / 证据状态**  
-First-season institutional field report (D/C); important as international collaboration, but not yet a major interpretive breakthrough.
+English: First-season institutional field report (D/C); important as international collaboration, but not yet a major interpretive breakthrough.  
+中文：首季机构性田野报告（D/C级）；国际合作意义突出，但尚未形成重大解释性突破。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -41,16 +42,17 @@ CCTV candidate / 央视候选
 
 **English.** Its main significance lies in the history of scholarship and international collaboration: Chinese researchers are now generating primary field data in a core region of Classical archaeology and participating directly in framing research questions. The global interpretive significance of the first excavation season itself remains to be established through future work.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Formal peer-reviewed publication for the 2026 excavation season:** none identified.
-- **Primary source:** Hellenic Ministry of Culture press release, 16 October 2026, reporting the completed July field season.
-- **Programme:** five-year systematic project, 2026–2030.
-- **Open access / reuse:** ministry page is public, but no general CC reuse licence for photographs was identified.
+**尚无同行评议论文 | No peer-reviewed publication yet.**
 
-## 学术论文 | Academic publications
+[Hellenic Ministry of Culture. (2026, October 16). *Greek-Chinese archaeological research at Angelokastro in Aetolia-Acarnania*.](https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816)
 
-- Formal publication pending / 正式论文待发表
+**现有资料内容（中文）。** 2026年首季成果尚无同行评议论文，主要依据希腊文化部的项目报告。报告确认了柱廊庭院建筑、多期使用和相关遗物，但这一阶段的主要意义是建立长期田野资料基础，而不是已经形成新的古典城市史解释。
+
+**What the current source shows (English).** The first 2026 season has not yet produced a peer-reviewed publication and is documented primarily through the Hellenic Ministry of Culture project report. The report establishes a peristyle building, multiple use phases and associated finds, but the main contribution at this stage is the creation of a long-term field-data base rather than a new historical interpretation of the city.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
@@ -59,25 +61,18 @@ CCTV candidate / 央视候选
 - [Archaeology News Online Magazine](https://archaeologymag.com/2026/10/excavation-at-arsinoe-reveals-columned-building/)
 - [Hellenic Ministry of Culture — official field report](https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816)
 - [Days of Art in Greece — English summary](https://daysofart.gr/en/news/from-ministry/greek-chinese-archaeological-research-at-angelokastro-in-aetolia-acarnania/)
-- CCTV coverage remains relevant to the Chinese institutional context.
-- No major Nature/Science/NYT/BBC/CNN/Guardian/Smithsonian/Archaeology Magazine report was located.
 
 ## 关键图像与许可 | Key images and permissions
 
-Useful visual set from the official project report:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **Aerial photograph of the excavation area.**
-2. **Plan/view of the square peristyle building.**
-3. **Coins, ceramics and architectural terracottas.**
-4. **Regional/site setting.**
-
-Because the Hellenic Ministry page does not state a general Creative Commons licence, these photographs are currently **link-only** and should not be copied into the repository without permission.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://www.culture.gov.gr/el/Information/SitePages/view.aspx?nID=5816" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://daysofart.gr/en/news/from-ministry/greek-chinese-archaeological-research-at-angelokastro-in-aetolia-acarnania/" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://daysofart.gr/en/news/from-ministry/greek-chinese-archaeological-research-at-angelokastro-in-aetolia-acarnania/" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources

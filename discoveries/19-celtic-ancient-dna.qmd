@@ -17,7 +17,8 @@ Lundbeck Foundation GeoGenetics Centre and Centre for Ancient Environmental Geno
 Hugh McColl; Guus Kroonen; Kristian Kristiansen; Martin Sikora; Eske Willerslev
 
 **Evidence status / 证据状态**  
-Top-tier peer-reviewed research (A); best presented together with the companion 2026 study on the genomic context of Germanic-language dispersal.
+English: Top-tier peer-reviewed research (A); best presented together with the companion 2026 study on the genomic context of Germanic-language dispersal.  
+中文：顶级同行评议研究（A级）；应与同期关于日耳曼语传播人口背景的古基因组研究合并理解。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -41,30 +42,25 @@ Additional candidate / 补充建议
 
 **English.** Its significance lies in placing ancient DNA, archaeology, and historical linguistics within a common testable framework. DNA cannot directly prove a language, but demographic movement can weaken some dispersal models while increasing the plausibility of others, marking a shift from identifying migration toward interdisciplinary historical explanation.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-**Celtic paper**
-- **McColl, Hugh; Guus Kroonen; Thomaz Pinotti; William Barrie; John Koch; Johan Ling; Jean-Paul Demoule; Kristian Kristiansen; Martin Sikora; Eske Willerslev.**
-- **Title:** *Tracing the spread of Celtic languages using ancient genomics*
-- **Journal:** *Nature*
-- **DOI:** [10.1038/s41586-026-11198-9](https://doi.org/10.1038/s41586-026-11198-9)
-- **Published:** 4 November 2026
-- **Open access:** **Yes**.
+### 论文 1 | Paper 1
 
-**Germanic paper**
-- **McColl, Hugh et al.**
-- **Title:** *Tracing the spread of Germanic languages using ancient genomics*
-- **Journal:** *Nature*
-- **DOI:** [10.1038/s41586-025-09064-1](https://doi.org/10.1038/s41586-025-09064-1)
-- **Published:** 28 October 2026
-- **Open access:** **Yes**.
+McColl, H., Kroonen, G., Pinotti, T., Barrie, W., Koch, J., Ling, J., Demoule, J.-P., Kristiansen, K., Sikora, M., & Willerslev, E. (2026). Tracing the spread of Celtic languages using ancient genomics. Nature. https://doi.org/10.1038/s41586-026-11198-9
 
-For both papers, figure reuse should be confirmed against the rights statement and individual caption credits before copying.
+**出版物内容（中文）。** 文章汇集4587名古代个体的基因组资料，以欧洲青铜—铁器时代人口史检验多种凯尔特语扩散模型。结果支持约3000年前中东欧向西的人口移动与“凯尔特语自东向西传播”模型更相容，但作者明确强调基因流动不能等同于语言传播。
 
-## 学术论文 | Academic publications
+**What the publication shows (English).** The paper compiles genome-wide data from 4,587 ancient individuals to test competing models of Celtic-language dispersal against Bronze–Iron Age demographic history. It finds westward population movement from east-central Europe around 3,000 years ago more compatible with an east-to-west Celtic model, while explicitly recognizing that genetic movement cannot be equated with language transmission.
 
-- [Nature: Tracing the spread of Celtic languages using ancient genomics](https://www.nature.com/articles/s41586-026-11198-9)
-- [Nature: ancient genomics and the spread of Germanic languages](https://www.nature.com/articles/s41586-025-09064-1)
+### 论文 2 | Paper 2
+
+McColl, H., Kroonen, G., Moreno-Mayar, J. V., Seersholm, F. V., Scorrano, G., Pinotti, T., Vimala, T., SindbÃ¦k, S. M., Ethelberg, P., Fyfe, R., Gaillard, M.-J., Larsen, H. M. E., Mortensen, M. F., Demeter, F., JÃ¸rkov, M. L. S., Bergerbrant, S., Damgaard, P. d. B., Allentoft, M. E., Vinner, L., et al. (2026). Tracing the spread of Germanic languages using ancient genomics. Nature. https://doi.org/10.1038/s41586-025-09064-1
+
+**出版物内容（中文）。** 配套论文利用大规模古基因组资料追踪与日耳曼语传播有关的斯堪的纳维亚人口变化，识别约4000年前进入瑞典以及后续铁器时代、迁徙时期的多阶段基因流。它为语言史提供人口学约束，而不是从DNA直接读取语言。
+
+**What the publication shows (English).** The companion study uses large-scale ancient genomic data to trace demographic changes in Scandinavia relevant to Germanic-language dispersal, identifying multiple phases of gene flow from around 4,000 years ago through the Iron Age and Migration Period. It constrains linguistic history demographically rather than treating DNA as direct evidence of language.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
@@ -76,34 +72,28 @@ For both papers, figure reuse should be confirmed against the rights statement a
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended explanatory set:
+**中文。** 下列图像来自已核查许可的学术出版物；图注同时标明来源、作者、许可与原文链接。若单幅图含第三方版权材料，自动抓取程序会跳过该图并改用原图链接。
 
-1. **Competing Celtic dispersal models and archaeological/linguistic geography.**
-2. **Late Bronze Age ancestry movements relevant to Celtic.**
-3. **Germanic-related ancestry entering and spreading through Scandinavia.**
-4. **Iron Age / Migration-period expansion into western and central Europe.**
-5. **Back-migration into Scandinavia associated temporally with Old Norse formation.**
-
-Nature News uses Alamy/AFP photography that is **not reusable under the research-paper licence**. For the website, prefer analytical figures from the two open-access papers after caption-level rights checks rather than the news photographs.
+**English.** The images below come from scholarly publications with verified reuse licences. Each caption records the source, author, licence and original link. If an individual figure contains third-party rights language, the automated fetcher skips it and the page falls back to a source-image link.
 
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/19/fig1.png" alt="图1—凯尔特语起源与传播的竞争模型" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/19/fig1.png" alt="图1—凯尔特语起源与传播的竞争模型 / Figure 1—Competing models for Celtic origins and dispersal" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—凯尔特语起源与传播的竞争模型—来源 Source：Nature—作者 Author：McColl et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—凯尔特语起源与传播的竞争模型 / Figure 1—Competing models for Celtic origins and dispersal—来源 Source：Nature—作者 Author：McColl et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/19/fig2.png" alt="图2—青铜时代相关人口移动与遗传结构" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/19/fig2.png" alt="图2—青铜时代相关人口移动与遗传结构 / Figure 2—Bronze Age population movements and genetic structure" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—青铜时代相关人口移动与遗传结构—来源 Source：Nature—作者 Author：McColl et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—青铜时代相关人口移动与遗传结构 / Figure 2—Bronze Age population movements and genetic structure—来源 Source：Nature—作者 Author：McColl et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/19/fig3.png" alt="图3—古基因组对凯尔特语传播模型的约束" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/19/fig3.png" alt="图3—古基因组对凯尔特语传播模型的约束 / Figure 3—Ancient-genomic constraints on Celtic dispersal models" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—古基因组对凯尔特语传播模型的约束—来源 Source：Nature—作者 Author：McColl et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—古基因组对凯尔特语传播模型的约束 / Figure 3—Ancient-genomic constraints on Celtic dispersal models—来源 Source：Nature—作者 Author：McColl et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-11198-9" target="_blank">原文链接 Original</a></p>
 </div>
 
 

@@ -17,7 +17,8 @@ Peru Ministry of Culture; Proyecto Especial Complejo Arqueológico Chan Chan (PE
 Jorge Meneses (archaeologist in charge of the investigation / PECACH)
 
 **Evidence status / 证据状态**  
-Major field discovery with official documentation and extensive international coverage; formal full scholarly publication is still pending.
+English: Major field discovery with official documentation and extensive international coverage; formal full scholarly publication is still pending.  
+中文：重大田野发现，已有官方记录和广泛国际报道；完整同行评议研究仍待发表。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -41,44 +42,37 @@ Additional candidate / 补充建议
 
 **English.** Chimú archaeology has long been distorted by looting and collecting, which stripped many prestigious objects of context. The key contribution here is the recovery of context itself: identities, grave-good associations, repeated tomb access, and ancestor practices can be studied relationally rather than through isolated museum objects.
 
-## 论文核查 | Publication verification
+## 学术出版物 | Academic publications
 
-- **Formal peer-reviewed publication:** none identified as of 8 November 2026.
-- **Primary source:** Peru Ministry of Culture / Proyecto Especial Complejo Arqueológico Chan Chan (PECACH).
-- **Lead field archaeologist quoted in international coverage:** Jorge Meneses.
-- **Scholarly status:** major field discovery; full osteological, artefactual, chronological, and architectural publication remains pending.
-- **Open access / reuse:** official and Reuters/NYT photographs are copyrighted; no general CC licence identified.
+**尚无同行评议论文 | No peer-reviewed publication yet.**
 
-## 学术论文 | Academic publications
+[Ministerio de Cultura del Perú / Proyecto Especial Complejo Arqueológico Chan Chan. (2026). *Informe preliminar sobre la plataforma funeraria de Utzh An, Chan Chan*.](https://www.nytimes.com/topic/subject/archaeology-and-anthropology)
 
-- Formal publication pending / 正式论文待发表
+**现有资料内容（中文）。** 目前尚无完整同行评议论文，主要依据秘鲁文化部和PECACH的发掘公告及采访。现阶段最可靠的学术价值是墓葬情境保存完整、至少38名个体及其随葬品关系可在原位研究；身份、年代细分和墓葬使用过程仍需正式报告。
+
+**What the current source shows (English).** No full peer-reviewed publication has yet appeared; the evidence currently comes from Peru's Ministry of Culture/PECACH field announcements and interviews. The strongest present contribution is the unusually intact mortuary context, allowing at least 38 individuals and associated grave goods to be studied in situ; detailed identity, chronology and tomb-use history await formal publication.
+
+<!-- APA-V2.1 -->
 
 ## 主要媒体报道 | Major media coverage
 
-- [Archaeology Magazine](https://archaeology.org/news/2026/09/10/burial-platform-excavated-at-perus-chan-chan/)
-- [National Geographic](https://www.nationalgeographic.com/history/article/peru-tomb-chimu-chan-chan)
-- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/unsealed-for-the-first-time-in-600-years-this-tomb-in-peru-was-just-declared-the-discovery-of-the-decade-180989497/)
 - [The New York Times — “Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands”](https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html)
+- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/unsealed-for-the-first-time-in-600-years-this-tomb-in-peru-was-just-declared-the-discovery-of-the-decade-180989497/)
+- [National Geographic](https://www.nationalgeographic.com/history/article/peru-tomb-chimu-chan-chan)
+- [Archaeology Magazine](https://archaeology.org/news/2026/09/10/burial-platform-excavated-at-perus-chan-chan/)
 - [El País English](https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html)
-- Reuters imagery is reproduced by several outlets and credited to the Peruvian Ministry of Culture.
 
 ## 关键图像与许可 | Key images and permissions
 
-Recommended set:
+**中文。** 这些图像具有解释价值，但目前没有确认可由本站重新发布的许可，因此本站不复制图片文件，只提供原始图像或来源页面链接。
 
-1. **Overall funerary platform / architecture.**
-2. **Central and side chambers.**
-3. **Human remains in situ, showing multiple burial arrangement.**
-4. **Metal, shell and ornament assemblages.**
-5. **Chan Chan / Utzh An walled-complex context.**
-
-The available photographs are credited to the **Peruvian Ministry of Culture / Reuters**. They are **not copied into the repository** without explicit reuse permission.
+**English.** These images are interpretively useful, but permission for republication on this site has not been confirmed. The site therefore does not copy the image files and provides links to the original images or source pages instead.
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources
