@@ -10,15 +10,24 @@ South Africa / 南非
 **Date / 年代**  
 Early Pleistocene · ca. 1.7–1.8 Ma / 早更新世 · 约170–180万年前
 
+**Research / excavation institutions / 发掘或研究机构**  
+Wonderwerk Cave Research Project; University of Toronto; Museo Nacional de Ciencias Naturales–CSIC; Hebrew University of Jerusalem; UNS–CONICET, Argentina
+
+**Lead researchers / 主要负责人**  
+Michael Chazan; Yolanda Fernández-Jalvo; M. Dolores Marin-Monfort
+
+**Evidence status / 证据状态**  
+Peer-reviewed specialist journal (B); important new method and early-fire evidence, but the age should be expressed as a range.
+
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
 :::
 
 ## 主要发现 | Major findings
 
-**中文。** 研究者在Wonderwerk Cave更深层沉积中识别出受热的微小动物骨骼，并结合骨骼发光性质与FTIR验证受热状态，将洞穴内古人类用火证据推进到约170–180万年前。
+**中文。** 研究者在Wonderwerk Cave更深层沉积中识别出受热的微小动物骨骼，并结合骨骼发光性质与FTIR验证受热状态，将洞穴内古人类用火证据推进到更早的早更新世层位。论文给出的地层年代窗口约为107万–179万年前，研究者倾向其接近170万–180万年前。
 
-**English.** Researchers identified heat-altered microfaunal bones in deeper deposits at Wonderwerk Cave and combined luminescence-based screening with FTIR confirmation, placing hominin fire use at roughly 1.7–1.8 million years ago.
+**English.** Researchers identified heat-altered microfaunal bones in deeper deposits at Wonderwerk Cave and combined luminescence-based screening with FTIR confirmation, placing the relevant Stratum 11 burning within a 1.79–1.07 million-year age window; the excavators favour an age near 1.7–1.8 million years.
 
 ## 学术重要性 | Intellectual significance
 
