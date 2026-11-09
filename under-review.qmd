@@ -16,23 +16,22 @@ This page records 2026 discoveries and studies of clear scholarly interest that 
 
 ### 第一档：高优先级晋升候选 | Tier 1 — High-priority promotion review
 
-平衡审计后的定向补缺扫描，新提名3项进入下一轮独立深审。  
-Following the V2.3 balance audit and targeted gap scan, three new items enter Tier 1.
+本轮定向补缺的三项已完成独立深审：**Karatau = PROMOTE；Widgingarri Shelter 1 = PROMOTE；Bongal boats = PROMOTE**。三项均已移入正式补充建议名单，但证据等级不同：Karatau为A级，Widgingarri与Bongal均为B级。  
+The three targeted gap candidates have completed independent deep review: **Karatau = PROMOTE; Widgingarri Shelter 1 = PROMOTE; Bongal boats = PROMOTE**. All three have moved to the main additional-candidate list, with different evidence grades: A for Karatau and B for Widgingarri and Bongal.
 
-1. **塔吉克斯坦Karatau早期旧石器绝对年代** — *Nature Communications*；以286个释光年代、16组宇生核素数据和磁性地层建立中亚早期旧石器首个高分辨率绝对年代框架，并系统分析3534件石器。它直接填补中亚这一关键迁徙走廊的年代学空白。
-2. **澳大利亚Widgingarri Shelter 1 ≥55 ka** — *Australian Archaeology*；2022年新发掘把遗址最早石器证据推进到≥55±4 ka，并提供从MIS 3到全新世的长期文化连续性记录。项目包含Arraluli Clan和Aboriginal组织共同参与，兼具早期占据与社区合作价值。
-3. **苏门答腊Bongal古船与lashed-lug造船传统** — 同行评议海事考古研究；7–8世纪船板、凸耳、木钉、棕榈纤维绑缚、大型quarter rudder和Pallava–Grantha铭文共同揭示印度洋海上网络。其主要限制是材料来自次生情境，但技术组合高度一致。
+当前暂无未完成深审的第一档项目。下一轮不应自动从第二档晋升，而应继续以地区、时代、发现类型和田野重要性为约束。  
+No Tier 1 item is currently awaiting deep review. The next round should not automatically promote Tier 2 items; regional, chronological, discovery-type and field-significance balance should remain explicit constraints.
 
 ### 第二档：继续观察 | Tier 2 — Continue monitoring
 
-- **莱索托Likonong Shelter约242 ka** — 新发掘与释光年代把Lesotho高地最早可靠人类活动推进到约242 ka，对高海拔适应很重要；但其影响目前主要在区域性Middle Stone Age适应史，先作为二级候选。
-- **斯里兰卡Pabalugala玻璃珠生产** — *Archaeological Research in Asia* 2026短篇研究确认2–5世纪玻璃珠生产基地，填补南亚早期历史时期工艺生产与贸易网络空白；目前公开资料和论文篇幅较有限，先继续观察。
-- **北美晚更新世骰子与机会游戏 — HOLD**：3处Folsom遗址的13件diagnostic和7件probable器物与历史时期原住民骰子的形态连续性很强，但研究主要是对既有馆藏和发表材料的重新分类；从“骰子”进一步推导“概率、随机性认知”属于更高层解释，暂不晋升正式名单。
-- **Kekova早青铜时代沉船 — HOLD**：同行评议论文真实、潜在意义很高，但仍属preliminary report；木质船体未保存，年代主要依赖陶器类型学，三件石锚是否属于该船尚不确定。
+- **莱索托Likonong Shelter约242 ka** — 新发掘与释光年代把Lesotho高地最早可靠人类活动推进到约242 ka；区域意义明确，但目前仍主要改写Maloti-Drakensberg高地适应史。
+- **斯里兰卡Pabalugala玻璃珠生产** — 2–5世纪玻璃珠生产基地补充南亚工艺生产与印度洋贸易网络，但现有发表为short communication，生产链细节仍有限。
+- **北美晚更新世骰子与机会游戏 — HOLD**：器物识别链较强，但研究主要是对既有馆藏和发表材料的重新分类，从“骰子”进一步推到“概率认知”属于更高层解释。
+- **Kekova早青铜时代沉船 — HOLD**：同行评议论文真实、潜在意义很高，但仍属preliminary report；木质船体未保存，年代主要依赖陶器类型学。
 - **Tunnug 1大麻使用证据 — HOLD**：直接测年与葬仪情境很强，但毛发证据能否排除外部接触仍存在实质争议。
 - **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告。
 - **美国西南祖先Pueblo蓝铜矿溯源** — 同位素方法很有潜力，但考古样本只有12件。
-- **Holzman石器与猛犸象牙生产** — 对约14 ka阿拉斯加人群重要，但关键象牙材料此前已有发表，且与Shég’ Xdaltth’í’在时间、区域和理论问题上高度重叠。
+- **Holzman石器与猛犸象牙生产** — 对约14 ka阿拉斯加人群重要，但关键象牙材料此前已有发表，且与Shég’ Xdaltth’í’高度重叠。
 
 ### 第三档：仅研究动态 | Tier 3 — Research developments
 
@@ -211,61 +210,10 @@ Crawford Lake, Ontario, Canada / 加拿大安大略Crawford Lake；约过去1300
 **Publication / 出版物**  
 Murchie, T. J., Emery, M. V., et al. (2026). Sedimentary ancient DNA tracks multi-kingdom ecosystem reorganizations following sequential human land use at Crawford Lake. *Molecular Ecology, 35*(17), e70529. https://doi.org/10.1111/mec.70529
 
-## 9. 塔吉克斯坦Karatau早期旧石器绝对年代 | Absolute chronology of the Early Palaeolithic Karatau Culture
 
-**地区与年代 | Region and date**  
-Khovaling Loess Plateau, Tajikistan / 塔吉克斯坦Khovaling黄土高原；Karatau Culture主要对应MIS 15、13与11，并在MIS 10开始前后消失。
 
-**主要发现 | Major findings**  
-**中文。** Sørensen等首次为中亚Karatau Culture建立多方法绝对年代框架。研究把286个释光年代、16组石英宇生核素 ^26Al–^10Be 数据和磁性地层界线整合进概率年龄—深度模型，并系统分析3534件石器。结果显示这一技术传统在MIS 15开始时出现，在MIS 13和11繁盛，并在MIS 10开始前后消失。
 
-**English.** Sørensen and colleagues establish the first high-resolution multi-method absolute chronology for the Karatau Culture. The study integrates 286 luminescence ages, 16 cosmogenic ^26Al–^10Be measurements and magnetostratigraphic tie points within probabilistic age-depth models, together with technological analysis of 3,534 lithic artifacts. The Karatau Culture emerged around the onset of MIS 15, flourished during MIS 13 and 11, and disappeared around the onset of MIS 10.
-
-**学术判断 | Assessment**  
-**中文。** **高优先级深审候选。** 中亚长期被视为连接黎凡特、南高加索与东北亚的人类迁徙走廊，但早期旧石器遗址缺乏可靠绝对年代。此研究不是单纯“给旧遗址补年代”，而是第一次把一个区域性技术传统放入可与环境和欧亚扩散模型直接比较的时间框架。主要限制是年代学并未自动解决Karatau人群究竟来自东方还是西方的问题。
-
-**English.** **High-priority deep-review candidate.** Central Asia is a critical dispersal corridor, yet its Early Palaeolithic archaeology has lacked robust absolute ages. This study does more than redating legacy sites: it places a regional technocomplex within a chronology that can be compared directly with environmental records and Eurasian dispersal models. The chronology does not by itself determine whether the Karatau populations arrived from the east or west.
-
-**Publication / 出版物**  
-Sørensen, A. L., Anoikin, A. A., Kolobova, K. A., et al. (2026). Absolute chronology of the Early Palaeolithic Karatau Culture in Central Asia. *Nature Communications, 17*, 8217. https://doi.org/10.1038/s41467-026-74938-5
-
-## 10. 澳大利亚Widgingarri Shelter 1：≥55 ka Aboriginal occupation | Widgingarri Shelter 1 and ≥55 ka Aboriginal occupation
-
-**地区与年代 | Region and date**  
-Kimberley, northwest Australia / 澳大利亚西北部Kimberley；earliest artifact-bearing deposits ≥55 ± 4 ka / 最早含石器层位≥55±4 ka。
-
-**主要发现 | Major findings**  
-**中文。** 2022年新发掘深入1985年旧探方以下层位，确认更深处仍有石器，把遗址最早人类活动证据推进到≥55±4 ka。沉积序列跨越MIS 3、末次冰期和全新世，保存长期石器技术与颜料使用变化，为Kimberley地区Aboriginal文化连续性和适应提供罕见长时段记录。
-
-**English.** Excavations in 2022 extended below the level reached in 1985 and recovered artifacts in deeper deposits, pushing the earliest evidence at the site to ≥55 ± 4 ka. The sequence spans MIS 3, the last glacial period and the Holocene, preserving a long record of technological change and pigment use relevant to Aboriginal cultural continuity and adaptation in the Kimberley.
-
-**学术判断 | Assessment**  
-**中文。** **高优先级深审候选。** 它填补目前正式名单中澳大利亚本土完全缺席的问题，而且并非为了地域平衡降低门槛：≥55 ka年代、连续层序和长期技术变化本身具有重要学术意义。还应特别重视Arraluli Clan与Aboriginal组织作为共同研究者的参与。下一轮需仔细核查年代模型、最早层位的石器数量与扰动可能性。
-
-**English.** **High-priority deep-review candidate.** This fills the current absence of mainland Australian archaeology without lowering evidentiary standards. The ≥55 ka chronology, long stratified sequence and technological record are significant in their own right, and the participation of Arraluli Clan and Aboriginal organizations is an important dimension of the project. Deep review should focus on the age model, artifact counts in the basal deposits and possible post-depositional movement.
-
-**Publication / 出版物**  
-Lin, S. C., et al. (2026). Recent archaeological investigations at Widgingarri Shelter 1, northwest Australia. *Australian Archaeology*. https://doi.org/10.1080/03122417.2026.2717665
-
-## 11. 苏门答腊Bongal古船与早期印度洋海上网络 | Lashed-lug boats from Bongal and early Indian Ocean networks
-
-**地区与年代 | Region and date**  
-Bongal, west coast of North Sumatra, Indonesia / 印度尼西亚北苏门答腊西海岸Bongal；7th–8th centuries CE / 公元7–8世纪。
-
-**主要发现 | Major findings**  
-**中文。** Bongal出土多件东南亚lashed-lug造船传统的船体构件，包括带凸耳船板、木钉、棕榈纤维绑缚、大型quarter rudder，以及带Pallava–Grantha文字的木板。陶器、玻璃、珠饰和钱币等伴随材料显示该地点参与了印度洋海上交流。
-
-**English.** The Bongal assemblage includes hull planks with carved lugs, wooden dowels, palm-fibre lashings, a large quarter rudder and an inscribed plank in Pallava–Grantha script. Associated ceramics, glass, beads and coins place the finds within active Indian Ocean maritime exchange.
-
-**学术判断 | Assessment**  
-**中文。** **高优先级深审候选。** 研究把东南亚本土lashed-lug造船技术明确扩展到苏门答腊西海岸，并提出目前东南亚最早可靠测年的舵。它对印度洋贸易史和地方造船传统都很重要。主要限制是船材来自次生情境，因此下一轮需重点核查木材年代与各构件是否属于同一或多艘船。
-
-**English.** **High-priority deep-review candidate.** The study extends the Southeast Asian lashed-lug tradition securely to the west coast of Sumatra and identifies what the authors argue is the earliest securely dated rudder in Southeast Asia. Its implications for Indian Ocean exchange and vernacular shipbuilding are substantial. The main limitation is secondary context, so deep review should test the dating of individual timbers and whether the elements derive from one or multiple vessels.
-
-**Publication / 出版物**  
-Mochtar, A. S., Adhityatama, S., Hendrawan, M. F., Restiyadi, A., Purnawibowo, S., & Soedewo, E. (2026). Lashed-Lug Boats from the Bongal Site: New Evidence for Early Maritime Networks on the West Coast of Sumatra. *International Journal of Nautical Archaeology*. https://doi.org/10.1080/10572414.2026.2714901
-
-## 12. 莱索托Likonong Shelter约242 ka高地占据 | Middle Pleistocene highland occupation at Likonong Shelter
+## 9. 莱索托Likonong Shelter约242 ka高地占据 | Middle Pleistocene highland occupation at Likonong Shelter
 
 **地区与年代 | Region and date**  
 Thaba-Tseka District, Lesotho / 莱索托Thaba-Tseka；earliest occupation ~242 ka / 最早占据约24.2万年前。
@@ -283,7 +231,7 @@ Thaba-Tseka District, Lesotho / 莱索托Thaba-Tseka；earliest occupation ~242 
 **Publication / 出版物**  
 Pazan, K., Carr, A. S., Cimmerer, K., et al. (2026). Evolving entanglements with highland southern Africa: Site formation, initial chronology, and occupational pulsing during the Middle Pleistocene at Likonong Shelter, Lesotho. *Archaeological and Anthropological Sciences, 18*, 120. https://doi.org/10.1007/s12520-026-02459-9
 
-## 13. 斯里兰卡Pabalugala早期历史时期玻璃珠生产 | Glass-bead production at Pabalugala, Sri Lanka
+## 10. 斯里兰卡Pabalugala早期历史时期玻璃珠生产 | Glass-bead production at Pabalugala, Sri Lanka
 
 **地区与年代 | Region and date**  
 Giribawa-Pabalugala, northwestern Sri Lanka / 斯里兰卡西北部；2nd–5th centuries CE / 公元2–5世纪。
