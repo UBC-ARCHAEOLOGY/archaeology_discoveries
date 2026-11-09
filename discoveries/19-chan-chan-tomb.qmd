@@ -1,0 +1,44 @@
+---
+title: "19. 秘鲁Chan Chan未盗扰Chimú精英墓"
+subtitle: "An unusually intact Chimú elite tomb at Chan Chan"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Chan Chan, Peru / 秘鲁昌昌
+
+**Date / 年代**  
+Late Intermediate Period · ca. 600 years ago / 晚期中间期 · 约600年前
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要发现 | Major findings
+
+**中文。** Chan Chan发现保存状况罕见的大型Chimú墓葬建筑与多名个体及丰富随葬品，使精英埋葬首次能够在相对完整的原始考古情境中研究。
+
+**English.** An unusually intact Chimú mortuary complex at Chan Chan preserved multiple individuals and rich grave goods, allowing elite burial practices to be examined in a relatively complete archaeological context.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** Chimú精品长期受到盗墓和收藏史影响，许多器物失去原始组合关系。该发现最重要的是重新获得context：个体身份、随葬品组合、墓葬反复进入和祖先实践可以在原位关系中研究，而不是只依赖博物馆孤立器物。
+
+**English.** Chimú archaeology has long been distorted by looting and collecting, which stripped many prestigious objects of context. The key contribution here is the recovery of context itself: identities, grave-good associations, repeated tomb access, and ancestor practices can be studied relationally rather than through isolated museum objects.
+
+## 学术论文 | Academic publications
+
+- Formal publication pending / 正式论文待发表
+
+## 主要媒体报道 | Major media coverage
+
+- [The New York Times archaeology coverage](https://www.nytimes.com/topic/subject/archaeology-and-anthropology)
+
+## 图像与图版来源 | Images and figure sources
+
+- Media imagery to be archived after rights review / 媒体图片待版权核查
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
