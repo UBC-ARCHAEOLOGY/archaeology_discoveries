@@ -24,6 +24,8 @@ website:
         text: "评选标准 Criteria"
       - href: sources.qmd
         text: "来源 Sources"
+      - href: under-review.qmd
+        text: "待评估 Under review"
     right:
       - icon: github
         href: https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries
