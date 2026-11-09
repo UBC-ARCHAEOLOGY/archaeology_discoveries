@@ -51,7 +51,6 @@ website:
       - section: "补充建议 | Additional candidates"
         contents:
           - discoveries/17-amazon-earthworks.qmd
-          - discoveries/18-shang-copper-network.qmd
           - discoveries/18-chan-chan-tomb.qmd
           - discoveries/19-celtic-ancient-dna.qmd
           - discoveries/20-sulawesi-rock-art.qmd
