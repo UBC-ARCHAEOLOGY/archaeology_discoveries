@@ -40,6 +40,10 @@ jobs:
         run: quarto render
       - name: Check rendered internal and external links
         run: python scripts/check_links.py
+      - name: Install CJK fonts for visual QA
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk
       - name: Capture desktop and mobile visual QA
         run: python scripts/capture_visual_qa.py
       - name: Upload visual QA screenshots
