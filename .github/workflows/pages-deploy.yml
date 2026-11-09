@@ -59,6 +59,7 @@ jobs:
           cp discoveries/24-*.qmd discoveries/25-*.qmd discoveries/26-*.qmd discoveries/27-*.qmd discoveries/28-*.qmd discoveries/29-*.qmd discoveries/30-*.qmd discoveries/31-*.qmd discoveries/32-*.qmd discoveries/33-*.qmd discoveries/34-*.qmd "$PKG/focus_v2_3/discoveries/"
 
           cp EDITORIAL_BRIEF_V2_3.md "$PKG/"
+          cp EDITORIAL_RESPONSE_V2_3.md "$PKG/"
           cp V2_3_BALANCE_AUDIT.md "$PKG/"
           cp ranking.qmd "$PKG/"
           cp methods.qmd "$PKG/"
@@ -80,15 +81,16 @@ jobs:
           ## 建议审阅顺序
 
           1. **EDITORIAL_BRIEF_V2_3.md** — 本轮审阅范围、重点问题与无需重开的 V2.2 问题。
-          2. **ranking.qmd** — 44个项目的暂定综合排名及逐项 justification。
-          3. **methods.qmd** — 评选标准、证据等级与 ranking 的关系。
-          4. **V2_3_BALANCE_AUDIT.md** — 地区、时代、证据等级、田野/分析类型平衡。
-          5. **focus_v2_3/discoveries/** — V2.3 变更集 24–34；其中29号Etowah已在本轮再审中退回待评估，其余为正式新增条目。
-          6. **focus_v2_3/under-review.qmd** — 当前待评估项目与 HOLD 决定。
-          7. **CONTENT_REVIEW_V2_3.md** — 全文连续编审稿，可全文搜索和批注。
-          8. **offline_site/index.html** — 当前网站离线渲染版。
-          9. **visual_qa/** — 桌面与手机视觉QA截图。
-          10. **LINK_QA_REPORT.md** — 链接检查结果（若生成）。
+          2. **EDITORIAL_RESPONSE_V2_3.md** — 逐条记录上一轮再审意见的核实结果、修改与保留理由。
+          3. **ranking.qmd** — 44个项目的暂定综合排名及逐项 justification。
+          4. **methods.qmd** — 评选标准、证据等级与 ranking 的关系。
+          5. **V2_3_BALANCE_AUDIT.md** — 地区、时代、证据等级、田野/分析类型平衡。
+          6. **focus_v2_3/discoveries/** — V2.3 变更集 24–34；其中29号Etowah已在本轮再审中退回待评估，其余为正式新增条目。
+          7. **focus_v2_3/under-review.qmd** — 当前待评估项目与 HOLD 决定。
+          8. **CONTENT_REVIEW_V2_3.md** — 全文连续编审稿，可全文搜索和批注。
+          9. **offline_site/index.html** — 当前网站离线渲染版。
+          10. **visual_qa/** — 桌面与手机视觉QA截图。
+          11. **LINK_QA_REPORT.md** — 链接检查结果（若生成）。
 
           ## 本轮重点
 
@@ -112,7 +114,7 @@ jobs:
             echo
             echo "> 本文件汇总评选标准、平衡审计、暂定排名、33项正式条目与待评估项目，便于离线全文搜索与批注。"
             echo
-            for x in EDITORIAL_BRIEF_V2_3.md methods.qmd V2_3_BALANCE_AUDIT.md ranking.qmd index.qmd discoveries.qmd cctv.qmd sources.qmd; do
+            for x in EDITORIAL_BRIEF_V2_3.md EDITORIAL_RESPONSE_V2_3.md methods.qmd V2_3_BALANCE_AUDIT.md ranking.qmd index.qmd discoveries.qmd cctv.qmd sources.qmd; do
               echo
               echo "---"
               echo
