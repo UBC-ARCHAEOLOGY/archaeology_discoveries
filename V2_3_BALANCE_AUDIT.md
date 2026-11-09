@@ -16,7 +16,7 @@
 Using broad geographic categories:
 
 - **Asia (excluding Wallacea): 10** — China (2), Lake Baikal/Russia (1), Türkiye (2), Iraq (1), Armenia (1), Laos (1), Tajikistan/Central Asia (1), Sumatra/Indonesia (1)
-- **North America: 5** — Guatemala (1), Alaska (1), Mexico (2), Florida (1)
+- **North & Central America: 5** — Guatemala (1), Alaska (1), Mexico (2), Florida (1)
 - **Europe: 6** — Greece (2), Italy (1), pan-European ancient genomics (1), Catalonia/Spain (1), Iberia (1)
 - **Africa: 5** — South Africa (1), Egypt (2), Senegal (1), Sudan (1)
 - **South America: 4** — Argentina (1), southwestern Amazonia (1), Peru (1), Chile (1)
@@ -28,7 +28,7 @@ Using broad geographic categories:
 
 **中文。** 北美从V2.2时期的明显空白增加到5项，已经不再需要为“地图平衡”主动降低门槛。中亚和澳大利亚本土已经补入，东南亚也由老挝、苏拉威西和苏门答腊形成更完整的分布。当前最明显的地区缺口主要是**南亚与太平洋其他地区**；撒哈拉以南非洲虽有南非、塞内加尔和苏丹，但仍值得继续关注新的高质量田野发现。
 
-**English.** North America has risen to five formal entries and no longer requires corrective selection merely for map balance. Central Asia and mainland Australia are now represented, and Southeast Asian coverage includes Laos, Sulawesi and Sumatra. The clearest remaining gaps are **South Asia and other parts of the Pacific**, while sub-Saharan Africa remains relatively thin despite representation from South Africa, Senegal and Sudan.
+**English.** North and Central America together now have five formal entries and no longer require corrective selection merely for map balance. Central Asia and mainland Australia are now represented, and Southeast Asian coverage includes Laos, Sulawesi and Sumatra. The clearest remaining gaps are **South Asia and other parts of the Pacific**, while sub-Saharan Africa remains relatively thin despite representation from South Africa, Senegal and Sudan.
 
 ## 2. Chronological balance | 年代分布
 
