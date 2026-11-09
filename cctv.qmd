@@ -1,0 +1,35 @@
+---
+title: "央视遴选 | CCTV Selection"
+---
+
+## 状态说明 | Status
+
+目前原始材料列出的16项均为**候选**，尚未在本站标记为最终“世界考古大发现”。央视最终名单公布后，本页及各发现页会同步更新。
+
+The 16 discoveries supplied in the original CCTV document are currently treated as **candidates**, not as final selections. Status labels will be updated once CCTV announces the final list.
+
+## 原始16项候选 | Original 16 candidates
+
+1. [南非Wonderwerk Cave约180万年前古人类用火证据](discoveries/01-wonderwerk-fire.qmd)
+2. [湖北郧县约177万年前直立人头骨](discoveries/02-yunxian-homo-erectus.qmd)
+3. [希腊约43万年前木制工具](discoveries/03-megalopolis-wood-tools.qmd)
+4. [云南蝙蝠洞丹尼索瓦人化石与生活遗存](discoveries/04-denisovans-yunnan.qmd)
+5. [欧亚大陆最早家犬遗传证据](discoveries/05-oldest-dog-genomes.qmd)
+6. [Romito墓葬与史前罕见遗传病](discoveries/06-romito-genetic-disease.qmd)
+7. [贝加尔湖约5500年前狩猎采集者鼠疫暴发](discoveries/07-baikal-plague.qmd)
+8. [埃及早王朝时期两座墓葬](discoveries/08-egypt-early-dynastic-tombs.qmd)
+9. [特洛伊最早Agora与铁器时代复居](discoveries/09-troy-agora.qmd)
+10. [底格里斯河畔亚历山大城的确认与城市景观](discoveries/10-alexandria-tigris.qmd)
+11. [中国—希腊联合发掘阿西诺古城](discoveries/11-arsinoe-china-greece.qmd)
+12. [南安第斯山脉两千年人口史与农业转型](discoveries/12-uspallata-ancient-dna.qmd)
+13. [亚美尼亚乌拉尔图大型灌溉景观](discoveries/13-urartian-irrigation.qmd)
+14. [塞内加尔Didé West 1长期炼铁作坊](discoveries/14-dide-west-iron-smelting.qmd)
+15. [苏丹库施王国神庙中的faience生产作坊](discoveries/15-kush-faience.qmd)
+16. [埃及木乃伊葬仪中的《伊利亚特》文本](discoveries/16-iliad-mummy.qmd)
+
+## 补充建议 | Additional discoveries proposed for consideration
+
+1. [西南亚马孙超过两万处前殖民土方工程](discoveries/17-amazon-earthworks.qmd)
+2. [商代约700公里铜资源供应网络](discoveries/18-shang-copper-network.qmd)
+3. [秘鲁Chan Chan未盗扰Chimú精英墓](discoveries/19-chan-chan-tomb.qmd)
+4. [古基因组与凯尔特语传播模型](discoveries/20-celtic-ancient-dna.qmd)
