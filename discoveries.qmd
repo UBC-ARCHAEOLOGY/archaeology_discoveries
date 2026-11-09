@@ -5,28 +5,28 @@ title: "全部发现 | All Discoveries"
 下表汇总当前收录项目。点击名称进入双语详情页。  
 The table below summarizes all entries currently included in the site.
 
-| # | 发现 / Discovery | 地区 / Region | 年代 / Period | CCTV |
+| # | 发现 / Discovery | 地区 / Region | 年代 / Period | CCTV status / 央视状态 |
 |---:|---|---|---|---|
-| 1 | [Wonderwerk约180万年前用火](discoveries/01-wonderwerk-fire.qmd)<br>Fire use at Wonderwerk ~1.8 Ma | 南非 | 约170–180万年前 | 候选 |
-| 2 | [郧县约177万年前直立人](discoveries/02-yunxian-homo-erectus.qmd)<br>Yunxian Homo erectus | 中国湖北 | 约177万年前 | 候选 |
-| 3 | [希腊约43万年前木器](discoveries/03-megalopolis-wood-tools.qmd)<br>Wooden tools in Greece | 希腊 | 约43万年前 | 候选 |
-| 4 | [云南丹尼索瓦人](discoveries/04-denisovans-yunnan.qmd)<br>Denisovans in Yunnan | 中国云南 | 中—晚更新世 | 候选 |
-| 5 | [最早家犬遗传证据](discoveries/05-oldest-dog-genomes.qmd)<br>Earliest dog genomes | 欧亚大陆 | 约1.58–1.43万年前 | 候选 |
-| 6 | [Romito罕见遗传病](discoveries/06-romito-genetic-disease.qmd)<br>Romito genetic disorder | 意大利 | 1.2万余年前 | 候选 |
-| 7 | [贝加尔湖早期鼠疫](discoveries/07-baikal-plague.qmd)<br>Lake Baikal plague | 俄罗斯 | 约5500年前 | 候选 |
-| 8 | [埃及早王朝墓葬](discoveries/08-egypt-early-dynastic-tombs.qmd)<br>Early Dynastic tombs | 埃及 | 前3100–2686年 | 候选 |
-| 9 | [特洛伊Agora](discoveries/09-troy-agora.qmd)<br>Troy agora | 土耳其 | 约2800年前 | 候选 |
-| 10 | [底格里斯河畔亚历山大城](discoveries/10-alexandria-tigris.qmd)<br>Alexandria on the Tigris | 伊拉克 | 前300年–公元300年 | 候选 |
-| 11 | [阿西诺中希联合发掘](discoveries/11-arsinoe-china-greece.qmd)<br>Sino-Greek excavation at Arsinoe | 希腊 | 古典—希腊化时期 | 候选 |
-| 12 | [南安第斯两千年人口史](discoveries/12-uspallata-ancient-dna.qmd)<br>Southern Andes population history | 阿根廷 | 过去约2200年 | 候选 |
-| 13 | [乌拉尔图灌溉景观](discoveries/13-urartian-irrigation.qmd)<br>Urartian irrigation | 亚美尼亚 | 约2700年前 | 候选 |
-| 14 | [Didé West 1炼铁作坊](discoveries/14-dide-west-iron-smelting.qmd)<br>Didé West iron smelting | 塞内加尔 | 前4世纪–公元4世纪 | 候选 |
-| 15 | [库施faience生产](discoveries/15-kush-faience.qmd)<br>Kushite faience production | 苏丹 | 前7世纪 | 候选 |
-| 16 | [木乃伊葬仪中的《伊利亚特》](discoveries/16-iliad-mummy.qmd)<br>Iliad in mummification context | 埃及 | 约1600年前 | 候选 |
-| 17 | [西南亚马孙土方工程](discoveries/17-amazon-earthworks.qmd)<br>Amazonian earthworks | 亚马孙 | 前殖民时期 | 补充建议 |
-| 18 | [Chan Chan Chimú精英墓](discoveries/18-chan-chan-tomb.qmd)<br>Chimú elite tomb | 秘鲁 | 约600年前 | 补充建议 |
-| 19 | [古基因组与凯尔特语、日耳曼语传播](discoveries/19-celtic-ancient-dna.qmd)<br>Ancient genomes & Celtic/Germanic dispersal | 欧洲 | 青铜—铁器时代 | 补充建议 |
-| 20 | [苏拉威西≥6.78万年手印岩画](discoveries/20-sulawesi-rock-art.qmd)<br>Rock art ≥67.8 ka in Sulawesi | 印度尼西亚 | ≥6.78万年前 | 补充建议 |
-| 21 | [Xultun玛雅数学家Sak Tahn Waax](discoveries/21-maya-mathematician.qmd)<br>Named Maya mathematician-astronomer | 危地马拉 | 约公元781年 | 补充建议 |
-| 22 | [Kayalıpınar赫梯王室档案](discoveries/22-hittite-royal-archive.qmd)<br>Hittite royal archive | 土耳其 | 约前1400年 | 补充建议 |
-| 23 | [Camarones 9美洲早期天花基因组](discoveries/23-camarones-smallpox.qmd)<br>Early smallpox genomes in the Americas | 智利 | 公元1492–1631年 | 补充建议 |
+| 1 | [Wonderwerk约180万年前用火](discoveries/01-wonderwerk-fire.qmd)<br>Fire use at Wonderwerk ~1.8 Ma | South Africa / 南非 | ca. 1.7–1.8 Ma / 约170–180万年前 | CCTV candidate / 央视候选 |
+| 2 | [郧县约177万年前直立人](discoveries/02-yunxian-homo-erectus.qmd)<br>Yunxian Homo erectus | Hubei, China / 中国湖北 | ca. 1.77 Ma / 约177万年前 | CCTV candidate / 央视候选 |
+| 3 | [希腊约43万年前木器](discoveries/03-megalopolis-wood-tools.qmd)<br>Wooden tools in Greece | Greece / 希腊 | ca. 430 ka / 约43万年前 | CCTV candidate / 央视候选 |
+| 4 | [云南丹尼索瓦人](discoveries/04-denisovans-yunnan.qmd)<br>Denisovans in Yunnan | Yunnan, China / 中国云南 | Middle–Late Pleistocene / 中—晚更新世 | CCTV candidate / 央视候选 |
+| 5 | [最早家犬遗传证据](discoveries/05-oldest-dog-genomes.qmd)<br>Earliest dog genomes | Eurasia / 欧亚大陆 | ca. 15.8–14.3 ka / 约1.58–1.43万年前 | CCTV candidate / 央视候选 |
+| 6 | [Romito罕见遗传病](discoveries/06-romito-genetic-disease.qmd)<br>Romito genetic disorder | Italy / 意大利 | >12 ka / 1.2万余年前 | CCTV candidate / 央视候选 |
+| 7 | [贝加尔湖早期鼠疫](discoveries/07-baikal-plague.qmd)<br>Lake Baikal plague | Russia / 俄罗斯 | ca. 5.5 ka / 约5500年前 | CCTV candidate / 央视候选 |
+| 8 | [埃及早王朝墓葬](discoveries/08-egypt-early-dynastic-tombs.qmd)<br>Early Dynastic tombs | Egypt / 埃及 | ca. 3100–2686 BCE / 约公元前3100–2686年 | CCTV candidate / 央视候选 |
+| 9 | [特洛伊Agora](discoveries/09-troy-agora.qmd)<br>Troy agora | Türkiye / 土耳其 | ca. 2,800 years ago / 约2800年前 | CCTV candidate / 央视候选 |
+| 10 | [底格里斯河畔亚历山大城](discoveries/10-alexandria-tigris.qmd)<br>Alexandria on the Tigris | Iraq / 伊拉克 | ca. 300 BCE–300 CE / 约公元前300年—公元300年 | CCTV candidate / 央视候选 |
+| 11 | [阿西诺中希联合发掘](discoveries/11-arsinoe-china-greece.qmd)<br>Sino-Greek excavation at Arsinoe | Greece / 希腊 | Classical–Hellenistic period / 古典—希腊化时期 | CCTV candidate / 央视候选 |
+| 12 | [南安第斯两千年人口史](discoveries/12-uspallata-ancient-dna.qmd)<br>Southern Andes population history | Argentina / 阿根廷 | last ~2,200 years / 过去约2200年 | CCTV candidate / 央视候选 |
+| 13 | [乌拉尔图灌溉景观](discoveries/13-urartian-irrigation.qmd)<br>Urartian irrigation | Armenia / 亚美尼亚 | ca. 2,700 years ago / 约2700年前 | CCTV candidate / 央视候选 |
+| 14 | [Didé West 1炼铁作坊](discoveries/14-dide-west-iron-smelting.qmd)<br>Didé West iron smelting | Senegal / 塞内加尔 | 4th c. BCE–4th c. CE / 公元前4世纪—公元4世纪 | CCTV candidate / 央视候选 |
+| 15 | [库施faience生产](discoveries/15-kush-faience.qmd)<br>Kushite faience production | Sudan / 苏丹 | 7th c. BCE / 公元前7世纪 | CCTV candidate / 央视候选 |
+| 16 | [木乃伊葬仪中的《伊利亚特》](discoveries/16-iliad-mummy.qmd)<br>Iliad in mummification context | Egypt / 埃及 | ca. 1,600 years ago / 约1600年前 | CCTV candidate / 央视候选 |
+| 17 | [西南亚马孙土方工程](discoveries/17-amazon-earthworks.qmd)<br>Amazonian earthworks | Southwestern Amazonia / 西南亚马孙 | Precolonial period / 前殖民时期 | Additional candidate / 补充建议 |
+| 18 | [Chan Chan Chimú精英墓](discoveries/18-chan-chan-tomb.qmd)<br>Chimú elite tomb | Peru / 秘鲁 | ca. 600 years ago / 约600年前 | Additional candidate / 补充建议 |
+| 19 | [古基因组与凯尔特语、日耳曼语传播](discoveries/19-celtic-ancient-dna.qmd)<br>Ancient genomes & Celtic/Germanic dispersal | Europe / 欧洲 | Bronze–Iron Age / 青铜—铁器时代 | Additional candidate / 补充建议 |
+| 20 | [苏拉威西≥6.78万年手印岩画](discoveries/20-sulawesi-rock-art.qmd)<br>Rock art ≥67.8 ka in Sulawesi | Indonesia / 印度尼西亚 | ≥67.8 ka / ≥6.78万年前 | Additional candidate / 补充建议 |
+| 21 | [Xultun玛雅数学家Sak Tahn Waax](discoveries/21-maya-mathematician.qmd)<br>Named Maya mathematician-astronomer | Guatemala / 危地马拉 | ca. AD 781 / 约公元781年 | Additional candidate / 补充建议 |
+| 22 | [Kayalıpınar赫梯王室档案](discoveries/22-hittite-royal-archive.qmd)<br>Hittite royal archive | Türkiye / 土耳其 | ca. 1400 BCE / 约公元前1400年 | Additional candidate / 补充建议 |
+| 23 | [Camarones 9美洲早期天花基因组](discoveries/23-camarones-smallpox.qmd)<br>Early smallpox genomes in the Americas | Chile / 智利 | AD 1492–1631 / 公元1492–1631年 | Additional candidate / 补充建议 |
