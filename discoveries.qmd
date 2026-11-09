@@ -30,3 +30,5 @@ The table below summarizes all entries currently included in the site.
 | 21 | [Xultun玛雅数学家Sak Tahn Waax](discoveries/21-maya-mathematician.qmd)<br>Named Maya mathematician-astronomer | Guatemala / 危地马拉 | ca. AD 781 / 约公元781年 | Additional candidate / 补充建议 |
 | 22 | [Kayalıpınar赫梯王室档案](discoveries/22-hittite-royal-archive.qmd)<br>Hittite royal archive | Türkiye / 土耳其 | ca. 1400 BCE / 约公元前1400年 | Additional candidate / 补充建议 |
 | 23 | [Camarones 9美洲早期天花基因组](discoveries/23-camarones-smallpox.qmd)<br>Early smallpox genomes in the Americas | Chile / 智利 | AD 1492–1631 / 公元1492–1631年 | Additional candidate / 补充建议 |
+| 24 | [阿拉斯加Shég’ Xdaltth’í’东白令营地](discoveries/24-sheg-xdaltthi.qmd)<br>Shég’ Xdaltth’í’ eastern Beringian base camp | Alaska, USA / 美国阿拉斯加 | ca. 13.8 ka / 约13,800年前 | Additional candidate / 补充建议 |
+| 25 | [San Pablo Huitzo萨波特克10号墓](discoveries/25-huitzo-tomb-10.qmd)<br>Zapotec Tomb 10 at San Pablo Huitzo | Oaxaca, Mexico / 墨西哥瓦哈卡 | ca. AD 600 / 约公元600年 | Additional candidate / 补充建议 |
