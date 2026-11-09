@@ -13,12 +13,15 @@ Late Roman Egypt · ca. 1,600 years ago / 罗马晚期 · 约1600年前
 **Research / excavation institutions / 发掘或研究机构**  
 University of Barcelona / Institute of the Ancient Near East; Egyptian Supreme Council of Antiquities
 
-**Lead researchers / 主要负责人**  
-Maite Mascort Roca; Esther Pons Mellado; papyrus specialists working with the mission
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Maite Mascort; Esther Pons (Oxyrhynchus Archaeological Mission).
 
-**Evidence status / 证据状态**  
-English: Excavation announcement with preliminary specialist reading (D→C); the papyrus has not yet received a full formal scholarly publication.  
-中文：发掘公告与初步专家识读（D→C级）；纸草尚未正式完整发表。
+**Evidence grade / 证据等级**  
+C — official university and Egyptian antiquities announcements with preliminary papyrological identification; no full scholarly edition of the papyrus yet.  
+C级——大学与埃及文物部门正式公告，并有初步纸草学识读；纸草尚无完整学术出版。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Moderate / 中等——文学文本进入木乃伊制作情境具有明确新意，但其仪式意义仍需等待正式纸草学与墓葬情境发表。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -46,11 +49,11 @@ CCTV candidate / 央视候选
 
 **尚无同行评议论文 | No peer-reviewed publication yet.**
 
-[University of Barcelona. (2026, April 20). *Oxyrhynchus excavation identifies a Homeric Iliad text in a Roman-period mortuary context*.](https://web.ub.edu/en/web/actualitat/w/oxyrhynchus-iliad-homer)
+Universitat de Barcelona. (2026, April 20). *The UB’s archaeological mission in Oxyrhynchus has found Homer’s ‘Iliad’ inside a Roman-era mummy*. https://web.ub.edu/en/web/actualitat/w/oxyrhynchus-iliad-homer
 
-**现有资料内容（中文）。** 纸草尚未正式发表，当前识读来自巴塞罗那大学考古队的研究公告。现有证据足以确认其与《伊利亚特》第二卷有关，但纸草在木乃伊中的精确位置及其是否具有仪式功能仍需等待正式纸草学出版。
+**现有资料内容（中文）。** 巴塞罗那大学正式新闻稿称，该纸草位于一具罗马时期木乃伊腹部，内容属于《伊利亚特》第二卷“船表”，并把它解释为首次发现有希腊文学文本被纳入木乃伊制作过程。由于纸草本身尚未正式发表，文本细节和仪式解释仍应视为初步结论。
 
-**What the current source shows (English).** The papyrus has not yet received a formal scholarly edition; its identification is currently reported through the University of Barcelona research announcement. The evidence supports an association with Book 2 of the *Iliad*, but the exact placement of the papyrus and whether it carried a deliberate ritual function await formal papyrological publication.
+**What the current source shows (English).** The University of Barcelona press release reports that the papyrus was placed in the abdomen of a Roman-period mummy and contains part of the Catalogue of Ships in Book 2 of the *Iliad*. It presents this as the first known Greek literary text deliberately incorporated into mummification. Because the papyrus itself has not yet received a formal edition, textual and ritual interpretations remain preliminary.
 
 <!-- APA-V2.1 -->
 
