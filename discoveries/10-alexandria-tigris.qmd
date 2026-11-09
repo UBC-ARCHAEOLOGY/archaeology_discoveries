@@ -13,12 +13,15 @@ Hellenistic–Parthian era · ca. 300 BCE–300 CE / 希腊化—帕提亚时期
 **Research / excavation institutions / 发掘或研究机构**  
 University of Konstanz; Charax Spasinou Project; British archaeological and geophysical collaborators working in southern Iraq
 
-**Lead researchers / 主要负责人**  
-Stefan R. Hauser; Jane Moon; Robert Killick; Stuart Campbell
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Stuart Campbell; Stefan R. Hauser; Robert Killick; Jane Moon; Mary Shepperson; Věra Doležálková.
 
-**Evidence status / 证据状态**  
-English: Substantial multi-season field research (B), but 2026 coverage is a synthesis of work begun years earlier rather than a newly discovered location.  
-中文：有多年系统田野研究支持（B级），但2026年报道是对既有项目的阶段性综合，并非首次发现地点。
+**Evidence grade / 证据等级**  
+B — substantial multi-season archaeological and geophysical research, but the key project article belongs to the 2018 volume of *Zeitschrift für Orient-Archäologie*.  
+B级——有多年考古与地球物理调查支持，但核心项目论文属于《Zeitschrift für Orient-Archäologie》2018年第11卷。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——项目系统揭示城市布局、港口与贸易基础设施具有重要价值；但2026年的新闻应理解为对2016年以来工作的阶段性总结，而不是2026年才“首次发现”城市。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -32,9 +35,9 @@ CCTV candidate / 央视候选
 
 ## 主要发现 | Major findings
 
-**中文。** 自2016年以来的大规模地表调查、无人机与磁力勘探系统揭示这座早在1960年代已由航片定位的网格化大型港口城市，包括街道、住宅区、神庙、作坊、运河、港湾及农业腹地。
+**中文。** Charax Spasinou（底格里斯河畔亚历山大城）的位置早在20世纪中期已由航片研究提出。2016年以来的新项目通过地表调查、无人机、磁力测量和陶器分析持续揭示网格化街道、住宅区、神庙、作坊、港池、运河与农业腹地。2026年的媒体报道是对这一多年工作的阶段性总结，而不是2026年才首次确定遗址位置。
 
-**English.** Since 2016, large-scale surface survey, drone mapping, and magnetometry have systematically revealed the layout of a major gridded port city whose location had already been proposed from aerial photographs in the 1960s with streets, residential blocks, temples, workshops, canals, harbor basins, and an agricultural hinterland.
+**English.** The location of Charax Spasinou (Alexandria on the Tigris) had been proposed from aerial photography decades before 2026. Since 2016, renewed survey, drone mapping, magnetometry and ceramic analysis have progressively revealed a gridded city with residential areas, temples, workshops, harbour basins, canals and an agricultural hinterland. The 2026 reporting is therefore best understood as a synthesis of a multi-year project rather than the first identification of the site.
 
 ## 学术重要性 | Intellectual significance
 
