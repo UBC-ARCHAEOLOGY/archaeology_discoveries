@@ -1,0 +1,66 @@
+---
+title: "34. 苏门答腊Bongal：lashed-lug古船与印度洋海上网络"
+subtitle: "Lashed-lug boats from Bongal and early maritime networks on Sumatra’s west coast"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Bongal, west coast of North Sumatra, Indonesia / 印度尼西亚北苏门答腊西海岸Bongal
+
+**Date / 年代**  
+7th–8th centuries CE / 公元7–8世纪
+
+**Research / excavation institutions / 发掘或研究机构**  
+Badan Riset dan Inovasi Nasional (BRIN); Università di Napoli L’Orientale; Cultural Office of Central Tapanuli Regency; Sultanate Institute and local collaborators
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Agni Sesaria Mochtar; Shinatria Adhityatama; Mochammad Fauzi Hendrawan; Andri Restiyadi; Stanov Purnawibowo; Ery Soedewo.
+
+**Evidence grade / 证据等级**  
+B — peer-reviewed maritime-archaeology study with substantial technological documentation and dated watercraft remains, but the timbers derive from secondary contexts rather than an intact wreck.  
+B级——同行评议海事考古研究，船材技术记录和年代证据较强，但木构件来自次生情境，并非保存完整的原位沉船。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——把东南亚本土lashed-lug造船传统明确扩展到苏门答腊西海岸，并以船板、绑缚、舵、铭文和贸易品共同揭示7–8世纪印度洋网络中的地方造船技术与跨区域交流。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 东南亚lashed-lug造船传统以船板内侧雕出凸耳，再以植物纤维将肋材与船板绑缚，是南岛及东南亚海事技术的重要标志。但早期船体遗存数量极少，特别是苏门答腊西海岸——这一地区直接面向印度洋，却长期缺乏能够把本土造船技术与跨印度洋贸易放在同一考古情境中的船材。
+
+**English.** Southeast Asian lashed-lug construction uses carved lugs on the inner faces of hull planks, with frames fastened by vegetal-fibre lashings. It is a major marker of vernacular Austronesian and Southeast Asian shipbuilding, yet early archaeological hull remains are rare. Sumatra’s west coast faces the Indian Ocean directly but has lacked watercraft remains that connect local construction traditions with wider maritime exchange.
+
+## 主要发现 | Major findings
+
+**中文。** Bongal材料包括带凸耳船板、木钉、仍可识别的棕榈纤维绑缚、大型quarter rudder，以及一块带Pallava–Grantha文字的木板。技术分析显示这些构件符合东南亚lashed-lug造船传统。伴出的陶器、玻璃、珠饰和钱币等材料进一步表明Bongal参与了公元7–8世纪印度洋海上交换。
+
+**English.** The Bongal assemblage includes hull planks with carved lugs, wooden dowels, preserved palm-fibre lashings, a large quarter rudder and an inscribed plank in Pallava–Grantha script. Technological analysis places the timbers within the Southeast Asian lashed-lug tradition. Associated ceramics, glass, beads and coins further indicate participation in seventh- to eighth-century Indian Ocean maritime exchange.
+
+**中文。** 研究者认为大型舵是目前东南亚最早可靠测年的quarter rudder之一，并指出Bongal首次把lashed-lug传统明确扩展到苏门答腊西海岸。
+
+**English.** The authors identify the large quarter rudder as the earliest securely dated example of its type in Southeast Asia and regard Bongal as the first firm archaeological extension of the lashed-lug tradition to Sumatra’s west coast.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** Bongal的重要性并不依赖“最早舵”纪录。即使去掉这一超级纪录，船板、绑缚、舵、南亚文字和国际贸易品的组合仍然说明：印度洋网络中的苏门答腊并不是被动接受外来船只的港口，而拥有可识别的东南亚本土造船传统，并把这种技术体系嵌入跨区域交流。
+
+**English.** Bongal remains important even if the “earliest rudder” superlative is removed. The combination of hull technology, lashings, steering gear, South Asian script and imported goods shows that Sumatra’s role in Indian Ocean networks involved identifiable Southeast Asian vernacular shipbuilding rather than merely receiving foreign vessels.
+
+**中文。** 最大限制是所有船材均来自次生情境，并非一艘原位保存的完整沉船。因此不能默认全部构件属于同一艘船，也不能把Bongal写成“一艘7世纪沉船”。更准确的表述是：该地点保存了一组年代和技术上相互一致的早期船体构件，可能代表一艘或多艘本土船只。
+
+**English.** The principal limitation is contextual: the timbers were recovered from secondary deposits rather than an intact wreck. They cannot automatically be assigned to one vessel, and Bongal should not be described simply as “a seventh-century shipwreck.” The defensible claim is that the site preserves a technologically and chronologically coherent assemblage of early watercraft remains that may derive from one or more vernacular vessels.
+
+## 学术出版物 | Academic publications
+
+Mochtar, A. S., Adhityatama, S., Hendrawan, M. F., Restiyadi, A., Purnawibowo, S., & Soedewo, E. (2026). Lashed-Lug Boats from the Bongal Site: New Evidence for Early Maritime Networks on the West Coast of Sumatra. *International Journal of Nautical Archaeology*. https://doi.org/10.1080/10572414.2026.2714901
+
+## 主要媒体报道 | Major media coverage
+
+- [International Journal of Nautical Archaeology article](https://doi.org/10.1080/10572414.2026.2714901)
+
+## 图像与图版来源 | Images and figure sources
+
+- [International Journal of Nautical Archaeology article](https://doi.org/10.1080/10572414.2026.2714901)
