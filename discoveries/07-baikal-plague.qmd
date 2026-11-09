@@ -13,12 +13,15 @@ Late Neolithic–Early Bronze Age · ca. 5.5 ka / 约5500年前
 **Research / excavation institutions / 发掘或研究机构**  
 University of Oxford; University of Copenhagen (Globe Institute); University of Alberta / Baikal Archaeology Project; collaborating Russian archaeological institutions
 
-**Lead researchers / 主要负责人**  
-Ruairidh Macleod; Frederik V. Seersholm; Martin Sikora; Eske Willerslev; Andrzej W. Weber
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Ruairidh Macleod; Frederik V. Seersholm; Andrzej W. Weber; Martin Sikora; Eske Willerslev.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); one of the strongest 2026 candidates.  
-中文：顶级同行评议研究（A级）；是2026年最有分量的候选项目之一。
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Nature* study integrating pathogen genomes, kinship reconstruction and cemetery context.  
+A级——《Nature》同行评议研究，综合病原体基因组、亲属关系重建和墓地情境。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——直接挑战“严重流行病主要依赖农业定居和高人口密度”的简单模型，并为早期鼠疫的宿主与传播生态提供新证据。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -38,9 +41,9 @@ CCTV candidate / 央视候选
 
 ## 学术重要性 | Intellectual significance
 
-**中文。** 这一发现挑战了把严重流行病主要与农业定居、人口高密度和“新石器时代疾病转型”联系起来的简单模型。它说明小规模、流动性较高的狩猎采集群体同样可能受到高度致命传染病影响。
+**中文。** 这一发现挑战了把严重流行病主要与农业定居、人口高密度和“新石器时代疾病转型”联系起来的简单模型。研究还指出，贝加尔湖地区今天鼠疫的主要自然宿主之一是旱獭（*Marmota sibirica*），而新石器时代墓葬中大量旱獭牙齿随葬证明史前人群长期捕猎和处理旱獭。作者因此认为，旱獭是这些早期鼠疫菌株的一个有力候选原始动物宿主；随后的家庭内聚集病例又与人际传播相容。这里的关键不是已经证明单一传播路线，而是把“动物宿主—狩猎处理—家庭传播”纳入了同一个史前流行病模型。
 
-**English.** The evidence complicates simple models that tie severe epidemics primarily to dense farming settlements and the Neolithic epidemiological transition. Highly lethal infectious disease could also affect relatively small and mobile hunter-gatherer populations.
+**English.** The discovery complicates simple models that associate severe epidemics primarily with farming, sedentism and dense populations. The study also notes that marmots (*Marmota sibirica*) are a principal modern plague reservoir around Lake Baikal and that numerous marmot teeth in Early Neolithic graves document prehistoric procurement of these animals. The authors therefore identify marmots as a strong candidate zoonotic reservoir for the early strains, while familial clustering is consistent with subsequent human-to-human transmission. The important advance is not proof of a single route, but the integration of animal reservoir, hunting practices and household transmission within one prehistoric epidemiological model.
 
 ## 学术出版物 | Academic publications
 
