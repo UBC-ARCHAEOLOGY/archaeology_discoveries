@@ -19,9 +19,9 @@ title-block-style: none
 ## 世界地图 | World map
 
 ::: {.callout-note title="地图说明 | Map guide"}
-**中文。** 下图标出目前收录的**全部30项发现**。**蓝色**为央视候选，**橙色**为补充建议。将鼠标停留在标记上可查看中英文名称；点击标记即可进入相应发现页面。对于跨区域研究（如早期家犬和凯尔特/日耳曼古基因组），地图使用具有代表性的研究地点或区域中心，而不是把一个研究强行简化为单一地点。
+**中文。** 下图标出目前收录的**全部31项发现**。**蓝色**为央视候选，**橙色**为补充建议。将鼠标停留在标记上可查看中英文名称；点击标记即可进入相应发现页面。对于跨区域研究（如早期家犬和凯尔特/日耳曼古基因组），地图使用具有代表性的研究地点或区域中心，而不是把一个研究强行简化为单一地点。
 
-**English.** The map shows **all 30 discoveries** currently included in the project. **Blue** markers are CCTV candidates and **orange** markers are additional candidates. Hover over a marker to see the bilingual title, and click it to open the discovery page. For multi-regional studies, a representative site or regional centre is used rather than reducing the research to a single location.
+**English.** The map shows **all 31 discoveries** currently included in the project. **Blue** markers are CCTV candidates and **orange** markers are additional candidates. Hover over a marker to see the bilingual title, and click it to open the discovery page. For multi-regional studies, a representative site or regional centre is used rather than reducing the research to a single location.
 :::
 
 <iframe src="map.html" title="Interactive map of 2026 archaeological discoveries" style="width:100%;height:500px;border:1px solid #dce5e8;border-radius:10px;background:#f7fbfc;"></iframe>
@@ -42,14 +42,14 @@ A major discovery is not simply a spectacular headline. We emphasize whether a f
 **中文。**
 
 - **16项**中央广播电视总台2026年候选发现；
-- **14项**补充建议项目：西南亚马孙土方工程、Chan Chan Chimú墓葬、凯尔特语/日耳曼语传播古基因组、苏拉威西早期岩画、Xultun玛雅数学家、赫梯王室档案、美洲早期天花基因组、阿拉斯加Shég’ Xdaltth’í’东白令营地、San Pablo Huitzo萨波特克10号墓、老挝石缸平原Site 75“死亡之缸”、玛雅低地汞污染与水生生态系统崩溃、Cova de la Font Major旧石器时代洞穴刻画、Etowah可可古DNA、罗马统治与伊比利亚人口结构变化；
+- **15项**补充建议项目：西南亚马孙土方工程、Chan Chan Chimú墓葬、凯尔特语/日耳曼语传播古基因组、苏拉威西早期岩画、Xultun玛雅数学家、赫梯王室档案、美洲早期天花基因组、阿拉斯加Shég’ Xdaltth’í’东白令营地、San Pablo Huitzo萨波特克10号墓、老挝石缸平原Site 75“死亡之缸”、玛雅低地汞污染与水生生态系统崩溃、Cova de la Font Major旧石器时代洞穴刻画、Etowah可可古DNA、罗马统治与伊比利亚人口结构变化、Tampa Bay密西西比移民陶工与技术知识；
 - 所有解释性内容均为**中英双语**；
 - 央视最终结果公布后，将把状态从“候选”更新为“入选/未入选”。
 
 **English.**
 
 - **16** discoveries from the 2026 CCTV candidate list;
-- **14** additional candidates: Southwest Amazon earthworks, the Chan Chan Chimú tomb, Celtic/Germanic ancient genomics, early Sulawesi rock art, the named Xultun Maya mathematician, the Hittite royal archive, early smallpox genomes from the Americas, the Shég’ Xdaltth’í’ eastern Beringian base camp in Alaska, Zapotec Tomb 10 at San Pablo Huitzo, the Site 75 “death jar” at the Plain of Jars, Maya mercury pollution and aquatic ecosystem collapse, the Cova de la Font Major Palaeolithic engravings, Etowah cacao archaeogenomics, and Roman/post-Roman population genomics in Iberia;
+- **15** additional candidates: Southwest Amazon earthworks, the Chan Chan Chimú tomb, Celtic/Germanic ancient genomics, early Sulawesi rock art, the named Xultun Maya mathematician, the Hittite royal archive, early smallpox genomes from the Americas, the Shég’ Xdaltth’í’ eastern Beringian base camp in Alaska, Zapotec Tomb 10 at San Pablo Huitzo, the Site 75 “death jar” at the Plain of Jars, Maya mercury pollution and aquatic ecosystem collapse, the Cova de la Font Major Palaeolithic engravings, Etowah cacao archaeogenomics, Roman/post-Roman population genomics in Iberia, and migrant Mississippian potters in Tampa Bay;
 - all explanatory content is presented **bilingually in Chinese and English**;
 - CCTV status labels will be updated after the final selections are announced.
 
