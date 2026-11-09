@@ -23,6 +23,12 @@ Peer-reviewed clinical-genetic communication in NEJM (A for the molecular diagno
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** Romito 2自1960年代发现以来一直是古病理学与“照护生物考古学”的经典案例：一名明显矮小、肢体比例异常的年轻个体被另一名成年个体环抱安葬。过去研究只能依靠骨骼形态讨论其疾病、性别与社会照护。古DNA使这一案例进入“分子古病理学”阶段，可以把形态诊断、亲缘关系和具体致病基因放在同一证据框架中。
+
+**English.** Romito 2 has long been a classic case in palaeopathology and the bioarchaeology of care because a markedly short-statured young individual was buried in an embrace with another adult. Earlier interpretations depended on skeletal morphology for diagnosis, sex, and social-care arguments. Ancient DNA now moves the case into molecular palaeopathology by linking morphology, kinship, and a specific pathogenic genotype.
+
 ## 主要发现 | Major findings
 
 **中文。** 研究从两具著名Romito个体的岩部骨提取古DNA，确认两人均为女性且为一级亲属（很可能是母女，但不能视为定论），并通过NPR2基因变异解释两人的身高与骨骼发育异常。
@@ -35,13 +41,34 @@ CCTV candidate / 央视候选
 
 **English.** The study exemplifies a shift from population history toward individual life histories, kinship, and molecular palaeopathology. It shows how skeletal morphology, ancient DNA, and modern clinical genetics can be integrated to diagnose disease in specific prehistoric individuals.
 
+## 论文核查 | Publication verification
+
+- **Fernandes, Daniel M.; Alejandro Llanos-Lizcano; Florian Brück; Victoria Oberreiter; Kadir T. Özdoğan; Olivia Cheronet; Michaela Lucci; Albert Beckers; Patrick Pétrossians; Alfredo Coppa; Ron Pinhasi; Adrian F. Daly.**
+- **Title:** *A 12,000-Year-Old Case of NPR2-Related Acromesomelic Dysplasia*
+- **Journal:** *New England Journal of Medicine* 394(5): 513–515
+- **DOI:** [10.1056/NEJMc2513616](https://doi.org/10.1056/NEJMc2513616)
+- **Published online:** 28 January 2026; issue date 29 January 2026
+- **Open access:** free to read, but **not CC licensed**; NEJM directs reuse through its permissions process.
+
 ## 学术论文 | Academic publications
 
 - [New England Journal of Medicine](https://www.nejm.org/doi/10.1056/NEJMc2513616)
 
 ## 主要媒体报道 | Major media coverage
 
+- [NEJM — original report](https://www.nejm.org/doi/full/10.1056/NEJMc2513616)
 - [ScienceDaily](https://www.sciencedaily.com/releases/2026/02/260217005754.htm)
+- No verified NYT/BBC/CNN/Guardian/Smithsonian/Archaeology Magazine report was located in the target-outlet audit.
+
+## 关键图像与许可 | Key images and permissions
+
+NEJM figures and photographs are **not automatically reusable**. For this page:
+
+1. Burial photograph / plan — **link only; permission required**.
+2. Skeletal phenotype illustration — **link only; permission required**.
+3. NPR2 pedigree/genetic result — **link only; permission required**.
+
+No NEJM image is copied into the repository until reuse permission is confirmed.
 
 ## 图像与图版来源 | Images and figure sources
 
