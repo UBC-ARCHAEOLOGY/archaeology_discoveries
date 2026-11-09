@@ -17,9 +17,15 @@ svg{display:block;width:100%;height:100%;min-height:390px}
 .legend{position:absolute;left:14px;bottom:12px;background:rgba(255,255,255,.96);border:1px solid #dce5e8;border-radius:8px;padding:8px 10px;font-size:12px;line-height:1.55;box-shadow:0 1px 5px rgba(0,0,0,.08)}
 .dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px}.dot.cctv{background:#196b78}.dot.extra{background:#b36b2c}
 .tip{position:absolute;display:none;pointer-events:none;max-width:300px;background:#fff;border:1px solid #cfdadd;border-radius:8px;padding:8px 10px;box-shadow:0 4px 14px rgba(0,0,0,.14);font-size:12px;line-height:1.45;z-index:10}
+.mobile-nav{display:none;position:absolute;left:8px;right:8px;top:8px;z-index:20}
+.mobile-nav select{width:100%;font-size:14px;padding:8px 10px;border:1px solid #cfdadd;border-radius:7px;background:#fff;color:#263238}
 .note{position:absolute;right:12px;top:10px;font-size:11px;color:#607078;background:rgba(255,255,255,.9);padding:5px 7px;border-radius:6px}
 @media(max-width:700px){
- .wrap,svg{min-height:330px}
+ .wrap,svg{min-height:350px}
+ .mobile-nav{display:block}
+ .sites .marker{r:14}
+ .sites .marker{stroke-width:3}
+
  .legend{left:8px;bottom:8px;font-size:11px}
  .note{display:none}
  .marker{r:8}
@@ -28,6 +34,7 @@ svg{display:block;width:100%;height:100%;min-height:390px}
 </head>
 <body>
 <div class="wrap">
+<div class="mobile-nav"><select id="siteSelect" aria-label="选择发现 / Select discovery"><option value="">选择发现 / Select discovery</option><option value="discoveries/01-wonderwerk-fire.html">1. Wonderwerk Cave / 奇迹洞</option><option value="discoveries/02-yunxian-homo-erectus.html">2. Yunxian / 郧县</option><option value="discoveries/03-megalopolis-wood-tools.html">3. Marathousa 1 / 希腊木器</option><option value="discoveries/04-denisovans-yunnan.html">4. Bianfu Cave Denisovans / 蝙蝠洞丹尼索瓦人</option><option value="discoveries/05-oldest-dog-genomes.html">5. Early dogs / 早期家犬</option><option value="discoveries/06-romito-genetic-disease.html">6. Romito</option><option value="discoveries/07-baikal-plague.html">7. Lake Baikal plague / 贝加尔湖鼠疫</option><option value="discoveries/08-egypt-early-dynastic-tombs.html">8. Early Dynastic tombs / 埃及早王朝墓</option><option value="discoveries/09-troy-agora.html">9. Troy / 特洛伊</option><option value="discoveries/10-alexandria-tigris.html">10. Charax / 底格里斯河畔亚历山大城</option><option value="discoveries/11-arsinoe-china-greece.html">11. Arsinoe / 阿西诺</option><option value="discoveries/12-uspallata-ancient-dna.html">12. Uspallata / 乌斯帕利亚塔</option><option value="discoveries/13-urartian-irrigation.html">13. Argishtikhinili / 乌拉尔图水利</option><option value="discoveries/14-dide-west-iron-smelting.html">14. Didé West 1</option><option value="discoveries/15-kush-faience.html">15. Sanam faience / Sanam费昂斯</option><option value="discoveries/16-iliad-mummy.html">16. Iliad mummy / 《伊利亚特》木乃伊</option><option value="discoveries/17-amazon-earthworks.html">17. Amazon earthworks / 亚马孙土方工程</option><option value="discoveries/18-chan-chan-tomb.html">18. Chan Chan</option><option value="discoveries/19-celtic-ancient-dna.html">19. Celtic/Germanic genomics / 凯尔特—日耳曼古基因组</option><option value="discoveries/20-sulawesi-rock-art.html">20. Sulawesi rock art / 苏拉威西岩画</option><option value="discoveries/21-maya-mathematician.html">21. Sak Tahn Waax</option><option value="discoveries/22-hittite-royal-archive.html">22. Šamuḫa archive / 赫梯王室档案</option><option value="discoveries/23-camarones-smallpox.html">23. Camarones 9 smallpox / 天花基因组</option></select></div>
 <svg viewBox="0 0 1200 600" role="img" aria-label="Interactive world map of 23 archaeological discoveries">
 <rect class="ocean" x="0" y="0" width="1200" height="600"/>
 <g class="graticule">
@@ -286,6 +293,8 @@ svg{display:block;width:100%;height:100%;min-height:390px}
 </div>
 <script>
 const tip=document.getElementById('tip');
+const sel=document.getElementById('siteSelect');
+if(sel){sel.addEventListener('change',()=>{if(sel.value) window.top.location.href=sel.value;});}
 document.querySelectorAll('.marker').forEach(m=>{
   m.addEventListener('mouseenter',e=>{tip.textContent=m.dataset.label;tip.style.display='block';});
   m.addEventListener('mousemove',e=>{
