@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A); best read together with the companion Natur
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 狗的驯化时间、地点和过程一直是动物考古学最难的问题之一。早期狗和狼骨骼形态高度重叠，过去许多“旧石器时代狗”后来经核基因组分析重新归为狼。真正的关键不是找到一个看起来像狗的头骨，而是把直接年代、核基因组、线粒体DNA、同位素和埋葬情境结合起来。2026年的两篇Nature论文正是在这个层面推进了问题。
+
+**English.** The origin of dog domestication is one of zooarchaeology's most persistent problems because early dogs and wolves overlap morphologically and several supposed Palaeolithic dogs have later proved genetically to be wolves. The decisive advance is therefore not a dog-like skull alone, but the integration of direct dating, nuclear genomes, mtDNA, isotopes, and mortuary context. The two 2026 Nature papers substantially strengthen that integrated evidence.
+
 ## 主要发现 | Major findings
 
 **中文。** 两篇同期《Nature》研究共同把家犬的可靠遗传证据推进到旧石器时代晚期：安纳托利亚Pınarbaşı约1.58万年前、英国Gough's Cave约1.43万年前，并显示到约1.4万年前遗传上较为同质的犬群已广布西欧与安纳托利亚。
@@ -35,6 +41,24 @@ CCTV candidate / 央视候选
 
 **English.** The study firmly places dogs within pre-agricultural societies. Canine domestication therefore cannot be treated simply as a by-product of Neolithization, but must be considered in relation to Late Glacial hunting, mobility, social networks, and changing human–animal relationships.
 
+## 论文核查 | Publication verification
+
+**Paper 1**
+- **Marsh, William A.; Lachie Scarsbrook; et al.**
+- **Title:** *Dogs were widely distributed across western Eurasia during the Palaeolithic*
+- **Journal:** *Nature* 651: 995–1003
+- **DOI:** [10.1038/s41586-026-10170-x](https://doi.org/10.1038/s41586-026-10170-x)
+- **Published:** 25 March 2026
+- **Open access:** **Yes**.
+
+**Paper 2**
+- **Bergström, Anders; Anna Furtwängler; Sarah Johnston; et al.**
+- **Title:** *Genomic history of early dogs in Europe*
+- **Journal:** *Nature* 651: 986–994
+- **DOI:** [10.1038/s41586-026-10112-7](https://doi.org/10.1038/s41586-026-10112-7)
+- **Published:** 25 March 2026
+- **Open access:** check the article's rights statement before embedding individual figures; article access is public.
+
 ## 学术论文 | Academic publications
 
 - [Nature: Dogs were widely distributed across western Eurasia during the Palaeolithic](https://www.nature.com/articles/s41586-026-10170-x)
@@ -42,7 +66,21 @@ CCTV candidate / 央视候选
 
 ## 主要媒体报道 | Major media coverage
 
-- [Natural History Museum](https://www.nhm.ac.uk/press-office/press-releases/world-s-oldest-genetic-evidence-for-domestic-dogs-identified-in-.html)\n- [Nature News](https://www.nature.com/articles/d41586-026-00900-6)
+- [Nature News](https://www.nature.com/articles/d41586-026-00900-6)
+- [Natural History Museum press release](https://www.nhm.ac.uk/press-office/press-releases/world-s-oldest-genetic-evidence-for-domestic-dogs-identified-in-.html)
+- [Nature — Palaeolithic dogs paper](https://www.nature.com/articles/s41586-026-10170-x)
+- [Nature — early dog genomic history](https://www.nature.com/articles/s41586-026-10112-7)
+
+## 关键图像与许可 | Key images and permissions
+
+Recommended set:
+
+1. **Map and genomic placement of Palaeolithic canids** — Fig. 1.
+2. **Pınarbaşı and Gough's Cave chronology plus Gough's Cave mandible** — Fig. 2.
+3. **Dog ancestry/admixture graph** — Fig. 3.
+4. **Pınarbaşı archaeological context** — supplementary/context figure.
+
+Nature figure captions must be checked individually for third-party credits. In Fig. 2, for example, the Gough's Cave mandible photograph is explicitly reproduced with permission from the Trustees of the Natural History Museum, so it should **not** be copied independently under the article licence without confirming that permission extends to this site.
 
 ## 图像与图版来源 | Images and figure sources
 
