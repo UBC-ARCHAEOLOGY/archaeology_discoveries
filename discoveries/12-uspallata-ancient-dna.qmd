@@ -1,0 +1,44 @@
+---
+title: "12. 南安第斯山脉两千年人口史与农业转型"
+subtitle: "Two millennia of population history and farming transition in the southern Andes"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Uspallata Valley, Argentina / 阿根廷乌斯帕利亚塔山谷
+
+**Date / 年代**  
+Last ~2,200 years / 过去约2200年
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 古人类DNA、病原体DNA、同位素、考古与古气候证据共同显示，当地狩猎采集者在较强遗传连续性下逐步采用农业；后期人口危机中又出现以亲属关系为基础的迁移。
+
+**English.** Human and pathogen ancient DNA, isotopes, archaeology, and palaeoclimate records show that local hunter-gatherers adopted farming with substantial genetic continuity, followed later by kin-structured migration during demographic stress.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 它为“农业扩散究竟是人口迁入还是本地采纳”提供了一个高分辨率案例，同时把农业转型与营养、疾病、气候压力和社会韧性联系起来。亲属网络在危机中的作用使研究从人口史推进到社会组织。
+
+**English.** The study provides a high-resolution case for the long-standing question of whether farming spread through migrating farmers or local adoption. It also links agricultural transition to nutrition, disease, climatic stress, and resilience, with kin networks turning population history into a study of social organization.
+
+## 学术论文 | Academic publications
+
+- [Nature](https://www.nature.com/articles/s41586-026-10233-z)
+
+## 主要媒体报道 | Major media coverage
+
+- [Nature article page](https://www.nature.com/articles/s41586-026-10233-z)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature article figures](https://www.nature.com/articles/s41586-026-10233-z)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
