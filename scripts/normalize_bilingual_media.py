@@ -113,13 +113,15 @@ def normalize_media(txt):
 for path in sorted(Path("discoveries").glob("*.qmd")):
     txt=path.read_text(encoding="utf-8")
     name=path.name
-    # Bilingual evidence status.
+    # Rebuild Evidence status idempotently: exactly one English line + one Chinese line.
     if name in EVIDENCE_ZH:
-        pat=r"(\*\*Evidence status / 证据状态\*\*  \n)([^\n]+)"
+        pat=r"(\*\*Evidence status / 证据状态\*\*  \n)([\s\S]*?)(?=\n\*\*CCTV status / 央视遴选状态\*\*)"
         m=re.search(pat,txt)
-        if m and "中文：" not in m.group(2):
-            original=m.group(2).strip()
-            repl=m.group(1)+f"English: {original}  \n中文：{EVIDENCE_ZH[name]}"
+        if m:
+            raw=m.group(2).strip()
+            first=raw.splitlines()[0].strip() if raw else ""
+            english=re.sub(r"^(?:English:\s*)+","",first).strip()
+            repl=m.group(1)+f"English: {english}  \n中文：{EVIDENCE_ZH[name]}\n"
             txt=txt[:m.start()]+repl+txt[m.end():]
     # Add scholarly background to 21-23.
     if name in BACKGROUND and "## 主要学术背景 | Scholarly background" not in txt:
