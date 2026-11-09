@@ -1,0 +1,89 @@
+---
+title: "其他待评估发现 | Other Discoveries Under Review"
+---
+
+本页记录2026年具有明显学术价值、但目前尚未正式纳入主名单的发现。设置这一页的目的，是把“值得继续关注”与“已经推荐为世界考古大发现”区分开来。
+
+This page records 2026 discoveries and studies of clear scholarly interest that have **not yet been promoted to the main candidate list**. The distinction separates “worth monitoring” from “recommended as a major archaeological discovery.”
+
+## 1. Tunnug 1 / Uyuk谷地：约2800年前大麻使用证据 | Cannabis use at Tunnug 1, Uyuk Valley
+
+**地区与年代 | Region and date**  
+Uyuk Valley, Tuva, southern Siberia, Russia / 俄罗斯图瓦共和国乌尤克谷地；early 8th century BCE / 约公元前8世纪初。
+
+**主要发现 | Major findings**  
+**中文。** Tunnug 1早期斯基泰大型墓葬中发现1400余枚大麻种子和保存的人发。毛发化学分析检出与THC及其降解产物相关的信号。研究者据此提出，这是目前最早的直接考古证据之一，显示大麻可能被用于精神活性目的。
+
+**English.** More than 1,400 cannabis seeds and preserved human hair were recovered from the early Scythian monumental burial at Tunnug 1. Chemical analysis of the hair detected signals consistent with THC-related compounds and degradation products, leading the authors to propose the earliest direct archaeological evidence for psychoactive cannabis use.
+
+**学术判断 | Assessment**  
+**中文。** 值得作为新增候选，但表述必须保守。种子、年代和墓葬情境都很强；毛发毒理解释则受到独立法医毒理学家的质疑，因为外源污染与真实摄入尚难完全区分。因此，“存在大麻并与葬仪有关”证据强，“明确用于致幻”则仍有争论。
+
+**English.** This is a strong candidate for future inclusion, but the wording must remain cautious. The seeds, chronology and funerary context are robust; the toxicological interpretation of the hair has been challenged because external contamination cannot yet be fully excluded. Evidence for cannabis in the mortuary context is strong, while deliberate psychoactive consumption remains debated.
+
+**Publication / 出版物**  
+Caspari, G., et al. (2026). *Direct evidence for psychoactive cannabis use 2,800 years ago*. *Science*. https://doi.org/10.1126/science.aeg3800
+
+**Selected reporting / 媒体报道**
+- [Reuters](https://www.reuters.com/science/siberian-burial-site-reveals-ancient-use-cannabis-an-intoxicant-2026-11-05/)
+- [Associated Press](https://apnews.com/article/2af72e5afb915d835b233f14b20ad185)
+- [University of Bern](https://mediarelations.unibe.ch/media_releases/2026/media_releases_2026/cannabis_was_used_as_an_intoxicant_as_early_as_2800_years_ago/index_eng.html)
+
+## 2. 老挝石缸平原Site 75“死亡之缸” | The “death jar” at the Plain of Jars, Laos
+
+**地区与年代 | Region and date**  
+Site 75, Xieng Khouang Plateau, Laos / 老挝川圹高原Site 75；mortuary activity ca. AD 890–1160 / 葬仪活动约公元890–1160年。
+
+**主要发现 | Major findings**  
+**中文。** 对Site 75大型Jar 1的发掘发现至少37名个体的肢解遗骸，直接测年显示该石缸在数百年内反复用于次生葬。研究为“巨型石缸究竟是否与葬仪有关”提供了迄今最直接的证据之一。
+
+**English.** Excavation of the exceptionally large Jar 1 at Site 75 recovered disarticulated remains representing at least 37 individuals. Direct radiocarbon dates indicate repeated use for secondary burial over several centuries, providing some of the clearest evidence yet that the megalithic jars participated directly in complex mortuary practices.
+
+**学术判断 | Assessment**  
+**中文。** 证据等级较高，值得进入正式补充候选的下一轮讨论。它解决的是一个长期存在的东南亚考古问题，而不是单纯刷新“最大/最早”纪录。
+
+**English.** The evidence is strong and the discovery deserves consideration for promotion to the main additional-candidate list. Its importance lies in resolving a long-standing interpretive problem in Southeast Asian archaeology rather than setting a simple record.
+
+**Publication / 出版物**  
+Skopal, N., et al. (2026). The death jar: A new mortuary tradition at the Plain of Jars, Lao PDR. *Antiquity, 100*(412), 1050–1067. https://doi.org/10.15184/aqy.2026.10352
+
+## 3. 波利尼西亚人群基因组与航海扩散 | Polynesian genomes and long-distance voyaging
+
+**研究性质 | Nature of the study**  
+**中文。** *Science* 研究分析1050名当代波利尼西亚人的全基因组序列，重建嵌套式创始者效应、岛屿间亲缘关系以及夏威夷、Rapa Nui和Mangareva之间的历史联系。
+
+**English.** The *Science* study analyses whole-genome sequences from 1,050 present-day Polynesians to reconstruct nested founder effects, inter-island relationships and historical connections among Hawai‘i, Rapa Nui and Mangareva.
+
+**学术判断 | Assessment**  
+**中文。** 学术分量很高，也直接讨论聚落史，但证据主体是现代人基因组而非古DNA或考古遗存。本站暂不把它列作“考古发现”主条目，可作为历史基因组学与太平洋聚落研究的重要相关成果。
+
+**English.** The study is highly significant for settlement history, but its evidence comes from present-day genomes rather than ancient DNA or archaeological remains. It is therefore retained here as an important historical-genomic study rather than promoted to the main archaeological-discovery list.
+
+**Publication / 出版物**  
+Shanks, C., Huang, E. C., Thomassin, C., et al. (2026). Message in a bottleneck: Nested founder effects from French Polynesia to Rapa Nui and Hawai‘i. *Science, 394*(6820), 216–221. https://doi.org/10.1126/science.aec7662
+
+## 4. 土耳其Kekova早青铜时代沉船 | Early Bronze Age wreck at Kekova, Türkiye
+
+**地区与年代 | Region and date**  
+Kekova region, Antalya, Türkiye / 土耳其安塔利亚Kekova海域；proposed ca. 2700–2400 BCE / 推定约公元前2700–2400年。
+
+**主要发现 | Major findings**  
+**中文。** 水下遗址保存约30件早青铜时代双耳罐和三件石锚，但木质船体没有保存。研究者根据双耳罐形制、装饰、泥料及区域比较，把遗址解释为一艘早青铜时代贸易船，并提出可能是目前最早的已知沉船。
+
+**English.** The underwater site preserves roughly 30 Early Bronze Age amphorae and three stone anchors, but no wooden hull survives. Based on amphora form, decoration, fabric and regional comparison, the team interprets the assemblage as an Early Bronze Age trading vessel and proposes it as the oldest known shipwreck.
+
+**学术判断 | Assessment**  
+**中文。** 值得继续关注，但“世界最古老沉船”的年代目前主要建立在陶器类型学和比较材料上，石锚是否属于同一船只也尚未完全确定。它具有真实的同行评议论文基础，但超级纪录式标题应保持谨慎。
+
+**English.** The discovery merits continued attention, but the “world's oldest shipwreck” claim currently rests mainly on ceramic typology and comparison, while the association of the stone anchors with the vessel is not fully secure. The site has a peer-reviewed publication, but the superlative claim should remain provisional.
+
+**Publication / 出版物**  
+Öniz, H., & Öztosun, C. (2026). Preliminary report on the Early Bronze Age shipwreck in the Kekova region of Antalya. *Journal of Maritime Archaeology, 21*(3). https://doi.org/10.1007/s11457-026-09532-3
+
+## 研究更新：巨石阵祭坛石 | Research update: Stonehenge Altar Stone
+
+**中文。** 这不是一个需要新增的“2026考古发现”条目，而是一个值得记录的学术纠错。2024年*Nature*研究把巨石阵祭坛石与苏格兰东北部Orcadian Basin联系起来；2026年11月更全面的沉积学、矿物学、地球化学和同位素研究排除了此前提出的多个苏格兰东北部候选区，认为其具体来源仍无法有把握确定。网站若今后提到2024年的“来自苏格兰东北部”结论，应同时注明这一更新。
+
+**English.** This is better treated as a scholarly correction than as a new 2026 discovery. A 2024 *Nature* paper linked the Stonehenge Altar Stone to the Orcadian Basin of northeast Scotland. A more comprehensive 2026 study using sedimentology, mineralogy, geochemistry and isotopes ruled out several previously proposed northeast-Scottish source areas and concluded that the exact provenance remains unresolved. Any future reference on this site to the 2024 Scottish-provenance claim should therefore carry this update.
+
+Pirrie, D., Bevins, R. E., Ixer, R. A., Pearce, N. J. G., Turner, P., Power, M. R., et al. (2026). Searching for the origin of the Stonehenge Altar Stone: New sedimentological, petrographical, mineralogical, geochemical and isotopic constraints. *Journal of the Geological Society, 183*, jgs2026-090. https://doi.org/10.1144/jgs2026-090
