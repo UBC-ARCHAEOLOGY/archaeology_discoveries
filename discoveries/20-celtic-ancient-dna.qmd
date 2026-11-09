@@ -1,0 +1,44 @@
+---
+title: "20. 古基因组与凯尔特语传播模型"
+subtitle: "Ancient genomes and models of Celtic-language dispersal"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Europe / 欧洲
+
+**Date / 年代**  
+Bronze–Iron Age / 青铜时代—铁器时代
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 覆盖数千名古代个体的大规模基因组研究比较了欧洲晚青铜时代人口移动与不同凯尔特语传播模型之间的兼容性。
+
+**English.** A very large ancient-genome study compared Late Bronze Age population movements across Europe with competing models for the dispersal of Celtic languages.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 其重要性在于把古DNA、考古学和历史语言学置于同一可检验框架。DNA不能直接“证明一种语言”，但人口移动可以排除或削弱某些传播模型，并提高另一些模型的合理性，标志着古基因组研究从迁徙识别进入跨学科历史解释。
+
+**English.** Its significance lies in placing ancient DNA, archaeology, and historical linguistics within a common testable framework. DNA cannot directly prove a language, but demographic movement can weaken some dispersal models while increasing the plausibility of others, marking a shift from identifying migration toward interdisciplinary historical explanation.
+
+## 学术论文 | Academic publications
+
+- [Nature](https://www.nature.com/articles/s41586-026-11198-9)
+
+## 主要媒体报道 | Major media coverage
+
+- [Nature archaeology coverage](https://www.nature.com/subjects/archaeology)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature article figures](https://www.nature.com/articles/s41586-026-11198-9)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
