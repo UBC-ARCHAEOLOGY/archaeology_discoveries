@@ -23,6 +23,12 @@ Government / excavation announcement only (D); no formal scholarly report identi
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 埃及早王朝时期是纪念性墓葬、石材加工与王权建筑技术快速发展的阶段。第一、二王朝墓葬到第三王朝大型石构建筑之间的关系，是理解金字塔时代工程传统形成的重要背景。但单个墓葬能否被称为“金字塔前身”，必须依靠可靠年代、建筑比较与正式发表，而不能仅凭墙体收分这一普遍工程特征。
+
+**English.** The Early Dynastic period saw rapid development in elite funerary architecture, stoneworking, and royal building practice. The relationship between First–Second Dynasty tomb construction and the monumental stone architecture of the Third Dynasty is important context for the emergence of pyramid building. Yet a single tomb should not be labelled a direct “pyramid precursor” on wall taper alone; that requires secure dating, comparative architecture, and formal publication.
+
 ## 主要发现 | Major findings
 
 **中文。** 两座早王朝墓葬保存了少见的墙体、木质支撑和石材加工信息，其中一座墙体底部较厚、向上逐渐变薄，并保存木质支撑和石材加工痕迹。
@@ -35,6 +41,13 @@ CCTV candidate / 央视候选
 
 **English.** The main significance lies in tracing the accumulation of engineering knowledge behind Egyptian monumental architecture: tomb construction, stone cutting, and structural stabilization before the major stone monuments of the Third Dynasty. It is more cautious to treat the finds as background to later developments rather than a demonstrated direct precursor to pyramids.
 
+## 论文核查 | Publication verification
+
+- **Formal peer-reviewed publication:** none identified as of 8 November 2026.
+- **Primary source:** Egyptian Supreme Council of Antiquities / State Information Service announcement, 20 June 2026.
+- **Scholarly status:** preliminary field announcement; architectural interpretation remains provisional.
+- **Open access / reuse:** the government news page is publicly accessible, but no general Creative Commons reuse licence was identified for its photographs.
+
 ## 学术论文 | Academic publications
 
 - Formal publication not yet securely identified / 正式论文待核
@@ -42,6 +55,19 @@ CCTV candidate / 央视候选
 ## 主要媒体报道 | Major media coverage
 
 - [Egypt State Information Service](https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/)
+- [Archaeology Magazine](https://archaeology.org/news/2026/06/23/two-early-dynastic-tombs-exposed-in-egypt/)
+- [Ahram Online](https://english.ahram.org.eg/NewsContent/9/40/571225/Antiquities/Ancient-Egypt/Burials-discovery-in-Minya-sheds-new-light-on-Anci.aspx)
+- No formal Nature/Science/NYT/BBC/CNN/Guardian/Smithsonian treatment was located.
+
+## 关键图像与许可 | Key images and permissions
+
+Recommended images are the official excavation photographs showing:
+
+1. **Aerial view of the two tombs.**
+2. **Wall taper and masonry details.**
+3. **Wooden reinforcement / stone-cutting traces.**
+
+Archaeology Magazine credits the images to the **Egyptian Ministry of Tourism and Antiquities**. Because no open reuse licence was found, these images remain **link-only** and are not copied into the repository.
 
 ## 图像与图版来源 | Images and figure sources
 
