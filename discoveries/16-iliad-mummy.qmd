@@ -1,0 +1,44 @@
+---
+title: "16. 埃及木乃伊葬仪中的《伊利亚特》文本"
+subtitle: "An Iliad text in an Egyptian mummification context"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Oxyrhynchus, Egypt / 埃及奥克西林库斯
+
+**Date / 年代**  
+Late Roman Egypt · ca. 1,600 years ago / 罗马晚期 · 约1600年前
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 奥克西林库斯一具木乃伊葬仪中发现《伊利亚特》“战船名录”相关纸草文本，是文学文本进入木乃伊葬仪情境的罕见案例。
+
+**English.** A papyrus passage associated with the Catalogue of Ships in the Iliad was found in the mortuary context of a mummy at Oxyrhynchus, an unusual case of a literary text incorporated into funerary practice.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 它最有价值的不是再次证明《伊利亚特》在埃及流传，而是提供文学文本在具体葬仪中的原始情境，从而模糊文学、护符、仪式文本与丧葬实践之间的界限。
+
+**English.** Its value lies not in showing once again that Homer circulated in Egypt, but in preserving a literary text within a specific mortuary context, blurring the boundaries among literature, amuletic practice, ritual texts, and funerary behavior.
+
+## 学术论文 | Academic publications
+
+- Formal scholarly publication pending / 正式学术论文待发表
+
+## 主要媒体报道 | Major media coverage
+
+- [CNN](https://www.cnn.com/2026/04/30/science/egyptian-mummy-iliad-scli-intl)\n- [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/archaeologists-unearth-a-papyrus-fragment-from-the-iliad-tucked-inside-the-wrappings-of-a-1600-year-old-egyptian-mummy-180988603/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Smithsonian report imagery](https://www.smithsonianmag.com/smart-news/archaeologists-unearth-a-papyrus-fragment-from-the-iliad-tucked-inside-the-wrappings-of-a-1600-year-old-egyptian-mummy-180988603/)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
