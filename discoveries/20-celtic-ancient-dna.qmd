@@ -1,6 +1,6 @@
 ---
-title: "20. 古基因组与凯尔特语传播模型"
-subtitle: "Ancient genomes and models of Celtic-language dispersal"
+title: "20. 古基因组与凯尔特语、日耳曼语传播模型"
+subtitle: "Ancient genomes and models of Celtic and Germanic language dispersal"
 ---
 
 ::: {.discovery-meta}
@@ -10,15 +10,24 @@ Europe / 欧洲
 **Date / 年代**  
 Bronze–Iron Age / 青铜时代—铁器时代
 
+**Research / excavation institutions / 发掘或研究机构**  
+Lundbeck Foundation GeoGenetics Centre and Centre for Ancient Environmental Genomics, University of Copenhagen; Leiden University; University of Gothenburg; University of Cambridge and collaborating European archaeological institutions
+
+**Lead researchers / 主要负责人**  
+Hugh McColl; Guus Kroonen; Kristian Kristiansen; Martin Sikora; Eske Willerslev
+
+**Evidence status / 证据状态**  
+Top-tier peer-reviewed research (A); best presented together with the companion 2026 study on the genomic context of Germanic-language dispersal.
+
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
 :::
 
 ## 主要发现 | Major findings
 
-**中文。** 覆盖数千名古代个体的大规模基因组研究比较了欧洲晚青铜时代人口移动与不同凯尔特语传播模型之间的兼容性。
+**中文。** 2026年两篇《Nature》古基因组研究把大规模人口史与历史语言学模型相结合：一篇以4587名古代个体检验凯尔特语传播模型，另一篇讨论约4000年前进入斯堪的纳维亚的人群变化与日耳曼语祖先人群形成的可能关系。
 
-**English.** A very large ancient-genome study compared Late Bronze Age population movements across Europe with competing models for the dispersal of Celtic languages.
+**English.** Two 2026 Nature studies linked large-scale ancient-genomic histories with models for Celtic and Germanic language dispersal, including 4,587 ancient individuals in the Celtic analysis and demographic change in Scandinavia relevant to early Germanic.
 
 ## 学术重要性 | Intellectual significance
 
@@ -28,7 +37,8 @@ Additional candidate / 补充建议
 
 ## 学术论文 | Academic publications
 
-- [Nature](https://www.nature.com/articles/s41586-026-11198-9)
+- [Nature: Tracing the spread of Celtic languages using ancient genomics](https://www.nature.com/articles/s41586-026-11198-9)
+- [Nature: ancient genomics and the spread of Germanic languages](https://www.nature.com/articles/s41586-025-09064-1)
 
 ## 主要媒体报道 | Major media coverage
 
