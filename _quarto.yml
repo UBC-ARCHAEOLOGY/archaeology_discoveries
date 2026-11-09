@@ -62,6 +62,9 @@ website:
           - discoveries/23-camarones-smallpox.qmd
           - discoveries/24-sheg-xdaltthi.qmd
           - discoveries/25-huitzo-tomb-10.qmd
+          - discoveries/26-plain-of-jars-death-jar.qmd
+          - discoveries/27-maya-mercury.qmd
+          - discoveries/28-font-major-rock-art.qmd
 
 format:
   html:
