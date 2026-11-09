@@ -1,0 +1,256 @@
+---
+title: "2026考古发现暂定综合排名 | Tentative Ranking"
+---
+
+::: {.callout-important title="这不是最终名单 | This is not a final selection"}
+**中文。** 本页对目前项目库中的**44个候选项目**进行暂定综合排名：16项央视候选、18项补充建议项目，以及10项仍在“待评估”中的项目。巨石阵祭坛石属于“研究更新/纠错”，不作为独立候选项目参加排名。排名依据与[评选标准](methods.qmd)一致，同时明确加入**田野发现优先、地区与时代平衡、发现类型与研究类型平衡**；这些平衡因素主要用于接近项目之间的比较和整体组合校准，**不会覆盖证据质量和学术重要性**。
+
+**English.** This page provides a tentative overall ranking of the **44 current candidate projects**: 16 CCTV candidates, 18 additional candidates, and 10 projects still under review. The Stonehenge Altar Stone item is treated as a research correction/update rather than a candidate discovery and is not ranked. The ranking follows the same [evaluation criteria](methods.qmd), with explicit attention to **field-discovery priority, regional and chronological balance, and balance among discovery/research types**. These balance considerations operate mainly as portfolio constraints and tie-breakers; they do **not** override evidence quality or scholarly importance.
+:::
+
+## 排名原则 | Ranking principles
+
+1. **改变重要问题 | Changes an important question.** 是否改变对人类演化、技术、城市、国家、环境、迁徙、疾病、知识生产或社会组织的重要认识。
+2. **田野与情境优先 | Fieldwork and context first.** 新发掘、原位关系、可靠地层、直接年代和完整组合，原则上优先于仅以旧材料扩大样本量的研究。
+3. **证据质量 | Evidence quality.** A/B级同行评议成果总体优先，但高潜力C级田野发现可以高于学术影响较有限的A级研究。
+4. **长期价值 | Long-term value.** 看它是否可能在5–10年后仍进入教材、综述和理论讨论，而不只是新闻热点。
+5. **全球与时代平衡 | Global and chronological balance.** 在学术分量接近时，优先保留能够弥补地区、时代或考古类型空白的项目。
+6. **方法不等于重要性 | Method is not significance.** 古DNA、古蛋白、LiDAR或高影响期刊本身不构成加分；关键是它是否真正改变问题。
+
+::: {.callout-note title="状态说明 | Status"}
+**CCTV** = CCTV candidate / 央视候选；**Additional** = Additional candidate / 补充建议；**Under review** = 待评估。  
+“Under review”项目完全可以排在部分正式项目之前，因为本页排序评估的是**学术分量与年度代表性**，而不是当前网站状态。
+:::
+
+## 暂定排名 | Tentative ranking
+
+### 1. 云南蝙蝠洞丹尼索瓦人 | Denisovans at Bianfu Cave
+**状态 | Status:** CCTV · **证据 | Evidence:** A  
+蝙蝠洞把丹尼索瓦人从“遗传上清楚、考古上模糊”的人群推进到可讨论化石形态、石器、生计与生态适应的具体考古群体。多篇同行评议研究把古蛋白、ZooMS、年代、动物考古和石器放进同一遗址框架，因此既有田野基础，也改变了东亚古人类研究的核心问题。  
+Bianfu Cave moves Denisovans from a primarily genetic category into a concrete archaeological population with fossils, technology, subsistence and ecology. Its importance rests on an integrated field context rather than on molecular identification alone.
+
+### 2. 西南亚马孙土方工程 | Southwestern Amazon earthworks
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+LiDAR与区域调查把零散遗迹提升为大尺度文化景观，显著改变了对前殖民亚马孙聚落密度、人口规模和长期人地关系的认识。即使不采用人口模型的最高估值，数万处土方遗迹的区域格局本身仍足以挑战“低密度热带雨林社会”的旧模型。  
+LiDAR and survey transform scattered sites into a regional cultural landscape, fundamentally revising models of precolonial Amazonian settlement and human–environment relations. The result remains important even without relying on the highest population estimates.
+
+### 3. 苏拉威西≥6.78万年手印岩画 | Sulawesi rock art ≥67.8 ka
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+覆盖手印的方解石提供≥67.8 ka的直接最小年代，把可靠测年的图像传统推入现代人穿越Wallacea的早期阶段。它不仅刷新年代，更迫使我们重新讨论象征图像、迁徙和认知行为在东南亚的时间深度。  
+Direct minimum dating of calcite over a hand stencil pushes securely dated image-making into the early dispersal of modern humans through Wallacea. Its significance lies in the implications for symbolic behaviour and migration, not merely in an “oldest” claim.
+
+### 4. Widgingarri Shelter 1 ≥55 ka Aboriginal文化序列
+**状态 | Status:** Additional · **证据 | Evidence:** B  
+2022年新发掘提供≥55±4 ka至全新世的长时段Aboriginal文化序列，并有5000多件文化遗物、石器、赭石和磨石。其价值不只是早期年代，更在于长期适应、技术变化和Traditional Owners共同治理研究的结合，且补足澳大利亚本土长期缺席。  
+The new excavation documents a ≥55 ka-to-Holocene Aboriginal sequence with rich lithic, ochre and grinding evidence. Its importance combines deep-time occupation, long-term adaptation and Indigenous research governance.
+
+### 5. 阿拉斯加Shég’ Xdaltth’í’东白令营地 | Shég’ Xdaltth’í’
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+约13.8 ka的完整生活面、66个AMS年代、骨针、骨器、炉址和可能的居住结构，为“最初人群如何在东白令地区定居下来”提供异常完整的田野证据。其跨白令石器联系使遗址超越单一“早期美洲遗址”纪录。  
+The 13.8-ka residential surface provides unusually complete evidence for how early populations settled into eastern Beringia. Its trans-Beringian lithic connections give the site significance beyond a simple early-date claim.
+
+### 6. 塔吉克斯坦Karatau早期旧石器绝对年代 | Karatau chronology
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+近期发掘、3534件石器和大规模多方法年代框架，首次把中亚早期旧石器置于可与欧亚其他地区直接比较的时间轴上。它把“中亚迁徙走廊”从地理假设转化为可以检验技术持续性、气候波动与人群活动的考古序列。  
+Karatau supplies Central Asia with a robust, field-grounded Early Palaeolithic chronology. It turns a presumed dispersal corridor into a sequence that can be tested against climate and technological change.
+
+### 7. 欧亚大陆最早家犬遗传证据 | Earliest dog genomes
+**状态 | Status:** CCTV · **证据 | Evidence:** A  
+直接年代、核基因组、同位素和埋葬情境共同把可靠家犬证据推进到旧石器时代晚期，并显示农业之前已经出现复杂人犬关系。虽然分子方法占比高，但它改变的是驯化时间、社会关系和跨区域扩散这一经典考古问题。  
+Direct dating, genomes, isotopes and burial context jointly extend secure dog domestication evidence into the Late Palaeolithic. The study changes a classic domestication problem rather than merely adding genomes.
+
+### 8. 老挝石缸平原Site 75“死亡之缸” | Plain of Jars Site 75
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+Jar 1内至少37人的多代次生葬和直接年代，为巨型石缸直接参与葬仪提供目前最强证据之一。其重要性在于解决长期功能争论，同时又清楚保留“不能推广到所有石缸”的地方性限制。  
+A directly dated multigenerational burial of at least 37 individuals provides some of the strongest evidence that a megalithic jar functioned directly in mortuary practice. The case resolves a major question without overgeneralizing to every jar.
+
+### 9. 玛雅低地汞污染与水生生态系统崩溃 | Maya mercury pollution
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+沉积岩芯把玛雅对辰砂/汞的文化使用与长期水质恶化和食物网衰退联系起来，扩展了古代城市环境压力的解释框架。它没有证明“汞导致玛雅崩溃”，但正因因果边界清楚，学术价值更稳固。  
+Dated sediment cores connect Maya mercury use with long-term water-quality deterioration and aquatic ecosystem decline. The study adds a major environmental mechanism without claiming that mercury “caused Maya collapse.”
+
+### 10. Wonderwerk Cave约180万年前用火 | Wonderwerk fire use
+**状态 | Status:** CCTV · **证据 | Evidence:** B  
+洞穴深部原位沉积中的受热微动物骨骼把早期用火讨论推向约170–180万年前，并有方法学上的新筛查手段。年代窗口和人为性仍需谨慎，因此排名略低于证据链更完整的A级项目。  
+Heat-altered microfauna deep inside an in-situ cave sequence substantially extends debate over early fire use. Its potential is enormous, but chronology and anthropogenic attribution remain less secure than the top A-grade field discoveries.
+
+### 11. 希腊约43万年前木制工具 | Marathousa 1 wooden tools
+**状态 | Status:** CCTV · **证据 | Evidence:** A  
+保存罕见的手持木工具直接揭示了“石器时代”严重的有机材料保存偏差，扩大我们对中更新世技术系统的认识。它是典型的田野发现：材料、加工痕迹和年代共同支撑解释。  
+Rare handheld wooden tools expose the preservation bias behind the “Stone Age” label and expand the known Middle Pleistocene technological repertoire. The case is strongly grounded in excavated artifacts and context.
+
+### 12. 湖北郧县约177万年前直立人 | Yunxian Homo erectus
+**状态 | Status:** CCTV · **证据 | Evidence:** A  
+新的宇生核素埋藏测年如果成立，将把具有明确化石实体的东亚早期人类推至约177万年前。其排名没有更高，是因为这一年代与现有形态—系统发育解释存在真实张力，争论本身仍未解决。  
+The new burial age would place substantial East Asian hominin fossils at about 1.77 Ma. Its importance is very high, but the chronology remains in tension with current morphological and phylogenetic models.
+
+### 13. 苏门答腊Bongal lashed-lug古船 | Bongal boats
+**状态 | Status:** Additional · **证据 | Evidence:** B  
+带凸耳船板、绑缚、舵、南亚文字与贸易品把地方造船技术直接放进7–8世纪印度洋网络。即使去掉“最早舵”纪录，它仍是罕见的海事田野材料；主要限制是构件来自次生情境。  
+Hull planks, lashings, steering gear, script and trade goods place vernacular Southeast Asian shipbuilding within Indian Ocean exchange. The assemblage remains highly important without the “earliest rudder” claim, although its secondary context limits certainty.
+
+### 14. San Pablo Huitzo萨波特克10号墓 | Huitzo Tomb 10
+**状态 | Status:** Additional · **证据 | Evidence:** C  
+保存异常完整的建筑、雕塑、壁画和历法铭文，使其有潜力成为晚期古典时代Zapotec祖先崇拜和地方政治的重要新材料。排名较高源于田野发现本身，而不是政治人物“十年来最重要发现”的评价；正式学术发表仍待完成。  
+Exceptionally preserved architecture, sculpture, murals and calendrical writing make Tomb 10 a major potential source for Zapotec political and mortuary history. Its high position reflects the field discovery itself, not publicity claims, while full publication remains pending.
+
+### 15. Xultun署名玛雅数学家Sak Tahn Waax | Named Maya mathematician
+**状态 | Status:** Additional · **证据 | Evidence:** B  
+铭文重构第一次把一套玛雅数学—天文计算与具体知识工作者联系起来，使“玛雅科学”进入知识劳动、训练和工作空间研究。它不是新发掘，但对古代知识生产史的解释突破非常突出。  
+Epigraphic reconstruction links Maya mathematical-astronomical work to a named knowledge specialist. Although based on existing material, it makes a major contribution to the archaeology and history of knowledge.
+
+### 16. Kayalıpınar赫梯王室档案 | Hittite royal archive
+**状态 | Status:** Additional  
+王室档案把行政、外交和国家治理从抽象制度变成可直接研究的书写实践和档案组合。其田野情境和文字材料具有长期价值，对古代国家研究的解释尺度明显超出单件泥板。  
+A royal archive turns administration, diplomacy and governance into a directly observable documentary assemblage. Its importance lies in the institutional context rather than any single tablet.
+
+### 17. Chan Chan Chimú精英墓葬平台 | Chan Chan funerary platform
+**状态 | Status:** Additional · **证据 | Evidence:** C  
+至少38名个体和保存较好的次生墓葬关系，为Chimú精英身份、祖先实践和墓地管理提供难得的整体情境。正式论文尚缺，但在长期受盗墓破坏的Chimú考古中，完整情境本身具有很高价值。  
+A relatively intact multi-person funerary context offers rare evidence for Chimú elite identity, ancestor practice and cemetery management. Its value is especially high in a field structurally damaged by looting, despite the lack of a full peer-reviewed report.
+
+### 18. Likonong Shelter约242 ka高地占据
+**状态 | Status:** Under review  
+新发掘与释光年代把Lesotho高地最早可靠人类活动推进至约242 ka，为Middle Stone Age高海拔适应提供重要新田野序列。它目前主要改变区域史，因此暂列中上位，但如果后续显示更广泛的技术和社会适应意义，排名可继续上升。  
+New excavation and luminescence dating establish a ~242-ka highland occupation in Lesotho. The site is a strong field discovery whose current interpretive reach remains mainly regional.
+
+### 19. 南安第斯两千年人口史 | Uspallata ancient DNA
+**状态 | Status:** CCTV · **证据 | Evidence:** A  
+古DNA、同位素、病原体和考古材料共同显示当地狩猎采集者在较强遗传连续性下逐步采用农业，并在后期危机中出现亲属网络迁移。它对“农业传播=人口替代”的简单模型构成有力反例，但分子分析权重较大。  
+Integrated genomics, isotopes and archaeology show farming adoption with substantial local continuity and later kin-structured migration. It strongly challenges simple migration-equals-farming models, though molecular evidence carries much of the argument.
+
+### 20. 罗马统治与伊比利亚人口结构变化 | Roman Iberia aDNA
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+243名新测个体显示罗马帝国整合带来广泛跨地中海人口流动，而后罗马政治征服并未造成同规模人口替换。它改变了帝国、政治权力和人口迁徙之间的关系模型，但属于跨遗址古基因组综合，因此低于同等重要性的田野发现。  
+Large-scale ancient genomics distinguishes the demographic impact of Roman imperial integration from later political conquest. It changes an important historical model, but as a multi-site genomic synthesis it ranks below similarly consequential field discoveries.
+
+### 21. 贝加尔湖约5500年前鼠疫 | Lake Baikal plague
+**状态 | Status:** CCTV · **证据 | Evidence:** A  
+病原体古基因组证明严重鼠疫暴发并不只属于高密度农业社会，也可发生在狩猎采集者网络中。旱獭溢出的解释有合理支持但不是直接证明，因此学术意义强而传播链仍需谨慎。  
+Ancient pathogen genomes show that severe plague outbreaks could affect hunter-gatherer populations, complicating simple disease-transition models. The marmot-spillover model is plausible but not directly demonstrated.
+
+### 22. Cova de la Font Major洞穴刻画 | Font Major rock art
+**状态 | Status:** Additional · **证据 | Evidence:** B  
+280个图像单元填补东北伊比利亚旧石器洞穴艺术长期“空白”，说明缺失可能部分来自研究偏差。主要限制是大量图像仍依靠考古背景和风格比较断代，直接年代有限。  
+The 280-motif corpus fills a major geographic gap in Iberian Palaeolithic art. Its importance is high, but many engravings remain indirectly rather than directly dated.
+
+### 23. Kekova早青铜时代沉船
+**状态 | Status:** Under review  
+约30件早青铜时代陶罐和石锚可能代表极早的贸易船，对地中海海事史具有很高潜力。船体未保存、年代主要来自陶器类型学且石锚归属未定，因此“世界最古老沉船”目前仍不足以支撑晋升。  
+The assemblage could represent an exceptionally early trading vessel and has major maritime potential. The absent hull, typological dating and uncertain anchor association keep the central claim provisional.
+
+### 24. Etowah可可古DNA | Etowah cacao
+**状态 | Status:** Additional · **证据 | Evidence:** B  
+两件11–12世纪陶片中的可可古DNA把前哥伦布时期可可的已知分布扩展到美国东南部，迫使我们重新考虑远距离交换网络。样本小、器物曾清洗保存，而且不能证明两只容器一定盛装可可，因此排名保持中上而非更高。  
+Ancient cacao DNA at Etowah expands the known geography of pre-contact cacao into the Mississippian Southeast. The small sample and complex curation history require interpretive restraint.
+
+### 25. Tampa Bay移民陶工社群 | Tampa Bay migrant potters
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+成分、岩相、grog配方和制作技术共同支持移民陶工在当地形成community of practice，解决了长期区域争论。它理论意义很强，但仍主要属于既有陶器材料的新解释，而不是2026年的大型新发掘。  
+Multiple technological lines of evidence support a migrant-founded potting community and resolve a long-standing regional debate. Its interpretive value is high, but it is primarily a new reading of existing ceramic material.
+
+### 26. 乌拉尔图大型灌溉景观 | Urartian irrigation
+**状态 | Status:** CCTV · **证据 | Evidence:** B  
+遥感把堡垒、耕地、古河道和灌溉网络整合为国家尺度的水利景观，适合讨论基础设施与国家组织。部分古渠归属仍属推断，因此它是重要景观研究，而不是所有线路都已田野确认的工程发现。  
+Remote sensing reconstructs a state-scale hydraulic landscape linking fortification, agriculture and water management. Some canal attributions remain inferential, limiting the strength of the field claim.
+
+### 27. Tunnug 1大麻使用证据
+**状态 | Status:** Under review  
+1000多枚种子、直接年代和墓葬情境都很强，使大麻与早期斯基泰葬仪联系可靠。真正影响排名的是毛发证据不能充分排除外部接触，因此“死者明确摄入并用于致幻”仍未稳固。  
+Seeds, direct dates and mortuary context firmly establish cannabis in the burial. The disputed hair evidence prevents secure promotion of deliberate psychoactive ingestion.
+
+### 28. 库施Sanam费昂斯生产 | Kushite faience
+**状态 | Status:** CCTV · **证据 | Evidence:** B  
+神庙中的可靠生产作坊把“埃及影响”问题转化为地方工艺体系、神庙经济和国家控制研究。它没有刷新宏大纪录，但田野情境完整、技术和政治经济意义扎实。  
+A securely identified temple workshop reframes Egyptian “influence” as local production, craft organization and political economy. Its significance is robust even without a headline-grabbing superlative.
+
+### 29. Didé West 1长期炼铁作坊 | Didé West iron smelting
+**状态 | Status:** CCTV · **证据 | Evidence:** B  
+约35个炉基和近八百年技术序列为工艺传统持续性、学习和地方技术选择提供难得田野记录。它对西非技术史很重要，但并不直接解决冶铁起源这一更大问题。  
+A long-lived workshop sequence offers rare evidence for technological persistence and craft learning in West Africa. Its significance is strong but primarily regional rather than a resolution of iron-smelting origins.
+
+### 30. 魁北克圣劳伦斯河原住民捕鱼设施
+**状态 | Status:** Under review  
+约1200年前的水下捕鱼设施具有文化景观、原住民技术和协作式考古的明显价值，也能补加拿大田野发现。当前缺少完整同行评议论文和公开技术报告，因此年代、结构与功能诊断还不够透明。  
+The submerged fish trap has clear significance for Indigenous technology, underwater landscapes and collaborative archaeology. Limited public technical documentation keeps it below promotion threshold.
+
+### 31. Camarones 9美洲早期天花基因组 | Early smallpox genomes
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+直接重建的天花病毒基因组为欧洲接触后疾病进入南美洲提供病原体本身的证据。学术价值很高，但它属于古病原体基因组综合，在“田野发现优先”的年度名单中应低于同等重要性的原位新发现。  
+Ancient variola genomes provide direct pathogen evidence for post-contact smallpox in South America. The result is historically important, but molecular evidence dominates more than in higher-ranked field discoveries.
+
+### 32. 北美晚更新世骰子与机会游戏
+**状态 | Status:** Under review  
+对293套历史骰子建立形态标准，再识别Folsom时期器物，使“骰子”这一功能判断比一般类比更扎实。它主要是旧馆藏/旧资料的重新分类，而且从骰子推到抽象概率认知仍跨越较大，因此继续HOLD。  
+Explicit morphological criteria make the Folsom dice identification unusually systematic. Yet the study reclassifies legacy material, and claims about probabilistic cognition extend beyond the directly demonstrated function.
+
+### 33. Holzman石器与猛犸象牙生产
+**状态 | Status:** Under review  
+约14 ka的石器与象牙加工组合对东白令技术和人群移动很重要，但关键象牙材料此前已有发表。2026年的新增价值主要是综合解释，而且与已入选的Shég’ Xdaltth’í’在地区和问题上高度重叠。  
+Holzman is important for eastern Beringian technology and ivory working, but key materials were already known. The 2026 contribution is mainly synthesis and overlaps substantially with the stronger Shég’ Xdaltth’í’ field discovery.
+
+### 34. 凯尔特语/日耳曼语传播古基因组 | Celtic/Germanic ancient genomics
+**状态 | Status:** Additional · **证据 | Evidence:** A  
+大规模古基因组为语言传播模型提供人口史约束，是语言史研究的重要方法突破。它不能把基因流动直接等同于语言传播，而且属于高影响期刊的大型综合研究，因此在本排名中有意低于同等质量的田野发现。  
+Large ancient-genomic datasets place demographic constraints on language-dispersal models. The work is important, but genes do not equal languages, and this ranking deliberately places field discoveries above comparable large-scale genomic syntheses.
+
+### 35. Pabalugala玻璃珠生产
+**状态 | Status:** Under review  
+2–5世纪玻璃珠生产基地为斯里兰卡专业化工艺和印度洋交换提供重要新线索，并补足南亚缺口。当前发表篇幅较短，生产设施、原料和完整chaîne opératoire尚需更多细节。  
+The site adds valuable evidence for specialized glass-bead production and Indian Ocean exchange in Sri Lanka. Limited published detail on installations, raw materials and production sequence keeps it under review.
+
+### 36. Romito墓葬与罕见遗传病 | Romito genetic disorder
+**状态 | Status:** CCTV · **证据 | Evidence:** A  
+古DNA把经典古病理案例推进到具体致病基因、性别和亲缘关系层面，对分子古病理学很有方法意义。它的限制是宏观史前史改写范围较窄，属于“高证据、较中等解释尺度”的项目。  
+Ancient DNA transforms a classic palaeopathological case into a molecular diagnosis linked to sex and kinship. Methodologically important, it has a narrower impact on broader prehistory.
+
+### 37. 埃及早王朝墓葬 | Early Dynastic tombs
+**状态 | Status:** CCTV  
+新墓葬为早期国家形成期的葬制和建筑提供田野材料，年代和文化背景重要。当前公开解释规模仍较有限，尚不足以显示它是否会显著改变早王朝社会组织的既有模型。  
+The tombs add valuable field evidence for Early Dynastic funerary practice and architecture. Their broader interpretive impact remains less clear than that of higher-ranked state-formation discoveries.
+
+### 38. Pueblo蓝铜矿远距离获取网络
+**状态 | Status:** Under review  
+Pb-Sr-Cu同位素为蓝铜矿溯源建立可行方法，并显示跨数百公里的原料流动。考古样本只有12件，目前更像方法与交换网络的先导研究，而不是已经建立的大尺度体系。  
+Multi-isotope sourcing demonstrates long-distance azurite movement and establishes a useful method. The twelve-artifact sample is still too small to support a large regional exchange model.
+
+### 39. 木乃伊葬仪中的《伊利亚特》 | Iliad in mummification context
+**状态 | Status:** CCTV · **证据 | Evidence:** C  
+文学文本进入木乃伊葬仪情境非常新颖，可能触及经典文本的仪式再语境化。纸草尚无完整学术版，且不同报道对摆放位置并不一致，因此现阶段只能保持中低位。  
+An Iliad text in a mummification context raises intriguing questions about ritual reuse of literature. Incomplete publication and uncertainty over exact placement limit interpretation.
+
+### 40. 波利尼西亚现代人基因组与航海扩散
+**状态 | Status:** Under review  
+1050名现代波利尼西亚人的全基因组对聚落史和远航关系很有价值。由于证据主体是现代基因组而非古DNA或考古遗存，它更适合作为历史基因组学研究动态，而不是年度考古“发现”。  
+Modern Polynesian genomes offer valuable settlement-history insights. Because the evidence is modern rather than archaeological or ancient genomic, it remains a research development rather than a high-ranking archaeological discovery.
+
+### 41. Crawford Lake沉积古DNA
+**状态 | Status:** Under review  
+sedaDNA直接检出玉米和向日葵并重建千年人地关系，对方法和古环境史很有价值。它主要是分子生态与古环境综合，考古“发现”属性较弱，因此在整体年度排名中靠后。  
+Sedimentary DNA reconstructs a millennium of ecological change and directly detects cultivated plants. Its main contribution is methodological and paleoecological rather than a conventional archaeological discovery.
+
+### 42. 底格里斯河畔亚历山大城 | Alexandria on the Tigris
+**状态 | Status:** CCTV · **证据 | Evidence:** B  
+多年地球物理和调查工作对城市布局、港池、运河和贸易网络很重要。问题在于2026年并非首次发现或确认城市，而主要是对2016年以来项目的阶段性总结，因此年度“新发现”属性较弱。  
+Long-term survey and geophysics reveal an important Hellenistic–Parthian urban and maritime landscape. The 2026 story is largely a synthesis of work underway since 2016 rather than a discrete new discovery.
+
+### 43. 阿西诺中希联合发掘 | Sino-Greek excavation at Arsinoe
+**状态 | Status:** CCTV · **证据 | Evidence:** C  
+首季田野工作建立了长期城市考古项目的基线，并对中希合作具有制度意义。就2026年材料本身而言，尚未形成能够改变古典城市史的重要解释突破。  
+The first season establishes an important long-term field program and international collaboration. The archaeological results themselves have not yet produced a major reinterpretation of Classical urbanism.
+
+### 44. 特洛伊“agora” | Troy proposed agora
+**状态 | Status:** CCTV · **证据 | Evidence:** D  
+真正值得关注的是青铜时代废弃后的复居和空间记忆，而“agora”功能目前仍主要来自发掘团队公开表述。缺少正式同行评议论证，使它在所有项目中暂列最后；这并不否定后续发掘可能显著提升其排名。  
+The significant issue is post-Bronze-Age reoccupation and spatial memory, while the “agora” interpretation remains largely an excavation-team proposal. Without a formal publication demonstrating function and chronology, it ranks last for now but could rise substantially with new evidence.
+
+## 如何使用这个排名 | How to use this ranking
+
+**中文。** 这个排名最适合用作**年度最终遴选前的比较工具**，而不是把第1名到第44名理解为绝对学术价值差异。建议后续每次新增重要项目时，先进入待评估池，再与本排名中相邻的5–8项进行横向比较；若它不能明显优于至少一项正式项目，就不应因为“新”而自动晋升。
+
+**English.** This ranking is best used as a **comparative tool before final annual selection**, not as a claim that adjacent ranks differ in absolute scholarly value. New projects should first enter the under-review pool and then be compared against roughly five to eight neighboring entries; novelty alone should not justify promotion.
+
+::: {.callout-note title="下一轮重排 | Next re-ranking"}
+**中文。** 下一次整体重排建议在以下任一条件满足时进行：新增3–5个高质量待评估项目；央视公布正式入选结果；或2026年末进行最终年度遴选。  
+**English.** Re-rank the full list when any of the following occurs: 3–5 strong new under-review projects are added, CCTV announces its final selections, or the project enters the year-end final-selection stage.
+:::
