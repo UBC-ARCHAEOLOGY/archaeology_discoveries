@@ -1,0 +1,70 @@
+---
+title: "26. 老挝石缸平原Site 75：多代次生葬的“死亡之缸”"
+subtitle: "Jar 1 at Site 75: a multigenerational secondary burial at the Plain of Jars"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Site 75, Xieng Khouang Plateau, Laos / 老挝川圹高原Site 75
+
+**Date / 年代**  
+Mortuary activity ca. cal AD 890–1160 / 葬仪活动约公元890–1160年
+
+**Research / excavation institutions / 发掘或研究机构**  
+Plain of Jars Archaeological Research Project and collaborating Lao and international institutions
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Nicholas Skopal; Baptiste Pradier; Souliya Bounxayhip; Frederique Valentin; collaborating research team.
+
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Antiquity* excavation report, direct radiocarbon dating of human remains, and a large in-situ mortuary assemblage.  
+A级——《Antiquity》同行评议发掘报告，直接测年人骨/牙齿，并有规模很大的原位葬仪组合。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——为巨型石缸与复杂葬仪之间的关系提供目前最直接、规模最大的证据之一，同时揭示一个持续数代使用的次生葬传统。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 老挝石缸平原分布着120余处巨型石缸遗址。近一个世纪以来，石缸究竟是储存设施、纪念物，还是直接参与葬仪，一直是东南亚考古的重要问题。此前在若干遗址已经发现石缸周围的次生葬、陶棺葬、原生葬以及个别石缸内部的烧骨和牙齿，但很少有保存完整、规模足以直接检验“石缸作为葬仪容器”的材料。
+
+**English.** More than 120 megalithic jar sites are known across the Plain of Jars in Laos. For nearly a century, archaeologists have debated whether the stone jars functioned as storage vessels, monuments, or direct components of mortuary practice. Earlier excavations had found secondary burials, ceramic jar burials and primary interments around some jars, as well as fragmentary burned bone and teeth inside a few vessels, but rarely an intact assemblage large enough to test the mortuary-container hypothesis directly.
+
+## 主要发现 | Major findings
+
+**中文。** 2022–2024年对Site 75大型Jar 1的完整发掘，在石缸内部发现密集、以肢解遗骸为主的人骨组合。牙齿提供的最小个体数达到37人；长骨沿缸壁成束分布，较小、易碎骨骼比例偏低，支持许多个体在其他地点腐解后再被转移进入石缸的次生葬解释。部分头骨与下颌仍保持接近解剖位置，说明实际葬仪过程可能比单一模式更复杂。
+
+**English.** Complete excavation of Jar 1 at Site 75 between 2022 and 2024 revealed a densely packed human skeletal assemblage dominated by disarticulated remains. Dentition indicates a minimum of 37 individuals. Bundled long bones along the jar edges and the reduced representation of smaller fragile elements support secondary deposition after decomposition elsewhere, while several closely associated skull-and-mandible sets suggest a more complex funerary sequence than a single uniform practice.
+
+**中文。** 8件人骨/牙齿样品获得直接放射性碳年代，整体范围约为cal AD 890–1160；邻近特征中的木炭也落在相近年代。玻璃珠、陶器、铁器和铜合金铃等随葬材料与石缸平原其他葬仪遗址具有联系。
+
+**English.** Eight human bone or tooth samples were directly radiocarbon dated, indicating use spanning approximately cal AD 890–1160. Charcoal from a nearby feature falls within a comparable range. Glass beads, pottery, iron objects and a copper-based bell link the assemblage to broader mortuary traditions of the Plain of Jars.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** Jar 1为“石缸是否直接参与葬仪”提供了目前最强的一组直接证据之一，并显示至少有一部分石缸可以作为多代次生葬的集体容器。其意义不是简单证明“所有石缸都有同一种用途”。作者明确指出，Site 75的Jar 1在尺寸、形态和葬仪规模上都很特殊，可能代表地方性的传统；因此从这一实例推及整个石缸平原仍需更多未扰动遗址的发掘。
+
+**English.** Jar 1 provides some of the strongest direct evidence yet that at least some megalithic jars participated directly in mortuary practice and could serve as collective repositories for multigenerational secondary burial. It does not establish a single function for every jar across the Plain of Jars. The authors stress that Jar 1 is unusual in size, form and mortuary scale and may represent a locally specific tradition, so broader generalization requires excavation of additional undisturbed sites.
+
+## 学术出版物 | Academic publications
+
+Skopal, N., Pradier, B., Bounxayhip, S., et al. (2026). The death jar: A new mortuary tradition at the Plain of Jars, Lao PDR. *Antiquity, 100*(412), 1050–1067. https://doi.org/10.15184/aqy.2026.10352
+
+**开放获取状态 | Open-access status.** CC BY 4.0. / 文章采用CC BY 4.0开放许可。
+
+**出版物内容（中文）。** 论文报告Site 75 Jar 1及其周边2022–2024年完整发掘，系统讨论至少37人的集体次生葬、直接年代、随葬材料及其与石缸平原其他遗址的关系。
+
+**What the publication shows (English).** The paper presents the complete 2022–2024 excavation of Jar 1 and its surroundings, documenting at least 37 individuals, direct dating, associated artifacts and the broader implications for mortuary practice across the Plain of Jars.
+
+<!-- APA-V2.1 -->
+
+## 主要媒体报道 | Major media coverage
+
+- [Antiquity / Cambridge University Press — The death jar](https://doi.org/10.15184/aqy.2026.10352)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Antiquity article — CC BY 4.0](https://doi.org/10.15184/aqy.2026.10352)
