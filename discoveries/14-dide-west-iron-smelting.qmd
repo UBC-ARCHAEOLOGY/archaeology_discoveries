@@ -13,12 +13,15 @@ ca. 4th c. BCE–4th c. CE / 约公元前4世纪至公元4世纪
 **Research / excavation institutions / 发掘或研究机构**  
 University of Geneva; Cheikh Anta Diop University; University of Cambridge; ETH Zürich; University of Fribourg and collaborating Senegalese field teams
 
-**Lead researchers / 主要负责人**  
-Mélissa Morel; Anne Mayor; Vincent Serneels; Ladji Dianifaba
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Mélissa Morel; Anne Mayor; Vincent Serneels; Ladji Dianifaba.
 
-**Evidence status / 证据状态**  
-English: Peer-reviewed specialist-journal research (B).  
-中文：同行评议专业期刊研究（B级）。
+**Evidence grade / 证据等级**  
+B — peer-reviewed specialist-journal study with a long, well-preserved technological sequence.
+B级——专业期刊同行评议研究，拥有保存较好且时间跨度长的技术序列。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Moderate / 中等——对技术传统持续性、工匠学习和地方技术选择很有价值，但不直接解决非洲冶铁起源问题。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
