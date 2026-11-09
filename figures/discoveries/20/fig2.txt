@@ -1,0 +1,5 @@
+Figure 2
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/
+Image URL: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1537/12916292/d5a051c1acfb/41586_2025_9968_Fig6_ESM.jpg
+Licence: CC BY-NC-ND 4.0
+Caption: Extended Data Fig. 2. Dated rock art from Gua Mbokita. Open in a new tab a - b , Samples MBK1 and MBK2, collected from over a red hand stencil measuring 24 ×17 cm ( a , photograph of the hand stencil enhanced using DStretch filter ac_cb_rgb; b , digital tracing). c , Sample MBK1 in cross-section, showing the location of the transect of three dated sub-samples on top of the pigment layer; the oldest minimum ages is 44.7 ka (50.8 ka ± 6.1 ka). d , Sample MBK2 in cross-section, showing the location of the transect of three dated sub-samples on top of the pigment layer; the oldest minimum age is 25.9 ka (31.1 ± 5.2 ka). Individual rasters are 700μm in length.

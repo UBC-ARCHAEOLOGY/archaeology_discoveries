@@ -1,0 +1,5 @@
+Figure 2
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC13558069/
+Image URL: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e0c3/13558069/8d5767970f32/41586_2026_10835_Fig2_HTML.webp
+Licence: CC BY 4.0
+Caption: Fig. 2. Diverse earthwork types with their topographical contexts. Open in a new tab a , Piloto. b , D. Schaan. c , Fazenda Atlântica. d , amag34/Lid24_05_43a. e , Lid24_05_44a. f , Lid24_09_1b. Hillshading and colours are applied on digital terrain models; numbers in italics indicate relative elevation (metres above sea level) derived from those models.

@@ -1,0 +1,5 @@
+Figure 1
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC13558069/
+Image URL: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e0c3/13558069/7435b0ba1a51/41586_2026_10835_Fig4_ESM.webp
+Licence: CC BY 4.0
+Caption: Extended Data Fig. 1. Lines for ALS. Open in a new tab a . Routes of Lidar flights in the study area. b . Flight lines and Indigenous territories (white raster). c . Example of two parallel 1 km wide LiDAR data lines at a 10 km distance. The blue markings represent earthworks. Google Earth images in panels a , b are from Google Landsat/Copernicus. Google Earth images in panel c are from Airbus Landsat/Copernicus.
