@@ -83,7 +83,7 @@ jobs:
           2. **ranking.qmd** — 44个项目的暂定综合排名及逐项 justification。
           3. **methods.qmd** — 评选标准、证据等级与 ranking 的关系。
           4. **V2_3_BALANCE_AUDIT.md** — 地区、时代、证据等级、田野/分析类型平衡。
-          5. **focus_v2_3/discoveries/** — V2.2 后新增的正式条目 24–34。
+          5. **focus_v2_3/discoveries/** — V2.3 变更集 24–34；其中29号Etowah已在本轮再审中退回待评估，其余为正式新增条目。
           6. **focus_v2_3/under-review.qmd** — 当前待评估项目与 HOLD 决定。
           7. **CONTENT_REVIEW_V2_3.md** — 全文连续编审稿，可全文搜索和批注。
           8. **offline_site/index.html** — 当前网站离线渲染版。
@@ -92,7 +92,7 @@ jobs:
 
           ## 本轮重点
 
-          - 核查第24–34项是否都达到正式 Additional candidate 门槛；
+          - 核查当前正式新增的24–28、30–34项是否达到 Additional candidate 门槛，并核查29号Etowah退回待评估是否合理；
           - 核查44项 tentative ranking 是否真正体现田野发现优先、学术意义优先；
           - 检查是否仍过度偏向古DNA、古蛋白或高影响期刊；
           - 检查地区和时代平衡是否合理，是否有“为了补区域而抬高弱项目”的情况；
@@ -110,7 +110,7 @@ jobs:
           {
             echo "# 2026 世界考古发现 — V2.3 连续编审稿"
             echo
-            echo "> 本文件汇总评选标准、平衡审计、暂定排名、34项正式条目与待评估项目，便于离线全文搜索与批注。"
+            echo "> 本文件汇总评选标准、平衡审计、暂定排名、33项正式条目与待评估项目，便于离线全文搜索与批注。"
             echo
             for x in EDITORIAL_BRIEF_V2_3.md methods.qmd V2_3_BALANCE_AUDIT.md ranking.qmd index.qmd discoveries.qmd cctv.qmd sources.qmd; do
               echo
