@@ -93,6 +93,15 @@ Recommended explanatory set:
 
 Only figures from papers explicitly carrying a reusable open licence should be embedded. The subsistence paper is not under a general CC licence, so those figures are linked but not copied until permission is confirmed.
 
+## 页面图像 | Page images
+
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-10976-9" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-10997-4" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图3 / Image 3</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-11132-z" target="_blank">View original image / 查看原图 →</a></div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Nature article figures](https://doi.org/10.1038/s41586-026-10997-4)
