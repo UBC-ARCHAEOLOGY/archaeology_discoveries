@@ -70,6 +70,13 @@ Preferred figure set from the open-access article:
 
 Because Science-hosted figures may include third-party elements, each figure caption must be checked before direct embedding. Until that caption-level check is complete, the site links to the article rather than copying the image file.
 
+## 页面图像 | Page images
+
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.science.org/doi/10.1126/sciadv.ady2270" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13267281/" target="_blank">View original image / 查看原图 →</a></div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Science Advances article figures](https://www.science.org/doi/10.1126/sciadv.ady2270)
