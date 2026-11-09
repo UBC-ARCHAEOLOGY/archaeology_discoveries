@@ -13,12 +13,15 @@ Reign of Tudhaliya II, ca. 1400 BCE / 图塔利亚二世时期，约公元前140
 **Research / excavation institutions / 发掘或研究机构**  
 Koç University; Türkiye Ministry of Culture and Tourism
 
-**Lead researchers / 主要负责人**  
-Çiğdem Maner (excavation director)
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Çiğdem Maner (excavation director).
 
-**Evidence status / 证据状态**  
-English: Major field discovery (D/C): official excavation announcement; tablets are still being read and full scholarly publication is pending.  
-中文：重大田野发现（D/C级）；主要依据官方公告，泥板仍在释读，完整学术出版尚待完成。
+**Evidence grade / 证据等级**  
+C — officially announced major field discovery; tablets remain under study and no complete scholarly edition has yet appeared.  
+C级——官方公布的重大田野发现；泥板仍在整理释读，尚无完整学术版释。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High potential / 潜在重要性高——若184块泥板确属相对完整的王室档案，其对赫梯区域王权、战争、疾病、占卜和行政研究都可能非常重要；现阶段仍需等待正式释读。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -46,11 +49,11 @@ Additional candidate / 补充建议
 
 **尚无同行评议论文 | No peer-reviewed publication yet.**
 
-[Koç University / Türkiye Ministry of Culture and Tourism. (2026). *Kayalıpınar (Šamuḫa) excavation: Preliminary announcement of the Hittite royal archive*.](https://www.hurriyetdailynews.com/cuneiform-tablets-from-hittite-king-unearthed-227946)
+Hürriyet Daily News. (2026, October 10). *Cuneiform tablets from Hittite King unearthed*. https://www.hurriyetdailynews.com/cuneiform-tablets-from-hittite-king-unearthed-227946
 
-**现有资料内容（中文）。** 184块泥板仍在整理与释读，尚无完整档案学出版。新闻中关于疫情、王室丧葬、鸟卜和军事求援的内容属于初步释读；真正的历史意义必须等待逐片编号、抄本、翻译、年代和出土情境正式发表后才能评估。
+**现有资料内容（中文）。** 该报道依据发掘负责人Çiğdem Maner及土耳其官方信息，报告2026年新出131块泥板和残片，与2025年的53块合计184块，并介绍疫情、王室死亡、鸟卜和军事请求等初步释读。它是新闻报道，不应伪装成Koç University或文化部的正式学术报告。
 
-**What the current source shows (English).** The corpus of 184 tablets is still being catalogued and deciphered, and no complete scholarly edition has yet appeared. Reports of epidemic disease, royal funerals, bird divination and military requests are preliminary readings; the archive's historical significance will require formal publication of tablet numbers, copies, translations, dates and find contexts.
+**What the current source shows (English).** The report draws on excavation director Çiğdem Maner and Turkish official information to describe 131 tablets and fragments recovered in 2026, bringing the 2025–2026 total to 184, together with preliminary readings concerning epidemic disease, royal death, bird divination and military requests. It is a news report and should not be presented as a formal Koç University or Ministry scholarly publication.
 
 <!-- APA-V2.1 -->
 
