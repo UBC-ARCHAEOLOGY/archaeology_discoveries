@@ -71,6 +71,11 @@ Recommended explanatory set from the paper:
 
 Until Nature confirms an open figure licence or permission is obtained, these figures remain **linked, not embedded**.
 
+## 页面图像 | Page images
+
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nature.com/articles/s41586-026-10233-z" target="_blank">View original image / 查看原图 →</a></div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Nature article figures](https://www.nature.com/articles/s41586-026-10233-z)
