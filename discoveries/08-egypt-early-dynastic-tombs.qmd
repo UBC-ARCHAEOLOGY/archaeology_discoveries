@@ -1,0 +1,44 @@
+---
+title: "8. 埃及早王朝时期两座墓葬"
+subtitle: "Two Early Dynastic tombs in Egypt"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Minya, Egypt / 埃及明亚
+
+**Date / 年代**  
+Early Dynastic Period · ca. 3100–2686 BCE / 早王朝时期
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 两座早王朝墓葬保存了少见的墙体、木质支撑和石材加工信息，其中一座具有特殊的墙体几何设计。
+
+**English.** Two Early Dynastic tombs preserve unusual information about wall construction, timber reinforcement, and stone working, including a distinctive geometric wall design.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 学术价值主要在于追踪埃及早期纪念性建筑工程的技术积累：墓葬施工、石材切割与结构稳定如何逐步发展，并为第三王朝以后大规模石构建筑提供背景。现阶段不宜直接表述为已证明的“金字塔前身”。
+
+**English.** The main significance lies in tracing the accumulation of engineering knowledge behind Egyptian monumental architecture: tomb construction, stone cutting, and structural stabilization before the major stone monuments of the Third Dynasty. It is more cautious to treat the finds as background to later developments rather than a demonstrated direct precursor to pyramids.
+
+## 学术论文 | Academic publications
+
+- Formal publication not yet securely identified / 正式论文待核
+
+## 主要媒体报道 | Major media coverage
+
+- [Egypt State Information Service](https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Official report imagery](https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
