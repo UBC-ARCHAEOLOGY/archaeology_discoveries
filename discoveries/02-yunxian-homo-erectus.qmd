@@ -10,6 +10,15 @@ Hubei, China / 中国湖北
 **Date / 年代**  
 Early Pleistocene · ca. 1.77 Ma / 早更新世 · 约177万年前
 
+**Research / excavation institutions / 发掘或研究机构**  
+Shantou University; Nanjing Normal University; Shanxi University; Purdue University; University of Hawai‘i at Mānoa; Archaeological and Cultural Relics Institute of Hubei Province (field support)
+
+**Lead researchers / 主要负责人**  
+Hua Tu; Guanjun Shen; Zhongping Lai; Darryl Granger; Xiaobo Feng
+
+**Evidence status / 证据状态**  
+Top-tier peer-reviewed research (A), but the revised chronology remains debated and reopens rather than closes the phylogenetic question.
+
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
 :::
@@ -22,9 +31,9 @@ CCTV candidate / 央视候选
 
 ## 学术重要性 | Intellectual significance
 
-**中文。** 这项研究直接进入“人属何时、以多快速度走出非洲并扩散到东亚”的核心争论。郧县的新年代与格鲁吉亚Dmanisi接近，意味着早期Homo在离开非洲后可能很快跨越欧亚大陆，而不是经过漫长的分阶段东进。
+**中文。** 这项研究直接进入“人属何时、以多快速度走出非洲并扩散到东亚”的核心争论，但新年代也与近年来对郧县头骨形态和系统发育位置的研究形成张力，因此应视为重新打开关键问题，而非已经形成定论。郧县的新年代与格鲁吉亚Dmanisi接近，意味着早期Homo在离开非洲后可能很快跨越欧亚大陆，而不是经过漫长的分阶段东进。
 
-**English.** The result bears directly on how quickly early Homo dispersed beyond Africa. The revised age approaches that of Dmanisi in Georgia, suggesting that hominins may have reached far eastern Eurasia soon after the earliest extra-African dispersals rather than only after a long staged expansion.
+**English.** The result bears directly on how quickly early Homo dispersed beyond Africa, but its interpretation is contested because the much older chronology sits uneasily with recent morphological and phylogenetic work on the Yunxian crania. The revised age approaches that of Dmanisi in Georgia, suggesting that hominins may have reached far eastern Eurasia soon after the earliest extra-African dispersals rather than only after a long staged expansion.
 
 ## 学术论文 | Academic publications
 
