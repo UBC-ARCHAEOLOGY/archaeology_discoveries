@@ -13,12 +13,15 @@ Middle Pleistocene · ca. 430 ka / 中更新世 · 约43万年前
 **Research / excavation institutions / 发掘或研究机构**  
 University of Reading; University of Tübingen; American School of Classical Studies at Athens; Aristotle University of Thessaloniki; Hellenic Ministry of Culture; University of Ioannina
 
-**Lead researchers / 主要负责人**  
-Annemieke Milks; Katerina Harvati; Eleni Panagopoulou; Vangelis Tourloukis; Panagiotis Karkanas
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Annemieke Milks; Katerina Harvati; Vangelis Tourloukis; Eleni Panagopoulou; Panagiotis Karkanas.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A).  
-中文：顶级同行评议研究（A级）。
+**Evidence grade / 证据等级**  
+A — peer-reviewed PNAS study with well-contextualized artefacts, technological analysis and secure chronology.
+A级——PNAS同行评议研究，器物情境、技术分析与年代框架较为扎实。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——直接揭示中更新世有机技术的保存偏差，扩大了对早期人类技术系统的认识。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
