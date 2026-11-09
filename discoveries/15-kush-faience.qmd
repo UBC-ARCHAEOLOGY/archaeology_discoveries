@@ -73,6 +73,27 @@ The article is **CC BY 4.0**. Preferred images:
 
 These images can be embedded with full article attribution unless an individual caption identifies third-party copyright.
 
+## 页面图像 | Page images
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/15/fig1.png" alt="图1—Sanam神庙及费昂斯作坊位置" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图1—Sanam神庙及费昂斯作坊位置—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/15/fig2.png" alt="图2—神庙后部生产设施与作坊遗迹" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图2—神庙后部生产设施与作坊遗迹—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/15/fig3.png" alt="图3—费昂斯珠、废品与生产证据" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图3—费昂斯珠、废品与生产证据—来源 Source：Antiquity—作者 Author：Lemos et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5" target="_blank">原文链接 Original</a></p>
+</div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Antiquity article figures](https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5)
