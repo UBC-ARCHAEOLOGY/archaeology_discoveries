@@ -23,3 +23,23 @@ title: "来源与编辑原则 | Sources & Editorial Policy"
 ## 更正 | Corrections
 
 若发现年代、分类、论文状态或媒体链接有误，欢迎通过GitHub Issues提交更正。
+
+
+## 图像许可状态 | Image-rights status
+
+为避免把“可以在线阅读”误当作“可以复制图片”，本站对每幅候选图采用三级标记：
+
+- **可嵌入 / Embeddable**：论文或图版明确采用 CC BY、CC BY-NC-ND 等许可，且图注没有另列第三方版权。转载时保留完整署名、论文链接和许可说明；ND 许可下不裁切、不改图。
+- **只可链接 / Link only**：媒体摄影、政府/项目新闻图片、NEJM 等未提供一般再利用许可的图像。网站提供原始来源链接，但不复制图片文件。
+- **待逐图确认 / Caption-level check pending**：文章本身开放获取，但具体图版可能包含博物馆、摄影师、地图底图或其他第三方材料。只有检查图注后才决定是否嵌入。
+
+### 当前已明确的许可示例
+
+- Wonderwerk Cave (*PLOS ONE*): **CC BY**
+- Marathousa 1 wooden tools (*PNAS*): **CC BY-NC-ND 4.0**
+- Lake Baikal plague (*Nature*): **CC BY 4.0**
+- Argishtikhinili irrigation (*Antiquity*): **CC BY 4.0**
+- Sanam Kushite faience (*Antiquity*): **CC BY 4.0**
+- Shang copper network (*Nature Communications*): **CC BY-NC-ND 4.0**
+
+“开放获取”本身不保证所有图都能自由转载；若图注另列第三方版权，以该图注为准。
