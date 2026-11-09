@@ -8,20 +8,20 @@ subtitle: "Widgingarri Shelter 1 and a ≥55 ka Aboriginal archaeological sequen
 Arraluli Country, west Kimberley, northwest Australia / 澳大利亚西北部Kimberley的Arraluli Country
 
 **Date / 年代**  
-Earliest securely inferred occupation ≥55 ± 4 ka; sequence continues through the last glacial period into the Holocene / 最早可靠推定占据≥55±4 ka，并延续至末次冰期和全新世
+Earliest conservatively inferred artifact presence ≥55 ± 4 ka; sequence continues through the last glacial period into the Holocene / 最早保守推定的器物存在≥55±4 ka，并延续至末次冰期和全新世
 
 **Research / excavation institutions / 发掘或研究机构**  
 Arraluli Clan and Arraluli Aboriginal Association; Australian Research Council Centre of Excellence for Australian Biodiversity and Heritage (CABAH); Australian National University; University of Wollongong and collaborators
 
 **Key researchers / project leads / 主要研究者或项目负责人**  
-Wudugu Malanali (Isobel Peters); Peter Collins; Sue O’Connor; Sam C. Lin; Wanchese Saktura; collaborating Arraluli and archaeological research team.
+Peter Collins; Sue O’Connor; Sam C. Lin; Wanchese Saktura; Arraluli co-authors and collaborating archaeological research team. The page omits the name of a deceased Arraluli co-author pending confirmation of community naming preferences.
 
 **Evidence grade / 证据等级**  
 B — peer-reviewed field archaeology with new 2022 excavation, a long stratified sequence and OSL-based chronology; the earliest occupation is conservatively inferred from low-density basal artifacts near the CU2a–CU2b transition rather than from a dense occupation floor.  
 B级——同行评议田野考古研究，包含2022年新发掘、长时段地层序列和OSL年代；最早占据依据底部低密度石器在CU2a–CU2b过渡附近的保守推定，而不是密集活动面。
 
 **Scholarly importance assessment / 学术重要性评估**  
-Very high / 很高——把Kimberley的可靠人类活动推进到≥55 ka，并通过一个从MIS 3延续到全新世的长序列讨论Aboriginal文化连续性、技术变化、颜料使用和对巨大环境变化的适应；同时体现Traditional Owners共同治理田野研究的模式。
+High / 高——把Widgingarri Shelter 1最早器物证据从此前约50 ka的项目认识推进到保守推定的≥55±4 ka，并通过一个从MIS 3延续到全新世的长序列讨论Aboriginal文化连续性、技术变化、颜料使用和环境适应；同时体现Traditional Owners共同治理田野研究的模式。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -29,9 +29,9 @@ Additional candidate / 补充建议
 
 ## 主要学术背景 | Scholarly background
 
-**中文。** 澳大利亚最早人类占据时间一直是全球现代人扩散研究的重要问题。Kimberley是早期Sahul考古的关键区域，但许多早期遗址的年代、地层完整性和器物密度都需要谨慎处理。Widgingarri Shelter 1在1985年已进行发掘，但当时由于巨石阻挡未达到基岩；2022年Arraluli Clan与CABAH合作重新打开旧探方并继续向下发掘。
+**中文。** 澳大利亚最早人类占据时间一直是全球现代人扩散研究的重要问题。Widgingarri并非2026年首次进入学术文献：此前项目研究已经把该遗址的晚更新世序列追溯到约5万年前；2026年的新田野论文首次系统发表2022年重新发掘结果，并把遗址最早器物存在保守推进到≥55±4 ka。Kimberley是早期Sahul考古的关键区域，但许多早期遗址的年代、地层完整性和器物密度都需要谨慎处理。Widgingarri Shelter 1在1985年已进行发掘，但当时由于巨石阻挡未达到基岩；2022年Arraluli Clan与CABAH合作重新打开旧探方并继续向下发掘。
 
-**English.** The timing and character of the first human occupation of Sahul remain central to global modern-human dispersal research. The Kimberley is a key region, but early dates must be evaluated carefully against stratigraphic integrity and artifact density. Widgingarri Shelter 1 was first excavated in 1985, when large blocks prevented reaching bedrock. In 2022, the Arraluli Clan and CABAH jointly reopened and deepened the excavation.
+**English.** The timing and character of the first human occupation of Sahul remain central to global modern-human dispersal research. Widgingarri was not first reported in 2026: earlier project research already described a Late Pleistocene sequence reaching roughly 50 ka. The 2026 field paper systematically publishes the 2022 re-excavation and conservatively extends artifact presence at the site to ≥55 ± 4 ka. The Kimberley is a key region, but early dates must be evaluated carefully against stratigraphic integrity and artifact density. Widgingarri Shelter 1 was first excavated in 1985, when large blocks prevented reaching bedrock. In 2022, the Arraluli Clan and CABAH jointly reopened and deepened the excavation.
 
 ## 主要发现 | Major findings
 
@@ -45,13 +45,13 @@ Additional candidate / 补充建议
 
 ## 学术重要性 | Intellectual significance
 
-**中文。** Widgingarri的价值不在于争夺“澳大利亚最早遗址”纪录。它的重要性是以一个新发掘、长时段、社区共同治理的遗址，展示Aboriginal人在Kimberley至少5.5万年的持续存在与适应，并把石器、磨石、赭石、景观利用和岩画文化空间放在同一长时段框架中。
+**中文。** Widgingarri的价值不在于争夺“澳大利亚最早遗址”纪录。更准确地说，2026年的增量是把Widgingarri Shelter 1这一具体遗址的最早器物证据保守推进到≥55±4 ka，并以新发掘的长时段、社区共同治理序列讨论Kimberley地区Aboriginal文化连续性与适应，并把石器、磨石、赭石、景观利用和岩画文化空间放在同一长时段框架中。
 
-**English.** Widgingarri matters less as a contender for an “oldest Australian site” record than as a newly excavated, long-duration and community-governed sequence documenting Aboriginal presence and adaptation in the Kimberley for at least 55,000 years. Lithics, grinding stones, ochre, landscape use and a culturally significant rock-art setting can be considered together across deep time.
+**English.** Widgingarri matters less as a contender for an “oldest Australian site” record than as a newly excavated, long-duration and community-governed sequence. The 2026 increment is specifically the conservative extension of artifact presence at Widgingarri Shelter 1 to ≥55 ± 4 ka, not a claim that the Kimberley region as a whole was first occupied at that date. Lithics, grinding stones, ochre, landscape use and a culturally significant rock-art setting can be considered together across deep time.
 
-**中文。** Traditional Owners并非项目中的“咨询对象”。研究由已故Arraluli长者Wudugu Malanali与Peter Collins共同主导，并把Aboriginal知识与研究设计、田野、解释和遗产保护结合起来。这一点本身也是当代考古实践的重要学术维度。
+**中文。** Traditional Owners并非项目中的“咨询对象”。论文把Arraluli共同作者列为研究团队核心成员，并把Aboriginal知识与研究设计、田野、解释和遗产保护结合起来。出于对澳大利亚原住民已故者姓名使用习惯的谨慎，本页暂不重复列出已故共同作者姓名，待社区偏好得到确认后再决定。
 
-**English.** Traditional Owners were not merely consulted. The project was co-directed by the late Arraluli senior custodian Wudugu Malanali and Peter Collins and integrated Aboriginal knowledge into research design, fieldwork, interpretation and heritage protection. That governance model is itself an important dimension of contemporary archaeological practice.
+**English.** Traditional Owners were not merely consulted: Arraluli co-authors are integral to the research team, and Aboriginal knowledge is incorporated into research design, fieldwork, interpretation and heritage protection. As a precaution regarding Australian Indigenous protocols for naming deceased persons, this page does not repeat the deceased co-author’s name pending confirmation of community preference.
 
 ## 学术出版物 | Academic publications
 
