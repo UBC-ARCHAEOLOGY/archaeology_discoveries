@@ -47,7 +47,11 @@ Additional candidate / 补充建议
 
 **中文。** Jar 1为“石缸是否直接参与葬仪”提供了目前最强的一组直接证据之一，并显示至少有一部分石缸可以作为多代次生葬的集体容器。它是对长期功能争论的重要推进，而不是对整个石缸平原用途的最终解决。其意义不是简单证明“所有石缸都有同一种用途”。作者明确指出，Site 75的Jar 1在尺寸、形态和葬仪规模上都很特殊，可能代表地方性的传统；因此从这一实例推及整个石缸平原仍需更多未扰动遗址的发掘。
 
-**English.** Jar 1 provides some of the strongest direct evidence yet that at least some megalithic jars participated directly in mortuary practice and could serve as collective repositories for multigenerational secondary burial. The study refines, rather than finally resolves, the wider debate over jar function. It does not establish a single function for every jar across the Plain of Jars. The authors stress that Jar 1 is unusual in size, form and mortuary scale and may represent a locally specific tradition, so broader generalization requires excavation of additional undisturbed sites.
+**English.** Jar 1 provides some of the strongest direct evidence yet that at least some megalithic jars participated directly in mortuary practice and could serve as collective repositories for multigenerational secondary burial. The study refines, rather than finally resolves, the wider debate over jar function.
+
+**中文。** 学界也有更保守的解释。未参与研究的ANU生物考古学家Marc Oxenham指出，现有论文没有提供完整的骨骼元素清单，也缺少对骨骼在缸内如何降解和移动的细致分析；因此“多代次生葬容器”虽然合理，但反复开启、天气、动物和人为扰动造成原生或混合葬骨骼离散的可能性仍需检验。
+
+**English.** A more cautious interpretation has also been raised. ANU bioarchaeologist Marc Oxenham, who was not involved in the study, noted that the publication does not provide a complete skeletal-element inventory or detailed taphonomic reconstruction of how bones degraded and moved within the jar. A multigenerational secondary-burial repository is plausible, but repeated opening, weathering, animals and human disturbance remain alternative processes to test. It does not establish a single function for every jar across the Plain of Jars. The authors stress that Jar 1 is unusual in size, form and mortuary scale and may represent a locally specific tradition, so broader generalization requires excavation of additional undisturbed sites.
 
 ## 学术出版物 | Academic publications
 
@@ -64,6 +68,7 @@ Skopal, N., Pradier, B., Bounxayhip, S., et al. (2026). The death jar: A new mor
 ## 主要媒体报道 | Major media coverage
 
 - [Antiquity / Cambridge University Press — The death jar](https://doi.org/10.15184/aqy.2026.10352)
+- [National Geographic — Archaeologists found 37 people buried in one giant 'death jar' (July 31, 2026)](https://www.nationalgeographic.com/history/article/laos-giant-stone-death-jars)
 
 ## 图像与图版来源 | Images and figure sources
 
