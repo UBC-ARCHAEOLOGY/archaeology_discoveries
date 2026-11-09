@@ -37,11 +37,20 @@ A major discovery is not simply a spectacular headline. We emphasize whether a f
 
 ## 当前收录 | Current coverage
 
-- **16项**中央广播电视总台2026年候选发现
-- **7项**补充建议项目：西南亚马孙土方工程、Chan Chan Chimú墓葬、凯尔特语/日耳曼语传播古基因组、苏拉威西早期岩画、Xultun玛雅数学家、赫梯王室档案、美洲早期天花基因组
-- 所有页面均为**中英双语**
-- 央视最终结果公布后，将把状态从“候选”更新为“入选/未入选”
+**中文。**
+- **16项**中央广播电视总台2026年候选发现；
+- **7项**补充建议项目：西南亚马孙土方工程、Chan Chan Chimú墓葬、凯尔特语/日耳曼语传播古基因组、苏拉威西早期岩画、Xultun玛雅数学家、赫梯王室档案、美洲早期天花基因组；
+- 所有解释性内容均为**中英双语**；
+- 央视最终结果公布后，将把状态从“候选”更新为“入选/未入选”。
+
+**English.**
+- **16** discoveries from the 2026 CCTV candidate list;
+- **7** additional candidates: Southwest Amazon earthworks, the Chan Chan Chimú tomb, Celtic/Germanic ancient genomics, early Sulawesi rock art, the named Xultun Maya mathematician, the Hittite royal archive, and early smallpox genomes from the Americas;
+- all explanatory content is presented **bilingually in Chinese and English**;
+- CCTV status labels will be updated after the final selections are announced.
 
 ::: {.callout-note title="Living archive / 持续更新"}
-这是一个持续更新的研究型网站。若论文尚未正式发表，页面会明确标记“正式论文待发表”，避免把媒体报道当作已经同行评议的学术结论。
+**中文。** 这是一个持续更新的研究型网站。若论文尚未正式发表，页面会明确标记“正式论文待发表”，避免把媒体报道当作已经同行评议的学术结论。
+
+**English.** This is a continuously updated research archive. When a discovery has not yet received a formal scholarly publication, the site marks that status explicitly rather than presenting media coverage as peer-reviewed evidence.
 :::
