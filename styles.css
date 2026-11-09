@@ -1,0 +1,9 @@
+:root{--arch-ink:#263238;--arch-muted:#607078;--arch-teal:#196b78;--arch-teal-dark:#11515b;--arch-line:#dce5e8;--arch-soft:#f3f8f9;--bs-primary:#196b78;--bs-link-color:#196b78;--bs-link-hover-color:#11515b}
+body{color:var(--arch-ink);line-height:1.82;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",sans-serif;-webkit-font-smoothing:antialiased}
+main.content p,main.content li{line-height:1.86}main.content h1,main.content h2,main.content h3{letter-spacing:-.015em;font-weight:650}
+main.content h2{margin-top:2.4rem;padding-bottom:.42rem;border-bottom:1px solid var(--arch-line)}a{text-underline-offset:3px}
+.homepage-hero{background:linear-gradient(125deg,#f2f8f8,#fff 72%);border-left:5px solid var(--arch-teal);border-radius:0 12px 12px 0;padding:2rem 2.5rem;margin:.4rem 0 2.4rem}
+.hero-kicker{color:var(--arch-teal);font-size:.74rem;font-weight:750;letter-spacing:.16em;margin-bottom:.75rem}.hero-title{color:#19323a;font-size:clamp(2rem,3vw,2.8rem);margin:0 0 .65rem;line-height:1.25}.hero-subtitle{font-size:1.3rem;color:var(--arch-teal-dark);font-weight:600;margin-bottom:1.2rem}.hero-description{max-width:49rem;color:#465a63;font-size:1.05rem;line-height:1.85}
+.discovery-meta{background:var(--arch-soft);border:1px solid var(--arch-line);border-left:5px solid var(--arch-teal);border-radius:8px;padding:1rem 1.2rem;margin:1rem 0 2rem}.discovery-meta p{margin:.35rem 0}
+main.content table{font-size:.92rem}main.content table thead th{background:var(--arch-soft)}.btn-primary{background-color:var(--arch-teal);border-color:var(--arch-teal)}.btn-outline-primary{color:var(--arch-teal);border-color:var(--arch-teal)}
+@media(max-width:767px){.homepage-hero{padding:1.4rem 1.1rem}.hero-title{font-size:2rem}}
