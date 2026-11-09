@@ -5,7 +5,11 @@ from pathlib import Path
 
 UA={"User-Agent":"archaeology-discoveries/2.1 (https://github.com/ZCJing2022/archaeology_discoveries)"}
 
-DATA={\n"01-wonderwerk-fire.qmd":[\n("10.1371/journal.pone.0347480",\n"文章提出以骨骼发光性质快速筛查受热微型骨骼，并用FTIR交叉验证，在Wonderwerk Cave早更新世地层中识别新的用火证据。它的贡献同时包括方法创新和年代推进，但论文支持的是早期人群利用并维持火，而不是证明已经掌握人工取火。",\n"The paper introduces bone luminescence as a rapid screening method for heat-altered microfaunal remains, validated against FTIR, and applies it to Early Pleistocene deposits at Wonderwerk Cave. Its contribution is both methodological and chronological, but the evidence supports the use and maintenance of fire rather than demonstrating deliberate fire-making." )],
+DATA={
+"01-wonderwerk-fire.qmd":[
+("10.1371/journal.pone.0347480",
+"文章提出以骨骼发光性质快速筛查受热微型骨骼，并用FTIR交叉验证，在Wonderwerk Cave早更新世地层中识别新的用火证据。它的贡献同时包括方法创新和年代推进，但论文支持的是早期人群利用并维持火，而不是证明已经掌握人工取火。",
+"The paper introduces bone luminescence as a rapid screening method for heat-altered microfaunal remains, validated against FTIR, and applies it to Early Pleistocene deposits at Wonderwerk Cave. Its contribution is both methodological and chronological, but the evidence supports the use and maintenance of fire rather than demonstrating deliberate fire-making." )],
 "02-yunxian-homo-erectus.qmd":[
 ("10.1126/sciadv.ady2270",
 "文章利用与郧县头骨同层石英砾石的宇生核素 ²⁶Al/¹⁰Be 埋藏测年，将化石层位测定为 1.77±0.08 Ma。其核心贡献是把东亚原位人类头骨记录推进到接近德马尼西的年代，但这一年代与近期形态学解释之间仍存在需要进一步检验的张力。",
