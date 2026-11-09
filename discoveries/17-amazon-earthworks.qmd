@@ -10,15 +10,24 @@ Southwestern Amazonia / 西南亚马孙
 **Date / 年代**  
 Precolonial Amazonia, especially ca. 100–300 CE / 前殖民时期，重点约公元100–300年
 
+**Research / excavation institutions / 发掘或研究机构**  
+University of Helsinki; University of Turku; Federal University of Acre; Finnish Geospatial Research Institute; Federal University of Pará and collaborating Indigenous/community researchers
+
+**Lead researchers / 主要负责人**  
+Martti Pärssinen; Risto Kalliola; Alceu Ranzi; Evandro Ferreira
+
+**Evidence status / 证据状态**  
+Top-tier peer-reviewed research (A); a major omitted candidate from the original CCTV list.
+
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
 :::
 
 ## 主要发现 | Major findings
 
-**中文。** 大规模LiDAR与空间模型显著扩大了西南亚马孙已知土方工程的数量级，并据此重新估计区域人口与土地利用强度。
+**中文。** Aquiry及西南亚马孙研究利用约4430公里LiDAR航线与既有调查，新识别并统计大量土垣/几何土方工程；研究据此估算整个文化区可能存在约2.4万–3万处土方工程，并对公元100–300年前后人口规模作出125万–300万人的模型外推。后者应视为有争议的估计，而不是直接人口计数。
 
-**English.** Large-scale LiDAR and spatial modeling greatly expanded the known scale of earthworks in southwestern Amazonia and enabled new estimates of regional population and land-use intensity.
+**English.** LiDAR survey and spatial modelling across southwestern Amazonia greatly expanded the known scale of geometric earthworks. The authors estimate roughly 24,000–30,000 earthworks across the broader cultural area and model a population of 1.25–3 million around AD 100–300; the population figure is an extrapolation and should be treated as such.
 
 ## 学术重要性 | Intellectual significance
 
