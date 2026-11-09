@@ -22,6 +22,8 @@ website:
         text: "央视遴选 CCTV"
       - href: methods.qmd
         text: "评选标准 Criteria"
+      - href: ranking.qmd
+        text: "暂定排名 Ranking"
       - href: sources.qmd
         text: "来源 Sources"
       - href: under-review.qmd
