@@ -152,3 +152,123 @@ Duke, C. T., Torvinen, A., & Wallis, N. J. (2026). Secret recipes: Potting knowl
 
 - [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/)
 
+## 8. 玛雅低地汞污染与湖泊生态崩溃 | Mercury pollution and aquatic ecosystem collapse in the Maya Lowlands
+
+**地区与年代 | Region and date**  
+Lago Cobá and Cenote Xcach, northern Yucatán Peninsula, Mexico / 墨西哥尤卡坦半岛北部Cobá湖与Xcach天然井；主要污染时段约公元1世纪至9世纪。
+
+**主要发现 | Major findings**  
+**中文。** Waters等利用湖泊与天然井沉积岩芯、放射性碳年代、汞浓度和多类水生生态指标，发现Cobá和Xcach在古典期出现显著的人为汞污染。Cobá约从公元40年前后开始升高，在公元250–300年前后达到高峰；Xcach的高污染持续更久，并在约公元720年前后达到高值。同期藻类、细菌及部分水生无脊椎动物指标明显下降。两个对照湖没有出现同步汞升高，支持污染主要来自局地输入，而不是区域性大气沉降。
+
+**English.** Sediment cores, radiocarbon dating, mercury measurements and aquatic ecological proxies from Lago Cobá and Cenote Xcach reveal substantial anthropogenic mercury contamination during the Maya Classic period. At Cobá, mercury rose from around AD 40 and peaked around AD 250–300; contamination at Xcach persisted longer and reached high levels around AD 720. Multiple biological proxies declined during the contaminated intervals. Two comparison lakes lacked equivalent mercury increases, supporting a local rather than regional atmospheric source.
+
+**学术判断 | Assessment**  
+**中文。** **高优先级待评估。** 论文把玛雅社会长期使用辰砂和液态汞这一文化实践与可测量的水质和生态变化联系起来，为“古代城市环境压力”提供了一条新的直接证据链。但目前没有甲基汞测定，也没有人体中毒的直接证据，因此不能写成“汞中毒导致玛雅崩溃”。更稳妥的表述是：汞污染可能构成干旱、森林变化等压力之外，一个此前被低估的水质压力。
+
+**English.** **High-priority under review.** The study connects Maya use of cinnabar and mercury with measurable deterioration in lake water quality and aquatic ecosystems, adding a new line of evidence to debates about environmental stress. It does not measure methylmercury or demonstrate human poisoning directly, so it should not be framed as “mercury caused the Maya collapse.” The defensible conclusion is that mercury pollution may have been an additional, previously underappreciated water-quality stressor.
+
+**Publication / 出版物**  
+Waters, M. N., et al. (2026). Toxic mercury, aquatic ecosystem collapse, and the ancient Lowland Maya. *Science Advances*. https://doi.org/10.1126/sciadv.aeh3280
+
+## 9. 阿拉斯加Holzman遗址石器与猛犸象牙生产 | Stone and mammoth-ivory production at the Holzman site, Alaska
+
+**地区与年代 | Region and date**  
+Middle Tanana Valley, interior Alaska, USA / 美国阿拉斯加内陆塔纳纳河谷；约14.0–13.7 ka。
+
+**主要发现 | Major findings**  
+**中文。** 2026年的综合研究重新讨论Holzman遗址C5b和C5a文化层，指出约14 ka已经存在烹饪和象牙加工，约13.7 ka的C5a则保存大规模石英加工和猛犸象牙减材、坯料生产活动。研究把这些材料放入东白令地区晚更新世人群移动与技术传播的框架中。
+
+**English.** A 2026 synthesis of the Holzman site examines occupations around 14.0 and 13.7 ka, including cooking, mammoth-ivory working and an extensive quartz workshop associated with ivory reduction and preform production. The study places these activities within broader models of Late Pleistocene dispersal and technological circulation in eastern Beringia.
+
+**学术判断 | Assessment**  
+**中文。** **保留待评估。** 这是北美最早人群研究的重要推进，但部分核心象牙棒材料此前已经发表，2026论文的新增价值更多在于把石器、象牙生产、原料流动和迁徙模式整合起来。与Shég’ Xdaltth’í’相比，它更适合作为补充性而非独立“大发现”候选。
+
+**English.** **Retain under review.** The study is important for the archaeology of the first Alaskans, but some of the key ivory-rod finds were published previously. The main 2026 contribution is the integrated interpretation of lithic production, ivory working, raw-material circulation and human dispersal. Relative to Shég’ Xdaltth’í’, it is better treated as a complementary candidate.
+
+**Publication / 出版物**  
+Potter, B. A., et al. (2026). Stone and mammoth ivory tool production, circulation, and human dispersals in the middle Tanana Valley, Alaska: Implications for the Pleistocene peopling of the Americas. *Quaternary International, 755*, 110087. https://doi.org/10.1016/j.quaint.2025.110087
+
+## 10. 北美晚更新世骰子与机会游戏 | Late Pleistocene dice and games of chance in North America
+
+**研究性质 | Nature of the study**  
+**中文。** Madden根据293套历史时期北美原住民骰子的共同形态特征建立识别标准，再系统检索已发表的北美考古记录。研究认为，符合标准的最早骰子可以追溯到Wyoming、Colorado和New Mexico的Folsom文化沉积，由此把北美机会游戏的历史推回约12,000年前。
+
+**English.** Madden derives morphological criteria from 293 documented sets of historic Native American dice and applies those criteria to the published North American archaeological record. The study identifies the earliest matching artifacts in Folsom deposits in Wyoming, Colorado and New Mexico, suggesting a history of dice and games of chance extending back about 12,000 years.
+
+**学术判断 | Assessment**  
+**中文。** **值得待评估，但属于“旧材料的新解释”。** 文章的方法论创新和文化史意义很强，尤其是在如何客观识别史前骰子方面；但从“骰子”进一步推演到概率认知史，解释层级明显更高，不能把“认识随机性和概率”写成已经直接证明的心理事实。
+
+**English.** **Worth retaining under review, but as a reinterpretation of existing material.** The methodological contribution is substantial because it offers explicit criteria for identifying prehistoric dice. Claims about cognition, probability and randomness are more interpretive and should not be treated as direct archaeological demonstrations of abstract probabilistic reasoning.
+
+**Publication / 出版物**  
+Madden, R. J. (2026). Probability in the Pleistocene: Origins and antiquity of Native American dice, games of chance, and gambling. *American Antiquity, 91*, 584–618.
+
+## 11. Etowah密西西比文化遗址的可可古DNA | Archaeogenomic evidence for cacao at Etowah
+
+**地区与年代 | Region and date**  
+Etowah, Georgia, USA / 美国乔治亚州Etowah；11–12世纪。
+
+**主要发现 | Major findings**  
+**中文。** King等从Etowah早期筑丘阶段宴飨堆积中的陶片内表面提取并鉴定出与*Theobroma cacao*一致的古DNA信号。由于可可无法在乔治亚当地生长，如果这一鉴定成立，就意味着可可通过跨区域交换网络到达了北美东南部，其传播范围远超此前较明确的美国西南部材料。
+
+**English.** Ancient DNA consistent with *Theobroma cacao* was recovered from the interior surfaces of pottery sherds from feasting contexts associated with Etowah’s early mound-building phase. Because cacao could not have grown locally in Georgia, the result implies long-distance movement of cacao into the Mississippian Southeast, extending its known pre-contact distribution beyond the better-documented American Southwest.
+
+**学术判断 | Assessment**  
+**中文。** **值得待评估。** 同行评议论文和古DNA证据使它具有真实分量，但材料来自20世纪中期发掘、之后长期清洗和保存的陶片，污染和具体使用情境仍需谨慎讨论。研究能较有力支持“Etowah存在可可”，但尚不能确定产地、交换路线或具体饮用方式。
+
+**English.** **Worth retaining under review.** The peer-reviewed archaeogenomic evidence is significant, but the sherds were excavated and curated decades ago, so contamination and precise use context require caution. The study supports cacao presence at Etowah more strongly than it establishes its source, exchange route or exact mode of consumption.
+
+**Publication / 出版物**  
+King, A., Powis, T. G., Argout, X., et al. (2026). Cacao in the Mississippian World: Archaeogenomic evidence for *T. cacao* consumption at the Etowah Site, Georgia. *PLOS ONE, 21*(8), e0353607. https://doi.org/10.1371/journal.pone.0353607
+
+## 12. Crawford Lake沉积古DNA与千年人地关系 | Crawford Lake sedaDNA and a millennium of human–environment interactions
+
+**地区与年代 | Region and date**  
+Crawford Lake, Ontario, Canada / 加拿大安大略Crawford Lake；约过去1300年。
+
+**主要发现 | Major findings**  
+**中文。** Murchie、Emery等首次系统分析Crawford Lake过去约1300年的沉积古DNA记录，从植物、动物、藻类、真菌和细菌等多个类群重建生态变化。数据直接检出与13–16世纪原住民农业相关的玉米和向日葵DNA，并显示农业、定居和加拿大雁活动与富营养化及藻华变化相伴。
+
+**English.** Sedimentary ancient DNA from Crawford Lake reconstructs ecosystem change over roughly 1,300 years across plants, animals, algae, fungi and bacteria. The study directly detects maize and sunflower DNA associated with Indigenous farming between the thirteenth and sixteenth centuries and links agricultural settlement and Canada-goose activity with repeated eutrophication and algal change.
+
+**学术判断 | Assessment**  
+**中文。** **适合待评估，不宜直接作为传统“田野发现”。** 其重要性主要是方法学和人地关系研究：它把湖泊沉积古DNA与已有考古、孢粉和地球化学证据整合起来。它同时纠正一个容易过时的说法：Crawford Lake曾在2023年被选为拟议“人类世”金钉子候选地，但该正式地质时代提议已在2024年被否决。
+
+**English.** **Appropriate for under review rather than immediate promotion as a conventional field discovery.** Its significance is methodological and paleoecological, integrating sedaDNA with archaeological, palynological and geochemical records. The site was selected in 2023 as the candidate reference site for the proposed Anthropocene epoch, but that formal geological proposal was rejected in 2024.
+
+**Publication / 出版物**  
+Murchie, T. J., Emery, M. V., et al. (2026). Sedimentary ancient DNA tracks multi-kingdom ecosystem reorganizations following sequential human land use at Crawford Lake. *Molecular Ecology, 35*(17), e70529. https://doi.org/10.1111/mec.70529
+
+## 13. 罗马统治与伊比利亚人口结构变化 | Roman colonization and population change in Iberia
+
+**研究性质 | Nature of the study**  
+**中文。** Carrión等报告243名公元100–800年古代个体的新基因数据，并与58名已发表个体联合分析。研究识别出罗马时期来自东地中海和北非的显著祖源输入；相比之下，5世纪以后日耳曼和Alan政治集团到来后，伊比利亚本地人口整体连续性更强。
+
+**English.** Carrión and colleagues report new genetic data from 243 individuals dating to AD 100–800 and analyze them together with 58 previously published individuals. The study identifies substantial Eastern Mediterranean and North African ancestry influx during Roman rule, whereas population continuity remained stronger after fifth-century Germanic and Alan political takeovers.
+
+**学术判断 | Assessment**  
+**中文。** **高质量古基因组研究，先留待评估。** 样本量和问题意识都很强，能够比较“帝国殖民”与“后罗马政治迁徙”对人口的不同影响。但它属于跨31处遗址的大尺度古基因组综合，而不是单一考古发现，是否晋升取决于本站最终对“综合性新认识”的权重。
+
+**English.** **High-quality archaeogenomic research, retained under review.** The sample and comparative design directly address the contrasting demographic effects of Roman imperial integration and post-Roman political migrations. As a synthesis across 31 archaeological sites rather than a single field discovery, promotion depends on how strongly the final list weights large-scale interpretive advances.
+
+**Publication / 出版物**  
+Carrión, P., et al. (2026). Contrasting demographic impacts of Roman colonization and early medieval migrations in the Iberian Peninsula. *Cell*. https://doi.org/10.1016/j.cell.2026.09.052
+
+## 14. 加泰罗尼亚Cova de la Font Major旧石器时代洞穴刻画 | Palaeolithic engravings at Cova de la Font Major, Catalonia
+
+**地区与年代 | Region and date**  
+L’Espluga de Francolí, Catalonia, Spain / 西班牙加泰罗尼亚；主要与早期上旧石器时代背景相关，部分图像的直接年代仍待进一步确定。
+
+**主要发现 | Major findings**  
+**中文。** Vergès Bosch与Salas-Altès系统发表了2019年识别的Cova de la Font Major洞穴刻画，共记录280个图像单元，其中55个为动物形象。就动物图像数量而言，它成为伊比利亚地中海沿岸目前第三大的旧石器时代洞穴艺术组合，也是东部伊比利亚目前唯一达到这一规模的洞穴艺术遗址。洞穴深部同时存在约40,000–26,000年前的人类活动年代背景。
+
+**English.** Vergès Bosch and Salas-Altès formally document 280 engraved motifs identified at Cova de la Font Major, including 55 zoomorphic figures. By number of animal representations it is now the third-largest Palaeolithic parietal-art assemblage along the Iberian Mediterranean façade and the only large assemblage of this scale known in the eastern peninsula. Human activity in the deeper cave is independently documented in contexts dating roughly 40,000–26,000 years ago.
+
+**学术判断 | Assessment**  
+**中文。** **高优先级待评估。** 它显著改变了对东北伊比利亚旧石器时代艺术“缺席”的认识，而且有完整的*Antiquity*同行评议论文和Nature News报道。需要保留的限制是：许多图像目前主要依靠考古背景和风格比较归入前Magdalenian阶段，直接年代仍有限，不能把全部280个图像都简单写成“26,000年前”。
+
+**English.** **High-priority under review.** The assemblage substantially changes the perceived geographic gap in Palaeolithic cave art in north-eastern Iberia and is supported by a full peer-reviewed *Antiquity* publication. The key limitation is chronology: many engravings are assigned to pre-Magdalenian phases through archaeological context and stylistic comparison rather than direct dating, so the entire corpus should not be described simply as “26,000 years old.”
+
+**Publication / 出版物**  
+Vergès Bosch, J. M., & Salas-Altès, M. (2026). Filling gaps: The Palaeolithic rock art of the Cova de la Font Major on the north-east Iberian Peninsula. *Antiquity*, 1–22. https://doi.org/10.15184/aqy.2026.10447
+
