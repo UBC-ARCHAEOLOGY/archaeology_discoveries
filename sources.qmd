@@ -4,42 +4,63 @@ title: "来源与编辑原则 | Sources & Editorial Policy"
 
 ## 证据层级 | Evidence hierarchy
 
-本站优先按以下顺序核查：
+**中文。** 本站优先按以下顺序核查：
 
 1. 正式同行评议论文与DOI；
 2. Nature News、Science、大学或研究机构正式新闻稿；
-3. New York Times、BBC、CNN、Archaeology Magazine等主流媒体；
+3. New York Times、BBC、CNN、The Guardian、Smithsonian Magazine、Archaeology Magazine等主流媒体；
 4. 项目公告或考古机构新闻；
 5. 二手转述仅作为线索，不作为关键学术判断的唯一依据。
 
+**English.** Sources are checked in the following order of priority:
+
+1. peer-reviewed publications and DOI records;
+2. Nature News, Science, and official university or research-institution releases;
+3. major media such as The New York Times, BBC, CNN, The Guardian, Smithsonian Magazine, and Archaeology Magazine;
+4. project or archaeological-agency announcements;
+5. secondary summaries are used only as leads and not as the sole basis for major scholarly claims.
+
 ## 图像 | Images
 
-图片遵循“**来源明确、用途透明、尽量使用开放许可或出版方允许的图版**”原则。初始版本主要提供论文图版和媒体图像的来源链接；在许可确认后，可将重要图像稳定存入仓库并附完整图注。
+**中文。** 图片遵循“**来源明确、用途透明、尽量使用开放许可或出版方允许的图版**”原则。可以确认再利用许可的图像保存到仓库并附完整图注；没有明确再利用许可的图像只提供原始来源链接。
+
+**English.** Images follow the principle of **clear provenance, transparent use, and preference for openly licensed or explicitly reusable figures**. Images with verified reuse rights are stored in the repository with full captions; images without confirmed reuse permission are linked to their original source rather than copied.
 
 ## 双语原则 | Bilingual policy
 
-中文与英文都忠实于同一证据基础，但不要求逐句互译。两种语言优先采用各自学术表达习惯，并保持核心事实、年代、地点和学术判断一致。
+**中文。** 中文与英文忠实于同一证据基础，但不要求逐句互译。两种语言优先采用各自的学术表达习惯，并保持核心事实、年代、地点和学术判断一致。作者名、论文题名、期刊名、机构名和媒体名称等来源信息保留原语言。
+
+**English.** Chinese and English are grounded in the same evidence base but are not required to be sentence-by-sentence translations. Each language follows its own academic conventions while keeping core facts, dates, places, and evaluations consistent. Source information such as author names, publication titles, journal names, institutional names, and media outlets remains in the original language.
 
 ## 更正 | Corrections
 
-若发现年代、分类、论文状态或媒体链接有误，欢迎通过GitHub Issues提交更正。
+**中文。** 若发现年代、分类、论文状态、许可信息或媒体链接有误，欢迎通过GitHub Issues提交更正。
 
+**English.** Corrections to chronology, taxonomy, publication status, image licensing, or media links are welcome through GitHub Issues.
 
 ## 图像许可状态 | Image-rights status
 
-为避免把“可以在线阅读”误当作“可以复制图片”，本站对每幅候选图采用三级标记：
+**中文。** 为避免把“可以在线阅读”误当作“可以复制图片”，本站对每幅候选图采用三级标记：
 
-- **可嵌入 / Embeddable**：论文或图版明确采用 CC BY、CC BY-NC-ND 等许可，且图注没有另列第三方版权。转载时保留完整署名、论文链接和许可说明；ND 许可下不裁切、不改图。
-- **只可链接 / Link only**：媒体摄影、政府/项目新闻图片、NEJM 等未提供一般再利用许可的图像。网站提供原始来源链接，但不复制图片文件。
+- **可嵌入 / Embeddable**：论文或图版明确采用 CC BY、CC BY-NC-ND 等许可，且图注没有另列第三方版权。转载时保留完整署名、论文链接和许可说明；ND许可下不裁切、不改图。
+- **只可链接 / Link only**：媒体摄影、政府/项目新闻图片、NEJM等未提供一般再利用许可的图像。网站提供原始来源链接，但不复制图片文件。
 - **待逐图确认 / Caption-level check pending**：文章本身开放获取，但具体图版可能包含博物馆、摄影师、地图底图或其他第三方材料。只有检查图注后才决定是否嵌入。
 
-### 当前已明确的许可示例
+**English.** To avoid confusing “free to read” with “free to reproduce,” each candidate image is assigned one of three statuses:
+
+- **Embeddable / 可嵌入**: the article or figure carries a clear reuse licence such as CC BY or CC BY-NC-ND and the caption does not identify separate third-party rights. Full attribution, article link, and licence information are retained; ND-licensed figures are not cropped or altered.
+- **Link only / 只可链接**: media photography, government/project photographs, NEJM images, and other material without a general reuse licence are linked but not copied.
+- **Caption-level check pending / 待逐图确认**: the article is open access but individual figures may contain museum, photographer, basemap, or other third-party material. Embedding occurs only after the caption is checked.
+
+### 当前已明确的许可示例 | Current verified examples
 
 - Wonderwerk Cave (*PLOS ONE*): **CC BY**
 - Marathousa 1 wooden tools (*PNAS*): **CC BY-NC-ND 4.0**
 - Lake Baikal plague (*Nature*): **CC BY 4.0**
 - Argishtikhinili irrigation (*Antiquity*): **CC BY 4.0**
 - Sanam Kushite faience (*Antiquity*): **CC BY 4.0**
-- Shang copper network (*Nature Communications*): **CC BY-NC-ND 4.0**
+- Sulawesi rock art (*Nature*): **CC BY-NC-ND 4.0**
 
-“开放获取”本身不保证所有图都能自由转载；若图注另列第三方版权，以该图注为准。
+**中文。** “开放获取”本身不保证所有图都能自由转载；若图注另列第三方版权，以该图注为准。
+
+**English.** Open access alone does not guarantee that every figure can be freely reproduced; any separate third-party credit in a figure caption takes precedence.
