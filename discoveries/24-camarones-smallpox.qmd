@@ -1,0 +1,49 @@
+---
+title: "24. 智利Camarones 9：美洲最早古代天花基因组"
+subtitle: "The earliest ancient smallpox genomes recovered in the Americas"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Camarones 9, northern Chile / 智利北部Camarones 9
+
+**Date / 年代**  
+Early colonial period, ca. AD 1492–1631 / 欧洲接触后的早期殖民时期
+
+**Research / excavation institutions / 发掘或研究机构**  
+Universidad de Chile; Universidad de Tarapacá; Trinity College Dublin; Kanazawa University
+
+**Lead researchers / 主要负责人**  
+Bruno Romero González; Margarita Reyes-Madrid; Bernardo Arriaza; Constanza de la Fuente Castro; Shigeki Nakagome
+
+**Evidence status / 证据状态**  
+Top-tier peer-reviewed archaeogenomic research (A).
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 研究从智利北部Camarones 9两名印加—殖民时期个体中重建出美洲最早的古代天花病毒基因组，年代约为公元1492–1631年。病毒属于一个现已灭绝的谱系，其分化时间晚于中世纪欧洲早期毒株、早于现代variola谱系形成。
+
+**English.** Researchers reconstructed the first ancient smallpox genomes from the Americas from two Inca-Colonial individuals at Camarones 9 in northern Chile, dating to approximately AD 1492–1631. The viruses belong to an extinct lineage that split after early medieval European strains but before modern variola lineages emerged.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 美洲接触后疾病造成的人口灾难长期主要依赖历史文献和人口学推断。这项研究首次提供病原体本身的直接分子证据，把“天花何时、以何种谱系进入南美洲”转化为可由古基因组检验的问题，也使殖民史、疾病史与考古人群研究真正结合起来。
+
+**English.** The demographic catastrophe caused by post-contact disease has long been reconstructed largely from documentary and demographic evidence. These genomes provide direct molecular evidence for smallpox introduction into South America and connect colonial history, pathogen evolution, and archaeological human remains.
+
+## 学术论文 | Academic publications
+
+- [Science: The genomic identity of early smallpox in South America](https://doi.org/10.1126/science.aee6957)
+
+## 主要媒体报道 | Major media coverage
+
+- [Universidad de Chile](https://uchile.cl/noticias/242971/primeros-genomas-antiguos-de-viruela-en-america-aportan-evidencia-molecular)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Science article](https://doi.org/10.1126/science.aee6957)
+- [Universidad de Chile report](https://uchile.cl/noticias/242971/primeros-genomas-antiguos-de-viruela-en-america-aportan-evidencia-molecular)
