@@ -23,6 +23,12 @@ Peer-reviewed specialist journal (B); important new method and early-fire eviden
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 人类何时开始利用火，是早期人属行为演化的核心问题。火与食物加工、夜间活动、捕食者防御、营地组织以及“烹饪假说”所讨论的能量收益密切相关，但百万年以上的燃烧痕迹极难区分自然火、次生搬运与真正的人类用火。Wonderwerk Cave的特殊价值在于燃烧证据位于距古洞口约30米的洞内原位堆积中，而且同一遗址约100万年前层位早已有多种燃烧指标，因此它提供了罕见的长时段比较序列。
+
+**English.** The timing of fire use is central to debates about the behavioural evolution of early Homo because fire potentially affected food processing, activity schedules, predator protection, camp organization, and energetic models such as the cooking hypothesis. Evidence older than one million years is especially difficult to interpret because natural wildfire, redeposition, and anthropogenic burning can be hard to distinguish. Wonderwerk Cave is unusually important because the burning occurs deep inside an in-situ cave sequence, about 30 m from the palaeo-entrance, and can be compared with the site's already well-established ~1 Ma fire evidence.
+
 ## 主要发现 | Major findings
 
 **中文。** 研究者在Wonderwerk Cave更深层沉积中识别出受热的微小动物骨骼，并结合骨骼发光性质与FTIR验证受热状态，将洞穴内古人类用火证据推进到更早的早更新世层位。论文给出的地层年代窗口约为107万–179万年前，研究者倾向其接近170万–180万年前。
@@ -35,13 +41,34 @@ CCTV candidate / 央视候选
 
 **English.** The importance is not simply an earlier record. The timing of habitual fire use bears on food processing, camp organization, activity schedules, predator avoidance, and social interaction. The evidence suggests that fire already mattered within the behavioral ecology of early Homo erectus, while not demonstrating deliberate fire-making.
 
+## 论文核查 | Publication verification
+
+- **Marin-Monfort, M. Dolores, Candice L. Shaw, Filipe Natalio, Liron Grossman, Peter Andrews, Joaquín Campos, Sara García-Morato, José M. Pereira, Alicia Pons, Michael Chazan, Liora Kolska Horwitz & Yolanda Fernández-Jalvo.**
+- **Title:** *New evidence for Early Pleistocene use of fire at Wonderwerk Cave (South Africa)*
+- **Journal:** *PLOS ONE* 21(6): e0347480
+- **DOI:** [10.1371/journal.pone.0347480](https://doi.org/10.1371/journal.pone.0347480)
+- **Published:** 1 June 2026
+- **Open access:** **Yes — CC BY**. Article text and figures are reusable with attribution unless a figure caption states otherwise.
+
 ## 学术论文 | Academic publications
 
 - [PLOS ONE paper](https://doi.org/10.1371/journal.pone.0347480)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Archaeology Magazine](https://archaeology.org/news/2026/06/26/traces-of-homo-erectus-fire-use-dated-to-1-8-million-years-ago/)\n- [Science News](https://www.sciencenews.org/article/hominids-had-fire-longer-than-thought)
+- [Science News — “We’ve had fire for longer than we thought”](https://www.sciencenews.org/article/hominids-had-fire-longer-than-thought)
+- [Archaeology Magazine](https://archaeology.org/news/2026/06/26/traces-of-homo-erectus-fire-use-dated-to-1-8-million-years-ago/)
+- No additional report was located in the target NYT/BBC/CNN/Guardian/Smithsonian set during the current audit.
+
+## 关键图像与许可 | Key images and permissions
+
+The PLOS article is CC BY; figures may be reused unchanged with full attribution unless separately credited.
+
+1. **Fig. 1 — Wonderwerk Cave location, excavation area and stratigraphic section.** [Original figure](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0347480.g001) — **CC BY**.
+2. **Fig. 3 — Luminescence and FTIR comparison of burnt and unburnt bone.** [Original figure](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0347480.g003) — **CC BY**.
+3. **Fig. 4 — Burnt microfauna and analytical comparison.** [Original figure](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0347480.g004) — **CC BY**.
+
+These are the preferred images for the page because they explain context, method, and evidence rather than merely illustrating a cave.
 
 ## 图像与图版来源 | Images and figure sources
 
