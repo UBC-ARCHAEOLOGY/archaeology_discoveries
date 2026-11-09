@@ -38,3 +38,6 @@ The table below summarizes all entries currently included in the site.
 | 29 | [Etowah密西西比文化中的可可古DNA](discoveries/29-etowah-cacao.qmd)<br>Archaeogenomic evidence for cacao at Etowah | Georgia, USA / 美国乔治亚州 | 11th–12th c. CE / 公元11–12世纪 | Additional candidate / 补充建议 |
 | 30 | [罗马统治与伊比利亚人口结构变化](discoveries/30-roman-iberia-adna.qmd)<br>Roman and post-Roman population change in Iberia | Iberian Peninsula / 伊比利亚半岛 | ca. AD 100–800 / 约公元100–800年 | Additional candidate / 补充建议 |
 | 31 | [Tampa Bay密西西比移民陶工与技术知识](discoveries/31-tampa-bay-migrant-potters.qmd)<br>Migrant Mississippian potters in Tampa Bay | Florida, USA / 美国佛罗里达 | ca. AD 1000–1600 / 约公元1000–1600年 | Additional candidate / 补充建议 |
+| 32 | [塔吉克斯坦Karatau早期旧石器绝对年代](discoveries/32-karatau-palaeolithic.qmd)<br>Karatau Early Palaeolithic chronology | Tajikistan / 塔吉克斯坦 | Middle Pleistocene / 中更新世 | Additional candidate / 补充建议 |
+| 33 | [Widgingarri Shelter 1 ≥55 ka Aboriginal文化序列](discoveries/33-widgingarri-shelter.qmd)<br>Widgingarri Shelter 1 Aboriginal sequence | Northwest Australia / 澳大利亚西北部 | ≥55 ± 4 ka to Holocene / ≥55±4 ka至全新世 | Additional candidate / 补充建议 |
+| 34 | [苏门答腊Bongal lashed-lug古船](discoveries/34-bongal-boats.qmd)<br>Bongal lashed-lug boats and maritime networks | North Sumatra, Indonesia / 印尼北苏门答腊 | 7th–8th c. CE / 公元7–8世纪 | Additional candidate / 补充建议 |
