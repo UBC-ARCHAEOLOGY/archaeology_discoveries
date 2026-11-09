@@ -23,6 +23,12 @@ Peer-reviewed specialist-journal research (B); remote-sensing interpretation is 
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 乌拉尔图水利工程早已因凡湖地区的铭文和大型运河著名，但亚拉拉特平原缺乏区域尺度的系统复原。研究的关键不是“找到一条古渠”，而是用遥感重新构建城市、耕地、河道和灌溉网络之间的关系，从而讨论国家如何通过水资源基础设施把干旱土地变成稳定农业景观。
+
+**English.** Urartian hydraulic engineering has long been known from inscriptions and major canals around Lake Van, but the Ararat Plain lacked a regional reconstruction. The importance of this study is therefore not a single canal but the remote-sensing reconstruction of relationships among fortress, fields, palaeochannels, and irrigation, allowing water infrastructure to be analysed as a mechanism of landscape transformation and state organization.
+
 ## 主要发现 | Major findings
 
 **中文。** 卫星、多光谱和数字地形模型识别出阿尔吉什蒂希尼利周边复杂水利景观，共绘出约1019公里水管理要素，但其中约429公里为现代渠道、约420公里为古河道/溪流；真正被识别为疑似古代运河的约134.6公里，其中约36公里保存较清晰。
@@ -35,13 +41,35 @@ CCTV candidate / 央视候选
 
 **English.** The study treats irrigation as part of state formation and landscape transformation rather than merely an agricultural accessory. The network implies labor mobilization, surveying, water rights, maintenance, and administrative coordination, illuminating how the Urartian state converted an arid setting into a productive landscape.
 
+## 论文核查 | Publication verification
+
+- **Buławka, Nazarij; Krzysztof Jakubiak; Inessa Karapetyan.**
+- **Title:** *The water management around the Urartian fortress of Argishtikhinili, Armenia*
+- **Journal:** *Antiquity* 100(412), e40
+- **DOI:** [10.15184/aqy.2026.10344](https://doi.org/10.15184/aqy.2026.10344)
+- **Published online:** 13 May 2026
+- **Open access:** **Yes — CC BY 4.0**. Text and figures may be reused with attribution unless a figure contains separately credited third-party material.
+
 ## 学术论文 | Academic publications
 
 - [Antiquity](https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Archaeology Magazine](https://archaeology.org/)
+- [Archaeology Magazine](https://archaeology.org/news/2026/07/20/2700-year-old-irrigation-system-studied-in-armenia/)
+- [Science in Poland](https://scienceinpoland.pl/en/news/news%2C113616%2Cpolish-archaeologists-discover-complex-ancient-water-distribution-system-armenia)
+- [Antiquity — original article](https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D)
+
+## 关键图像与许可 | Key images and permissions
+
+The article is **CC BY 4.0**. Preferred figures:
+
+1. **Regional location map / study area.**
+2. **Argishtikhinili viewed from the north** (photograph by Krzysztof Jakubiak; included in the CC BY article unless caption states otherwise).
+3. **Digital terrain / MSRM visualization of canals and palaeochannels.**
+4. **Mapped ancient, modern and potential canal network.**
+
+[Open-access article and figures](https://www.cambridge.org/core/journals/antiquity/article/water-management-around-the-urartian-fortress-of-argishtikhinili-armenia/137974774D303DE4F7AE91B8581EAB7D)
 
 ## 图像与图版来源 | Images and figure sources
 
