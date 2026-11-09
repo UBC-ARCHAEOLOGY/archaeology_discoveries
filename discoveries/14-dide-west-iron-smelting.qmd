@@ -23,6 +23,12 @@ Peer-reviewed specialist-journal research (B).
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 西非早期冶铁研究长期被“独立起源还是外来传播”这一宏大问题主导，但越来越多技术考古研究转向另一个层次：工艺传统如何被学习、维持与缓慢改变。Didé West 1的优势是保存异常完整、使用时间长，能够把炉体、风嘴、炉渣、空间移动和燃料/填料选择放进近八百年的连续序列中。
+
+**English.** Early iron metallurgy in West Africa has often been framed by the large question of independent invention versus diffusion. Increasingly, however, technological archaeology asks how specific craft traditions were learned, maintained, and incrementally modified. Didé West 1 is exceptional because its preservation and long duration allow furnaces, tuyères, slag, workshop movement, and fuel or packing choices to be followed across nearly eight centuries.
+
 ## 主要发现 | Major findings
 
 **中文。** 遗址保存约35个炉基、成组风嘴和大量炉渣，并显示一种炼铁传统持续约八个世纪，仅发生有限技术调整。
@@ -35,13 +41,37 @@ CCTV candidate / 央视候选
 
 **English.** Its strongest contribution is not to settle where African iron metallurgy originated, but to explain technological persistence. The long sequence offers rare evidence for craft learning, skill transmission, local resources, and culturally structured technological choice.
 
+## 论文核查 | Publication verification
+
+- **Morel, Mélissa; Pierre Lamotte; Ladji Dianifaba; Alexander Walmsley; Irka Hajdas; Vincent Serneels; Anne Mayor.**
+- **Title:** *Evolution of an Early and Long-Lasting Iron Smelting Technique at Didé West 1, Falémé Valley, Eastern Senegal*
+- **Journal:** *African Archaeological Review* 43(2): 339–365
+- **DOI:** [10.1007/s10437-026-09653-z](https://doi.org/10.1007/s10437-026-09653-z)
+- **Published online:** 25 March 2026
+- **Open access:** a full-text PMC copy is available. The licence should be checked in the final article PDF/rights line before embedding figures; do not assume all images are CC solely from PMC availability.
+
 ## 学术论文 | Academic publications
 
 - [Publication record](https://pubmed.ncbi.nlm.nih.gov/42865535/)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Chinese Social Sciences Net / 中国社会科学网](https://www.cssn.cn/)
+- [Archaeology Magazine](https://archaeology.org/news/2026/04/02/iron-workshop-in-senegal-operated-for-800-years/)
+- [PubMed / article metadata](https://pubmed.ncbi.nlm.nih.gov/42865535/)
+- [PMC full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC13654891/)
+- No additional major target-outlet report was verified.
+
+## 关键图像与许可 | Key images and permissions
+
+Recommended set:
+
+1. **Aerial view of the excavated workshop and semicircular tuyère deposits.**
+2. **Pile / arrangement of multiperforated tuyères.**
+3. **Plan of the 35 furnace bases and workshop movement through time.**
+4. **FAL02 furnace/tuyère technological reconstruction.**
+5. **Palm-nut packing evidence.**
+
+Archaeology Magazine explicitly credits the photographs to **Anne Mayor**. Those media images are therefore **not embedded**. Article figures should only be embedded after the article's figure-level licence is confirmed.
 
 ## 图像与图版来源 | Images and figure sources
 
