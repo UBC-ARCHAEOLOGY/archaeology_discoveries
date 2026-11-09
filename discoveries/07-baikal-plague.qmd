@@ -1,0 +1,44 @@
+---
+title: "7. 贝加尔湖约5500年前狩猎采集者鼠疫暴发"
+subtitle: "Plague outbreaks among Lake Baikal hunter-gatherers ~5,500 years ago"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Lake Baikal, Russia / 俄罗斯贝加尔湖
+
+**Date / 年代**  
+Late Neolithic–Early Bronze Age · ca. 5.5 ka / 约5500年前
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 研究在贝加尔湖周边墓地多个个体中检出并重建鼠疫耶尔森菌基因组，显示狩猎采集社群中可能发生过致命的群体性鼠疫暴发。
+
+**English.** Researchers detected and reconstructed Yersinia pestis genomes in multiple individuals from cemeteries around Lake Baikal, indicating lethal plague outbreaks among hunter-gatherer communities.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这一发现挑战了把严重流行病主要与农业定居、人口高密度和“新石器时代疾病转型”联系起来的简单模型。它说明小规模、流动性较高的狩猎采集群体同样可能受到高度致命传染病影响。
+
+**English.** The evidence complicates simple models that tie severe epidemics primarily to dense farming settlements and the Neolithic epidemiological transition. Highly lethal infectious disease could also affect relatively small and mobile hunter-gatherer populations.
+
+## 学术论文 | Academic publications
+
+- [Nature](https://www.nature.com/articles/s41586-026-10540-5)
+
+## 主要媒体报道 | Major media coverage
+
+- [Nature](https://www.nature.com/articles/s41586-026-10540-5)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature article figures](https://www.nature.com/articles/s41586-026-10540-5)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
