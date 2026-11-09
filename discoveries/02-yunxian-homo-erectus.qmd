@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A), but the revised chronology remains debated 
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** “最早何时到达东亚”长期是早期人类扩散研究的关键问题。格鲁吉亚Dmanisi约185万—178万年前的人属化石提供了非洲以外早期人类的经典锚点；中国上陈、西侯度等遗址则有更早石器，但缺乏与之直接对应的人骨。郧县三具头骨因此特别重要：它们既有明确化石实体，又长期受年代不确定性制约。新的宇生核素埋藏测年把争论从“是否很早”推进到“约177万年的年代是否真正代表头骨埋藏事件”。
+
+**English.** The timing of the earliest hominin presence in East Asia is a long-standing question in human dispersal studies. Dmanisi provides the classic early extra-African fossil benchmark, whereas Chinese sites such as Shangchen and Xihoudu have very early lithic claims without directly associated hominin fossils. The Yunxian crania are therefore unusually important because they are substantial fossils whose interpretation has long been constrained by chronology. The new cosmogenic burial age shifts the debate toward whether ~1.77 Ma truly dates the depositional history of the crania.
+
 ## 主要发现 | Major findings
 
 **中文。** 新的沉积年代研究把郧县人头骨所在层位修正到约177万年前，使这批原位头骨成为东亚最早的一组可靠直立人化石记录之一。
@@ -35,13 +41,34 @@ CCTV candidate / 央视候选
 
 **English.** The result bears directly on how quickly early Homo dispersed beyond Africa, but its interpretation is contested because the much older chronology sits uneasily with recent morphological and phylogenetic work on the Yunxian crania. The revised age approaches that of Dmanisi in Georgia, suggesting that hominins may have reached far eastern Eurasia soon after the earliest extra-African dispersals rather than only after a long staged expansion.
 
+## 论文核查 | Publication verification
+
+- **Tu, Hua; Xiaobo Feng; Lan Luo; Zhongping Lai; Darryl Granger; Christopher Bae; Guanjun Shen.**
+- **Title:** *The oldest in situ Homo erectus crania in eastern Asia: The Yunxian site dates to ~1.77 Ma*
+- **Journal:** *Science Advances* 12(8): eady2270
+- **DOI:** [10.1126/sciadv.ady2270](https://doi.org/10.1126/sciadv.ady2270)
+- **Published online:** 18 February 2026; issue date 20 February 2026
+- **Open access:** **Yes** (Science Advances; free full text via PMC). Figure-specific reuse should follow the article licence and individual credit lines.
+
 ## 学术论文 | Academic publications
 
 - [Science Advances](https://www.science.org/doi/10.1126/sciadv.ady2270)
 
 ## 主要媒体报道 | Major media coverage
 
+- [Science Advances — original article](https://www.science.org/doi/10.1126/sciadv.ady2270)
 - [Archaeology Magazine summary](https://archaeologymag.com/2026/02/1-77-million-year-old-homo-erectus-skulls-in-china/)
+- No additional verified NYT/BBC/CNN/Guardian/Smithsonian report was located in the present audit.
+
+## 关键图像与许可 | Key images and permissions
+
+Preferred figure set from the open-access article:
+
+1. **Site setting and stratigraphic context** — use the article's site/section figure.
+2. **Yunxian crania and depositional relationship** — use the article's fossil/context figure.
+3. **²⁶Al/¹⁰Be burial-age results** — use the chronology figure.
+
+Because Science-hosted figures may include third-party elements, each figure caption must be checked before direct embedding. Until that caption-level check is complete, the site links to the article rather than copying the image file.
 
 ## 图像与图版来源 | Images and figure sources
 
