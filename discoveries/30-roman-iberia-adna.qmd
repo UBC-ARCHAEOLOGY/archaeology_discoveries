@@ -1,0 +1,67 @@
+---
+title: "30. 罗马统治与伊比利亚人口结构变化"
+subtitle: "Ancient genomes reveal contrasting demographic impacts of Roman and post-Roman rule in Iberia"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Iberian Peninsula / 伊比利亚半岛
+
+**Date / 年代**  
+ca. AD 100–800 / 约公元100–800年
+
+**Research / excavation institutions / 发掘或研究机构**  
+International archaeogenomics collaboration including Harvard Medical School / Reich Laboratory, Spanish and European archaeological institutions
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Pablo Carrión; Iñigo Olalde; David Reich; Carles Lalueza-Fox; Ron Pinhasi; collaborating archaeological and genomic teams.
+
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Cell* study with genome-wide data from 243 newly reported ancient individuals across 31 archaeological sites, analyzed together with 58 previously published individuals.  
+A级——《Cell》同行评议研究，包含31处考古遗址243名新发表古代个体的全基因组数据，并与58名既有个体联合分析。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——直接比较罗马帝国整合与后罗马政治迁徙对同一区域人口结构的不同影响，并揭示帝国统治可伴随大规模人口流动，而政治征服并不必然导致人口替换。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** 伊比利亚从罗马征服到西哥特王国经历了语言、法律、宗教和政治秩序的巨大变化，但这些变化究竟在多大程度上对应人口迁移一直缺少系统古基因组证据。此前罗马城、不列颠和中地中海的古DNA研究已经显示不同地区的人口变化模式差异很大，而伊比利亚这一时期样本长期不足。
+
+**English.** Iberia experienced profound political, linguistic, religious and legal transformations from Roman conquest through the Visigothic period, but the demographic consequences remained poorly resolved. Ancient-DNA studies of Rome, Britain and the central Mediterranean had already revealed regionally divergent trajectories, while Iberia remained comparatively undersampled.
+
+## 主要发现 | Major findings
+
+**中文。** 研究报告243名公元100–800年古代个体的新全基因组数据，来自31处考古遗址、33个墓地，并与58名已发表个体联合分析。罗马时期出现广泛的东地中海相关祖源输入，同时北非祖源在中部和南部尤为明显，使伊比利亚形成高度多样的人口拼图。
+
+**English.** The study reports genome-wide data from 243 ancient individuals dating to AD 100–800, excavated from 31 archaeological sites and 33 necropolises, analyzed alongside 58 previously published individuals. During Roman rule, ancestry associated with the Eastern Mediterranean spread widely, while North African ancestry was especially prominent in central and southern Iberia, producing a genetically diverse population mosaic.
+
+**中文。** 5世纪以后日耳曼和Alan政治集团进入伊比利亚并取得政治控制，研究也识别出具有中北欧相关祖源的个体，其中包括相距约725公里埋葬的兄弟姐妹。但总体而言，Hispano-Roman主体人口保持明显连续性，并未出现与政治权力变化同等规模的人口替换。
+
+**English.** From the fifth century onward, Germanic and Alan political groups entered Iberia, and the study identifies individuals with Central-Northern European-associated ancestry, including siblings buried roughly 725 km apart. Yet the broader Hispano-Roman population remained substantially continuous rather than undergoing population replacement on the scale of the political transformation.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这项研究的重要性在于提供同一区域、相邻历史阶段的直接比较：罗马帝国统治伴随广泛跨地中海人口流动，而后罗马政治集团接管政权却只留下较有限的人口遗传影响。这说明“帝国扩张”“政治征服”和“人口替换”并不是同一个过程。
+
+**English.** The study provides a rare direct comparison of adjacent political regimes within the same region. Roman imperial integration coincided with substantial Mediterranean mobility, whereas post-Roman political takeover produced a more limited demographic signature. Empire, conquest and population replacement were therefore not equivalent processes.
+
+**中文。** 它属于跨31处遗址的大规模古基因组综合，而不是单一遗址的新发掘。本站将其收录为“综合性重大新认识”，与已纳入的凯尔特语/日耳曼语古基因组研究采用同一标准。
+
+**English.** This is a large multi-site archaeogenomic synthesis rather than a single new excavation. It is included as a major interpretive discovery under the same principle already used for the project’s Celtic/Germanic ancient-genomics entry.
+
+## 学术出版物 | Academic publications
+
+Carrión, P., Olalde, I., McCormick, M., et al. (2026). Contrasting demographic impacts of Roman colonization and early medieval migrations in the Iberian Peninsula. *Cell*. https://doi.org/10.1016/j.cell.2026.09.052
+
+## 主要媒体报道 | Major media coverage
+
+- [Cell / ScienceDirect](https://doi.org/10.1016/j.cell.2026.09.052)
+- [Broad Institute publication record](https://www.broadinstitute.org/publications/broad1383406)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Cell article](https://doi.org/10.1016/j.cell.2026.09.052)
