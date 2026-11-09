@@ -1,0 +1,44 @@
+---
+title: "3. 希腊约43万年前木制工具"
+subtitle: "Wooden tools from Greece dating to ~430,000 years ago"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Peloponnese, Greece / 希腊伯罗奔尼撒
+
+**Date / 年代**  
+Middle Pleistocene · ca. 430 ka / 中更新世 · 约43万年前
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 伯罗奔尼撒Megalopolis盆地遗址出土两件具有明确加工与使用痕迹的木制品，其中一件为桤木，另一件可能为柳木或杨木。
+
+**English.** Two worked wooden objects with clear traces of manufacture and use were recovered from the Megalopolis Basin in the Peloponnese, including alder and probable willow or poplar.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 旧石器时代常被理解为“石器时代”，很大程度上是保存偏差造成的。木材、纤维和皮革等有机技术通常不会保存。这批木器说明中更新世技术系统远比单纯石器组合更丰富，也强化了对早期人类木工、采集和日常工具系统的重新评估。
+
+**English.** The apparent dominance of stone in Palaeolithic technology is strongly shaped by preservation bias. Wood, fiber, and hide rarely survive. These finds show that Middle Pleistocene technological systems were more diverse than lithic assemblages alone suggest and invite a broader reconstruction of woodworking and everyday toolkits.
+
+## 学术论文 | Academic publications
+
+- [Open-access article (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
+
+## 主要媒体报道 | Major media coverage
+
+- [BBC](https://www.bbc.co.uk/newsround/articles/cn0yp4g0ek4o)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Article figures (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
