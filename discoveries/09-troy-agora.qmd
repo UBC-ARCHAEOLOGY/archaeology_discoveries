@@ -23,6 +23,12 @@ Media / excavation announcement only (D); interpretation of the space as an “a
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 特洛伊晚青铜时代毁灭以后的人口连续性、复居时间与公共空间再利用，是理解Troy VI/VII到铁器时代Ilion转变的重要问题。所谓“agora”尤其需要谨慎，因为它是一个带有古典城邦制度含义的功能术语，把它用于晚青铜时代空间需要建筑、活动面、出土物和比较材料共同支持。
+
+**English.** Population continuity, the timing of reoccupation, and reuse of public space after the Late Bronze Age destruction are central to understanding the transition from Troy VI/VII to Iron Age Ilion. The term “agora” requires particular caution because it carries institutional connotations from later Greek urbanism; applying it to a Late Bronze Age space needs architectural, artefactual, and comparative support.
+
 ## 主要发现 | Major findings
 
 **中文。** 2026年发掘报道聚焦特洛伊VI南门前空间。发掘者认为这里在晚青铜时代已具有市场功能，并在特洛伊青铜时代聚落废弃约80–90年后被新居民重新利用；但“agora”这一功能解释尚未有正式论文论证。
@@ -35,13 +41,32 @@ CCTV candidate / 央视候选
 
 **English.** The strongest scholarly contribution is not simply the identification of a marketplace, but the study of urban memory and persistence: how new inhabitants reorganized life among ruins while continuing to use spaces that already carried public significance.
 
+## 论文核查 | Publication verification
+
+- **Formal peer-reviewed publication for the 2026 “earliest agora” claim:** none identified.
+- **Primary 2026 source:** excavation-team statements reported by Hürriyet Daily News and summarized by *Archaeology Magazine*.
+- **Scholarly status:** preliminary interpretation from ongoing fieldwork.
+- **Open access / reuse:** media images are not under a general open licence.
+
 ## 学术论文 | Academic publications
 
 - Formal publication pending / 正式论文待发表
 
 ## 主要媒体报道 | Major media coverage
 
-- [Archaeology Magazine](https://archaeology.org/news/2026/09/15/troys-earliest-agora-unearthed/)\n- [Hürriyet Daily News](https://www.hurriyetdailynews.com/troys-ancient-agora-uncovered-in-recent-excavations-226718)
+- [Archaeology Magazine](https://archaeology.org/news/2026/09/15/troys-earliest-agora-unearthed/)
+- [Hürriyet Daily News](https://www.hurriyetdailynews.com/troys-ancient-agora-uncovered-in-recent-excavations-226718)
+- No target-outlet Nature/Science/NYT/BBC/CNN/Guardian/Smithsonian report was located.
+
+## 关键图像与许可 | Key images and permissions
+
+Useful images would be:
+
+1. **Aerial/site view of the South Gate and proposed public space.**
+2. **Paved road from the lower city to the South Gate.**
+3. **Entrance/architectural remains associated with the proposed agora.**
+
+The available 2026 photographs are media/excavation-team images without a clear open reuse licence. They are therefore **linked, not embedded**.
 
 ## 图像与图版来源 | Images and figure sources
 
