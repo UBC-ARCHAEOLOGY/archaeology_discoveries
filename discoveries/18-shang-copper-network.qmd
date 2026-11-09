@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A); additional candidate not in the original CC
 Additional candidate / 补充建议
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 中国青铜时代金属资源产地研究长期受一个方法难题限制：商代青铜器普遍是铜—锡—铅合金，熔炼、合金化和回收都会混合或改变原始地球化学信号。与其从最终器物倒推矿源，这项研究直接分析郑州铸铜遗址中的铜矿原料，并把石榴石U-Pb年代、化学组成、铅同位素和黄铜矿微量元素组合成多指标“矿石指纹”。
+
+**English.** Provenance research on Bronze Age Chinese metal has long faced a methodological problem: Shang bronzes are commonly Cu–Sn–Pb alloys, and smelting, alloying, and recycling can blur original geochemical signatures. Instead of inferring ore sources only from finished bronzes, this study analyses ore assemblages from Zhengzhou casting sites and combines garnet U–Pb ages, mineral chemistry, lead isotopes, and chalcopyrite trace elements into a multi-proxy fingerprint.
+
 ## 主要发现 | Major findings
 
 **中文。** 多指标矿石指纹研究将郑州商城铸铜遗址中的部分铜矿原料与约700公里以南的长江中游九瑞矿区联系起来。
@@ -35,13 +41,35 @@ Additional candidate / 补充建议
 
 **English.** By focusing on ore materials rather than finished bronzes whose provenance signals are altered by smelting and alloying, the study reconstructs supply chains more directly. It offers new evidence for how an early state mobilized copper across regions, organized transport, and sustained a large bronze industry.
 
+## 论文核查 | Publication verification
+
+- **Sun, Zhenfei; Jialin Li; Shugang Yang; Suting Li; Dengfeng Li; Richen Zhong; Jianli Chen; Siran Liu.**
+- **Title:** *A 700-kilometre copper supply network in Bronze Age China revealed by multi-proxy ore fingerprinting*
+- **Journal:** *Nature Communications*
+- **DOI:** [10.1038/s41467-026-78864-4](https://doi.org/10.1038/s41467-026-78864-4)
+- **Published:** 21 October 2026
+- **Open access:** **Yes — CC BY-NC-ND 4.0**. Non-commercial reproduction is allowed with attribution, but adapted/modified figures are not permitted; third-party material may have separate rights.
+
 ## 学术论文 | Academic publications
 
 - [Nature Communications](https://www.nature.com/articles/s41467-026-78864-4)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Nature Communications article page](https://www.nature.com/articles/s41467-026-78864-4)
+- [Nature Communications — original article](https://www.nature.com/articles/s41467-026-78864-4)
+- No substantial report from the requested NYT/BBC/CNN/Guardian/Smithsonian/Archaeology Magazine set was located during this audit; the discovery is currently much stronger in the scholarly literature than in Anglophone mass media.
+
+## 关键图像与许可 | Key images and permissions
+
+The article is **CC BY-NC-ND 4.0**. Figures may be reproduced **unchanged for non-commercial use** with attribution, subject to caption-level third-party exclusions.
+
+1. **Map linking Zhengzhou casting sites and the Jiurui mining district.**
+2. **Ore samples and archaeological contexts from Chuangxinjie and Xiaoshuangqiao.**
+3. **Garnet U-Pb age comparison.**
+4. **Lead-isotope / trace-element provenance plots.**
+5. **Integrated multi-proxy supply-network model.**
+
+These are particularly valuable because they explain *how* provenance was established, not just the 700-km headline.
 
 ## 图像与图版来源 | Images and figure sources
 
