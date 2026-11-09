@@ -14,10 +14,11 @@ if not chrome:
     print("No system Chrome/Chromium found; visual QA cannot run.",file=sys.stderr)
     sys.exit(2)
 
-desktop_pages=[ROOT/"index.html",ROOT/"discoveries.html"]
+desktop_pages=[ROOT/"index.html",ROOT/"discoveries.html",ROOT/"map.html"]
 desktop_pages += sorted((ROOT/"discoveries").glob("*.html"))
 mobile_pages=[
     ROOT/"index.html",
+    ROOT/"map.html",
     ROOT/"discoveries.html",
     ROOT/"discoveries/04-denisovans-yunnan.html",
     ROOT/"discoveries/07-baikal-plague.html",
@@ -43,7 +44,16 @@ with sync_playwright() as p:
         page.close()
     for src in mobile_pages:
         page=browser.new_page(viewport={"width":390,"height":844},is_mobile=True)
-        page.goto(src.as_uri(),wait_until="domcontentloaded",timeout=30000)
+        url="http://127.0.0.1:8765/"+str(src.relative_to(ROOT)).replace("\\","/")
+        page.goto(url,wait_until="networkidle",timeout=30000)
+        page.evaluate("""async () => {
+          for (let y=0; y<document.body.scrollHeight; y+=500) {
+            window.scrollTo(0,y);
+            await new Promise(r=>setTimeout(r,50));
+          }
+          window.scrollTo(0,0);
+        }""")
+        page.wait_for_timeout(700)
         page.screenshot(path=str(OUT/(src.stem+"-mobile.png")),full_page=True)
         page.close()
     browser.close()
