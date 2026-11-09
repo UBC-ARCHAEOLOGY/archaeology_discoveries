@@ -42,18 +42,27 @@ jobs:
           path: qa-screenshots
           retention-days: 1
 
-      - name: Build V2.2 offline editorial review package
+      - name: Build V2.3 offline editorial re-review package
         run: |
           set -euo pipefail
-          PKG="editorial-review-v2.2"
+          PKG="editorial-review-v2.3"
           rm -rf "$PKG"
-          mkdir -p "$PKG/offline_site" "$PKG/source_qmd/discoveries" "$PKG/visual_qa"
+          mkdir -p "$PKG/offline_site" "$PKG/source_qmd/discoveries" "$PKG/visual_qa" "$PKG/focus_v2_3/discoveries"
 
           cp -a docs/. "$PKG/offline_site/"
           cp -a qa-screenshots/. "$PKG/visual_qa/"
 
-          cp index.qmd discoveries.qmd cctv.qmd methods.qmd sources.qmd under-review.qmd _quarto.yml styles.css "$PKG/source_qmd/"
+          cp index.qmd discoveries.qmd cctv.qmd methods.qmd sources.qmd under-review.qmd ranking.qmd _quarto.yml styles.css map.html "$PKG/source_qmd/"
           cp discoveries/*.qmd "$PKG/source_qmd/discoveries/"
+
+          cp EDITORIAL_BRIEF_V2_3.md V2_3_BALANCE_AUDIT.md ranking.qmd methods.qmd under-review.qmd "$PKG/focus_v2_3/"
+          cp discoveries/24-*.qmd discoveries/25-*.qmd discoveries/26-*.qmd discoveries/27-*.qmd discoveries/28-*.qmd discoveries/29-*.qmd discoveries/30-*.qmd discoveries/31-*.qmd discoveries/32-*.qmd discoveries/33-*.qmd discoveries/34-*.qmd "$PKG/focus_v2_3/discoveries/"
+
+          cp EDITORIAL_BRIEF_V2_3.md "$PKG/"
+          cp V2_3_BALANCE_AUDIT.md "$PKG/"
+          cp ranking.qmd "$PKG/"
+          cp methods.qmd "$PKG/"
+          cp RELEASE_V2_2.md "$PKG/"
           cp EDITORIAL_RESPONSE_V2_2.md "$PKG/"
 
           if [ -f docs/link-report.md ]; then
@@ -64,34 +73,56 @@ jobs:
           fi
 
           cat > "$PKG/README_FOR_REVIEWER.md" <<'EOF'
-          # 2026 世界考古发现 — V2.2 离线编审包
+          # 2026 世界考古发现 — V2.3 再审离线编审包
 
-          本包对应当前 GitHub Pages 已部署版本。
+          本包用于 V2.3 rolling update 的独立再审。V2.2 的 1–23 项已经锁定；除非发现新的事实、逻辑、引文或渲染回归，不需要从头重审。
 
-          ## 推荐审阅方式
+          ## 建议审阅顺序
 
-          1. **按网站浏览**：打开 `offline_site/index.html`。
-          2. **按正文连续审阅**：打开 `CONTENT_REVIEW.md`。
-          3. **逐项查看源文件**：进入 `source_qmd/discoveries/`。
-          4. **核对修改回应**：打开 `EDITORIAL_RESPONSE_V2_2.md`。
-          5. **视觉抽查**：进入 `visual_qa/` 查看桌面与手机截图。
-          6. **链接检查**：查看 `LINK_QA_REPORT.md`。
+          1. **EDITORIAL_BRIEF_V2_3.md** — 本轮审阅范围、重点问题与无需重开的 V2.2 问题。
+          2. **ranking.qmd** — 44个项目的暂定综合排名及逐项 justification。
+          3. **methods.qmd** — 评选标准、证据等级与 ranking 的关系。
+          4. **V2_3_BALANCE_AUDIT.md** — 地区、时代、证据等级、田野/分析类型平衡。
+          5. **focus_v2_3/discoveries/** — V2.2 后新增的正式条目 24–34。
+          6. **focus_v2_3/under-review.qmd** — 当前待评估项目与 HOLD 决定。
+          7. **CONTENT_REVIEW_V2_3.md** — 全文连续编审稿，可全文搜索和批注。
+          8. **offline_site/index.html** — 当前网站离线渲染版。
+          9. **visual_qa/** — 桌面与手机视觉QA截图。
+          10. **LINK_QA_REPORT.md** — 链接检查结果（若生成）。
 
-          外部论文和媒体链接保留原URL；离线环境中无法打开外部网页，但网站正文、已缓存图片、地图、图注和来源信息均随包保存。
+          ## 本轮重点
+
+          - 核查第24–34项是否都达到正式 Additional candidate 门槛；
+          - 核查44项 tentative ranking 是否真正体现田野发现优先、学术意义优先；
+          - 检查是否仍过度偏向古DNA、古蛋白或高影响期刊；
+          - 检查地区和时代平衡是否合理，是否有“为了补区域而抬高弱项目”的情况；
+          - 核查“最早/最老/最大/首次/崩溃”等表述是否过度；
+          - 检查A–D证据等级是否一致。
+
+          ## 基线
+
+          V2.2 locked editorial baseline:
+          dd6c083df0477f1ab85b0b06739f0fc8630ffb6e
+
+          RELEASE_V2_2.md 与 EDITORIAL_RESPONSE_V2_2.md 仅供核对基线和历史修改。
           EOF
 
           {
-            echo "# 2026 世界考古发现 — V2.2 连续编审稿"
+            echo "# 2026 世界考古发现 — V2.3 连续编审稿"
             echo
-            echo "> 本文件按网站结构汇总主要说明页、23项正式条目和待评估页，便于离线全文搜索与批注。"
+            echo "> 本文件汇总评选标准、平衡审计、暂定排名、34项正式条目与待评估项目，便于离线全文搜索与批注。"
             echo
-            for x in index.qmd methods.qmd sources.qmd discoveries.qmd cctv.qmd; do
+            for x in EDITORIAL_BRIEF_V2_3.md methods.qmd V2_3_BALANCE_AUDIT.md ranking.qmd index.qmd discoveries.qmd cctv.qmd sources.qmd; do
               echo
               echo "---"
               echo
               echo "## SOURCE: $x"
               echo
-              sed '/^---$/,/^---$/d' "$x"
+              if [[ "$x" == *.qmd ]]; then
+                sed '/^---$/,/^---$/d' "$x"
+              else
+                cat "$x"
+              fi
             done
             for x in discoveries/*.qmd; do
               echo
@@ -107,20 +138,22 @@ jobs:
             echo "## SOURCE: under-review.qmd"
             echo
             sed '/^---$/,/^---$/d' under-review.qmd
-          } > "$PKG/CONTENT_REVIEW.md"
+          } > "$PKG/CONTENT_REVIEW_V2_3.md"
 
           printf '%s\n' "Repository: https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries" > "$PKG/VERSION.txt"
           printf '%s\n' "Commit: $GITHUB_SHA" >> "$PKG/VERSION.txt"
+          printf '%s\n' "V2.2 locked baseline: dd6c083df0477f1ab85b0b06739f0fc8630ffb6e" >> "$PKG/VERSION.txt"
           printf '%s\n' "Website: https://ubc-archaeology.github.io/archaeology_discoveries/" >> "$PKG/VERSION.txt"
 
-          zip -qr "2026_archaeological_discoveries_V2.2_editorial_review_offline.zip" "$PKG"
+          zip -qr "2026_archaeological_discoveries_V2.3_editorial_rereview_offline.zip" "$PKG"
 
-      - name: Upload V2.2 offline editorial review package
+      - name: Upload V2.3 offline editorial re-review package
         uses: actions/upload-artifact@v4
         with:
-          name: editorial-review-v2-2
-          path: 2026_archaeological_discoveries_V2.2_editorial_review_offline.zip
-          retention-days: 7
+          name: editorial-review-v2-3
+          path: 2026_archaeological_discoveries_V2.3_editorial_rereview_offline.zip
+          retention-days: 14
+
       - uses: actions/upload-pages-artifact@v4
         with:
           path: docs
