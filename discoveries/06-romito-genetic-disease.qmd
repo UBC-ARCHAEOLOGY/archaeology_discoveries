@@ -70,6 +70,13 @@ NEJM figures and photographs are **not automatically reusable**. For this page:
 
 No NEJM image is copied into the repository until reuse permission is confirmed.
 
+## 页面图像 | Page images
+
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2513616" target="_blank">View original image / 查看原图 →</a></div>
+
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。</span><br><a href="https://www.sciencedaily.com/releases/2026/02/260217005754.htm" target="_blank">View original image / 查看原图 →</a></div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [NEJM article page](https://www.nejm.org/doi/10.1056/NEJMc2513616)
