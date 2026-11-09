@@ -13,12 +13,15 @@ Early colonial period, ca. AD 1492–1631 / 欧洲接触后的早期殖民时期
 **Research / excavation institutions / 发掘或研究机构**  
 Universidad de Chile; Universidad de Tarapacá; Trinity College Dublin; Kanazawa University
 
-**Lead researchers / 主要负责人**  
-Bruno Romero González; Margarita Reyes-Madrid; Bernardo Arriaza; Constanza de la Fuente Castro; Shigeki Nakagome
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Bruno Romero González (first author); Constanza de la Fuente Castro; Shigeki Nakagome (corresponding authors); Bernardo Arriaza.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed archaeogenomic research (A).  
-中文：顶级同行评议古病原体基因组研究（A级）。
+**Evidence grade / 证据等级**  
+A — peer-reviewed *Science* archaeogenomic study with directly recovered ancient variola genomes.  
+A级——《Science》同行评议古病原体基因组研究，直接重建古代天花病毒基因组。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——为欧洲接触后天花进入南美洲提供病原体本身的直接分子证据，并揭示早期美洲病毒属于后来灭绝的谱系。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
@@ -44,7 +47,7 @@ Additional candidate / 补充建议
 
 ## 学术出版物 | Academic publications
 
-Romero González, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M., la Fuente Castro, C. d., & Nakagome, S. (2026). The genomic identity of early smallpox in South America. Science, 393(6810), 504–508. https://doi.org/10.1126/science.aee6957
+Romero González, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M., de la Fuente Castro, C., & Nakagome, S. (2026). The genomic identity of early smallpox in South America. Science, 393(6810), 504–508. https://doi.org/10.1126/science.aee6957
 
 **开放获取状态 | Open-access status.** 文章可在线访问；再利用许可与图像权利按出版方rights statement和单幅图署名核查。 / The article is accessible online; reuse and figure rights follow the publisher rights statement and individual credits.
 
@@ -62,6 +65,7 @@ Romero González, B., Reyes-Madrid, M., Arriaza, B., Cassidy, L. M., Moraga, M.,
 
 ## 主要媒体报道 | Major media coverage
 
+- [The New York Times — Carl Zimmer, “This Is Very Strange”: Ancient Smallpox May Have Been Less Deadly (July 30, 2026)](https://carlzimmer.com/this-is-very-strange-ancient-smallpox-may-have-been-less-deadly/)
 - [Universidad de Chile](https://uchile.cl/noticias/242971/primeros-genomas-antiguos-de-viruela-en-america-aportan-evidencia-molecular)
 
 ## 图像与图版来源 | Images and figure sources
