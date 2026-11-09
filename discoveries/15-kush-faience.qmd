@@ -1,5 +1,5 @@
 ---
-title: "15. 苏丹库施王国神庙中的faience生产作坊"
+title: "15. 苏丹库施王国神庙中的费昂斯（faience，釉砂）生产作坊"
 subtitle: "Faience production and state control in Kush"
 ---
 
@@ -9,6 +9,15 @@ Napatan region, Sudan / 苏丹纳帕塔地区
 
 **Date / 年代**  
 7th c. BCE / 公元前7世纪
+
+**Research / excavation institutions / 发掘或研究机构**  
+Durham University; Institute of Fine Arts, New York University; National Corporation for Antiquities and Museums, Sudan
+
+**Lead researchers / 主要负责人**  
+Rennan Lemos; Kathryn Howley; Shadia Abdu Rabo; Siobhan Shinn
+
+**Evidence status / 证据状态**  
+Peer-reviewed specialist-journal research (B); first securely identified Middle Napatan faience-production workshop.
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
