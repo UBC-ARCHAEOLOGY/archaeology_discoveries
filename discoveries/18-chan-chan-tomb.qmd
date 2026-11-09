@@ -17,7 +17,8 @@ Peru Ministry of Culture; Proyecto Especial Complejo Arqueológico Chan Chan (PE
 Jorge Meneses (archaeologist in charge of the investigation / PECACH)
 
 **Evidence status / 证据状态**  
-English: English: English: English: Major field discovery with official documentation and extensive international coverage; formal full scholarly publication is still pending.  
+English: English: English: English: English: Major field discovery with official documentation and extensive international coverage; formal full scholarly publication is still pending.  
+中文：重大田野发现，已有官方记录和广泛国际报道；完整同行评议研究仍待发表。
 中文：重大田野发现，已有官方记录和广泛国际报道；完整同行评议研究仍待发表。
 中文：重大田野发现，已有官方记录和广泛国际报道；完整同行评议研究仍待发表。
 中文：重大田野发现，已有官方记录和广泛国际报道；完整同行评议研究仍待发表。
@@ -73,9 +74,9 @@ Additional candidate / 补充建议
 
 ## 页面图像 | Page images
 
-<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图1 / Image 1</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://monorepo-sample1.nyt.net/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html" target="_blank">View original image / 查看原图 →</a></div>
 
-<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html" target="_blank">View original image / 查看原图 →</a></div>
+<div class="image-source-card"><strong>图2 / Image 2</strong><br><span>版权许可未确认可复制，本站不保存图片文件。 / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site. / Reuse permission has not been confirmed; the image file is not stored on this site.</span><br><a href="https://english.elpais.com/culture/2026-09-10/an-intact-tomb-preserved-for-600-years-opens-a-window-onto-the-world-of-the-chimu-elite-in-peru.html" target="_blank">View original image / 查看原图 →</a></div>
 
 
 ## 图像与图版来源 | Images and figure sources
