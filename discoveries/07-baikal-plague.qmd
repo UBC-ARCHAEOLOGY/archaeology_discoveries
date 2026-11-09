@@ -23,6 +23,12 @@ Top-tier peer-reviewed research (A); one of the strongest 2026 candidates.
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 古病原体DNA已经证明鼠疫杆菌在新石器—青铜时代欧亚大陆存在，但早期菌株缺少后来腺鼠疫所需的一些经典毒力与跳蚤传播适应，因此其真实致死性与流行规模一直不清楚。另一个长期模型认为，大规模流行病主要随着农业、定居和高人口密度出现。贝加尔湖的狩猎采集者为同时检验“病原体毒力”和“社会人口条件”提供了少见材料。
+
+**English.** Ancient pathogen DNA had already established the presence of Yersinia pestis in Neolithic and Bronze Age Eurasia, but early strains lacked some adaptations associated with later flea-borne bubonic plague, leaving their lethality and epidemic potential uncertain. A second long-standing model ties major epidemics to farming, sedentism, and dense populations. The Lake Baikal hunter-gatherers provide an unusual test of both pathogen virulence and social-demographic assumptions.
+
 ## 主要发现 | Major findings
 
 **中文。** 研究在贝加尔湖周边墓地多个个体中检出并重建鼠疫耶尔森菌基因组，显示狩猎采集社群中可能发生过致命的群体性鼠疫暴发。
@@ -35,13 +41,37 @@ CCTV candidate / 央视候选
 
 **English.** The evidence complicates simple models that tie severe epidemics primarily to dense farming settlements and the Neolithic epidemiological transition. Highly lethal infectious disease could also affect relatively small and mobile hunter-gatherer populations.
 
+## 论文核查 | Publication verification
+
+- **Macleod, Ruairidh; Frederik V. Seersholm; Bianca De Sanctis; Angela Lieverse; Adrian Timpson; Rick Schulting; Jesper T. Stenderup; Charleen Gaunitz; Lasse Vinner; Olga I. Goriunova; Vladimir I. Bazaliiskii; Sergei V. Vasilyev; Erin Jessup; Yucheng Wang; Christopher Bronk Ramsey; Mark G. Thomas; Russell Corbett-Detig; Astrid K. N. Iversen; Andrzej W. Weber; Martin Sikora; Eske Willerslev.**
+- **Title:** *Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago*
+- **Journal:** *Nature* 654: 697–705
+- **DOI:** [10.1038/s41586-026-10540-5](https://doi.org/10.1038/s41586-026-10540-5)
+- **Published:** 17 June 2026
+- **Open access:** **Yes — CC BY 4.0**; figures are reusable with attribution unless a caption excludes third-party material.
+
 ## 学术论文 | Academic publications
 
 - [Nature](https://www.nature.com/articles/s41586-026-10540-5)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Nature](https://www.nature.com/articles/s41586-026-10540-5)
+- [The Guardian](https://www.theguardian.com/science/2026/jun/17/ancient-dna-evidence-earliest-known-plague-outbreak)
+- [Science News](https://www.sciencenews.org/article/plague-outbreak-oldest-hunter-gatherers)
+- [Nature Portfolio press release](https://www.natureasia.com/en/info/press-releases/detail/9360)
+- [Nature — original article](https://www.nature.com/articles/s41586-026-10540-5)
+- NYT coverage was reported in the source audit; the direct NYT page was not reliably retrievable in the current environment.
+
+## 关键图像与许可 | Key images and permissions
+
+The Nature paper is **CC BY 4.0**. Preferred figures:
+
+1. **Fig. 1 — cemetery locations, chronology and plague-positive individuals** — reusable with attribution.
+2. **Kinship/pedigree figure** — shows familial clustering and epidemic structure.
+3. **Y. pestis phylogeny** — places the basal strains in pathogen evolution.
+4. **Virulence-locus comparison** — useful for explaining why these early strains may still have been lethal.
+
+[Open-access article with figures](https://pmc.ncbi.nlm.nih.gov/articles/PMC13275307/)
 
 ## 图像与图版来源 | Images and figure sources
 
