@@ -21,10 +21,10 @@ B — peer-reviewed archaeogenomic study with authenticated ancient *Theobroma c
 B级——同行评议古基因组研究，在两件考古陶片残留样品中鉴定出经古DNA特征支持的*Theobroma cacao*序列；但阳性样本少，器物保存和沉积过程复杂，需谨慎解释。
 
 **Scholarly importance assessment / 学术重要性评估**  
-Very high / 很高——首次把前哥伦布时期可可的直接分子证据扩展到密西西比文化核心区，为美国东南部与更南方地区之间的远距离交换和仪式消费提出新的研究方向。
+High, provisional / 高，暂定——把前哥伦布时期可可的直接分子证据扩展到密西西比文化核心区，为美国东南部与更南方地区之间的远距离交换提出新的研究方向；但阳性样本只有两件陶片，器物保存史和沉积后DNA进入的可能性要求保持谨慎。
 
 **CCTV status / 央视遴选状态**  
-Additional candidate / 补充建议
+Under review — Reanalysis / 待评估——旧材料再分析
 :::
 
 ## 主要学术背景 | Scholarly background
@@ -45,13 +45,13 @@ Additional candidate / 补充建议
 
 ## 学术重要性 | Intellectual significance
 
-**中文。** 这一成果真正改变的是北美东南部前哥伦布交换网络的可能范围。它说明可可至少已经到达Etowah，从而迫使研究者重新考虑密西西比世界与中美洲、美国西南部之间长期被认为很弱的联系。
+**中文。** 这一成果真正改变的是北美东南部前哥伦布交换网络的可能范围。最稳固的核心事实是：古代可可DNA已经到达Etowah的考古情境，从而值得重新讨论密西西比世界与可可产区之间的远距离联系；至于具体消费方式和交换路线，仍需要更多样本。
 
-**English.** The major implication is a wider possible geography of pre-contact exchange in the Eastern Woodlands. The presence of cacao at Etowah requires renewed consideration of connections among the Mississippian world, Mesoamerica and the American Southwest.
+**English.** The major implication is a wider possible geography of pre-contact exchange in the Eastern Woodlands. The most secure core result is that ancient cacao DNA reached the Etowah archaeological context; specific consumption practices and exchange routes require broader sampling.
 
-**中文。** 但解释必须严格分层。作者明确指出，陶片曾在20世纪中期发掘后清洗和长期保存；虽然古DNA特征支持序列并非现代巧克力污染，但无法完全排除古代沉积后DNA进入陶片。此外，只能较有力地说“Etowah存在并消费过可可”，不能证明这两只具体容器一定盛装可可，也不能由此重建一条确定的贸易路线。
+**中文。** 但解释必须严格分层。作者明确指出，陶片曾在20世纪中期发掘后清洗和长期保存；虽然古DNA特征支持序列并非现代巧克力污染，但无法完全排除古代沉积后DNA进入陶片。因此目前可以较有力地说“可可到达了Etowah考古情境”；作者进一步解释为居民曾消费可可，但这一层解释应与“这两只具体容器是否盛装过可可”以及具体贸易路线区分开来。
 
-**English.** Interpretation must remain layered. The sherds were washed and curated after mid-twentieth-century excavation. Although ancient-DNA signatures argue against modern chocolate contamination, the authors cannot exclude ancient post-depositional transfer into the ceramic fabric. The evidence strongly supports cacao presence and consumption at Etowah, but does not prove that the two specific vessels necessarily held cacao or reveal a definite trade route.
+**English.** Interpretation must remain layered. The sherds were washed and curated after mid-twentieth-century excavation. Although ancient-DNA signatures argue against modern chocolate contamination, the authors cannot exclude ancient post-depositional transfer into the ceramic fabric. The evidence strongly supports the presence of ancient cacao DNA at Etowah. The authors interpret this as cacao consumption, but the sampled vessels themselves cannot be shown to have held cacao, and the DNA does not establish a definite trade route.
 
 ## 学术出版物 | Academic publications
 
