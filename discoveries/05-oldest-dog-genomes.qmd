@@ -1,0 +1,44 @@
+---
+title: "5. 欧亚大陆最早家犬遗传证据"
+subtitle: "Earliest genetic evidence for domestic dogs in Eurasia"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Anatolia, Britain & Europe / 安纳托利亚、英国及欧洲
+
+**Date / 年代**  
+Late Palaeolithic · ca. 15.8–14.3 ka / 旧石器时代晚期
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 大规模犬科考古标本基因组研究识别出安纳托利亚约1.58万年前与英国Gough's Cave约1.43万年前的早期犬，为旧石器时代家犬提供直接遗传证据。
+
+**English.** Large-scale genomic screening of archaeological canids identified early dogs from Anatolia at about 15,800 years ago and from Gough's Cave in Britain at about 14,300 years ago, providing direct Late Palaeolithic genetic evidence.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 它把狗明确置于农业以前的人类社会。狗的驯化因此不能只视为新石器化或定居农业的副产品，而可能与晚冰期狩猎、移动、群体交流以及人与动物关系的重组有关。
+
+**English.** The study firmly places dogs within pre-agricultural societies. Canine domestication therefore cannot be treated simply as a by-product of Neolithization, but must be considered in relation to Late Glacial hunting, mobility, social networks, and changing human–animal relationships.
+
+## 学术论文 | Academic publications
+
+- [Nature](https://www.nature.com/articles/s41586-026-10170-x)
+
+## 主要媒体报道 | Major media coverage
+
+- [Natural History Museum](https://www.nhm.ac.uk/press-office/press-releases/world-s-oldest-genetic-evidence-for-domestic-dogs-identified-in-.html)\n- [Nature News](https://www.nature.com/articles/d41586-026-00900-6)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature article figures](https://www.nature.com/articles/s41586-026-10170-x)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
