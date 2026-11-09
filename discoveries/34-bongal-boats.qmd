@@ -29,9 +29,9 @@ Additional candidate / 补充建议
 
 ## 主要学术背景 | Scholarly background
 
-**中文。** 东南亚lashed-lug造船传统以船板内侧雕出凸耳，再以植物纤维将肋材与船板绑缚，是南岛及东南亚海事技术的重要标志。但早期船体遗存数量极少，特别是苏门答腊西海岸——这一地区直接面向印度洋，却长期缺乏能够把本土造船技术与跨印度洋贸易放在同一考古情境中的船材。
+**中文。** 东南亚lashed-lug造船传统以船板内侧雕出凸耳，再以植物纤维将肋材与船板绑缚，是南岛及东南亚海事技术的重要标志。Bongal船材并非2026年首次发表：Purnawibowo与Mochtar在2021年已经发表7世纪船材及lashed-lug技术分析；2026年的论文是在更完整的船材记录、追加测年、舵、铭文和区域比较基础上的系统性扩展。但早期船体遗存数量极少，特别是苏门答腊西海岸——这一地区直接面向印度洋，却长期缺乏能够把本土造船技术与跨印度洋贸易放在同一考古情境中的船材。
 
-**English.** Southeast Asian lashed-lug construction uses carved lugs on the inner faces of hull planks, with frames fastened by vegetal-fibre lashings. It is a major marker of vernacular Austronesian and Southeast Asian shipbuilding, yet early archaeological hull remains are rare. Sumatra’s west coast faces the Indian Ocean directly but has lacked watercraft remains that connect local construction traditions with wider maritime exchange.
+**English.** Southeast Asian lashed-lug construction uses carved lugs on the inner faces of hull planks, with frames fastened by vegetal-fibre lashings. Bongal was not first published in 2026: Purnawibowo and Mochtar reported seventh-century boat remains and lashed-lug construction in 2021. The 2026 paper is a fuller synthesis incorporating expanded timber documentation, additional dating, the rudder, inscription and wider technological comparison. It is a major marker of vernacular Austronesian and Southeast Asian shipbuilding, yet early archaeological hull remains are rare. Sumatra’s west coast faces the Indian Ocean directly but has lacked watercraft remains that connect local construction traditions with wider maritime exchange.
 
 ## 主要发现 | Major findings
 
@@ -39,9 +39,9 @@ Additional candidate / 补充建议
 
 **English.** The Bongal assemblage includes hull planks with carved lugs, wooden dowels, preserved palm-fibre lashings, a large quarter rudder and an inscribed plank in Pallava–Grantha script. Technological analysis places the timbers within the Southeast Asian lashed-lug tradition. Associated ceramics, glass, beads and coins further indicate participation in seventh- to eighth-century Indian Ocean maritime exchange.
 
-**中文。** 研究者认为大型舵是目前东南亚最早可靠测年的quarter rudder之一，并指出Bongal首次把lashed-lug传统明确扩展到苏门答腊西海岸。
+**中文。** 作者认定一件长4.38米的quarter rudder（放射性碳校正年代公元656–687年）是目前东南亚**最早可靠测年的舵**，并指出Bongal把lashed-lug传统明确扩展到苏门答腊西海岸。这里的“最早”是作者基于现有已测年材料提出的比较判断。
 
-**English.** The authors identify the large quarter rudder as the earliest securely dated example of its type in Southeast Asia and regard Bongal as the first firm archaeological extension of the lashed-lug tradition to Sumatra’s west coast.
+**English.** The authors identify a 4.38-m quarter rudder, radiocarbon dated to AD 656–687, as the earliest securely dated rudder currently known in Southeast Asia and regard Bongal as a firm archaeological extension of the lashed-lug tradition to Sumatra’s west coast.
 
 ## 学术重要性 | Intellectual significance
 
@@ -54,6 +54,8 @@ Additional candidate / 补充建议
 **English.** The principal limitation is contextual: the timbers were recovered from secondary deposits rather than an intact wreck. They cannot automatically be assigned to one vessel, and Bongal should not be described simply as “a seventh-century shipwreck.” The defensible claim is that the site preserves a technologically and chronologically coherent assemblage of early watercraft remains that may derive from one or more vernacular vessels.
 
 ## 学术出版物 | Academic publications
+
+Purnawibowo, S., & Mochtar, A. S. (2021). Boatbuilding technology analysis of the seventh century boat remains from Bongal Site on the west coast of North Sumatera. *Kalpataru, 30*(2), 99–112. https://doi.org/10.24832/kpt.v30i2.821
 
 Mochtar, A. S., Adhityatama, S., Hendrawan, M. F., Restiyadi, A., Purnawibowo, S., & Soedewo, E. (2026). Lashed-Lug Boats from the Bongal Site: New Evidence for Early Maritime Networks on the West Coast of Sumatra. *International Journal of Nautical Archaeology*. https://doi.org/10.1080/10572414.2026.2714901
 
