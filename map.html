@@ -61,6 +61,7 @@ sites.forEach(([n,lat,lng,zh,en,url,kind])=>{
  const m=L.circleMarker([lat,lng],markerStyle(kind)).addTo(map);
  m.bindPopup('<b>'+n+'. '+zh+'</b><br>'+en+'<br><a href="'+url+'" target="_top">查看发现 / View discovery →</a>');
 });
+map.fitBounds(L.latLngBounds(sites.map(s=>[s[1],s[2]])),{padding:[18,18],maxZoom:2});
 const legend=L.control({position:'bottomright'});
 legend.onAdd=function(){
  const d=L.DomUtil.create('div','map-legend');
