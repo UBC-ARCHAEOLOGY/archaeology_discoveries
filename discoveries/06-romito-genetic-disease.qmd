@@ -10,15 +10,24 @@ Calabria, Italy / 意大利卡拉布里亚
 **Date / 年代**  
 Late Upper Palaeolithic · >12 ka / 旧石器时代晚期 · 1.2万余年前
 
+**Research / excavation institutions / 发掘或研究机构**  
+University of Coimbra; University of Vienna; Sapienza University of Rome; Centre Hospitalier Universitaire de Liège; Wageningen Environmental Research
+
+**Lead researchers / 主要负责人**  
+Daniel M. Fernandes; Ron Pinhasi; Adrian F. Daly; Alfredo Coppa
+
+**Evidence status / 证据状态**  
+Peer-reviewed clinical-genetic communication in NEJM (A for the molecular diagnosis); archaeological significance lies mainly in bioarchaeology of care and individual life history.
+
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
 :::
 
 ## 主要发现 | Major findings
 
-**中文。** 研究从两具著名Romito个体的岩部骨提取古DNA，确认一级亲属关系，并通过NPR2基因变异解释两人的身高与骨骼发育异常。
+**中文。** 研究从两具著名Romito个体的岩部骨提取古DNA，确认两人均为女性且为一级亲属（很可能是母女，但不能视为定论），并通过NPR2基因变异解释两人的身高与骨骼发育异常。
 
-**English.** Ancient DNA from the petrous bones of the two well-known Romito individuals established a first-degree relationship and linked their skeletal growth abnormalities to variants in NPR2.
+**English.** Ancient DNA from the petrous bones of the two well-known Romito individuals established that both were female and first-degree relatives (probably mother and daughter, but not demonstrably so) and linked their skeletal growth abnormalities to variants in NPR2.
 
 ## 学术重要性 | Intellectual significance
 
