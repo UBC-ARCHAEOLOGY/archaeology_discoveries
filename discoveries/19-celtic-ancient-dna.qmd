@@ -13,12 +13,15 @@ Bronze–Iron Age / 青铜时代—铁器时代
 **Research / excavation institutions / 发掘或研究机构**  
 Lundbeck Foundation GeoGenetics Centre and Centre for Ancient Environmental Genomics, University of Copenhagen; Leiden University; University of Gothenburg; University of Cambridge and collaborating European archaeological institutions
 
-**Lead researchers / 主要负责人**  
-Hugh McColl; Guus Kroonen; Kristian Kristiansen; Martin Sikora; Eske Willerslev
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Hugh McColl; Guus Kroonen; Kristian Kristiansen; Martin Sikora; Eske Willerslev.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); best presented together with the companion 2026 study on the genomic context of Germanic-language dispersal.  
-中文：顶级同行评议研究（A级）；应与同期关于日耳曼语传播人口背景的古基因组研究合并理解。
+**Evidence grade / 证据等级**  
+A — peer-reviewed Nature ancient-genomic studies with very large comparative datasets.
+A级——《Nature》同行评议古基因组研究，比较数据规模很大。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——为凯尔特语和日耳曼语传播模型提供人口史约束，但不能把遗传流动直接等同于语言传播。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
