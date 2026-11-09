@@ -88,3 +88,108 @@ Kekova region, Antalya, Türkiye / 土耳其安塔利亚Kekova海域；proposed 
 **English.** This is better treated as a scholarly correction than as a new 2026 discovery. A 2024 *Nature* paper linked the Stonehenge Altar Stone to the Orcadian Basin of northeast Scotland. A more comprehensive 2026 study using sedimentology, mineralogy, geochemistry and isotopes ruled out several previously proposed northeast-Scottish source areas and concluded that the exact provenance remains unresolved. Any future reference on this site to the 2024 Scottish-provenance claim should therefore carry this update.
 
 Pirrie, D., Bevins, R. E., Ixer, R. A., Pearce, N. J. G., Turner, P., Power, M. R., et al. (2026). Searching for the origin of the Stonehenge Altar Stone: New sedimentological, petrographical, mineralogical, geochemical and isotopic constraints. *Journal of the Geological Society, 183*, jgs2026-090. https://doi.org/10.1144/jgs2026-090
+
+## 5. 阿拉斯加Shég’ Xdaltth’í’：13,800年前的白令陆桥东部营地 | Shég’ Xdaltth’í’: a 13,800-year-old Beringian base camp in Alaska
+
+**地区与年代 | Region and date**  
+Tanana River basin, interior Alaska, USA / 美国阿拉斯加内陆塔纳纳河流域；earliest component ca. 13.8 ka / 最早文化层约13,800年前。
+
+**主要发现 | Major findings**  
+**中文。** Shég’ Xdaltth’í’（原McDonald Creek）保存三个晚更新世文化层，年代约为13.8、13.0和12.7 ka。最早的C1层包含超过8万件考古材料，其中约5.1万件经过三维定位，并保存炉址、可能的居住结构、土坑、土炉、骨骼加工区、骨针、骨器、石器和丰富动物遗存。66个AMS测年为遗址建立了坚实年代框架。最引人注意的是一组带柄、菱形双面器，其形制在阿拉斯加中部罕见，却与白令陆桥西侧同时期材料存在明显相似性。
+
+**English.** Shég’ Xdaltth’í’ (formerly McDonald Creek) preserves three Late Pleistocene archaeological components dating to approximately 13.8, 13.0 and 12.7 ka. The earliest component contains more than 80,000 archaeological specimens, with roughly 51,000 materials mapped in three dimensions, together with hearths, a probable dwelling, pits, an earth oven, bone-processing areas, bone needles, osseous tools, lithics and diverse fauna. Sixty-six AMS dates provide a strong chronology. Particularly important are distinctive stemmed, diamond-shaped bifaces that are unusual in central Alaska but resemble coeval forms west of the Bering Land Bridge.
+
+**学术判断 | Assessment**  
+**中文。** **高优先级候选，建议下一轮优先讨论是否晋升正式补充名单。** 它的重要性不在于单一“最早”纪录，而在于提供异常完整的13.8 ka居住活动面，并把白令陆桥两侧的物质文化联系具体化。论文发表于 *Science Advances*，年代、地层和材料组合证据链完整。对于美洲最初人群进入后如何在东白令地区“定居下来”，这是2026年北美最有分量的考古成果之一。所谓“西半球最早居住结构”仍应谨慎表述为研究者对该遗迹的解释，而非无条件纪录。
+
+**English.** **High-priority candidate for promotion.** Its importance is not a single superlative claim but the unusually complete 13.8-ka occupation surface and the material evidence linking eastern and western Beringia. The *Science Advances* paper presents strong stratigraphic, chronological and assemblage evidence. It is one of the most consequential North American archaeological studies published in 2026 for understanding how early populations settled into eastern Beringia. Claims that the probable structure is the “oldest dwelling in the Western Hemisphere” should remain interpretive rather than categorical.
+
+**Publication / 出版物**  
+Graf, K. E., Goebel, T., Henry, A., et al. (2026). Highlights from an early base camp in Beringia 13,800 years ago: Shég’ Xdaltth’í’ and the Late Pleistocene peopling of Alaska. *Science Advances, 12*(42), eaeh0802. https://doi.org/10.1126/sciadv.aeh0802
+
+**Selected reporting / 媒体报道**
+
+- [University of Kansas](https://news.ku.edu/news/article/bering-land-bridge-base-camp-reveals-what-life-was-like-nearly-14000-years-ago)
+
+## 6. Oaxaca约公元600年的Zapotec彩绘墓 | A painted Zapotec tomb dating to about AD 600 in Oaxaca
+
+**地区与年代 | Region and date**  
+Cerro de la Cantera, San Pablo Huitzo, Oaxaca, Mexico / 墨西哥瓦哈卡州San Pablo Huitzo；ca. AD 600 / 约公元600年。
+
+**主要发现 | Major findings**  
+**中文。** 墨西哥国家人类学与历史研究所（INAH）2026年1月公布一座保存程度很高的Zapotec墓葬。墓葬具有复杂的建筑、彩绘和象征性图像，目前仍在进行保护、记录和图像释读。墨西哥文化部将其称为近十年来最重要的考古发现之一。
+
+**English.** Mexico’s Instituto Nacional de Antropología e Historia (INAH) announced in January 2026 the discovery of an exceptionally well-preserved Zapotec tomb at Cerro de la Cantera, San Pablo Huitzo. The tomb, dated to around AD 600, preserves elaborate architecture, painting and symbolic imagery, while conservation, documentation and iconographic study remain ongoing.
+
+**学术判断 | Assessment**  
+**中文。** **重要性很高，但暂留待评估。** 遗存本身的保存和图像资料非常突出，而且来自INAH正式发掘与公告；但是目前公开材料主要是机构新闻稿，系统的同行评议研究尚未发表。待墓葬结构、随葬体系、测年和图像学结果正式发表后，再判断是否晋升主名单更稳妥。
+
+**English.** **Potentially major, but best retained under review for now.** The preservation and iconographic potential are exceptional and the discovery comes from an official INAH excavation. However, the public evidence currently consists mainly of institutional reporting rather than a full peer-reviewed archaeological publication. Promotion should await fuller publication of the tomb architecture, dating, mortuary context and iconography.
+
+**Official source / 官方来源**
+
+- [Secretaría de Cultura, Gobierno de México](https://www.gob.mx/cultura/prensa/el-gobierno-de-mexico-anuncia-el-descubrimiento-de-una-milenaria-tumba-zapoteca?idiom=es)
+
+## 7. 魁北克圣劳伦斯河约1200年前原住民捕鱼设施 | A ca. 1,200-year-old Indigenous fish trap in the St. Lawrence River, Quebec
+
+**地区与年代 | Region and date**  
+St. Lawrence River between Contrecœur and Verchères, Quebec, Canada / 加拿大魁北克Contrecœur与Verchères之间的圣劳伦斯河；approximately 1,200 years old / 约1200年前。
+
+**主要发现 | Major findings**  
+**中文。** 水下考古调查记录了一组大型石构设施，并在原住民知识参与解释的基础上将其识别为捕鱼设施。现有报道把它描述为魁北克目前确认的首个欧洲接触前水下原住民考古遗址。调查与蒙特利尔港Contrecœur扩建工程的预防性考古有关。
+
+**English.** Underwater archaeological work documented a large stone arrangement in the St. Lawrence River and, with Indigenous knowledge contributing directly to interpretation, identified it as a fishing installation dating to approximately 1,200 years ago. Current reporting describes it as the first submerged pre-contact Indigenous archaeological site identified in Quebec. The work formed part of preventive archaeology associated with the Port of Montreal expansion at Contrecœur.
+
+**学术判断 | Assessment**  
+**中文。** **有较强潜力，但证据公开程度暂不足以晋升。** 其价值在于水下文化景观、原住民捕鱼技术以及协作式知识生产，而不只是“第一”纪录。现在可以确认发现及基本解释，但尚缺完整技术报告或同行评议论文，特别需要核实年代测定方法、石构布局、沉积环境和功能诊断依据。
+
+**English.** **Promising, but not yet ready for promotion.** Its significance lies in submerged cultural landscapes, Indigenous fishing technology and collaborative interpretation, rather than in the “first” claim alone. The discovery and basic interpretation are credible, but a full technical or peer-reviewed publication is still needed, especially for dating, feature layout, depositional context and functional diagnosis.
+
+**Selected reporting / 媒体报道**
+
+- [Ocean Decade Heritage Network](https://www.oceandecadeheritage.org/indigenous-knowledge-key-to-identifying-a-1200-year-old-fish-trap/)
+
+## 8. 美国西南祖先Pueblo蓝铜矿远距离获取网络 | Long-distance Ancestral Pueblo azurite procurement in the U.S. Southwest
+
+**地区与年代 | Region and date**  
+Four Corners region, southwestern United States / 美国西南四角地区；primarily Basketmaker III and Pueblo I, ca. AD 500–900 / 主要为约公元500–900年。
+
+**主要发现 | Major findings**  
+**中文。** Schleher等对12件考古蓝铜矿（azurite）样品开展铅、锶和铜同位素分析。9件球状或残缺球状样品及1件加工样品与犹他州Lisbon Valley相符，另2件来自新墨西哥州Zuni Mountains。研究表明，至少到公元600年前后，祖先Pueblo社群已经获取或交换来自相距数百公里矿区的蓝铜矿。
+
+**English.** Schleher and colleagues analyzed lead, strontium and copper isotopes in 12 archaeological azurite specimens from the Four Corners region. Nine spherical or partial-spherical specimens and one worked artifact were linked to Lisbon Valley, Utah, whereas two irregular specimens were attributed to the Zuni Mountains of New Mexico. The results indicate procurement or exchange of azurite across substantial distances by at least around AD 600.
+
+**学术判断 | Assessment**  
+**中文。** **学术上很有意思，但目前更适合作为二级候选。** 优点是同行评议、分析方法清楚，而且为此前难以溯源的蓝铜矿建立了可行的同位素方法；不足是考古样本只有12件，尚不足以单独支撑一个大尺度交换体系模型。随着地质基线和考古样本扩大，其重要性可能明显上升。
+
+**English.** **Scholarly strong but currently a second-tier candidate.** The study is peer reviewed, methodologically explicit and establishes a workable isotopic approach for sourcing archaeological azurite. Its present limitation is the small archaeological sample of 12 specimens, which is not yet sufficient on its own to define a large regional exchange system. Its significance may increase substantially as geological baselines and archaeological sampling expand.
+
+**Publication / 出版物**  
+Schleher, K. L., Thibodeau, A. M., Mathur, R., & Till, J. (2026). Spheres of blue: Isotopic evidence for the provenance of azurite in the Ancestral Pueblo world. *Journal of Archaeological Science: Reports*, 106088. https://doi.org/10.1016/j.jasrep.2026.106088
+
+**Selected reporting / 媒体报道**
+
+- [University of New Mexico](https://news.unm.edu/news/unm-faculty-member-develops-method-to-trace-ancient-pueblo-azurite-sources)
+
+## 9. Tampa Bay密西西比式陶器与移民陶工社群 | Mississippian-style pottery and migrant potters in Tampa Bay
+
+**地区与年代 | Region and date**  
+Tampa Bay, Florida, USA / 美国佛罗里达Tampa Bay；Mississippian period, broadly ca. AD 1000–1600 / 广义约公元1000–1600年。
+
+**主要发现 | Major findings**  
+**中文。** Duke、Torvinen和Wallis结合陶器成分、岩相学和放射性碳年代模型，重新检验Tampa Bay长期存在的一个问题：当地密西西比风格彩陶究竟是输入品、地方仿制品，还是外来陶工在当地制作。研究认为，彩陶的泥料、熟料掺和和成形技术与普通地方陶器存在系统差异，最能解释这些差异的是来自北方密西西比文化圈的陶工迁入当地，并形成一个掌握专门技术知识的制作社群。
+
+**English.** Duke, Torvinen and Wallis combine compositional analysis, petrography and radiocarbon modeling to revisit a century-old question about Mississippian-style decorated pottery in Tampa Bay: imported vessels, local imitation, or production by migrant potters. Systematic differences in clay selection, grog temper and forming practices lead the authors to argue that potters from farther north migrated into Tampa Bay and established a specialized community of practice.
+
+**学术判断 | Assessment**  
+**中文。** **值得保留为较强候选。** 它不是新出土的轰动性遗存，而是用材料分析解决一个长期文化接触与迁徙问题。证据由同行评议论文支撑，理论意义涉及迁徙、技术知识、身份与“社群实践”。是否进入最终“大发现”名单，要看本站是否把“旧藏材料产生的新认识”与新田野发现给予同等权重。
+
+**English.** **A strong interpretive candidate.** This is not a spectacular newly excavated object but a material-analytical resolution of a long-standing problem of migration and cultural interaction. The peer-reviewed evidence bears directly on mobility, technical knowledge, identity and communities of practice. Promotion will depend partly on whether the final list gives equal weight to major new interpretations of legacy collections and to new field discoveries.
+
+**Publication / 出版物**  
+Duke, C. T., Torvinen, A., & Wallis, N. J. (2026). Secret recipes: Potting knowledge and migration in Mississippian (ca. AD 1000–1600) Tampa Bay, Florida, USA. *American Antiquity*, 1–25. https://doi.org/10.1017/aaq.2026.10227
+
+**Selected reporting / 媒体报道**
+
+- [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/)
+
