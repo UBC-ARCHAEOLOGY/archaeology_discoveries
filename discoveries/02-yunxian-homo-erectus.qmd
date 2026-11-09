@@ -13,12 +13,16 @@ Early Pleistocene · ca. 1.77 Ma / 早更新世 · 约177万年前
 **Research / excavation institutions / 发掘或研究机构**  
 Shantou University; Nanjing Normal University; Shanxi University; Purdue University; University of Hawai‘i at Mānoa; Archaeological and Cultural Relics Institute of Hubei Province (field support)
 
-**Lead researchers / 主要负责人**  
-Hua Tu; Guanjun Shen; Zhongping Lai; Darryl Granger; Xiaobo Feng
+**Key researchers / project leads / 主要研究者或项目负责人**  
+2026 dating study: Hua Tu; Xiaobo Feng; Lan Luo; Zhongping Lai; Darryl Granger; Christopher J. Bae; Guanjun Shen.  
+2025 morphology/phylogeny study: Xiaobo Feng; Xijun Ni; Chris Stringer.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A), but the revised chronology remains debated and reopens rather than closes the phylogenetic question.  
-中文：顶级同行评议研究（A级）；新年代仍有争议，更适合视为重新打开而不是终结系统发育问题。
+**Evidence grade / 证据等级**  
+A — peer-reviewed numerical dating in *Science Advances*; the chronology is methodologically strong but remains under active scholarly debate.  
+A级——《Science Advances》同行评议的数值年代研究；测年方法本身较强，但年代解释仍处于积极争论中。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——如果1.77 Ma年代成立，将显著改变东亚早期人类化石时间框架，但其与现有形态—系统发育模型之间的矛盾本身也是本项发现的核心学术意义。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -38,9 +42,9 @@ CCTV candidate / 央视候选
 
 ## 学术重要性 | Intellectual significance
 
-**中文。** 这项研究直接进入“人属何时、以多快速度走出非洲并扩散到东亚”的核心争论，但新年代也与近年来对郧县头骨形态和系统发育位置的研究形成张力，因此应视为重新打开关键问题，而非已经形成定论。郧县的新年代与格鲁吉亚Dmanisi接近，意味着早期Homo在离开非洲后可能很快跨越欧亚大陆，而不是经过漫长的分阶段东进。
+**中文。** 这项研究的关键争点不能只写成“与近年形态学研究存在张力”。Feng et al. 2025 在 *Science* 发表的郧县2号重建研究把该头骨放在约100万年前的亚洲 *Homo longi* 支系中，并认为这一支系包括丹尼索瓦人。2026年的1.77±0.08 Ma新年代因此把同一化石向前推了约60万年。该2025研究的共同作者 Chris Stringer 随后公开表示，如果郧县确实接近180万年前，它会“完全不同步于其余化石记录”，并主张进一步复核遗址年代。换言之，本项发现真正重要的不只是“东亚更早出现直立人”，而是它迫使年代学与形态—系统发育两套证据重新对接。
 
-**English.** The result bears directly on how quickly early Homo dispersed beyond Africa, but its interpretation is contested because the much older chronology sits uneasily with recent morphological and phylogenetic work on the Yunxian crania. The revised age approaches that of Dmanisi in Georgia, suggesting that hominins may have reached far eastern Eurasia soon after the earliest extra-African dispersals rather than only after a long staged expansion.
+**English.** The key controversy should be stated explicitly rather than described vaguely as a “tension” with recent morphology. Feng et al. (2025), in *Science*, reconstructed Yunxian 2 as an approximately one-million-year-old early member of the Asian *Homo longi* clade, which they linked closely to Denisovans. The 2026 burial age of 1.77 ± 0.08 Ma therefore moves the same fossil roughly 600,000 years earlier. Chris Stringer, a co-author of the 2025 study, subsequently commented that placing Yunxian at nearly 1.8 Ma would put it “completely out of sync with the rest of the fossil record” and called for further dating work. The discovery is therefore important not only because it may extend the East Asian hominin timeline, but because it forces chronological and morphological-phylogenetic evidence to be reconciled.
 
 ## 学术出版物 | Academic publications
 
@@ -51,6 +55,14 @@ Tu, H., Feng, X., Luo, L., Lai, Z., Granger, D., Bae, C., & Shen, G. (2026). The
 **出版物内容（中文）。** 文章利用与郧县头骨同层石英砾石的宇生核素 ²⁶Al/¹⁰Be 埋藏测年，将化石层位测定为 1.77±0.08 Ma。其核心贡献是把东亚原位人类头骨记录推进到接近德马尼西的年代，但这一年代与近期形态学解释之间仍存在需要进一步检验的张力。
 
 **What the publication shows (English).** The study uses cosmogenic ²⁶Al/¹⁰Be burial dating of quartz clasts from the fossil-bearing layer to obtain an age of 1.77 ± 0.08 Ma. Its main contribution is to place securely contextualized East Asian hominin crania close in age to Dmanisi, while leaving an important tension with recent morphological interpretations that requires further testing.
+
+### 相关背景文献 | Relevant background publication
+
+Feng, X., Yin, Q., Gao, F., Lu, D., Fang, Q., Feng, Y., Huang, X., Tan, C., Zhou, H., Li, Q., Zhang, C., Stringer, C., & Ni, X. (2025). The phylogenetic position of the Yunxian cranium elucidates the origin of *Homo longi* and the Denisovans. *Science, 389*(6767), 1320–1324. https://doi.org/10.1126/science.ado9202
+
+**出版物内容（中文）。** 该研究数字复原郧县2号头骨，并通过形态测量与系统发育分析把它置于亚洲 *Homo longi* 支系的早期位置；这构成2026年新年代最重要的比较背景。
+
+**What the publication shows (English).** This study digitally reconstructed Yunxian 2 and used morphometric and phylogenetic analyses to place it as an early member of the Asian *Homo longi* clade; it provides the most important comparative framework against which the 2026 chronology must be evaluated.
 
 <!-- APA-V2.1 -->
 
