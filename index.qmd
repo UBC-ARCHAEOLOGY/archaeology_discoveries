@@ -9,11 +9,11 @@ title-block-style: none
 
 <p class="hero-subtitle">Archaeological Discoveries of 2026</p>
 
-<p class="hero-description">本网站系统整理2026年世界重要考古发现，以中央广播电视总台候选项目为基础，并补充《Nature》《Science》《New York Times》等国际学术与主流媒体重点报道的发现。每个条目同时提供中文与英文概述、地理与年代信息、主要发掘/研究机构与负责人、证据状态、学术重要性、央视遴选状态、论文链接、媒体报道与图像来源。</p>
+<p class="hero-description">本网站系统整理2026年世界重要考古发现，以中央广播电视总台候选项目为基础，并补充《Nature》《Science》《New York Times》等国际学术与主流媒体重点报道的发现。每个条目同时提供中文与英文概述、地理与年代信息、主要发掘/研究机构与负责人、证据等级、学术重要性评估、央视遴选状态、论文链接、媒体报道与图像来源。</p>
 
-<p class="hero-description">This bilingual research guide documents major archaeological discoveries reported in 2026. It begins with the CCTV candidate list and adds internationally significant discoveries highlighted by major journals and media. Each entry records place and period, principal findings, intellectual significance, CCTV selection status, academic publications, media coverage, and image sources.</p>
+<p class="hero-description">This bilingual research guide documents major archaeological discoveries reported in 2026. It begins with the CCTV candidate list and adds internationally significant discoveries highlighted by major journals and media. Each entry records place and period, principal findings, evidence grade, scholarly importance, CCTV selection status, academic publications, media coverage, and image sources.</p>
 
-[浏览全部发现 / Browse all discoveries](discoveries.qmd){.btn .btn-primary .me-2} [央视候选 / CCTV candidates](cctv.qmd){.btn .btn-outline-primary}
+[浏览全部发现 / Browse all discoveries](discoveries.qmd){.btn .btn-primary .me-2} [央视候选 / CCTV candidates](cctv.qmd){.btn .btn-outline-primary} [其他待评估发现 / Other discoveries under review](under-review.qmd){.btn .btn-outline-secondary .ms-2}
 :::
 
 ## 世界地图 | World map
