@@ -56,6 +56,9 @@ CCTV candidate / 央视候选
 
 ## 主要媒体报道 | Major media coverage
 
+- [University of Reading](https://www.reading.ac.uk/news/2026/Research-News/Earliest-evidence-of-wooden-tools-used-by-humans)
+- [Archaeology Magazine](https://archaeology.org/issues/online/digs-discoveries/turning-over-the-soil/)
+- [The New York Times (syndicated via eKathimerini)](https://www.ekathimerini.com/nytimes/1293855/)
 - [BBC report](https://www.bbc.co.uk/newsround/articles/cn0yp4g0ek4o)
 - [PNAS / PMC full article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/)
 - No additional verified report from the target NYT/CNN/Guardian/Smithsonian/Archaeology Magazine set was located in this audit.
