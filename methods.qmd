@@ -34,3 +34,27 @@ title: "评选标准 | Evaluation Criteria"
 - **Additional candidate / 补充建议**：根据2026年主流学术期刊与高质量媒体报道补充。 / Added after review of major 2026 scholarly publications and high-quality reporting.
 - **Selected / 入选**：仅在央视正式公布后使用。 / Used only after CCTV formally announces the final selections.
 - **Not selected / 未入选**：仅在正式结果明确后使用。 / Used only after the final result is known.
+
+
+## 证据等级 A–D | Evidence grades A–D
+
+**A级 / Grade A — 强证据 | Strong evidence**  
+**中文。** 顶级或高质量同行评议研究，具有直接测年、原位情境、多学科交叉验证或大规模可重复分析；核心事实本身较稳固，即使解释仍可讨论。  
+**English.** High-quality peer-reviewed research supported by direct dating, in-situ context, multidisciplinary cross-validation, or large reproducible analyses. Core factual claims are robust even when interpretation remains open.
+
+**B级 / Grade B — 良好但有限 | Good evidence with limitations**  
+**中文。** 同行评议研究，主要证据可靠，但年代、归属、遥感推断、样本规模或某一关键解释仍存在明显限制。  
+**English.** Peer-reviewed research with generally reliable primary evidence, but with important limitations involving chronology, attribution, remote-sensing inference, sample size, or a key interpretive step.
+
+**C级 / Grade C — 初步学术证据 | Preliminary scholarly evidence**  
+**中文。** 主要依据正式机构报告、项目公告、初步释读或尚未完整发表的田野成果；发现本身可信，但详细解释有待正式出版。  
+**English.** Evidence rests mainly on official institutional reports, project announcements, preliminary readings, or field results not yet fully published. The find itself is credible, but interpretation awaits formal publication.
+
+**D级 / Grade D — 新闻/公告阶段 | Announcement stage**  
+**中文。** 主要依据新闻报道或简短发掘公告，尚缺足够的正式材料来独立核查关键判断。  
+**English.** Evidence is known mainly through media reports or brief excavation announcements, without enough formal documentation to independently verify key interpretations.
+
+::: {.callout-important title="等级不等于重要性 | Evidence is not importance"}
+**中文。** 证据等级衡量“我们目前有多大把握”，学术重要性评估衡量“如果结论成立，它有多重要”。A级研究可以只有中等学术影响；C级发现也可能具有很高的潜在重要性。  
+**English.** Evidence grade measures how securely a claim is currently supported; scholarly importance measures how consequential the finding would be if sustained. An A-grade study can have only moderate historical impact, while a C-grade discovery can have high potential importance.
+:::
