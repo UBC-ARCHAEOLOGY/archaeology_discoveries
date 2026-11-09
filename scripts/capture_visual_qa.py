@@ -14,12 +14,13 @@ if not chrome:
     print("No system Chrome/Chromium found; visual QA cannot run.",file=sys.stderr)
     sys.exit(2)
 
-desktop_pages=[ROOT/"index.html",ROOT/"discoveries.html",ROOT/"map.html"]
+desktop_pages=[ROOT/"index.html",ROOT/"discoveries.html",ROOT/"map.html",ROOT/"under-review.html"]
 desktop_pages += sorted((ROOT/"discoveries").glob("*.html"))
 mobile_pages=[
     ROOT/"index.html",
     ROOT/"map.html",
     ROOT/"discoveries.html",
+    ROOT/"under-review.html",
     ROOT/"discoveries/04-denisovans-yunnan.html",
     ROOT/"discoveries/07-baikal-plague.html",
     ROOT/"discoveries/17-amazon-earthworks.html",
