@@ -16,19 +16,20 @@ This page records 2026 discoveries and studies of clear scholarly interest that 
 
 ### 第一档：高优先级晋升候选 | Tier 1 — High-priority promotion review
 
-本轮从第二档中筛出2项进入下一轮独立深审。  
-Two Tier 2 items have been promoted for the next independent deep review.
+本轮两项已完成独立深审：**Tampa Bay migrant potters = PROMOTE；Folsom / Late Pleistocene dice = HOLD**。Tampa Bay已移入正式补充建议名单；Folsom骰子继续保留待评估。  
+The two Tier 1 items have completed independent deep review: **Tampa Bay migrant potters = PROMOTE; Folsom / Late Pleistocene dice = HOLD**. Tampa Bay has moved to the main additional-candidate list; the Folsom dice study remains under review.
 
-1. **Tampa Bay移民陶工社群** — *American Antiquity*同行评议研究，58件普通与装饰陶片的成分、岩相、制陶技术和放射性碳年代共同支持：密西西比式装饰陶器并非简单输入品或地方仿制，而更可能由来自北方密西西比文化圈的移民陶工在Tampa Bay当地制作。它解决了持续约一个世纪的区域性争论，并把迁徙、技术知识和“community of practice”直接联系起来。
-2. **北美晚更新世骰子与机会游戏** — *American Antiquity*同行评议研究，从293套历史时期原住民骰子建立明确形态标准，再系统回查北美考古记录；Folsom文化3处遗址中识别出13件“diagnostic”和7件“probable”骰子，形成跨约12,000年的连续记录。其最大优势是方法创新和时间跨度；下一轮必须把“器物可识别为骰子”与“古人已具有抽象概率概念”严格区分。
+当前暂无未完成深审的第一档项目。  
+No Tier 1 item is currently awaiting deep review.
 
 ### 第二档：继续观察 | Tier 2 — Continue monitoring
 
+- **北美晚更新世骰子与机会游戏 — HOLD**：3处Folsom遗址的13件diagnostic和7件probable器物与历史时期原住民骰子的形态连续性很强，但研究主要是对既有馆藏和发表材料的重新分类；从“骰子”进一步推导“概率、随机性认知”属于更高层解释，暂不晋升正式名单。
 - **Kekova早青铜时代沉船 — HOLD**：同行评议论文真实、潜在意义很高，但仍属preliminary report；木质船体未保存，年代主要依赖陶器类型学，三件石锚是否属于该船尚不确定。
 - **Tunnug 1大麻使用证据 — HOLD**：直接测年与葬仪情境很强，但毛发证据能否排除外部接触仍存在实质争议。
-- **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告；公开的Contrecœur项目资料主要是工程、环境与社区文件，尚不足以独立核查年代和功能诊断。
-- **美国西南祖先Pueblo蓝铜矿溯源** — *Journal of Archaeological Science: Reports*同行评议，Pb-Sr-Cu同位素方法很有潜力，但考古样本只有12件；目前更像方法建立和交换网络的先导性研究。
-- **Holzman石器与猛犸象牙生产** — *Quaternary International*同行评议，对约14 ka阿拉斯加人群和象牙技术很重要，但关键象牙材料此前已有发表，2026年的主要贡献是综合石器、象牙加工与迁徙模型；与已晋升的Shég’ Xdaltth’í’在时间、区域和理论问题上高度重叠。
+- **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告。
+- **美国西南祖先Pueblo蓝铜矿溯源** — 同位素方法很有潜力，但考古样本只有12件。
+- **Holzman石器与猛犸象牙生产** — 对约14 ka阿拉斯加人群重要，但关键象牙材料此前已有发表，且与Shég’ Xdaltth’í’在时间、区域和理论问题上高度重叠。
 
 ### 第三档：仅研究动态 | Tier 3 — Research developments
 
@@ -153,30 +154,8 @@ Schleher, K. L., Thibodeau, A. M., Mathur, R., & Till, J. (2026). Spheres of blu
 
 - [University of New Mexico](https://news.unm.edu/news/unm-faculty-member-develops-method-to-trace-ancient-pueblo-azurite-sources)
 
-## 6. Tampa Bay密西西比式陶器与移民陶工社群 | Mississippian-style pottery and migrant potters in Tampa Bay
 
-**地区与年代 | Region and date**  
-Tampa Bay, Florida, USA / 美国佛罗里达Tampa Bay；Mississippian period, broadly ca. AD 1000–1600 / 广义约公元1000–1600年。
-
-**主要发现 | Major findings**  
-**中文。** Duke、Torvinen和Wallis结合陶器成分、岩相学和放射性碳年代模型，重新检验Tampa Bay长期存在的一个问题：当地密西西比风格彩陶究竟是输入品、地方仿制品，还是外来陶工在当地制作。研究认为，彩陶的泥料、熟料掺和和成形技术与普通地方陶器存在系统差异，最能解释这些差异的是来自北方密西西比文化圈的陶工迁入当地，并形成一个掌握专门技术知识的制作社群。
-
-**English.** Duke, Torvinen and Wallis combine compositional analysis, petrography and radiocarbon modeling to revisit a century-old question about Mississippian-style decorated pottery in Tampa Bay: imported vessels, local imitation, or production by migrant potters. Systematic differences in clay selection, grog temper and forming practices lead the authors to argue that potters from farther north migrated into Tampa Bay and established a specialized community of practice.
-
-**学术判断 | Assessment**  
-**中文。** **值得保留为较强候选。** 它不是新出土的轰动性遗存，而是用材料分析解决一个长期文化接触与迁徙问题。证据由同行评议论文支撑，理论意义涉及迁徙、技术知识、身份与“社群实践”。是否进入最终“大发现”名单，要看本站是否把“旧藏材料产生的新认识”与新田野发现给予同等权重。
-
-**English.** **A strong interpretive candidate.** This is not a spectacular newly excavated object but a material-analytical resolution of a long-standing problem of migration and cultural interaction. The peer-reviewed evidence bears directly on mobility, technical knowledge, identity and communities of practice. Promotion will depend partly on whether the final list gives equal weight to major new interpretations of legacy collections and to new field discoveries.
-
-**Publication / 出版物**  
-Duke, C. T., Torvinen, A., & Wallis, N. J. (2026). Secret recipes: Potting knowledge and migration in Mississippian (ca. AD 1000–1600) Tampa Bay, Florida, USA. *American Antiquity*, 1–25. https://doi.org/10.1017/aaq.2026.10227
-
-**Selected reporting / 媒体报道**
-
-- [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/)
-
-
-## 7. 阿拉斯加Holzman遗址石器与猛犸象牙生产 | Stone and mammoth-ivory production at the Holzman site, Alaska
+## 6. 阿拉斯加Holzman遗址石器与猛犸象牙生产 | Stone and mammoth-ivory production at the Holzman site, Alaska
 
 **地区与年代 | Region and date**  
 Middle Tanana Valley, interior Alaska, USA / 美国阿拉斯加内陆塔纳纳河谷；约14.0–13.7 ka。
@@ -194,7 +173,7 @@ Middle Tanana Valley, interior Alaska, USA / 美国阿拉斯加内陆塔纳纳�
 **Publication / 出版物**  
 Potter, B. A., et al. (2026). Stone and mammoth ivory tool production, circulation, and human dispersals in the middle Tanana Valley, Alaska: Implications for the Pleistocene peopling of the Americas. *Quaternary International, 755*, 110087. https://doi.org/10.1016/j.quaint.2025.110087
 
-## 8. 北美晚更新世骰子与机会游戏 | Late Pleistocene dice and games of chance in North America
+## 7. 北美晚更新世骰子与机会游戏 | Late Pleistocene dice and games of chance in North America
 
 **研究性质 | Nature of the study**  
 **中文。** Madden根据293套历史时期北美原住民骰子的共同形态特征建立识别标准，再系统检索已发表的北美考古记录。研究认为，符合标准的最早骰子可以追溯到Wyoming、Colorado和New Mexico的Folsom文化沉积，由此把北美机会游戏的历史推回约12,000年前。
@@ -202,7 +181,8 @@ Potter, B. A., et al. (2026). Stone and mammoth ivory tool production, circulati
 **English.** Madden derives morphological criteria from 293 documented sets of historic Native American dice and applies those criteria to the published North American archaeological record. The study identifies the earliest matching artifacts in Folsom deposits in Wyoming, Colorado and New Mexico, suggesting a history of dice and games of chance extending back about 12,000 years.
 
 **学术判断 | Assessment**  
-**中文。** **值得待评估，但属于“旧材料的新解释”。** 文章的方法论创新和文化史意义很强，尤其是在如何客观识别史前骰子方面；但从“骰子”进一步推演到概率认知史，解释层级明显更高，不能把“认识随机性和概率”写成已经直接证明的心理事实。
+**独立深审结论：HOLD / Independent deep-review decision: HOLD.**  
+**中文。** **值得继续待评估，但属于“旧材料的新解释”。** 文章的方法论创新和文化史意义很强，尤其是在如何客观识别史前骰子方面；但从“骰子”进一步推演到概率认知史，解释层级明显更高，不能把“认识随机性和概率”写成已经直接证明的心理事实。
 
 **English.** **Worth retaining under review, but as a reinterpretation of existing material.** The methodological contribution is substantial because it offers explicit criteria for identifying prehistoric dice. Claims about cognition, probability and randomness are more interpretive and should not be treated as direct archaeological demonstrations of abstract probabilistic reasoning.
 
@@ -210,7 +190,7 @@ Potter, B. A., et al. (2026). Stone and mammoth ivory tool production, circulati
 Madden, R. J. (2026). Probability in the Pleistocene: Origins and antiquity of Native American dice, games of chance, and gambling. *American Antiquity, 91*, 584–618.
 
 
-## 9. Crawford Lake沉积古DNA与千年人地关系 | Crawford Lake sedaDNA and a millennium of human–environment interactions
+## 8. Crawford Lake沉积古DNA与千年人地关系 | Crawford Lake sedaDNA and a millennium of human–environment interactions
 
 **地区与年代 | Region and date**  
 Crawford Lake, Ontario, Canada / 加拿大安大略Crawford Lake；约过去1300年。
