@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - map.html
+    - map-assets/
     - figures/
 
 website:
