@@ -1,0 +1,68 @@
+---
+title: "31. Tampa Bay：密西西比移民陶工与技术知识"
+subtitle: "Migrant Mississippian potters and communities of practice in Tampa Bay"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Tampa Bay, Florida, USA / 美国佛罗里达Tampa Bay
+
+**Date / 年代**  
+Mississippian period, broadly ca. AD 1000–1600 / 广义约公元1000–1600年
+
+**Research / excavation institutions / 发掘或研究机构**  
+Florida Museum of Natural History, University of Florida; Duke Petrographic, LLC
+
+**Key researchers / project leads / 主要研究者或项目负责人**  
+C. Trevor Duke; Andrea Torvinen; Neill J. Wallis.
+
+**Evidence grade / 证据等级**  
+A — peer-reviewed *American Antiquity* study integrating compositional analysis, ceramic petrography, technological attributes and radiocarbon modeling.  
+A级——《American Antiquity》同行评议研究，综合陶器成分分析、岩相学、制作技术属性和放射性碳年代模型。
+
+**Scholarly importance assessment / 学术重要性评估**  
+High / 高——解决Tampa Bay密西西比式装饰陶器来源这一持续约一个世纪的问题，并把迁徙、技术知识、身份和“community of practice”联系起来。
+
+**CCTV status / 央视遴选状态**  
+Additional candidate / 补充建议
+:::
+
+## 主要学术背景 | Scholarly background
+
+**中文。** Tampa Bay长期处于密西西比文化分布图的边缘。当地既出现台基土丘、村落和密西西比式图像，也缺乏密西西比核心区常见的玉米农业和贝壳掺和陶器。约一个世纪以来，考古学家一直争论当地装饰陶器究竟是从北方输入、由地方陶工模仿，还是由具有密西西比训练背景的外来陶工在当地制作。
+
+**English.** Tampa Bay has long occupied an ambiguous position at the margins of the Mississippian world. Local communities built platform-mound villages and used Mississippian-style imagery, yet lacked hallmark features such as maize agriculture and shell-tempered pottery. For roughly a century, archaeologists debated whether decorated vessels were imported, locally imitated, or produced locally by potters trained in Mississippian traditions.
+
+## 主要发现 | Major findings
+
+**中文。** Duke、Torvinen和Wallis对58件普通与装饰陶片进行成分、岩相和技术分析，并结合放射性碳年代模型。装饰陶器与普通地方陶器存在系统差异：前者普遍采用grog掺和、线圈成形和更一致的泥料配方，而且部分grog中含有佛罗里达半岛本地地质环境不常见的云母等成分。
+
+**English.** Duke, Torvinen and Wallis analyzed 58 plain and decorated sherds using compositional, petrographic and technological evidence together with radiocarbon modeling. Decorated vessels differ systematically from ordinary local wares: they commonly use grog temper, coiling and more standardized paste recipes, and some grog contains mica uncommon in peninsular Florida geological contexts.
+
+**中文。** 装饰陶器中约80%使用grog，而普通陶器中没有一件采用这种配方。研究者进一步提出，部分装饰陶器所用grog来自有意打碎的旧装饰陶器，并可能保存“祖传”掺和材料。与北方同期密西西比地区普遍使用grog的传统相结合，最能解释这些差异的是：来自北方文化圈的陶工迁入Tampa Bay，在当地形成一个掌握专门技术知识的制作社群。
+
+**English.** Roughly 80% of decorated wares in the sample contain grog, whereas none of the plain wares do. The authors further argue that some grog derived from deliberately broken decorated vessels and may have included curated ancestral temper. Combined with widespread grog use in contemporaneous Mississippian regions to the north, the pattern is best explained by migrant potters establishing a local community of practice in Tampa Bay.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 这一成果的意义不只是确定“陶器从哪里来”，而是显示技术知识本身可以成为迁徙和身份的证据。陶工并非简单复制外来样式，而是在新环境中维持专门配方、原料获取和制作习惯；这些技术选择同时具有社会边界和身份表达作用。
+
+**English.** The importance of the study extends beyond pottery provenance. Technical knowledge itself becomes evidence for migration and identity. Migrant craftspeople did not simply copy an external style; they maintained distinctive recipes, resource access and forming practices in a new social setting, making craft knowledge part of social boundary-making and identity.
+
+**中文。** 需要保留的限制是：这一结论来自区域陶器样本和技术体系重建，而不是直接测得某位陶工的出生地。研究支持“移民建立的制作社群”这一模型，但不能把所有Tampa Bay装饰陶器都简单归结为同一批移民个人。
+
+**English.** The main limitation is inferential scale. The study reconstructs migration through pottery technology and regional patterning rather than directly measuring the birthplace of individual potters. It strongly supports a migrant-founded community of practice but does not imply that every decorated vessel was made by the same immigrant individuals.
+
+## 学术出版物 | Academic publications
+
+Duke, C. T., Torvinen, A., & Wallis, N. J. (2026). Secret recipes: Potting knowledge and migration in Mississippian (ca. AD 1000–1600) Tampa Bay, Florida, USA. *American Antiquity*, 1–25. https://doi.org/10.1017/aaq.2026.10227
+
+## 主要媒体报道 | Major media coverage
+
+- [University of Florida — Archaeologists uncover centuries-old mystery of Tampa Bay’s secret community of migrant potters](https://news.ufl.edu/2026/09/migrant-potters/)
+- [Florida Museum of Natural History](https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [American Antiquity article](https://doi.org/10.1017/aaq.2026.10227)
+- [Florida Museum report](https://www.floridamuseum.ufl.edu/science/archaeologists-uncover-centuries-old-mystery-of-tampa-bays-secret-community-of-migrant-potters/)
