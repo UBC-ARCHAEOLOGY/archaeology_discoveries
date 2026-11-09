@@ -9,7 +9,7 @@ title-block-style: none
 
 <p class="hero-subtitle">Archaeological Discoveries of 2026</p>
 
-<p class="hero-description">本网站系统整理2026年世界重要考古发现，以中央广播电视总台候选项目为基础，并补充《Nature》《Science》《New York Times》等国际学术与主流媒体重点报道的发现。每个条目同时提供中文与英文概述、地理与年代信息、学术重要性、央视遴选状态、论文链接、媒体报道与图像来源。</p>
+<p class="hero-description">本网站系统整理2026年世界重要考古发现，以中央广播电视总台候选项目为基础，并补充《Nature》《Science》《New York Times》等国际学术与主流媒体重点报道的发现。每个条目同时提供中文与英文概述、地理与年代信息、主要发掘/研究机构与负责人、证据状态、学术重要性、央视遴选状态、论文链接、媒体报道与图像来源。</p>
 
 <p class="hero-description">This bilingual research guide documents major archaeological discoveries reported in 2026. It begins with the CCTV candidate list and adds internationally significant discoveries highlighted by major journals and media. Each entry records place and period, principal findings, intellectual significance, CCTV selection status, academic publications, media coverage, and image sources.</p>
 
@@ -30,7 +30,7 @@ A major discovery is not simply a spectacular headline. We emphasize whether a f
 ## 当前收录 | Current coverage
 
 - **16项**中央广播电视总台2026年候选发现
-- **4项**补充建议项目：西南亚马孙土方工程、商代铜资源网络、Chan Chan Chimú墓葬、凯尔特语传播古基因组研究
+- **8项**补充建议项目：西南亚马孙土方工程、商代铜资源网络、Chan Chan Chimú墓葬、凯尔特语/日耳曼语传播古基因组、苏拉威西早期岩画、Xultun玛雅数学家、赫梯王室档案、美洲早期天花基因组
 - 所有页面均为**中英双语**
 - 央视最终结果公布后，将把状态从“候选”更新为“入选/未入选”
 
