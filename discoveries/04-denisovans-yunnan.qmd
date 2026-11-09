@@ -1,6 +1,6 @@
 ---
 title: "4. 云南蝙蝠洞丹尼索瓦人化石与生活遗存"
-subtitle: "Denisovan fossils and lifeways at Bat Cave, Yunnan"
+subtitle: "Denisovan fossils and lifeways at Bianfu Cave, Yunnan"
 ---
 
 ::: {.discovery-meta}
@@ -8,17 +8,21 @@ subtitle: "Denisovan fossils and lifeways at Bat Cave, Yunnan"
 Yunnan, China / 中国云南
 
 **Date / 年代**  
-Middle–Late Pleistocene / 中—晚更新世
+Hominin fossils ca. 167–134 ka; cultural sequence ca. 190–70 ka / 人类化石约16.7万–13.4万年前；文化序列约19万–7万年前
 
 **Research / excavation institutions / 发掘或研究机构**  
-Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Yunnan Provincial Institute of Cultural Relics and Archaeology; Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences; Institute of Cultural Heritage, Shandong University and collaborating laboratories
+Institute of Tibetan Plateau Research, Chinese Academy of Sciences; Yunnan Provincial Institute of Cultural Relics and Archaeology; Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences; Lanzhou University; Nanjing Normal University; University of Wollongong and collaborating institutions
 
-**Lead researchers / 主要负责人**  
-Fahu Chen; Qiaomei Fu; Qijun Ruan; Huan Rao; Song Xing
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Bianfu Cave archaeology and subsistence study: Qijun Ruan; Hao Li; Song Xing; Keliang Zhao; Fahu Chen.  
+Proteomic identification study: Huiyun Rao; Song Xing; Qijun Ruan; Qiaomei Fu.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); this page now treats the 2026 Denisovan results as a linked research cluster rather than a single paper.  
-中文：顶级同行评议研究（A级）；本页把2026年丹尼索瓦人多项成果作为相互关联的研究群处理。
+**Evidence grade / 证据等级**  
+A — three peer-reviewed *Nature* studies using proteomics, morphology, chronology, archaeology and palaeoecology.  
+A级——三篇《Nature》同行评议论文，综合古蛋白、形态、年代、考古和古环境证据。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——把丹尼索瓦人研究从“基因与分类”推进到“化石形态、技术、生计与生态适应”，并显著扩大其在东亚的直接考古记录。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -40,7 +44,7 @@ CCTV candidate / 央视候选
 
 **中文。** 丹尼索瓦研究长期呈现“遗传学证据丰富、考古材料稀少”的不平衡。蝙蝠洞使研究从“丹尼索瓦人是谁”推进到“丹尼索瓦人怎样生活”，从系统发育和基因交流问题扩展到技术行为、生计与环境适应。
 
-**English.** Denisovan research has long been asymmetrical: rich genetic evidence but sparse archaeology. Bat Cave shifts the agenda from identifying who Denisovans were toward reconstructing how they lived, bringing technology, subsistence, and ecological adaptation into a field once dominated by phylogeny and admixture.
+**English.** Denisovan research has long been asymmetrical: rich genetic evidence but sparse archaeology. Bianfu Cave shifts the agenda from identifying who Denisovans were toward reconstructing how they lived, bringing technology, subsistence, and ecological adaptation into a field once dominated by phylogeny and admixture.
 
 ## 学术出版物 | Academic publications
 
