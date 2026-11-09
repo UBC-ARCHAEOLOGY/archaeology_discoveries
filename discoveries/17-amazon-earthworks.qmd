@@ -73,6 +73,27 @@ Recommended set from the open-access Nature paper:
 
 Because the article is open access but the exact licence text was not retrievable in this pass, the page should **link to figures first** and embed only after each caption is checked for licence and third-party credits.
 
+## 页面图像 | Page images
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/17/fig1.png" alt="图1—西南亚马孙Aquiry土方工程区域分布" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图1—西南亚马孙Aquiry土方工程区域分布—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/17/fig2.png" alt="图2—LiDAR揭示的几何土方工程" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图2—LiDAR揭示的几何土方工程—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+</div>
+
+<div class="discovery-image-card">
+<img src="../figures/discoveries/17/fig3.png" alt="图3—土方工程密度与区域尺度模型" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<div class="image-fallback" style="display:none"><a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">View original image / 查看原图 →</a></div>
+<p class="image-caption">图3—土方工程密度与区域尺度模型—来源 Source：Nature—作者 Author：Pärssinen et al. 2026—许可 Licence：CC BY 4.0—<a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">原文链接 Original</a></p>
+</div>
+
+
 ## 图像与图版来源 | Images and figure sources
 
 - [Nature article figures](https://www.nature.com/articles/s41586-026-10835-7)
