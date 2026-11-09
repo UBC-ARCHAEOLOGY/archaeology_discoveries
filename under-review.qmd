@@ -16,21 +16,19 @@ This page records 2026 discoveries and studies of clear scholarly interest that 
 
 ### 第一档：高优先级晋升候选 | Tier 1 — High-priority promotion review
 
-本轮三项已完成独立深审：**Etowah cacao = PROMOTE；Roman Iberia aDNA = PROMOTE；Kekova shipwreck = HOLD**。前两项已移入正式补充建议名单；Kekova继续保留待评估。  
-The three Tier 1 items have completed independent deep review: **Etowah cacao = PROMOTE; Roman Iberia aDNA = PROMOTE; Kekova shipwreck = HOLD**. The first two have moved to the main additional-candidate list; Kekova remains under review.
+本轮从第二档中筛出2项进入下一轮独立深审。  
+Two Tier 2 items have been promoted for the next independent deep review.
 
-当前暂无未完成深审的第一档项目。  
-No Tier 1 item is currently awaiting deep review.
+1. **Tampa Bay移民陶工社群** — *American Antiquity*同行评议研究，58件普通与装饰陶片的成分、岩相、制陶技术和放射性碳年代共同支持：密西西比式装饰陶器并非简单输入品或地方仿制，而更可能由来自北方密西西比文化圈的移民陶工在Tampa Bay当地制作。它解决了持续约一个世纪的区域性争论，并把迁徙、技术知识和“community of practice”直接联系起来。
+2. **北美晚更新世骰子与机会游戏** — *American Antiquity*同行评议研究，从293套历史时期原住民骰子建立明确形态标准，再系统回查北美考古记录；Folsom文化3处遗址中识别出13件“diagnostic”和7件“probable”骰子，形成跨约12,000年的连续记录。其最大优势是方法创新和时间跨度；下一轮必须把“器物可识别为骰子”与“古人已具有抽象概率概念”严格区分。
 
 ### 第二档：继续观察 | Tier 2 — Continue monitoring
 
-- **Kekova早青铜时代沉船 — HOLD**：同行评议论文真实、潜在意义很高，但仍属preliminary report；木质船体未保存，年代主要依赖陶器类型学，三件石锚是否属于该船尚不确定。“世界最古老沉船”不能仅依赖Guinness或媒体认定。
+- **Kekova早青铜时代沉船 — HOLD**：同行评议论文真实、潜在意义很高，但仍属preliminary report；木质船体未保存，年代主要依赖陶器类型学，三件石锚是否属于该船尚不确定。
 - **Tunnug 1大麻使用证据 — HOLD**：直接测年与葬仪情境很强，但毛发证据能否排除外部接触仍存在实质争议。
-- **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告。
-- **Tampa Bay移民陶工社群** — 同行评议和材料分析扎实，但目前主要改变区域性迁徙与技术传统问题。
-- **美国西南祖先Pueblo蓝铜矿溯源** — 方法明确，但考古样本量小。
-- **Holzman石器与猛犸象牙生产** — 对最早阿拉斯加人群重要，但2026年的贡献主要是综合性推进。
-- **北美晚更新世骰子与机会游戏** — 识别方法有创新，但“概率认知”属于更高层解释。
+- **魁北克圣劳伦斯河原住民捕鱼设施** — 水下文化景观和协作式解释很有意义，但目前仍缺同行评议论文或公开完整技术报告；公开的Contrecœur项目资料主要是工程、环境与社区文件，尚不足以独立核查年代和功能诊断。
+- **美国西南祖先Pueblo蓝铜矿溯源** — *Journal of Archaeological Science: Reports*同行评议，Pb-Sr-Cu同位素方法很有潜力，但考古样本只有12件；目前更像方法建立和交换网络的先导性研究。
+- **Holzman石器与猛犸象牙生产** — *Quaternary International*同行评议，对约14 ka阿拉斯加人群和象牙技术很重要，但关键象牙材料此前已有发表，2026年的主要贡献是综合石器、象牙加工与迁徙模型；与已晋升的Shég’ Xdaltth’í’在时间、区域和理论问题上高度重叠。
 
 ### 第三档：仅研究动态 | Tier 3 — Research developments
 
