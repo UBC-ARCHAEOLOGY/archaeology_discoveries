@@ -35,9 +35,9 @@ Additional candidate / 补充建议
 
 ## 主要发现 | Major findings
 
-**中文。** 2019年在Cova de la Font Major的Gatoneres de Cal Palletes区域识别出此前长期被忽视的史前刻画；2026年论文首次系统发表该组合。研究共记录280个图像单元，其中55个为动物形象，包括马科、山羊类、鹿类、牛科和罕见的熊形象，其余包括大量非具象符号。
+**中文。** 2019年在Cova de la Font Major的Gatoneres de Cal Palletes区域识别出此前长期被忽视的史前刻画。2022年一篇关于东北伊比利亚砾岩洞穴旧石器考古的 *Antiquity* 区域综述已经初步报告Font Major约100个旧石器风格具象刻画；2026年论文则首次对完整组合进行系统发表和年代、图像学分析。研究共记录280个图像单元，其中55个为动物形象，包括马科、山羊类、鹿类、牛科和罕见的熊形象，其余包括大量非具象符号。
 
-**English.** Palaeolithic engravings were first recognized in 2019 in the Gatoneres de Cal Palletes sector of Cova de la Font Major, despite decades of tourist visitation. The 2026 publication provides the first systematic presentation of the corpus: 280 motifs, including 55 zoomorphic figures—equids, caprines, cervids, bovids and a rare bear—together with numerous non-figurative signs.
+**English.** Palaeolithic engravings were first recognized in 2019 in the Gatoneres de Cal Palletes sector of Cova de la Font Major, despite decades of tourist visitation. A 2022 *Antiquity* regional review of conglomerate-cave archaeology in north-eastern Iberia had already reported roughly 100 Palaeolithic-style figurative engravings at Font Major; the 2026 paper provides the first systematic presentation, chronological assessment and full analysis of the corpus: 280 motifs, including 55 zoomorphic figures—equids, caprines, cervids, bovids and a rare bear—together with numerous non-figurative signs.
 
 **中文。** 以动物图像数量计，Font Major被作者置于伊比利亚地中海沿岸规模最大的旧石器洞穴艺术组合之列。作为比较，东部伊比利亚的Cova Dones已记录110多个图像单元、至少19个动物形象；Font Major目前记录280个图像单元和55个动物形象，明显扩大了这一地区已知洞穴艺术的规模。
 
@@ -54,6 +54,8 @@ Additional candidate / 补充建议
 **English.** Chronological limits must remain explicit. Direct dating of the engravings is currently limited, and uranium-series dating of calcite overlying at least one zoomorph is planned. The Palaeolithic—and especially pre-Magdalenian—attribution of many motifs presently relies mainly on archaeological context and stylistic comparison. The full corpus therefore should not be assigned a single precise age such as “26,000 years old.”
 
 ## 学术出版物 | Academic publications
+
+Morales, J. I., et al. (2022). Palaeolithic archaeology in the conglomerate caves of north-eastern Iberia. *Antiquity, 96*(387), 710–718. https://doi.org/10.15184/aqy.2022.34
 
 Vergès Bosch, J. M., & Salas-Altès, M. (2026). Filling gaps: The Palaeolithic rock art of the Cova de la Font Major on the north-east Iberian Peninsula. *Antiquity*, 1–22. https://doi.org/10.15184/aqy.2026.10447
 
