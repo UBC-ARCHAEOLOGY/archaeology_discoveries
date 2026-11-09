@@ -13,12 +13,16 @@ Early Dynastic Period · ca. 3100–2686 BCE / 早王朝时期
 **Research / excavation institutions / 发掘或研究机构**  
 Supreme Council of Antiquities, Egypt; Central Department for Antiquities of Middle Egypt
 
-**Lead researchers / 主要负责人**  
-Sami Derderi (head of the archaeological mission); with oversight from the Supreme Council of Antiquities
+**Key researchers / project leads / 主要研究者或项目负责人**  
+The excavation-mission director is not named in the official sources reviewed. The 2026 announcement is attributed to the Supreme Council of Antiquities; Hisham El-Leithy (Secretary-General, SCA) and Mohamed Abdel Badie (Head of the Egyptian Antiquities Sector) are the principal archaeological officials quoted in the release.  
+现有官方来源未明确公布该发掘队领队姓名。2026年公告由埃及最高文物委员会发布，主要被引述的考古主管为最高文物委员会秘书长 Hisham El-Leithy 和埃及文物部门负责人 Mohamed Abdel Badie。
 
-**Evidence status / 证据状态**  
-English: Government / excavation announcement only (D); no formal scholarly report identified as of the current review.  
-中文：目前仅有政府/发掘公告（D级）；尚未发现正式学术报告。
+**Evidence grade / 证据等级**  
+D — official announcement only; no peer-reviewed excavation report has been identified.  
+D级——目前仅有官方公告，尚未发现同行评议的正式发掘报告。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Moderate / 中等——建筑细节对理解早王朝墓葬工程有价值，但“通向金字塔工程”的解释仍是初步假说。
 
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
@@ -46,11 +50,11 @@ CCTV candidate / 央视候选
 
 **尚无同行评议论文 | No peer-reviewed publication yet.**
 
-[Egypt State Information Service. (2026, June 20). *Ancient tomb discovery sheds light on early Egyptian funerary architecture*.](https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/)
+Egypt State Information Service. (2026, June 20). *Ancient tomb discovery sheds light on early Egyptian funerary architecture*. https://sis.gov.eg/en/media-center/news/ancient-tomb-discovery-sheds-light-on-early-egyptian-funerary-architecture/
 
-**现有资料内容（中文）。** 目前尚未发现正式同行评议论文。现有信息来自埃及最高文物委员会/国家信息服务的发掘公告，因此墓葬年代、建筑功能以及与后期金字塔工程之间的关系都应视为初步解释。
+**现有资料内容（中文）。** 该官方公告报告了Gabal Al-Tair两座早王朝墓葬及更早、较晚墓葬，并明确把“墙体底厚上薄”与后期金字塔工程联系作为初步解释提出；它不是同行评议论文。
 
-**What the current source shows (English).** No peer-reviewed publication has yet been identified. Current information derives from the Egyptian Supreme Council of Antiquities/State Information Service field announcement, so chronology, architectural function and any relationship to later pyramid engineering remain preliminary interpretations.
+**What the current source shows (English).** This official announcement reports two Early Dynastic tombs at Gabal Al-Tair together with earlier and later burials. It presents the tapering wall construction as a preliminary possible antecedent to later pyramid engineering; it is not a peer-reviewed publication.
 
 <!-- APA-V2.1 -->
 
