@@ -30,7 +30,7 @@ title: "央视遴选 | CCTV Selection"
 ## 补充建议 | Additional discoveries proposed for consideration
 
 1. [西南亚马孙超过两万处前殖民土方工程 / More than 20,000 precolonial earthworks in southwestern Amazonia](discoveries/17-amazon-earthworks.qmd)
-2. [秘鲁Chan Chan未盗扰Chimú精英墓 / An unusually intact Chimú elite tomb at Chan Chan](discoveries/18-chan-chan-tomb.qmd)
+2. [秘鲁Chan Chan保存良好的Chimú精英墓葬平台 / A well-preserved Chimú elite funerary platform at Chan Chan](discoveries/18-chan-chan-tomb.qmd)
 3. [古基因组与凯尔特语、日耳曼语传播模型 / Ancient genomes and Celtic/Germanic language dispersal](discoveries/19-celtic-ancient-dna.qmd)
 4. [苏拉威西穆纳岛≥6.78万年手印岩画 / Rock art from at least 67,800 years ago on Muna Island, Sulawesi](discoveries/20-sulawesi-rock-art.qmd)
 5. [Xultun署名玛雅数学家—天文学家Sak Tahn Waax / The named Maya mathematician-astronomer Sak Tahn Waax](discoveries/21-maya-mathematician.qmd)
