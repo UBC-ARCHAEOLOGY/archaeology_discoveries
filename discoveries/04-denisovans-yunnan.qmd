@@ -1,0 +1,44 @@
+---
+title: "4. 云南蝙蝠洞丹尼索瓦人化石与生活遗存"
+subtitle: "Denisovan fossils and lifeways at Bat Cave, Yunnan"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Yunnan, China / 中国云南
+
+**Date / 年代**  
+Middle–Late Pleistocene / 中—晚更新世
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 蝙蝠洞的多学科研究把丹尼索瓦人的化石身份与石器、动物利用和遗址环境联系起来，为中国南方提供了罕见的丹尼索瓦人直接考古记录。
+
+**English.** Multidisciplinary work at Bat Cave links Denisovan fossil identification with stone tools, faunal exploitation, and site environments, providing rare direct archaeological evidence for Denisovans in southern China.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 丹尼索瓦研究长期呈现“遗传学证据丰富、考古材料稀少”的不平衡。蝙蝠洞使研究从“丹尼索瓦人是谁”推进到“丹尼索瓦人怎样生活”，从系统发育和基因交流问题扩展到技术行为、生计与环境适应。
+
+**English.** Denisovan research has long been asymmetrical: rich genetic evidence but sparse archaeology. Bat Cave shifts the agenda from identifying who Denisovans were toward reconstructing how they lived, bringing technology, subsistence, and ecological adaptation into a field once dominated by phylogeny and admixture.
+
+## 学术论文 | Academic publications
+
+- [Nature](https://doi.org/10.1038/s41586-026-10997-4)
+
+## 主要媒体报道 | Major media coverage
+
+- [CNN/KESQ report](https://kesq.com/cnn-other/2026/09/09/cave-fossils-in-china-reveal-lives-of-mysterious-human-relatives/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Nature article figures](https://doi.org/10.1038/s41586-026-10997-4)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
