@@ -23,6 +23,12 @@ Peer-reviewed specialist-journal research (B); first securely identified Middle 
 CCTV candidate / 央视候选
 :::
 
+## 主要学术背景 | Scholarly background
+
+**中文。** 库施王国研究长期受“埃及影响/模仿”框架支配，而近年的重点转向地方国家如何主动选择、重组和技术化外来文化形式。费昂斯尤其适合研究这一问题，因为它既是高可见度的精英材料，又需要专业配方、窑炉、原料和工匠知识。Sanam神庙中的作坊因而能够把“文化借鉴”转化为可观察的生产组织与政治经济问题。
+
+**English.** Kushite studies have long been dominated by models of Egyptian influence or imitation. Recent work instead asks how local states selectively reworked imported forms through their own technologies and institutions. Faience is particularly revealing because it is both a visible prestige material and a craft requiring recipes, firing installations, raw materials, and specialist knowledge. The Sanam workshop therefore converts debates about cultural borrowing into questions of production organization and political economy.
+
 ## 主要发现 | Major findings
 
 **中文。** Sanam神庙建筑群发现可靠的faience生产作坊，包括珠饰和沙布提俑生产证据，并显示当地工匠采用不同于埃及的材料配方。
@@ -35,13 +41,37 @@ CCTV candidate / 央视候选
 
 **English.** The study moves beyond viewing Kushite material culture as simple Egyptian imitation. More importantly, temple-based production connects prestige goods, raw materials, specialist knowledge, and labor organization to political economy and state power.
 
+## 论文核查 | Publication verification
+
+- **Lemos, Rennan; Kathryn Howley; Siobhan Shinn; Shadia Abdu Rabo.**
+- **Title:** *Crafting power in Kush: faience production and state control in the Napatan region*
+- **Journal:** *Antiquity*, First View
+- **DOI:** [10.15184/aqy.2026.10434](https://doi.org/10.15184/aqy.2026.10434)
+- **Published online:** 19 October 2026
+- **Open access:** **Yes — CC BY 4.0**. Reuse is permitted with attribution, subject to any separate third-party credit in individual captions.
+
 ## 学术论文 | Academic publications
 
 - [Antiquity](https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5)
 
 ## 主要媒体报道 | Major media coverage
 
-- [Archaeology Magazine](https://archaeology.org/news/2026/10/20/faience-workshop-found-in-ancient-nubia/)\n- [Phys.org](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html)
+- [Archaeology Magazine](https://archaeology.org/news/2026/10/20/faience-workshop-found-in-ancient-nubia/)
+- [Antiquity feature](https://antiquity.ac.uk/news/2026/uncovering-shimmering-material-helped-craft-power-ancient-nubia)
+- [Phys.org](https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html)
+- [Antiquity — original article](https://www.cambridge.org/core/journals/antiquity/article/crafting-power-in-kush-faience-production-and-state-control-in-the-napatan-region/A15CF88886CC39E3C6D4110DD58B94A5)
+
+## 关键图像与许可 | Key images and permissions
+
+The article is **CC BY 4.0**. Preferred images:
+
+1. **Plan/location of Sanam Temple and workshop context.**
+2. **Firing pit and mudbrick production installations.**
+3. **Multicoloured faience beads, vessel fragments and wasters.**
+4. **Green faience shabti and matching mould.**
+5. **Material/recipe evidence illustrating the use of local shell-derived calcium.**
+
+These images can be embedded with full article attribution unless an individual caption identifies third-party copyright.
 
 ## 图像与图版来源 | Images and figure sources
 
