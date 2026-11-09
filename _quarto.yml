@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - map.html
+    - figures/
 
 website:
   title: "2026 世界考古发现 | Archaeological Discoveries 2026"
