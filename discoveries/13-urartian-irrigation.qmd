@@ -10,15 +10,24 @@ Ararat Plain, Armenia / 亚美尼亚亚拉拉特平原
 **Date / 年代**  
 Urartian period · ca. 2,700 years ago / 乌拉尔图时期 · 约2700年前
 
+**Research / excavation institutions / 发掘或研究机构**  
+Department of Oriental Archaeology, University of Warsaw; Institute of Archaeology and Ethnography, National Academy of Sciences of Armenia
+
+**Lead researchers / 主要负责人**  
+Nazarij Buławka; Krzysztof Jakubiak; Inessa Karapetyan
+
+**Evidence status / 证据状态**  
+Peer-reviewed specialist-journal research (B); remote-sensing interpretation is strong, but ancient-canal attribution is partly inferential rather than directly dated.
+
 **CCTV status / 央视遴选状态**  
 CCTV candidate / 央视候选
 :::
 
 ## 主要发现 | Major findings
 
-**中文。** 卫星、多光谱和数字地形模型识别出阿尔吉什蒂希尼利周边复杂水利景观，其中包括约135公里疑似古代运河以及保存较好的古代渠段。
+**中文。** 卫星、多光谱和数字地形模型识别出阿尔吉什蒂希尼利周边复杂水利景观，共绘出约1019公里水管理要素，但其中约429公里为现代渠道、约420公里为古河道/溪流；真正被识别为疑似古代运河的约134.6公里，其中约36公里保存较清晰。
 
-**English.** Satellite, multispectral, and digital terrain analysis identified a complex water-management landscape around Argishtikhinili, including roughly 135 km of probable ancient canals and well-preserved canal segments.
+**English.** Satellite, multispectral, and digital terrain analysis identified a complex water-management landscape around Argishtikhinili, mapping 1,019 km of water-management features in total, of which about 134.6 km are interpreted as probable ancient canals and only a smaller subset survives clearly; the remainder includes modern channels and palaeochannels.
 
 ## 学术重要性 | Intellectual significance
 
