@@ -1,0 +1,44 @@
+---
+title: "11. 中国—希腊联合发掘阿西诺古城"
+subtitle: "Sino-Greek excavation at ancient Arsinoe"
+---
+
+::: {.discovery-meta}
+**Region / 地区**  
+Aetolia-Acarnania, Greece / 希腊西部
+
+**Date / 年代**  
+Classical–Hellenistic antiquity / 古典—希腊化时期
+
+**CCTV status / 央视遴选状态**  
+CCTV candidate / 央视候选
+:::
+
+## 主要发现 | Major findings
+
+**中文。** 中国古典文明研究院参与的联合考古项目揭露带柱廊庭院建筑，并出土铭文石、钱币和其他遗物。
+
+**English.** A Sino-Greek field project exposed a building with a colonnaded courtyard together with inscriptions, coins, and other finds.
+
+## 学术重要性 | Intellectual significance
+
+**中文。** 该项目的重要性主要体现在学术制度史与国际合作：中国学者开始在希腊古典文明核心地区持续获取一手田野资料，并参与材料采集、问题提出和知识生产。就单季考古发现本身而言，其全球理论突破仍有待后续发掘。
+
+**English.** Its main significance lies in the history of scholarship and international collaboration: Chinese researchers are now generating primary field data in a core region of Classical archaeology and participating directly in framing research questions. The global interpretive significance of the first excavation season itself remains to be established through future work.
+
+## 学术论文 | Academic publications
+
+- Formal publication pending / 正式论文待发表
+
+## 主要媒体报道 | Major media coverage
+
+- [CCTV News](https://news.cctv.com/)
+
+## 图像与图版来源 | Images and figure sources
+
+- [Project imagery via CCTV](https://news.cctv.com/)
+
+::: {.callout-note title="Image policy / 图像说明"}
+本站优先链接论文原始图版、开放获取图像和媒体原始报道。只有在版权或再利用条件明确时，图片文件才会复制到本仓库。  
+The site prioritizes original publication figures, open-access images, and source media pages. Image files are copied into this repository only when reuse terms are clear.
+:::
