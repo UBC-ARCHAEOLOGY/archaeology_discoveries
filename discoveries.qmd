@@ -24,7 +24,7 @@ The table below summarizes all entries currently included in the site.
 | 15 | [库施faience生产](discoveries/15-kush-faience.qmd)<br>Kushite faience production | Sudan / 苏丹 | 7th c. BCE / 公元前7世纪 | CCTV candidate / 央视候选 |
 | 16 | [木乃伊葬仪中的《伊利亚特》](discoveries/16-iliad-mummy.qmd)<br>Iliad in mummification context | Egypt / 埃及 | ca. 1,600 years ago / 约1600年前 | CCTV candidate / 央视候选 |
 | 17 | [西南亚马孙土方工程](discoveries/17-amazon-earthworks.qmd)<br>Amazonian earthworks | Southwestern Amazonia / 西南亚马孙 | Precolonial period / 前殖民时期 | Additional candidate / 补充建议 |
-| 18 | [Chan Chan Chimú精英墓](discoveries/18-chan-chan-tomb.qmd)<br>Chimú elite tomb | Peru / 秘鲁 | ca. 600 years ago / 约600年前 | Additional candidate / 补充建议 |
+| 18 | [Chan Chan Chimú精英墓葬平台](discoveries/18-chan-chan-tomb.qmd)<br>Chimú elite tomb | Peru / 秘鲁 | ca. 600 years ago / 约600年前 | Additional candidate / 补充建议 |
 | 19 | [古基因组与凯尔特语、日耳曼语传播](discoveries/19-celtic-ancient-dna.qmd)<br>Ancient genomes & Celtic/Germanic dispersal | Europe / 欧洲 | Bronze–Iron Age / 青铜—铁器时代 | Additional candidate / 补充建议 |
 | 20 | [苏拉威西≥6.78万年手印岩画](discoveries/20-sulawesi-rock-art.qmd)<br>Rock art ≥67.8 ka in Sulawesi | Indonesia / 印度尼西亚 | ≥67.8 ka / ≥6.78万年前 | Additional candidate / 补充建议 |
 | 21 | [Xultun玛雅数学家Sak Tahn Waax](discoveries/21-maya-mathematician.qmd)<br>Named Maya mathematician-astronomer | Guatemala / 危地马拉 | ca. AD 781 / 约公元781年 | Additional candidate / 补充建议 |
