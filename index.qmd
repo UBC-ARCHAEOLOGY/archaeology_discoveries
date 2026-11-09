@@ -1,0 +1,39 @@
+---
+title-block-style: none
+---
+
+::: {.homepage-hero}
+<p class="hero-kicker">ARCHAEOLOGY · 2026 · BILINGUAL RESEARCH GUIDE</p>
+
+# 2026 世界考古发现 {.hero-title}
+
+<p class="hero-subtitle">Archaeological Discoveries of 2026</p>
+
+<p class="hero-description">本网站系统整理2026年世界重要考古发现，以中央广播电视总台候选项目为基础，并补充《Nature》《Science》《New York Times》等国际学术与主流媒体重点报道的发现。每个条目同时提供中文与英文概述、地理与年代信息、学术重要性、央视遴选状态、论文链接、媒体报道与图像来源。</p>
+
+<p class="hero-description">This bilingual research guide documents major archaeological discoveries reported in 2026. It begins with the CCTV candidate list and adds internationally significant discoveries highlighted by major journals and media. Each entry records place and period, principal findings, intellectual significance, CCTV selection status, academic publications, media coverage, and image sources.</p>
+
+[浏览全部发现](discoveries.qmd){.btn .btn-primary .me-2} [查看央视候选](cctv.qmd){.btn .btn-outline-primary}
+:::
+
+## 本站如何理解“大发现” | What counts as a major discovery?
+
+“大发现”不等于“最吸引眼球的新闻”。本站重点考察四个维度：
+
+1. **是否改变一个长期存在的重要学术问题；**
+2. **是否提供此前缺失的一类证据或方法；**
+3. **是否具有跨区域、跨学科或跨时期的解释意义；**
+4. **是否可能在未来进入教材、综述与长期学术讨论。**
+
+A major discovery is not simply a spectacular headline. We emphasize whether a finding changes a long-standing question, introduces a new class of evidence or method, matters beyond one site or region, and is likely to remain important in future synthesis.
+
+## 当前收录 | Current coverage
+
+- **16项**中央广播电视总台2026年候选发现
+- **4项**补充建议项目：西南亚马孙土方工程、商代铜资源网络、Chan Chan Chimú墓葬、凯尔特语传播古基因组研究
+- 所有页面均为**中英双语**
+- 央视最终结果公布后，将把状态从“候选”更新为“入选/未入选”
+
+::: {.callout-note title="Living archive / 持续更新"}
+这是一个持续更新的研究型网站。若论文尚未正式发表，页面会明确标记“正式论文待发表”，避免把媒体报道当作已经同行评议的学术结论。
+:::
