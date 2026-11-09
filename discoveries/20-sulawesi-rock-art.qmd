@@ -17,7 +17,8 @@ National Research and Innovation Agency (BRIN), Indonesia; Griffith University; 
 Adhi Agus Oktaviana; Maxime Aubert; Adam Brumm; Renaud Joannes-Boyau
 
 **Evidence status / 证据状态**  
-English: English: Top-tier peer-reviewed research (A); strongly recommended addition missing from the original CCTV list.  
+English: English: English: Top-tier peer-reviewed research (A); strongly recommended addition missing from the original CCTV list.  
+中文：顶级同行评议研究（A级）；是原央视名单中最重要的遗漏项目之一。
 中文：顶级同行评议研究（A级）；是原央视名单中最重要的遗漏项目之一。
 中文：顶级同行评议研究（A级）；是原央视名单中最重要的遗漏项目之一。
 
@@ -71,21 +72,21 @@ Oktaviana, A. A., Joannes-Boyau, R., Hakim, B., Burhan, B., Sardi, R., Adhityata
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/20/fig1.png" alt="图1—苏拉威西东南部岩画地点与区域位置 / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/20/fig1.png" alt="图1—苏拉威西东南部岩画地点与区域位置 / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—苏拉威西东南部岩画地点与区域位置 / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—苏拉威西东南部岩画地点与区域位置 / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi / Figure 1—Rock-art sites and regional setting in Southeast Sulawesi—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/20/fig2.png" alt="图2—Liang Metanduno手印岩画及最小年代 / Figure 2—Liang Metanduno hand stencil and minimum age / Figure 2—Liang Metanduno hand stencil and minimum age" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/20/fig2.png" alt="图2—Liang Metanduno手印岩画及最小年代 / Figure 2—Liang Metanduno hand stencil and minimum age / Figure 2—Liang Metanduno hand stencil and minimum age / Figure 2—Liang Metanduno hand stencil and minimum age" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—Liang Metanduno手印岩画及最小年代 / Figure 2—Liang Metanduno hand stencil and minimum age / Figure 2—Liang Metanduno hand stencil and minimum age—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—Liang Metanduno手印岩画及最小年代 / Figure 2—Liang Metanduno hand stencil and minimum age / Figure 2—Liang Metanduno hand stencil and minimum age / Figure 2—Liang Metanduno hand stencil and minimum age—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/20/fig3.png" alt="图3—激光烧蚀铀系测年与岩画年代关系 / Figure 3—Laser-ablation U-series dating and the age of the rock art / Figure 3—Laser-ablation U-series dating and the age of the rock art" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/20/fig3.png" alt="图3—激光烧蚀铀系测年与岩画年代关系 / Figure 3—Laser-ablation U-series dating and the age of the rock art / Figure 3—Laser-ablation U-series dating and the age of the rock art / Figure 3—Laser-ablation U-series dating and the age of the rock art" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—激光烧蚀铀系测年与岩画年代关系 / Figure 3—Laser-ablation U-series dating and the age of the rock art / Figure 3—Laser-ablation U-series dating and the age of the rock art—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—激光烧蚀铀系测年与岩画年代关系 / Figure 3—Laser-ablation U-series dating and the age of the rock art / Figure 3—Laser-ablation U-series dating and the age of the rock art / Figure 3—Laser-ablation U-series dating and the age of the rock art—来源 Source：Nature—作者 Author：Oktaviana et al. 2026—许可 Licence：CC BY-NC-ND 4.0（原图不改动）—<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12916292/" target="_blank">原文链接 Original</a></p>
 </div>
 
 

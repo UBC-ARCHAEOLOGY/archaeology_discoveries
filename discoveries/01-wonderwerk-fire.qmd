@@ -17,7 +17,8 @@ Wonderwerk Cave Research Project; University of Toronto; Museo Nacional de Cienc
 Michael Chazan; Yolanda Fernández-Jalvo; M. Dolores Marin-Monfort
 
 **Evidence status / 证据状态**  
-English: English: Peer-reviewed specialist journal (B); important new method and early-fire evidence, but the age should be expressed as a range.  
+English: English: English: Peer-reviewed specialist journal (B); important new method and early-fire evidence, but the age should be expressed as a range.  
+中文：同行评议专业期刊研究（B级）；提供重要的新方法和早期用火证据，但年代应以区间表达。
 中文：同行评议专业期刊研究（B级）；提供重要的新方法和早期用火证据，但年代应以区间表达。
 中文：同行评议专业期刊研究（B级）；提供重要的新方法和早期用火证据，但年代应以区间表达。
 
@@ -70,21 +71,21 @@ Marin-Monfort, M. D., Shaw, C. L., Natalio, F., Grossman, L., Andrews, P., Campo
 ## 页面图像 | Page images
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/01/fig3.png" alt="图1—受热、未受热与氟化骨骼的发光与FTIR比较 / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/01/fig3.png" alt="图1—受热、未受热与氟化骨骼的发光与FTIR比较 / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图1—受热、未受热与氟化骨骼的发光与FTIR比较 / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone—来源 Source：PLOS ONE—作者 Author：Marin-Monfort et al. 2026—许可 Licence：CC BY 4.0—<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图1—受热、未受热与氟化骨骼的发光与FTIR比较 / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone / Figure 1—Luminescence and FTIR comparison of heated, unheated and fluorinated bone—来源 Source：PLOS ONE—作者 Author：Marin-Monfort et al. 2026—许可 Licence：CC BY 4.0—<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/01/fig4.png" alt="图2—Wonderwerk Cave各发掘方格烧骨比例 / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/01/fig4.png" alt="图2—Wonderwerk Cave各发掘方格烧骨比例 / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图2—Wonderwerk Cave各发掘方格烧骨比例 / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares—来源 Source：PLOS ONE—作者 Author：Marin-Monfort et al. 2026—许可 Licence：CC BY 4.0—<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图2—Wonderwerk Cave各发掘方格烧骨比例 / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares / Figure 2—Proportions of burnt bone across Wonderwerk Cave excavation squares—来源 Source：PLOS ONE—作者 Author：Marin-Monfort et al. 2026—许可 Licence：CC BY 4.0—<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">原文链接 Original</a></p>
 </div>
 
 <div class="discovery-image-card">
-<img src="../figures/discoveries/01/fig5.png" alt="图3—早更新世烧骨证据的分析图版 / Figure 3—Analytical evidence for Early Pleistocene burnt bone / Figure 3—Analytical evidence for Early Pleistocene burnt bone" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="../figures/discoveries/01/fig5.png" alt="图3—早更新世烧骨证据的分析图版 / Figure 3—Analytical evidence for Early Pleistocene burnt bone / Figure 3—Analytical evidence for Early Pleistocene burnt bone / Figure 3—Analytical evidence for Early Pleistocene burnt bone" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div class="image-fallback" style="display:none"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">View original image / 查看原图 →</a></div>
-<p class="image-caption">图3—早更新世烧骨证据的分析图版 / Figure 3—Analytical evidence for Early Pleistocene burnt bone / Figure 3—Analytical evidence for Early Pleistocene burnt bone—来源 Source：PLOS ONE—作者 Author：Marin-Monfort et al. 2026—许可 Licence：CC BY 4.0—<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">原文链接 Original</a></p>
+<p class="image-caption">图3—早更新世烧骨证据的分析图版 / Figure 3—Analytical evidence for Early Pleistocene burnt bone / Figure 3—Analytical evidence for Early Pleistocene burnt bone / Figure 3—Analytical evidence for Early Pleistocene burnt bone—来源 Source：PLOS ONE—作者 Author：Marin-Monfort et al. 2026—许可 Licence：CC BY 4.0—<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347480" target="_blank">原文链接 Original</a></p>
 </div>
 
 
