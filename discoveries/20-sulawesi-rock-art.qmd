@@ -13,12 +13,15 @@ Minimum age 67.8 ka / 最小年代≥6.78万年前
 **Research / excavation institutions / 发掘或研究机构**  
 National Research and Innovation Agency (BRIN), Indonesia; Griffith University; Southern Cross University; Sulawesi Archaeology Research Collaboration Centre and Indonesian partner institutions
 
-**Lead researchers / 主要负责人**  
-Adhi Agus Oktaviana; Maxime Aubert; Adam Brumm; Renaud Joannes-Boyau
+**Key researchers / project leads / 主要研究者或项目负责人**  
+Adhi Agus Oktaviana; Maxime Aubert; Adam Brumm; Renaud Joannes-Boyau.
 
-**Evidence status / 证据状态**  
-English: Top-tier peer-reviewed research (A); strongly recommended addition missing from the original CCTV list.  
-中文：顶级同行评议研究（A级）；是原央视名单中最重要的遗漏项目之一。
+**Evidence grade / 证据等级**  
+A — peer-reviewed Nature study with direct U-series minimum dating of calcite overlying rock art.
+A级——《Nature》同行评议研究，以覆盖岩画的方解石铀系测年提供直接最小年代。
+
+**Scholarly importance assessment / 学术重要性评估**  
+Very high / 很高——把可靠测年的图像传统推进到至少6.78万年前，并与现代人穿越华莱西亚的早期扩散联系起来。
 
 **CCTV status / 央视遴选状态**  
 Additional candidate / 补充建议
