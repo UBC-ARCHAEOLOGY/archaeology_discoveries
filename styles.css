@@ -81,3 +81,22 @@ iframe[title="Interactive map of 2026 archaeological discoveries"]{
     line-height:1.5;
   }
 }
+
+
+/* V2.1 mobile discovery table QA */
+@media(max-width:767px){
+  main.content table{
+    display:block;
+    width:100%;
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+  main.content table th,
+  main.content table td{
+    min-width:7.2rem;
+  }
+  main.content table th:nth-child(2),
+  main.content table td:nth-child(2){
+    min-width:16rem;
+  }
+}
