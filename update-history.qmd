@@ -12,9 +12,9 @@ Registry recording began on **2026-11-14**. This page retains the complete publi
 - **回溯登记 / Retrospective record**：本日志记录既有内容的日期，不能代替原网页更新日期。 / The date existing content was entered into this registry; it does not replace its original website-update date.
 - **发现／调查、公开公布、发表／报道 / Discovery/investigation, announcement, publication/report**：分开列出，保留“仅年／仅月”等原始精度；未核实的日期明确保留为空。 / Listed separately, preserving year/month precision; unverified dates remain unknown.
 
-有核实网页日期的记录按网页更新日期由新到旧排列；回溯登记单列，日期相同不表示学术重要性或排名高低。日志类别仅说明编辑动作，不改变正式收录、证据等级、学术判断或排名。
+有核实网页日期的记录按网页更新日期由新到旧排列；回溯登记单列，日期相同不表示学术重要性或排名高低。历史记录使用“既有”标签；只有经审核且网页新增日期已核实的记录使用“新收录／新添”。日志类别仅说明编辑动作，不改变正式收录、证据等级、学术判断或排名。
 
-Records with verified website dates are ordered by website-update date, newest first. Retrospective records are listed separately; equal recording dates express no scholarly priority or rank. Categories describe editorial activity and do not alter formal membership, grades, conclusions or ranking.
+Records with verified website dates are ordered by website-update date, newest first. Retrospective records are listed separately; equal recording dates express no scholarly priority or rank. Historical records use “Existing” labels; only reviewed additions with verified website dates use “Added”. Categories describe editorial activity and do not alter formal membership, grades, conclusions or ranking.
 
 ::: {.updates-history}
 :::

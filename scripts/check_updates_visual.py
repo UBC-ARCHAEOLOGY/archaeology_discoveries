@@ -44,6 +44,14 @@ def main():
                     expected=min(len(public),registry['homepage_limit']) if filename=='index.html' else len(public)
                     assert page.locator('.update-card').count()==expected
                     assert page.locator('.update-category').all_text_contents()
+                    baselines=page.locator('.update-card[data-update-state="baseline"]')
+                    assert baselines.locator('.update-date').count()==0
+                    if filename=='index.html':
+                        assert baselines.locator('time').count()==0
+                        assert page.locator('.update-dates').count()==0
+                    else:
+                        assert baselines.locator('.update-recorded-date time').count()==baselines.count()
+                        assert page.locator('.update-dates').count()==expected
                     assert page.locator('.update-card [lang=zh]').count()==expected*2
                     assert page.locator('.update-card [lang=en]').count()==expected*2
                     assert page.evaluate('document.documentElement.scrollWidth <= window.innerWidth'), filename+': horizontal overflow'

@@ -121,3 +121,11 @@ main.content .update-card .update-summary{font-size:.9rem;line-height:1.7;margin
 .update-links a,.updates-history-link{font-weight:600}
 .update-card a:focus-visible{outline:2px solid var(--arch-teal);outline-offset:3px}
 @media(max-width:767px){.update-card{padding:1rem}.latest-updates-grid{gap:.8rem}.update-dates{font-size:.78rem}.update-dates>div{grid-template-columns:1.1fr 1fr}}
+
+/* Historical recording dates are secondary, never website-update headlines. */
+.updates-group-title{font-size:.95rem;color:var(--arch-muted);margin:1rem 0 .7rem}
+.update-recorded-date,.update-recorded-note{font-size:.78rem;line-height:1.6;color:var(--arch-muted);margin:.65rem 0}
+.update-recorded-date time{font-weight:400}
+.update-card-compact{padding:.9rem 1rem}
+main.content .update-card-compact .update-summary{font-size:.84rem;line-height:1.55}
+.update-card-compact .update-links{font-size:.8rem}

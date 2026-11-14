@@ -26,7 +26,7 @@ class UpdatesTests(unittest.TestCase):
         for r in self.data['records']:
             for field in ('discovery_date','announcement_date','publication_date'):
                 self.assertNotEqual(r[field]['value'],'2026-01-01')
-        self.assertIn('Retrospective records (not new today)',u.render(self.data,'latest'))
+        self.assertIn('Retrospective archive baseline',u.render(self.data,'latest'))
         self.assertEqual(u.render(self.data,'latest').count('<article '),6)
 
     def test_duplicate_id_title_and_substantive_identity_fail(self):
@@ -137,7 +137,7 @@ class UpdatesTests(unittest.TestCase):
             self.assertFalse((root/'updates.json').exists())
 
     def test_plain_text_is_escaped_not_executable_markup(self):
-        data=copy.deepcopy(self.data);data['records'][0]['title']={'zh':'<script>攻击</script>','en':'<script>attack</script>'}
+        data=copy.deepcopy(self.data);self.reviewed(data['records'][0],'2026-11-14');data['records'][0]['title']={'zh':'<script>攻击</script>','en':'<script>attack</script>'}
         self.validate(data)
         html=u.render(data,'latest')
         self.assertNotIn('<script>',html)
@@ -147,10 +147,68 @@ class UpdatesTests(unittest.TestCase):
     def test_history_retains_records_beyond_homepage_limit(self):
         data=copy.deepcopy(self.data)
         row=copy.deepcopy(data['records'][0]);row['id']='seventh-record';row['title']={'zh':'另一个研究更新','en':'Another research update'};row['category']='research_update'
+        row['page']='discoveries/24-sheg-xdaltthi.qmd';row['source_url']=None
+        self.reviewed(row,'2026-11-14')
         data['records'].append(row)
         self.validate(data)
         self.assertEqual(u.render(data,'latest').count('<article '),6)
         self.assertEqual(u.render(data,'history').count('<article '),7)
+
+    def test_seventh_baseline_and_replacement_with_unapproved_baseline_are_rejected(self):
+        row=copy.deepcopy(self.data['records'][0])
+        row.update(id='new-unapproved-baseline',title={'zh':'另一条记录','en':'Another record'},
+                   category='research_update',page='discoveries/24-sheg-xdaltthi.qmd',source_url=None)
+        for replace in (False,True):
+            data=copy.deepcopy(self.data)
+            if replace:data['records'][0]=row
+            else:data['records'].append(row)
+            with self.assertRaisesRegex(ValueError,'six bootstrap IDs'):self.validate(data)
+
+    def test_known_bootstrap_id_cannot_be_reused_for_changed_content_or_day(self):
+        data=copy.deepcopy(self.data)
+        data['records'][0]['description']={'zh':'经过改写的内容','en':'Changed content'}
+        with self.assertRaisesRegex(ValueError,'Frozen baseline content changed'):self.validate(data)
+        data=copy.deepcopy(self.data);data['registry_created_on']='2026-11-13';data['records'][0]['recorded_on']='2026-11-13'
+        with self.assertRaisesRegex(ValueError,'recording day is fixed'):self.validate(data)
+
+    def test_full_proposal_cannot_gain_publication_by_becoming_baseline(self):
+        row=copy.deepcopy(self.data['records'][0])
+        row.update(id='proposal-cast-to-baseline',title={'zh':'待审记录','en':'Pending record'},state='proposed')
+        data=copy.deepcopy(self.data);data['records'][0]=row
+        self.validate(data)
+        self.assertNotIn(row['id'],u.render(data,'latest'))
+        row['state']='baseline'
+        with self.assertRaisesRegex(ValueError,'six bootstrap IDs'):self.validate(data)
+        row['state']='reviewed'
+        with self.assertRaises(ValueError):self.validate(data)
+
+    def test_same_page_source_cannot_duplicate_by_category_or_date(self):
+        for category in u.CATEGORIES:
+            for when in ('2026-11-13','2026-11-14'):
+                data=copy.deepcopy(self.data)
+                duplicate=copy.deepcopy(data['records'][0])
+                duplicate.update(id='duplicate-event',title={'zh':'另一标题','en':'Different title'},category=category)
+                self.reviewed(duplicate,when)
+                data['records'].append(duplicate)
+                with self.subTest(category=category,date=when),self.assertRaisesRegex(ValueError,'Duplicate substantive update'):
+                    self.validate(data)
+
+    def test_baseline_labels_and_date_prominence_are_state_specific(self):
+        home=u.render(self.data,'latest');history=u.render(self.data,'history')
+        for label in ('Existing archive entry','Existing publication reference','Existing research note'):
+            self.assertIn(label,home)
+        self.assertNotIn('Archive entry added',home)
+        self.assertNotIn('Reference added',home)
+        self.assertNotIn('<time',home)
+        self.assertNotIn('update-dates',home)
+        self.assertEqual(history.count('class="update-recorded-date"'),6)
+        self.assertEqual(history.count('<dl class="update-dates">'),6)
+        self.assertNotIn('class="update-date"',history)
+        data=copy.deepcopy(self.data);self.reviewed(data['records'][0],'2026-11-14')
+        rendered=u.render(data,'latest')
+        self.assertIn('Latest website updates',rendered)
+        self.assertIn('Archive entry added',rendered)
+        self.assertIn('<time datetime="2026-11-14">',rendered)
 
 
 if __name__=='__main__':unittest.main()

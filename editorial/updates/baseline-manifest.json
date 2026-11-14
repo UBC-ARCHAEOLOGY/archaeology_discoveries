@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "registry_created_on": "2026-11-14",
+  "reviewed_source_head": "0e13dd736e6e173614e82dca7a1d6a07f6be9fca",
+  "scope": "One-time six-record historical bootstrap only; not proof of historical website edits. Future public additions require reviewed state.",
+  "records": {
+    "baseline-huitzo-entry": "770b251460e86e84f812fc33d87018c2405fe0a5709230946afd14e37656c280",
+    "baseline-widgingarri-entry": "54848d910ce490c38e069f14a594d936a6a8c3e5ee16d8f09b9d1a0247dbf3b3",
+    "baseline-bongal-publication": "4409a3452fb80782f63499edb3b12bac440de2f169fc8d16274a4c7169bce3fb",
+    "baseline-jars-publication": "675e03a5b02947f010d2386a51409d1faeeaab5ddb9db1e0a6f490c01f0a7bda",
+    "baseline-font-major-history": "70a1f7301ac3869635d6253d63ac1f82692bd50fb138da79bd3759f0163210da",
+    "baseline-stonehenge-research": "fdfc981a4e4d8e99452d0fc5cac32360bf5902e6134c897de35073670d10632c"
+  }
+}

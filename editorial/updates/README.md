@@ -105,3 +105,27 @@ HTML escaping and proposal isolation/symlink boundaries. The read-only Editorial
 QA PR workflow runs these alongside existing academic checks and uploads desktop/
 mobile screenshots/layout results. No Pages permission or deployment is added.
 Do not commit generated docs, screenshots or temporary reports.
+
+## Review revision: frozen bootstrap and public wording
+
+`editorial/updates/baseline-manifest.json` freezes the six original record IDs,
+full canonical record hashes and 2026-11-14 recording day. A seventh baseline,
+replacement ID, changed content or changed recording day fails validation. This is
+an explicit one-time historical bootstrap exception; future public additions must
+use `reviewed`, with responsible-editor and verified website-date evidence.
+Editing the manifest and validator together is still a repository trust boundary:
+these checks do not authenticate human approval or prove branch protection exists.
+
+Baseline labels say Existing archive entry / 既有发现条目, Existing publication
+reference / 既有文献记录, or Existing research note / 既有研究记录. Reviewed
+additions say Archive entry added / 新收录条目 or Reference added / 新添文献.
+These describe website editorial actions, never archaeological firstness or 2026
+eligibility. Baselines retain registry order, not a fabricated date order. The
+homepage omits repeated recording dates and detailed date tables; full dates,
+evidence context and source links remain in the permanent history.
+
+Substantive duplicate identity is now related page plus canonical source URL,
+independent of category or date. This deliberately conservative rule may reject a
+truly distinct later event using the same source: it requires a separately reviewed
+identity/schema extension, not changing a category or date to bypass the check.
+Mirrored sources and paraphrases still require human semantic duplicate review.

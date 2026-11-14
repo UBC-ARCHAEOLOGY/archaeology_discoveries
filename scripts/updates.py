@@ -19,10 +19,19 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 CATEGORIES = {
-    'discovery_added': ('新增发现', 'Discovery added'),
-    'publication_added': ('新增文献／报道', 'Publication/report added'),
+    'discovery_added': ('新收录条目', 'Archive entry added'),
+    'publication_added': ('新添文献', 'Reference added'),
     'research_update': ('研究更新', 'Research update'),
 }
+BASELINE_CATEGORIES = {
+    'discovery_added': ('既有发现条目', 'Existing archive entry'),
+    'publication_added': ('既有文献记录', 'Existing publication reference'),
+    'research_update': ('既有研究记录', 'Existing research note'),
+}
+BASELINE_IDS = frozenset(('baseline-huitzo-entry', 'baseline-widgingarri-entry',
+    'baseline-bongal-publication', 'baseline-jars-publication',
+    'baseline-font-major-history', 'baseline-stonehenge-research'))
+BASELINE_RECORDED_ON = '2026-11-14'
 RECORD_FIELDS = {'id', 'state', 'category', 'title', 'description', 'page', 'source_url',
                  'recorded_on', 'website_updated_on', 'website_date_evidence',
                  'discovery_date', 'announcement_date', 'publication_date', 'evidence', 'review'}
@@ -76,6 +85,19 @@ def canonical_url(value):
     if parsed.hostname == 'doi.org':
         path = path.lower()
     return urlunsplit((parsed.scheme, parsed.netloc.lower(), path, parsed.query, ''))
+
+
+def baseline_check(record, registry, root):
+    """A bootstrap exception is frozen, not an alternate future approval lane."""
+    require(record['id'] in BASELINE_IDS, 'Baseline is restricted to six bootstrap IDs')
+    require(record['recorded_on'] == BASELINE_RECORDED_ON and registry['registry_created_on'] == BASELINE_RECORDED_ON,
+            'Baseline recording day is fixed')
+    manifest = json.loads((root/'editorial/updates/baseline-manifest.json').read_text())
+    require(manifest.get('schema_version') == 1 and manifest.get('registry_created_on') == BASELINE_RECORDED_ON and
+            isinstance(manifest.get('records'), dict) and set(manifest['records']) == BASELINE_IDS,
+            'Invalid bootstrap manifest')
+    digest = hashlib.sha256(json.dumps(record, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+    require(manifest['records'][record['id']] == digest, 'Frozen baseline content changed; explicit reviewed workflow required')
 
 
 def date_value(field, root, as_of):
@@ -137,8 +159,7 @@ def validate(registry, root=ROOT, as_of=None):
             if record['state'] != 'proposed':
                 require(record['source_url'] in page.read_text(), 'Original source link missing from referenced page')
         require(record['category'] != 'publication_added' or record['source_url'] is not None, 'Publication/report needs original source')
-        key = (record['page'], record['category'], canonical_url(record['source_url']),
-               record['website_updated_on'] if record['state'] == 'reviewed' else 'recorded:'+record['recorded_on'])
+        key = (record['page'], canonical_url(record['source_url']))
         require(key not in identities, 'Duplicate substantive update')
         identities.add(key)
         recorded = exact_day(record['recorded_on'], as_of)
@@ -164,6 +185,8 @@ def validate(registry, root=ROOT, as_of=None):
         else:
             require(record['website_updated_on'] is None and record['website_date_evidence'] is None and record['review'] is None,
                     'Baseline/proposal cannot assert website dates or approval')
+            if record['state'] == 'baseline':
+                baseline_check(record, registry, root)
     return registry
 
 
@@ -179,7 +202,8 @@ def load(root=ROOT):
 
 def ordered(registry):
     reviewed = sorted((r for r in registry['records'] if r['state'] == 'reviewed'), key=lambda r:(r['website_updated_on'], r['id']), reverse=True)
-    baseline = sorted((r for r in registry['records'] if r['state'] == 'baseline'), key=lambda r:(r['recorded_on'], r['id']), reverse=True)
+    # Bootstrap order has no historical chronology or scholarly-rank meaning.
+    baseline = [r for r in registry['records'] if r['state'] == 'baseline']
     return reviewed, baseline
 
 
@@ -190,28 +214,37 @@ def displayed_date(field):
     return escape(field['value']) + ' <span class="update-precision">('+precision+')</span>'
 
 
-def card(record):
+def card(record, compact=False):
     r = record
     page = str(Path(r['page']).with_suffix('.html'))
-    zh, en = CATEGORIES[r['category']]
     baseline = r['state'] == 'baseline'
-    label = '回溯登记 / Retrospective record' if baseline else '网页更新 / Website update'
-    when = r['recorded_on'] if baseline else r['website_updated_on']
+    zh, en = (BASELINE_CATEGORIES if baseline else CATEGORIES)[r['category']]
+    when = r['website_updated_on']
     website_date = '未核实 / Unverified' if baseline else escape(when)
-    h = [f'<article class="update-card" data-update-id="{escape(r["id"], quote=True)}" data-update-category="{r["category"]}" data-update-state="{r["state"]}">',
-         '<div class="update-meta">',
-         f'<span class="update-date"><time datetime="{when}">{when}</time> · {label}</span>',
-         f'<span class="update-category">{zh} / {en}</span></div>',
-         f'<h3 class="no-anchor"><a href="{escape(page, quote=True)}"><span lang="zh">{escape(r["title"]["zh"])}</span><span lang="en">{escape(r["title"]["en"])}</span></a></h3>',
-         f'<p class="update-summary" lang="zh">{escape(r["description"]["zh"])}</p>',
-         f'<p class="update-summary update-summary-en" lang="en">{escape(r["description"]["en"])}</p>',
-         '<dl class="update-dates">',
-         f'<div><dt>网页更新 / Website update</dt><dd>{website_date}</dd></div>',
-         f'<div><dt>发现／调查 / Discovery/investigation</dt><dd>{displayed_date(r["discovery_date"])}</dd></div>',
-         f'<div><dt>公开公布 / Announcement</dt><dd>{displayed_date(r["announcement_date"])}</dd></div>',
-         f'<div><dt>发表／报道 / Publication/report</dt><dd>{displayed_date(r["publication_date"])}</dd></div>',
-         '</dl>', '<div class="update-links">',
-         f'<a href="{escape(page, quote=True)}">相关页面 / Details</a>']
+    anchor = 'update-' + r['id']
+    classes = 'update-card update-card-compact' if compact else 'update-card'
+    h = [f'<article id="{anchor}" class="{classes}" data-update-id="{escape(r["id"], quote=True)}" data-update-category="{r["category"]}" data-update-state="{r["state"]}">',
+         '<div class="update-meta">']
+    if not baseline:
+        h.append(f'<span class="update-date"><time datetime="{when}">{when}</time> · 网页更新 / Website update</span>')
+    h += [f'<span class="update-category">{zh} / {en}</span></div>',
+          f'<h3 class="no-anchor"><a href="{escape(page, quote=True)}"><span lang="zh">{escape(r["title"]["zh"])}</span><span lang="en">{escape(r["title"]["en"])}</span></a></h3>',
+          f'<p class="update-summary" lang="zh">{escape(r["description"]["zh"])}</p>',
+          f'<p class="update-summary update-summary-en" lang="en">{escape(r["description"]["en"])}</p>']
+    if not compact:
+        h += ['<dl class="update-dates">',
+              f'<div><dt>网页更新 / Website update</dt><dd>{website_date}</dd></div>',
+              f'<div><dt>发现／调查 / Discovery/investigation</dt><dd>{displayed_date(r["discovery_date"])}</dd></div>',
+              f'<div><dt>公开公布 / Announcement</dt><dd>{displayed_date(r["announcement_date"])}</dd></div>',
+              f'<div><dt>发表／报道 / Publication/report</dt><dd>{displayed_date(r["publication_date"])}</dd></div>',
+              '</dl>']
+        if baseline:
+            h.append(f'<p class="update-recorded-date">登记于本日志 / Entered in this registry: <time datetime="{r["recorded_on"]}">{r["recorded_on"]}</time> · 非原网页更新日 / Not the original website-update date.</p>')
+    elif baseline:
+        h.append(f'<p class="update-recorded-note">历史记录；原网页日期未核实。<br>Retrospective record; original website date unverified. <a href="update-history.html#{anchor}">完整日期 / Full dates</a></p>')
+    else:
+        h.append(f'<p class="update-recorded-note"><a href="update-history.html#{anchor}">完整日期与记录 / Full dates and record</a></p>')
+    h += ['<div class="update-links">', f'<a href="{escape(page, quote=True)}">相关页面 / Details</a>']
     if r['source_url']:
         h.append(f'<a href="{escape(r["source_url"], quote=True)}" target="_blank" rel="noopener noreferrer">原始来源 / Original source <span aria-hidden="true">↗</span></a>')
     h += ['</div></article>']
@@ -220,15 +253,17 @@ def card(record):
 
 def render(registry, view):
     reviewed, baseline = ordered(registry)
-    if view == 'latest':
+    compact = view == 'latest'
+    if compact:
         reviewed = reviewed[:registry['homepage_limit']]
         baseline = baseline[:max(0, registry['homepage_limit']-len(reviewed))]
     h = ['<div class="updates-panel">']
     if reviewed:
-        h += ['<div class="latest-updates-grid">', *map(card, reviewed), '</div>']
+        h += ['<p class="updates-group-title">最近网站更新 / Latest website updates</p>',
+              '<div class="latest-updates-grid">', *[card(r, compact) for r in reviewed], '</div>']
     if baseline:
-        h += ['<p class="updates-baseline-label">历史回溯登记（非今日新增） / Retrospective records (not new today)</p>',
-              '<div class="latest-updates-grid">', *map(card, baseline), '</div>']
+        h += ['<p class="updates-baseline-label">历史记录整理 / Retrospective archive baseline</p>',
+              '<div class="latest-updates-grid">', *[card(r, compact) for r in baseline], '</div>']
     if not reviewed and not baseline:
         h.append('<p>尚无经审阅记录 / No reviewed records yet.</p>')
     h.append('</div>')
