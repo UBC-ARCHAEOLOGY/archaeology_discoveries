@@ -1,7 +1,17 @@
 project:
   type: website
   output-dir: docs
+  # Monitoring proposals and scratch reports are never site pages.
+  render:
+    - "*.qmd"
+    - "discoveries/*.qmd"
+    - "*.md"
+    - "editorial/*.md"
+    - "!monitoring/**"
+    - "!work/**"
   resources:
+    - "!monitoring/**"
+    - "!work/**"
     - map.html
     - map-assets/
     - figures/

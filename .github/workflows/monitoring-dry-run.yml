@@ -1,0 +1,33 @@
+name: Phase 2A monitoring dry run
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Offline replay or bounded API retrieval (no publication)
+        type: choice
+        options: [offline, live]
+        default: offline
+permissions:
+  contents: read
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test monitor offline
+        run: python -m unittest discover -s monitoring -p 'test_*.py' -v
+      - name: Prepare candidate proposals only
+        env:
+          MONITOR_MODE: ${{ inputs.mode }}
+        run: python monitoring/monitor.py --mode "$MONITOR_MODE" --output monitoring/runs/dry-run --verify-dois
+      - name: Upload reports and raw replay evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: monitoring-phase2a-dry-run
+          path: monitoring/runs/
+          retention-days: 14
