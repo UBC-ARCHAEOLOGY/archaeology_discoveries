@@ -1,4 +1,5 @@
 name: Phase 2B scheduled monitoring and editorial review
+run-name: Phase 2B ${{ inputs.mode || 'scheduled' }} (${{ inputs.read_only_smoke && 'read-only smoke' || 'operational' }})
 on:
   schedule:
     - cron: '0 8 * * 1,4'
@@ -14,6 +15,10 @@ on:
         type: choice
         options: [monitor, review, audit]
         default: monitor
+      read_only_smoke:
+        description: Suppress all Issue automation, including failure alerts
+        type: boolean
+        default: true
       full:
         description: Backfill from January (unfinished windows resume first)
         type: boolean
@@ -85,11 +90,13 @@ jobs:
           if r['outages']: print('::warning::Source outages detected; see safe report diagnostics. No coverage or verification is implied.')
           PY
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: always()
         with:
           name: phase2b-safe-state
           path: monitoring/runs/durable/state.json
           retention-days: 7
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: always()
         with:
           name: phase2b-safe-reports
           path: monitoring/runs/phase2b/
@@ -138,7 +145,8 @@ jobs:
         run: python monitoring/review_issue.py
   operational-failure-alert:
     needs: [collect, persist, editorial-queue]
-    if: always() && (needs.collect.result == 'failure' || needs.collect.result == 'cancelled' || needs.persist.result == 'failure' || needs.persist.result == 'cancelled' || needs.editorial-queue.result == 'failure' || needs.editorial-queue.result == 'cancelled')
+    # Read-only operational smoke must not create/update Issues, even on failure.
+    if: always() && inputs.read_only_smoke != true && (needs.collect.result == 'failure' || needs.collect.result == 'cancelled' || needs.persist.result == 'failure' || needs.persist.result == 'cancelled' || needs.editorial-queue.result == 'failure' || needs.editorial-queue.result == 'cancelled')
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
