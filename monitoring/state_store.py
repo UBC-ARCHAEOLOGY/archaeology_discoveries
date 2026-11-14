@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """CAS-like non-force Git persistence. Fixed ref, no arbitrary shell or main writes."""
 import argparse
+import base64
 import json
 import os
 from pathlib import Path
@@ -12,8 +13,14 @@ REF = 'refs/heads/monitoring/state-phase2b'
 
 
 def git(*args, data=None, env=None, check=True):
+    environment = dict(os.environ if env is None else env)
+    token = environment.get('GH_TOKEN')
+    if token:
+        environment['GIT_CONFIG_COUNT'] = '1'
+        environment['GIT_CONFIG_KEY_0'] = 'http.https://github.com/.extraheader'
+        environment['GIT_CONFIG_VALUE_0'] = 'AUTHORIZATION: basic ' + base64.b64encode(('x-access-token:' + token).encode()).decode()
     return subprocess.run(['git', *args], input=data, stdout=subprocess.PIPE,
-                          stderr=subprocess.PIPE, check=check, env=env)
+                          stderr=subprocess.PIPE, check=check, env=environment)
 
 
 def remote_head():
@@ -25,6 +32,13 @@ def remote_head():
     return response.stdout.decode().split()[0]
 
 
+def remote_payload(head):
+    size = int(git('cat-file', '-s', head + ':state.json').stdout)
+    if not 0 < size <= ops.schema.MAX_BYTES:
+        raise ValueError('Remote state exceeds size bound')
+    return git('show', head + ':state.json').stdout
+
+
 def restore(path):
     head = remote_head()
     if not head:
@@ -32,10 +46,9 @@ def restore(path):
             raise ValueError('Local state exists but remote missing')
         return None
     git('fetch', '--no-tags', 'origin', REF)
-    payload = git('show', head + ':state.json').stdout
-    state = json.loads(payload)
+    payload = remote_payload(head)
+    state = ops.schema.decode(payload, *ops.state_inputs())
     ops.atomic_json(path, state)
-    ops.load_state(path)
     return head
 
 
@@ -44,9 +57,20 @@ def persist(path):
     head = remote_head()
     if head:
         git('fetch', '--no-tags', 'origin', REF)
-        old = json.loads(git('show', head + ':state.json').stdout)
+        old = ops.schema.decode(remote_payload(head), *ops.state_inputs())
         if not set(old['observations']).issubset(state['observations']):
             raise ValueError('Refusing ledger loss')
+        for key, row in old['observations'].items():
+            newer = state['observations'][key]
+            if (row['first_seen'] != newer['first_seen'] or newer['last_seen'] < row['last_seen']
+                or not set(row['source_ids']).issubset(newer['source_ids'])
+                or row['identity_keys'] != newer['identity_keys']):
+                raise ValueError('Refusing observation history regression')
+        if not set(old['runs']).issubset(state['runs']):
+            raise ValueError('Refusing run history loss')
+        for sid, previous in old['sources'].items():
+            if sid not in state['sources'] or state['sources'][sid].get('watermark', '') < previous.get('watermark', ''):
+                raise ValueError('Refusing source watermark regression')
         # Exact parent read by collector is bound in the state, preventing stale writes.
     expected = state.pop('_parent', None)
     if expected != head:

@@ -98,7 +98,7 @@ class OperationsTests(unittest.TestCase):
                     a=o.run(mode,state,root/'out','2026-11-14')
                     b=o.run(mode,state,root/'out','2026-11-14')
                     self.assertEqual(a,b)
-                    self.assertEqual(o.load_state(state)['latest_report'],b)
+                    self.assertEqual(o.load_state(state)['runs']['2026-11-14:'+mode]['report_sha256'],m.digest(b))
             self.assertFalse(state.with_suffix('.tmp').exists())
             state.write_text('{broken')
             with self.assertRaises(ValueError):o.load_state(state)
@@ -117,7 +117,7 @@ class OperationsTests(unittest.TestCase):
             with self.assertRaises(RuntimeError):store.remote_head()
         with tempfile.TemporaryDirectory(dir=m.ROOT) as tmp:
             path=Path(tmp)/'state.json';o.atomic_json(path,o.empty_state())
-            with patch.object(store,'remote_head',return_value='abc'),patch.object(store,'git') as git:
+            with patch.object(store,'remote_head',return_value='abc'),patch.object(store,'remote_payload',return_value=json.dumps(o.empty_state()).encode()),patch.object(store,'git') as git:
                 git.return_value.stdout=json.dumps(o.empty_state()).encode()
                 with self.assertRaises(ValueError):store.persist(path)
                 self.assertFalse(any(c.args[0]=='push' for c in git.call_args_list))
@@ -129,13 +129,19 @@ class GateTests(unittest.TestCase):
             'origin':'live','metadata_only':False,'new_project':True,'changes_existing':False,
             'changes_ranking':False,'status':'Additional candidate','doi':'10.1000/test',
             'title':'Test control only, not a real discovery','authors':['Test control'],
-            'publication_dates':['2026-01-01'],'eligibility_route':'first_substantive_publication',
-            'primary_sources':[{'url':'https://example.org/test','sha256':'a'*64,'retrieved_at':'2026-11-14','http_status':200}],
+            'eligibility_route':'first_substantive_publication',
+            'primary_sources':[{'id':'primary-1','url':'https://example.org/test','sha256':'a'*64,'retrieved_at':'2026-11-14T00:00:00Z','http_status':200}],
             **{field:'Synthetic test control' for field in p.REQUIRED_TEXT},
             **{flag:False for flag in ['retracted','quality_concern','conflicting_evidence','sensitive_location','identity_conflict','bilingual_mismatch','geography_outlier']}}
         reference='https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/0'
         self.policy={'enabled':True,'responsible_editors':['synthetic-reviewer'],
                      **{field:reference for field in ['independent_gate_review','standing_authorization','live_verified_new_record_run','rank_integration_procedure']}}
+        self.dossier['eligibility_evidence'] = {
+            'first_substantive_publication': {
+                'publication_dates': {'online':'2026-01-01','print':None,'first_publication':'2026-01-01'}, 'publication_source_ids': ['primary-1'],
+                'peer_reviewed': True, 'earlier_publications': [],
+                'history_search': {'statement':'Synthetic history search', 'source_ids':['primary-1']},
+                'substantive_increment': {'statement':'Synthetic substantive increment', 'source_ids':['primary-1']}}}
         self.authorize()
 
     def authorize(self):
@@ -165,7 +171,10 @@ class GateTests(unittest.TestCase):
         original=copy.deepcopy(self.dossier)
         for field,value in cases:
             with self.subTest(field=field,value=value):
-                self.dossier={**original,field:value};self.authorize()
+                self.dossier=copy.deepcopy(original);self.dossier[field]=value
+                if field == 'publication_dates':
+                    self.dossier['eligibility_evidence']['first_substantive_publication']['publication_dates']={'online':value[0] if value else None,'print':value[-1] if value else None,'first_publication':value[0] if value else None}
+                self.authorize()
                 self.assertFalse(self.evaluate()['allowed'])
 
     def test_duplicate_doi_twin_title(self):
@@ -190,9 +199,6 @@ class GateTests(unittest.TestCase):
         self.policy['responsible_editors']=[]
         self.assertFalse(self.evaluate()['allowed'])
 
-
-if __name__=='__main__':unittest.main()
-
 class StateIntegrationTests(unittest.TestCase):
     def test_real_git_roundtrip_race_and_main_unchanged(self):
         import subprocess
@@ -213,12 +219,12 @@ class StateIntegrationTests(unittest.TestCase):
                 head=store.restore(state_path)
                 state=o.load_state(state_path);state['_parent']=head;o.atomic_json(state_path,state)
                 o.atomic_json(stale_path,state)
-                state['runs']['test']={'complete':True};o.atomic_json(state_path,state)
+                state['runs']['2026-11-14:monitor']={'report_sha256':'a'*64,'outages':[]};o.atomic_json(state_path,state)
                 store.persist(state_path)
                 with self.assertRaises(ValueError):store.persist(stale_path)
                 restored=store.restore(state_path)
                 self.assertTrue(restored)
-                self.assertIn('test',o.load_state(state_path)['runs'])
+                self.assertIn('2026-11-14:monitor',o.load_state(state_path)['runs'])
                 self.assertEqual(before,local_git('rev-parse','main').stdout)
                 self.assertEqual(local_git('show','FETCH_HEAD:state.json').returncode,0)
 
@@ -232,6 +238,10 @@ class StateIntegrationTests(unittest.TestCase):
         for cron in ['0 8 * * 1,4','0 9 * * 5','0 9 * * 0']:
             self.assertIn(cron,workflow)
         self.assertEqual(workflow.count('timezone: America/Vancouver'),3)
-        self.assertIn("vars.MONITORING_SCHEDULES_ENABLED == 'true'",workflow)
+        self.assertIn("if: github.event_name == 'workflow_dispatch'\n",workflow)
+        self.assertNotIn("vars.MONITORING_SCHEDULES_ENABLED == 'true'",workflow)
         self.assertIn('cancel-in-progress: false',workflow)
         self.assertNotIn('pages: write',workflow)
+
+
+if __name__=='__main__':unittest.main()

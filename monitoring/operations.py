@@ -26,9 +26,11 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 
 API_OPEN = urllib.request.build_opener(NoRedirect()).open
 import monitor as m
+import state_schema as schema
+from eligibility import https_provenance_url
 
 REPO = m.ROOT.parent
-STATE_SCHEMA = 1
+STATE_SCHEMA = schema.SCHEMA
 
 
 def atomic_json(path, value):
@@ -57,12 +59,29 @@ def diagnostic(exc):
     return 'network_or_invalid_response'
 
 
+def crossref_contact():
+    config = json.loads((m.ROOT/'contact.json').read_text())
+    if set(config) != {'schema', 'institutional_contact_email', 'institutional_contact_url', 'approval_reference'} or config['schema'] != 1:
+        raise ValueError('Invalid institutional contact configuration')
+    email = config['institutional_contact_email']
+    if email is not None and (not isinstance(email, str) or not re.fullmatch(r'[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+', email) or not config['approval_reference']):
+        raise ValueError('Institutional email requires reviewed configuration')
+    if config['institutional_contact_url'] != 'https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries':
+        raise ValueError('Unreviewed institutional contact URL')
+    return config
+
+
 def transport(address, attempts=3, sleep=time.sleep, opener=API_OPEN):
     parsed = urllib.parse.urlsplit(address)
     if parsed.scheme != 'https' or parsed.hostname not in {'api.crossref.org', 'api.openalex.org'}:
         raise ValueError('Unregistered metadata host')
+    contact = crossref_contact()
+    agent = 'UBC-Archaeology-Discovery-Monitor/2B (' + contact['institutional_contact_url'] + ')'
+    if parsed.hostname == 'api.crossref.org' and contact['institutional_contact_email']:
+        address += ('&' if parsed.query else '?') + urllib.parse.urlencode({'mailto': contact['institutional_contact_email']})
+        agent += ' mailto:' + contact['institutional_contact_email']
     request = urllib.request.Request(address, headers={
-        'User-Agent': 'UBC-Archaeology-Discovery-Monitor/2B (https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries)',
+        'User-Agent': agent,
         'Accept': 'application/json'})
     # Do not automatically follow redirects to arbitrary hosts or persist secrets/errors.
     for attempt in range(attempts):
@@ -87,19 +106,25 @@ def transport(address, attempts=3, sleep=time.sleep, opener=API_OPEN):
 
 
 def empty_state():
-    return {'schema': STATE_SCHEMA, 'sources': {}, 'observations': {}, 'runs': {}}
+    return {'schema': STATE_SCHEMA, 'taxonomy_sha256': schema.taxonomy_hash(json.loads((m.ROOT/'config.json').read_text())),
+            'sources': {}, 'observations': {}, 'runs': {}}
+
+
+def state_inputs():
+    return (json.loads((m.ROOT/'sources.json').read_text()),
+            json.loads((m.ROOT/'config.json').read_text()))
+
+
+def validate_state(state):
+    return schema.validate(state, *state_inputs())
 
 
 def load_state(path):
     if not path.exists():
         return empty_state()
-    state = json.loads(path.read_text())
-    if state.get('schema') != STATE_SCHEMA or not all(isinstance(state.get(k), dict) for k in ('sources', 'observations', 'runs')):
-        raise ValueError('Invalid durable state: do not silently reset')
-    for identity, row in state['observations'].items():
-        if not re.fullmatch('[a-f0-9]{64}', identity) or set(row) != {'first_seen', 'last_seen', 'source_id', 'tags', 'classification', 'identity_keys'}:
-            raise ValueError('Unsafe observation ledger')
-    return state
+    if path.stat().st_size > schema.MAX_BYTES:
+        raise ValueError('State exceeds size bound')
+    return schema.decode(path.read_bytes(), *state_inputs())
 
 
 def collect(registry, config, state, as_of, full=False, fetch=transport):
@@ -163,14 +188,38 @@ def safe_tags(record, config):
     return {dim: sorted(set(values) & set(config['tag_rules'][dim])) for dim, values in proposed.items()}
 
 
+def scholarly_projection(record):
+    """Versioned scholarly fields only. Provider indexing/citation/score counters,
+    deposit timestamps and fetch/source bookkeeping are not scholarly revisions.
+    Retraction/correction relations, authors, claims and dates ARE revisions.
+    """
+    provider = record.get('provider_record') or {}
+    return {
+        'projection_version': 2,
+        'doi': m.doi(record.get('doi')), 'url': m.url(record.get('url')),
+        'title': ' '.join((record.get('title') or '').split()),
+        'authors': [{k: author[k] for k in ('given', 'family', 'name', 'ORCID', 'sequence', 'affiliation') if k in author}
+                    for author in record.get('authors', [])],
+        'container': record.get('container', []), 'claims': record.get('claims', {}),
+        'publication_dates': {k: v for k, v in record.get('source_dates', {}).items()
+                              if k in ('published', 'published-online', 'published-print')},
+        'publication_date': record.get('publication_date'), 'announcement_date': record.get('announcement_date'),
+        'earlier_history': record.get('earlier_history', []),
+        'type': provider.get('type'), 'relations': provider.get('relation', {}),
+        'updates': provider.get('update-to', []),
+    }
+
+
 def update_ledger(state, records, config, as_of):
     for record in records:
-        identity = m.digest({k: v for k, v in record.items() if k != 'retrieved_at'})
+        identity = m.digest(scholarly_projection(record))
         previous = state['observations'].get(identity)
+        sources = set(previous['source_ids']) if previous else set()
+        sources.add(record['source_id'])
         state['observations'][identity] = {
             'first_seen': previous['first_seen'] if previous else as_of,
-            'last_seen': as_of, 'source_id': record['source_id'],
-            'tags': safe_tags(record, config), 'classification': 'unresolved',
+            'last_seen': as_of, 'source_ids': sorted(sources),
+            'tags': safe_tags(record, config), 'classification': 'Unresolved',
             'identity_keys': [m.digest([kind, value]) for kind, value in (
                 ('doi', m.doi(record.get('doi'))), ('url', m.url(record.get('url'))),
                 ('title', m.norm(record.get('title', '')))) if value]}
@@ -204,6 +253,19 @@ def counts(rows):
             for dim in ('geographic', 'chronological', 'discovery_type', 'evidence_type')}
 
 
+def archive_category(project):
+    classification = project.get('research_type')
+    provenance = project.get('research_type_provenance')
+    if (classification in schema.CATEGORIES and isinstance(provenance, dict) and
+        set(provenance) == {'editor', 'approval_reference', 'source_references'} and
+        isinstance(provenance['editor'], str) and provenance['editor'].strip() and
+        https_provenance_url(provenance['approval_reference']) and
+        isinstance(provenance['source_references'], list) and provenance['source_references'] and
+        all(https_provenance_url(u) for u in provenance['source_references'])):
+        return classification
+    return 'Reanalysis' if project.get('reanalysis') is True else 'Unresolved'
+
+
 def archive_audit(config):
     """Read actual formal table, join inventory by stable ID; retain source columns.
     Heuristic tags are screening only. No inference that non-Reanalysis means field.
@@ -226,7 +288,7 @@ def archive_audit(config):
                          **safe_tags(record, config),
                          'geographic': safe_tags({'title': cells[2]}, config)['geographic'],
                          'chronological': safe_tags({'title': cells[3]}, config)['chronological']},
-                     'field_reanalysis': 'Reanalysis' if project.get('reanalysis') else 'not_labelled_reanalysis_field_status_unverified'})
+                     'field_reanalysis': archive_category(project)})
     if not rows or len({r['id'] for r in rows}) != len(rows):
         raise ValueError('Missing/duplicate formal membership')
     return {'formal_entries': len(rows), 'ranking_positions': len(inventory),
@@ -234,7 +296,7 @@ def archive_audit(config):
             'table_sha256': m.digest((REPO/'discoveries.qmd').read_text()),
             'region_columns': dict(Counter(r['region_column'] for r in rows)),
             'period_columns': dict(Counter(r['period_column'] for r in rows)),
-            'coverage': counts(rows), 'field_reanalysis': dict(Counter(r['field_reanalysis'] for r in rows)),
+            'coverage': counts(rows), 'field_reanalysis': {category: sum(r['field_reanalysis'] == category for r in rows) for category in schema.CATEGORIES},
             'rows': rows, 'interpretation': 'Heuristic multi-label screening; unknowns explicit. No quotas, grades or ranking decisions.'}
 
 
@@ -266,7 +328,7 @@ def run(mode, state_path, output, as_of, full=False, fetch=transport):
     # One durable transaction includes source cursors AND observation ledger AND report.
     run_key = f'{as_of}:{mode}'
     state['runs'][run_key] = {'report_sha256': m.digest(report), 'outages': report['outages']}
-    state['latest_report'] = report
+    validate_state(state)
     atomic_json(state_path, state)
     atomic_json(output/'report.json', report)
     output.mkdir(parents=True, exist_ok=True)

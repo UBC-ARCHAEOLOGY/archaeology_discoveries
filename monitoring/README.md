@@ -1,5 +1,9 @@
 # Discovery monitoring
 
+**Second-round independent review:** see [review package](review-round2/README.md)
+and [point-by-point response](review-round2/RESPONSE.md). Scheduled collection and
+hosted persistence are hard-disabled; formal publication remains OFF.
+
 Phase 2B operating instructions, cadence, durable state and current blockers are in
 [PHASE2B.md](PHASE2B.md). Formal publication remains OFF; see
 [PUBLICATION_POLICY.md](PUBLICATION_POLICY.md). Results are in

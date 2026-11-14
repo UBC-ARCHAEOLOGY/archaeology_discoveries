@@ -7,6 +7,8 @@ in repository policy, never accepted from remote data or collector flags.
 from datetime import date
 import re
 import monitor as m
+import eligibility as e
+from datetime import datetime, timezone
 
 CHECKS = (
     'primary_facts', 'firstness_and_history', 'field_context', 'scholarly_significance',
@@ -47,27 +49,34 @@ def evaluate(dossier, policy, existing_dois=(), existing_titles=(), today=None):
     for field in REQUIRED_TEXT:
         if not isinstance(dossier.get(field), str) or not dossier[field].strip():
             reasons.append('missing_' + field)
-    dates = dossier.get('publication_dates', [])
-    try:
-        parsed = [date.fromisoformat(d) for d in dates]
-        if not parsed or min(parsed).year != 2026 or any(d > today for d in parsed):
-            reasons.append('ineligible_or_tentative_publication_dates')
-    except (TypeError, ValueError):
-        reasons.append('invalid_publication_dates')
-    if dossier.get('eligibility_route') not in ('first_public_announcement', 'first_substantive_publication', 'Reanalysis'):
-        reasons.append('eligibility_unresolved')
     for flag in ('retracted', 'quality_concern', 'conflicting_evidence', 'sensitive_location', 'identity_conflict', 'bilingual_mismatch', 'geography_outlier'):
         if dossier.get(flag) is not False:
             reasons.append(flag + '_or_unresolved')
+    if 'publication_dates' in dossier:
+        reasons.append('legacy_publication_dates_not_supported')
     provenance = dossier.get('primary_sources', [])
+    source_ids = set()
     if not isinstance(provenance, list) or not provenance:
         reasons.append('primary_provenance_missing')
     else:
         for source in provenance:
-            if (not isinstance(source, dict) or not m.url(source.get('url')) or
-                not re.fullmatch('[a-f0-9]{64}', source.get('sha256', '')) or
-                not source.get('retrieved_at') or source.get('http_status') != 200):
+            valid = isinstance(source, dict)
+            if valid:
+                sid = source.get('id')
+                valid = isinstance(sid, str) and re.fullmatch('[a-zA-Z0-9_-]{1,64}', sid) is not None and sid not in source_ids
+                if valid:
+                    source_ids.add(sid)
+                try:
+                    retrieved = datetime.fromisoformat(source.get('retrieved_at', '').replace('Z', '+00:00'))
+                    valid = valid and retrieved.tzinfo is not None and retrieved.astimezone(timezone.utc).date() <= today
+                except (ValueError, TypeError, AttributeError):
+                    valid = False
+                valid = (valid and e.https_provenance_url(source.get('url')) and
+                         isinstance(source.get('sha256'), str) and re.fullmatch('[a-f0-9]{64}', source['sha256']) is not None and
+                         type(source.get('http_status')) is int and source['http_status'] == 200)
+            if not valid:
                 reasons.append('invalid_primary_provenance')
+    reasons.extend(e.validate(dossier.get('eligibility_route'), dossier.get('eligibility_evidence'), source_ids, today))
     # Hash binds every claim, bilingual wording, history and primary-source receipt.
     approval = policy.get('approved_dossiers', {}).get(m.digest(dossier), {})
     if approval.get('editor') not in policy.get('responsible_editors', []) or not approval.get('approval_reference'):

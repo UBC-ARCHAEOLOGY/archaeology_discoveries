@@ -17,10 +17,13 @@ Branch: `monitoring/phase2b-scheduled-review`. Issue #3 body and all comments
 | Sunday 09:00 | Formal archive and candidate balance audit |
 
 GitHub's `schedule.timezone` handles PST/PDT; UTC times are not hard-coded.
-Scheduled jobs are guarded by repository variable
-`MONITORING_SCHEDULES_ENABLED == 'true'`. Leave absent/false until successful manual
-GitHub-hosted smoke runs for **all three modes**, repeated durable-state runs and
-inspection of diagnostics. `workflow_dispatch` works while this switch is OFF:
+Scheduled collection is **hard-disabled in the committed workflow**: the collector
+accepts only `workflow_dispatch`, irrespective of repository-variable values. The
+contents-write persistence job also has `if: false`, so manual smoke cannot mint
+its write token. Both latches require a later reviewed workflow change. Keep
+`MONITORING_SCHEDULES_ENABLED` absent/false; its actual current value is unverified.
+The following commands are for **after the workflow exists on the default branch**,
+and are documentation only in this round (none is executed):
 
 ```sh
 gh workflow run monitoring-phase2b.yml --ref monitoring/phase2b-scheduled-review -f mode=monitor -f full=true
@@ -28,11 +31,18 @@ gh workflow run monitoring-phase2b.yml --ref monitoring/phase2b-scheduled-review
 gh workflow run monitoring-phase2b.yml --ref monitoring/phase2b-scheduled-review -f mode=audit
 ```
 
-GitHub may require a workflow file to exist on the default branch before dispatch
-is available. A draft-branch run does not activate a schedule; schedules run on
-default branch after merge only. If dispatch is unavailable before merge, leave the
-schedule switch OFF, review/merge infrastructure only, then smoke-test before
-activation. Never imply the hosted smoke runs happened based on local execution.
+GitHub requires the workflow file to exist on the default branch for
+`workflow_dispatch` to trigger. `--ref` selects a ref to run only after that
+prerequisite; it cannot make a PR-only workflow dispatchable. After independent
+code review, an infrastructure-only merge with both switches OFF could establish
+that prerequisite; this revision neither performs nor authorizes that merge.
+Merge of OFF infrastructure is not production approval. Then run artifact-only
+manual smoke for monitor/review/audit. Before any hosted contents-write test,
+independently verify branch protections and credential scope, and obtain a separate
+reviewed change lifting only the persistence latch. Successful hosted state tests
+and a later reviewed schedule-latch change plus the explicitly approved repository
+variable are required before any production schedule. Local execution is not
+hosted smoke evidence. See [GitHub workflow_dispatch documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#workflow_dispatch).
 The formal-publication switch is **separate**, in `publication-policy.json`, OFF.
 Do not turn it on as part of enabling monitoring.
 
@@ -40,7 +50,8 @@ Do not turn it on as part of enabling monitoring.
 
 A dedicated `monitoring/state-phase2b` branch stores **one `state.json`** containing
 source windows/cursors/watermarks, hashed observations, controlled tags, run digests
-and a safe latest report. It contains no raw titles, abstracts, personal names,
+and report digests. Schema 2 removes the redundant restored `latest_report`;
+reports are regenerated from validated state and the actual archive. It contains no raw titles, abstracts, personal names,
 new source URLs, DOI strings, or coordinates. It is public if the repository is
 public. Hashes permit correlation, not reconstruction of primary evidence; do not
 submit community-restricted inputs in the first place. Raw API payloads are only in
@@ -63,19 +74,35 @@ new state. Workflow concurrency serializes all three modes, never cancelling the
 current writer. First-run creation requires repository contents permission. Branch
 rules should restrict `monitoring/state-phase2b` to the dedicated automation and
 prevent force-push/deletion. GitHub token is read-only for retrieval; only the
-separate state-persistence job has contents write. It does not execute source text
+separate state-persistence job declares contents write, and that job is currently
+hard-disabled. Read authentication is injected in the restore process environment
+only; checkout does not retain a collector credential. It does not execute source text
 or use the publication policy to merge. There is no Pages permission, deployment,
 main push or source rewriting in these workflows. The existing deployment is
 untouched; monitoring never shares its rendered output or edits its inputs.
 
-Repeated identical records collapse by content hash excluding retrieval date.
-Revised payloads remain observations. Hashed normalized DOI/URL/title edges group
-transitively for candidate coverage, preventing repeat-DOI inflation. A title edge
-is provisional identity evidence, not proof; twin DOIs and project-level identity
-need academic review. Ledger queue entries have stable observation hashes, not
-formal project IDs. Storage grows with changed evidence; archival/compaction needs
-review, never silent truncation. Long-running/capped global Crossref backfills can
-be slow; incomplete sources are explicitly reported and not called coverage.
+Scholarly observations use a versioned explicit projection: normalized DOI/URL,
+title, authors, publication dates, claims/abstract, earlier history, work type and
+correction/retraction relations. Raw provider payloads, indexed/deposited timestamps,
+reference metadata, scores and citation counts do not enter identity. A scholarly
+change retains a new revision; a source/retrieval change merges source IDs and
+updates last-seen without adding an editorial observation. Hashed DOI/URL/title
+edges still group revisions; title edges are proposals, not identity proof.
+
+Schema 2 and a taxonomy SHA256 bind the state format and local tag dictionary.
+`state_schema.py` validates the entire restored object before replacement or use:
+exact field sets, enabled source allowlist, tag dimensions/labels, source ID lists,
+hash types, dates, category, windows/cursors, run keys/digests, diagnostics and parent
+commit. Duplicate JSON keys, oversized state, unexpected fields and old schemas
+fail closed. The collector category must be `Unresolved`; academic categories can
+only come from reviewed archive provenance. Schema 1 is **not silently migrated**.
+The reviewer observed no production state branch. If any legacy state exists later,
+preserve it, stop writes, review an explicit migration/backfill; old hashes alone
+cannot recover the scholarly projection from discarded raw payloads. Taxonomy
+changes also need reviewed migration, not dropping unknown labels. Bounds (32 MB,
+100,000 observations, 10,000 runs, 16 KB cursor) stop rather than truncate.
+Storage still grows with genuinely revised evidence. Compaction and cursor-expiry
+recovery require review; incomplete backfills must never be described as coverage.
 
 ## Reports and human queue
 
@@ -85,14 +112,23 @@ and period columns and their frequency tables preserve the archive's actual date
 Controlled tag counts are multi-label heuristics, not archaeological classification.
 Geography/chronology tags use the corresponding table cells (not affiliations or
 bibliography); methodological/type labels screen page text and may overmatch.
-Unknowns remain explicit. Reanalysis uses the existing inventory; **not labelled
-Reanalysis does not mean verified new field discovery**. Molecular methods are
+The four output categories are `Field discovery / Reanalysis / Mixed / Unresolved`.
+Existing Reanalysis flags remain respected. A future explicit category requires a
+named editor, approval reference and source references in reviewed archive metadata;
+no such metadata is added by this PR. The current audit remains **0 Field discovery,
+1 Reanalysis, 0 Mixed, 32 Unresolved**. Non-Reanalysis never implies field discovery. Molecular methods are
 counted without prestige weighting. Candidate coverage uses identity groups;
 formal and candidate counts are shown separately. No quota or automatic selection.
 
 The Friday bilingual summary and safe report artifact form the provisional review
 queue. An operational bot-owned issue links to each run; source outages/incomplete
-pagination get a separate issue on monitoring/audit runs. Queue refresh changes no
+pagination get a separate issue on monitoring/audit runs once operational writes
+are separately approved. An independent `always()` alert job checks collection,
+persistence and queue failures/cancellations without downloading reports/state or
+checking out code. It has issues-write only, and emits a safe job summary even if
+the issue API fails. Full workflow cancellation, runner outage, unavailable GitHub
+API or denied issue permissions can still prevent delivery; an external watchdog
+and repository notification settings must be reviewed before production. Queue refresh changes no
 human decision. Download safe JSON for observation hashes, source IDs, dates and
 screening labels. Raw primary URLs/text are withheld: an editor must retrieve them
 in a controlled environment, verify accessibility and privacy, and prepare a
@@ -109,7 +145,14 @@ transient server/network failures are. Public diagnostics are typed categories:
 `proxy_403`, `http_403_access_or_terms`, `rate_limited`, `metadata_not_found`,
 server/client response errors, network/invalid response, and cursor incompleteness.
 403 alone cannot establish a site's terms; review access policy separately.
-No exception body/query/credential is copied to public artifacts. OpenAlex remains
+No exception body/query/credential is copied to public artifacts.
+`contact.json` provides a reviewed stable institutional contact configuration. Its
+email and approval reference are intentionally null, not a fabricated address.
+The existing project URL identifies the client. After the responsible institution
+supplies and approves a non-personal mailbox, Crossref requests use it in User-Agent
+and `mailto`; OpenAlex requests do not. Polite-pool access is not claimed before
+that configuration and hosted verification. Do not configure a mailbox during this
+revision or place credentials in this file. OpenAlex remains
 disabled pending current access/credential review; no secret is saved in config.
 
 The existing source registry's official institutional leads (ASI, Sri Lanka,
@@ -159,3 +202,31 @@ Local operations default to `monitoring/runs/durable/state.json`; do not call
 never the production state ref. Old Phase 2A fixtures remain offline regressions
 and are not read anywhere by the scheduled collector. Keep generated files,
 reports, state, caches and screenshots out of implementation commits.
+
+## Repository safeguards: required, not claimed enabled
+
+The independent review on 2026-11-14 found `main protected:false`, no rulesets and
+no state branch. This round does not modify settings and has no current independent
+proof that those conditions changed. Repository-variable value and future App
+restrictions are unverified. Before **any** hosted contents-write run, the owner
+must establish and an independent reviewer must verify main/state branch protections,
+required editorial/monitoring checks, independent review and dismissal of stale
+approvals, no force-push/deletion and a state-writer identity that cannot bypass
+main protections. Protect workflow/policy changes through owner review. Provide
+API/settings evidence at a recorded commit/time; do not treat this document as proof.
+
+`GITHUB_TOKEN contents:write` is repository-scoped, **not ref-scoped**. A fixed-ref
+script and a separate job reduce exposure but are not an authorization boundary.
+Use a reviewed GitHub App/appropriate repository and ruleset configuration for the
+future state writer, with narrowly scoped permissions and short-lived credentials;
+do not introduce a PAT here. Confirm actual bypass behavior rather than assuming
+an App is automatically limited to one branch. The persistence job stays disabled
+until this is resolved. Schema validation does not authenticate fabricated but well-formed hashes/labels.
+No variables, credentials or protections were activated.
+
+All actions in monitoring workflows and editorial QA are pinned to upstream tag
+SHAs resolved read-only during this revision. These pins prevent tag movement;
+they are not a claim that upstream implementation received a full security audit.
+The existing Pages deployment workflow is untouched and still uses mutable refs;
+harden it in a separate deployment review. Re-review pins/dependency updates and
+retain provenance for the selected commits. See `review-round2/RESPONSE.md`.

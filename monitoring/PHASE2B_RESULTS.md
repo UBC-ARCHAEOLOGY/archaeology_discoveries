@@ -1,4 +1,8 @@
-# Phase 2B verified results and blockers
+# Phase 2B round-one results (historical)
+
+Current second-round results and reviewer response are in
+[review-round2/RESPONSE.md](review-round2/RESPONSE.md). The 38-test figures below
+describe original head `2def086`, not the revised implementation.
 
 Date: 2026-11-14. Verified base:
 `3d518218d4825a325cef60269c6d3cea4bc2cf93`, latest origin/main including PR #2.
@@ -44,7 +48,9 @@ Reanalysis-label warning; none were silently repaired or reclassified.
 
 - Obtain real GitHub-hosted results for monitor/review/audit, including repeated
   state restore/persist, inspect reports and source failures, and test outage queue.
-  Workflow dispatch may require infrastructure on default branch first. Keep the
+  Workflow dispatch requires the workflow file on default branch first. A PR-only
+  workflow cannot be dispatched with --ref; any later infrastructure-only merge
+  must keep schedules and publication OFF and is not production approval. Keep the
   schedule switch OFF until then. The local CLI API failure does not establish
   GitHub-hosted source connectivity, and no runner-side fix is claimed as verified.
 - Review regional/local-language official feeds' access/license/robots/community
