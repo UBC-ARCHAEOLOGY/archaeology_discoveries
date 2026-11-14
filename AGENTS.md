@@ -53,4 +53,4 @@ Run `python3 scripts/editorial_qa.py`, its mutation tests, and
 `python3 scripts/check_bilingual.py`. Render with Quarto and run the rendered QA
 mode. Keep generated `docs/`, screenshots, and temporary reports out of commits.
 Do not run source-rewriting cleanup/image-fetch scripts as part of QA.
-Quarto may edit `.gitignore`; preserve its pre-existing contents during rendering.
+Quarto may alter tracked `.gitignore`; inspect `git status` and `git diff` after rendering. The current Codex `render-site` helper reports status but does not restore `.gitignore`. Do not reset, overwrite, or discard pre-existing user changes.
