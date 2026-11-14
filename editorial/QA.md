@@ -74,9 +74,13 @@ approval gate or GitHub branch-protection rule is claimed here.
   Generated HTML targets, assets, and cross-page/same-page fragments are checked
   after rendering. External URLs are deliberately not requested.
 - Adjacent explicitly labelled Chinese/English prose paragraphs are screened for
-  unequal Arabic-number multisets. Common `ka`, `Ma`, 千, 万, 百万 scales are normalized.
-  These are warnings: spelled-out numbers, implicit units across ranges, centuries,
-  unequal explanatory detail, percentages and conversions require human reading.
+  unequal Arabic-number multisets. `ka`, `Ma`, 千, 万, 百万 and the English
+  `thousand`/`million` scales are normalized; ranges with a shared terminal unit
+  (e.g. `14.2–15.8 ka`) apply that unit to both endpoints. Remaining warnings
+  receive heuristic `review_category` labels, plus category totals in JSON/stdout.
+  Categories are not verified-error findings. Spelled-out numbers, implicit units
+  beyond a single explicit range, centuries, unequal explanatory detail and
+  percentages still require human reading.
   This is not a full translation/date validator. Unlabelled prose, table chronology,
   Chinese number words, reference-style Markdown links, and source-only fragments
   are not fully interpreted; rendered links supply the broader link check.
@@ -90,8 +94,9 @@ also verifies that running QA leaves academic source files unchanged.
 
 ## Review warnings
 
-See `QA_RESULTS.md` for the initial run. Warnings are deliberately visible and are
-not suppression lists or approval requests. Review each against the cited source
+See `QA_RESULTS.md` for the initial run and `WARNING_TRIAGE.md` for the
+post-refinement review plan. Warnings remain visible and are deliberately not
+suppressed or used as approval requests. Review each against the cited source
 and publication before proposing corrections, especially within locked entries
 1–23. Passing checks cannot establish 2026 eligibility, archaeological truth,
 appropriate importance, balanced representation, or a justified ranking.
