@@ -271,8 +271,15 @@ def main():
         print(f"{f['severity'].upper()} [{f['code']}] {f['path']}: {f['message']}")
     counts = Counter(f['severity'] for f in findings)
     print(f"Editorial QA: {counts['error']} errors, {counts['warning']} review warnings")
+    review_categories = Counter(f.get('review_category') for f in findings if f.get('review_category'))
+    if review_categories:
+        print("Numeric review categories (heuristic, not verified errors):")
+        for category, count in sorted(review_categories.items()):
+            print(f"  {category}: {count}")
     if args.json:
-        args.json.write_text(json.dumps({'errors': counts['error'], 'warnings': counts['warning'], 'findings': findings}, ensure_ascii=False, indent=2) + '\n')
+        args.json.write_text(json.dumps({'errors': counts['error'], 'warnings': counts['warning'],
+                                         'review_categories': dict(sorted(review_categories.items())),
+                                         'findings': findings}, ensure_ascii=False, indent=2) + '\n')
     return 1 if counts['error'] else 0
 
 
