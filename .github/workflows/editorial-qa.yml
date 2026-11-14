@@ -1,0 +1,39 @@
+name: Editorial consistency QA
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  editorial-qa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test consistency checker
+        run: python -m unittest discover -s scripts -p 'test_editorial_qa.py' -v
+      - name: Check source corpus
+        run: |
+          python scripts/check_bilingual.py
+          python scripts/editorial_qa.py --json /tmp/editorial-source.json
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.11.9'
+      - name: Render without retaining automatic gitignore edits
+        shell: bash
+        run: |
+          set -euo pipefail
+          backup_file=$(mktemp)
+          cp .gitignore "$backup_file"
+          trap 'cp "$backup_file" .gitignore; rm -f "$backup_file"' EXIT
+          quarto render
+      - name: Check rendered links and fragments
+        run: python scripts/editorial_qa.py --rendered docs --json /tmp/editorial-rendered.json
+      - name: Upload academic review findings
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-qa-findings
+          path: /tmp/editorial-*.json

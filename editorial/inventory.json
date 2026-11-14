@@ -1,0 +1,421 @@
+{
+  "description": "Observed f86ffae corpus; identity crosswalk and regression baseline, not new academic approval. Changes require human review.",
+  "projects": [
+    {
+      "key": "4",
+      "ranking_heading": "云南蝙蝠洞丹尼索瓦人 | Denisovans at Bianfu Cave",
+      "rank": 1,
+      "status": "CCTV",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/04-denisovans-yunnan.qmd"
+    },
+    {
+      "key": "17",
+      "ranking_heading": "西南亚马孙土方工程 | Southwestern Amazon earthworks",
+      "rank": 2,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/17-amazon-earthworks.qmd"
+    },
+    {
+      "key": "20",
+      "ranking_heading": "苏拉威西≥6.78万年手印岩画 | Sulawesi rock art ≥67.8 ka",
+      "rank": 3,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/20-sulawesi-rock-art.qmd"
+    },
+    {
+      "key": "24",
+      "ranking_heading": "阿拉斯加Shég’ Xdaltth’í’东白令营地 | Shég’ Xdaltth’í’",
+      "rank": 4,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/24-sheg-xdaltthi.qmd"
+    },
+    {
+      "key": "5",
+      "ranking_heading": "欧亚大陆最早家犬遗传证据 | Earliest dog genomes",
+      "rank": 5,
+      "status": "CCTV",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/05-oldest-dog-genomes.qmd"
+    },
+    {
+      "key": "26",
+      "ranking_heading": "老挝石缸平原Site 75“死亡之缸” | Plain of Jars Site 75",
+      "rank": 6,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/26-plain-of-jars-death-jar.qmd"
+    },
+    {
+      "key": "27",
+      "ranking_heading": "玛雅低地汞污染与水生生态系统崩溃 | Maya mercury pollution",
+      "rank": 7,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/27-maya-mercury.qmd"
+    },
+    {
+      "key": "1",
+      "ranking_heading": "Wonderwerk Cave约180万年前用火 | Wonderwerk fire use",
+      "rank": 8,
+      "status": "CCTV",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/01-wonderwerk-fire.qmd"
+    },
+    {
+      "key": "3",
+      "ranking_heading": "希腊约43万年前木制工具 | Marathousa 1 wooden tools",
+      "rank": 9,
+      "status": "CCTV",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/03-megalopolis-wood-tools.qmd"
+    },
+    {
+      "key": "2",
+      "ranking_heading": "湖北郧县约177万年前直立人 | Yunxian Homo erectus",
+      "rank": 10,
+      "status": "CCTV",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/02-yunxian-homo-erectus.qmd"
+    },
+    {
+      "key": "25",
+      "ranking_heading": "San Pablo Huitzo萨波特克10号墓 | Huitzo Tomb 10",
+      "rank": 11,
+      "status": "Additional",
+      "grade": "C",
+      "reanalysis": false,
+      "page": "discoveries/25-huitzo-tomb-10.qmd"
+    },
+    {
+      "key": "34",
+      "ranking_heading": "苏门答腊Bongal lashed-lug古船 | Bongal boats",
+      "rank": 12,
+      "status": "Additional",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/34-bongal-boats.qmd"
+    },
+    {
+      "key": "32",
+      "ranking_heading": "塔吉克斯坦Karatau早期旧石器绝对年代 | Karatau chronology",
+      "rank": 13,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/32-karatau-palaeolithic.qmd"
+    },
+    {
+      "key": "33",
+      "ranking_heading": "Widgingarri Shelter 1 ≥55 ka Aboriginal文化序列",
+      "rank": 14,
+      "status": "Additional",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/33-widgingarri-shelter.qmd"
+    },
+    {
+      "key": "22",
+      "ranking_heading": "Kayalıpınar赫梯王室档案 | Hittite royal archive",
+      "rank": 15,
+      "status": "Additional",
+      "grade": "C",
+      "reanalysis": false,
+      "page": "discoveries/22-hittite-royal-archive.qmd"
+    },
+    {
+      "key": "21",
+      "ranking_heading": "Xultun署名玛雅数学家Sak Tahn Waax | Named Maya mathematician",
+      "rank": 16,
+      "status": "Additional",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/21-maya-mathematician.qmd"
+    },
+    {
+      "key": "18",
+      "ranking_heading": "Chan Chan Chimú精英墓葬平台 | Chan Chan funerary platform",
+      "rank": 17,
+      "status": "Additional",
+      "grade": "C",
+      "reanalysis": false,
+      "page": "discoveries/18-chan-chan-tomb.qmd"
+    },
+    {
+      "key": "review:likonong",
+      "ranking_heading": "Likonong Shelter约242 ka高地占据",
+      "rank": 18,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "莱索托Likonong Shelter约242 ka高地占据 | Middle Pleistocene highland occupation at Likonong Shelter",
+      "review_decisions": []
+    },
+    {
+      "key": "15",
+      "ranking_heading": "库施Sanam费昂斯生产 | Kushite faience",
+      "rank": 19,
+      "status": "CCTV",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/15-kush-faience.qmd"
+    },
+    {
+      "key": "14",
+      "ranking_heading": "Didé West 1长期炼铁作坊 | Didé West iron smelting",
+      "rank": 20,
+      "status": "CCTV",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/14-dide-west-iron-smelting.qmd"
+    },
+    {
+      "key": "12",
+      "ranking_heading": "南安第斯两千年人口史 | Uspallata ancient DNA",
+      "rank": 21,
+      "status": "CCTV",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/12-uspallata-ancient-dna.qmd"
+    },
+    {
+      "key": "28",
+      "ranking_heading": "Cova de la Font Major洞穴刻画 | Font Major rock art",
+      "rank": 22,
+      "status": "Additional",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/28-font-major-rock-art.qmd"
+    },
+    {
+      "key": "13",
+      "ranking_heading": "乌拉尔图大型灌溉景观 | Urartian irrigation",
+      "rank": 23,
+      "status": "CCTV",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/13-urartian-irrigation.qmd"
+    },
+    {
+      "key": "30",
+      "ranking_heading": "罗马统治与伊比利亚人口结构变化 | Roman Iberia aDNA",
+      "rank": 24,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/30-roman-iberia-adna.qmd"
+    },
+    {
+      "key": "19",
+      "ranking_heading": "凯尔特语/日耳曼语传播古基因组 | Celtic/Germanic ancient genomics",
+      "rank": 25,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/19-celtic-ancient-dna.qmd"
+    },
+    {
+      "key": "7",
+      "ranking_heading": "贝加尔湖约5500年前鼠疫 | Lake Baikal plague",
+      "rank": 26,
+      "status": "CCTV",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/07-baikal-plague.qmd"
+    },
+    {
+      "key": "review:kekova",
+      "ranking_heading": "Kekova早青铜时代沉船",
+      "rank": 27,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "土耳其Kekova早青铜时代沉船 | Early Bronze Age wreck at Kekova, Türkiye",
+      "review_decisions": [
+        "HOLD"
+      ]
+    },
+    {
+      "key": "review:tunnug",
+      "ranking_heading": "Tunnug 1大麻使用证据",
+      "rank": 28,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "Tunnug 1 / Uyuk谷地：约2800年前大麻使用证据 | Cannabis use at Tunnug 1, Uyuk Valley",
+      "review_decisions": [
+        "HOLD"
+      ]
+    },
+    {
+      "key": "review:quebec",
+      "ranking_heading": "魁北克圣劳伦斯河原住民捕鱼设施",
+      "rank": 29,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "魁北克圣劳伦斯河约1200年前原住民捕鱼设施 | A ca. 1,200-year-old Indigenous fish trap in the St. Lawrence River, Quebec",
+      "review_decisions": []
+    },
+    {
+      "key": "31",
+      "ranking_heading": "Tampa Bay移民陶工社群 | Tampa Bay migrant potters",
+      "rank": 30,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": true,
+      "page": "discoveries/31-tampa-bay-migrant-potters.qmd"
+    },
+    {
+      "key": "29",
+      "ranking_heading": "Etowah可可古DNA | Etowah cacao",
+      "rank": 31,
+      "status": "Under review",
+      "grade": "B",
+      "reanalysis": true,
+      "page": "discoveries/29-etowah-cacao.qmd",
+      "review_heading": "Etowah可可古DNA（降回待评估） | Etowah cacao archaeogenomics (returned to review)",
+      "review_decisions": [
+        "HOLD"
+      ]
+    },
+    {
+      "key": "23",
+      "ranking_heading": "Camarones 9美洲早期天花基因组 | Early smallpox genomes",
+      "rank": 32,
+      "status": "Additional",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/23-camarones-smallpox.qmd"
+    },
+    {
+      "key": "review:dice",
+      "ranking_heading": "北美晚更新世骰子与机会游戏",
+      "rank": 33,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": true,
+      "review_heading": "北美晚更新世骰子与机会游戏 | Late Pleistocene dice and games of chance in North America",
+      "review_decisions": [
+        "HOLD"
+      ]
+    },
+    {
+      "key": "review:holzman",
+      "ranking_heading": "Holzman石器与猛犸象牙生产",
+      "rank": 34,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "阿拉斯加Holzman遗址石器与猛犸象牙生产 | Stone and mammoth-ivory production at the Holzman site, Alaska",
+      "review_decisions": []
+    },
+    {
+      "key": "review:pabalugala",
+      "ranking_heading": "Pabalugala玻璃珠生产",
+      "rank": 35,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "斯里兰卡Pabalugala早期历史时期玻璃珠生产 | Glass-bead production at Pabalugala, Sri Lanka",
+      "review_decisions": []
+    },
+    {
+      "key": "6",
+      "ranking_heading": "Romito墓葬与罕见遗传病 | Romito genetic disorder",
+      "rank": 36,
+      "status": "CCTV",
+      "grade": "A",
+      "reanalysis": false,
+      "page": "discoveries/06-romito-genetic-disease.qmd"
+    },
+    {
+      "key": "8",
+      "ranking_heading": "埃及早王朝墓葬 | Early Dynastic tombs",
+      "rank": 37,
+      "status": "CCTV",
+      "grade": "D",
+      "reanalysis": false,
+      "page": "discoveries/08-egypt-early-dynastic-tombs.qmd"
+    },
+    {
+      "key": "review:pueblo",
+      "ranking_heading": "Pueblo蓝铜矿远距离获取网络",
+      "rank": 38,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "美国西南祖先Pueblo蓝铜矿远距离获取网络 | Long-distance Ancestral Pueblo azurite procurement in the U.S. Southwest",
+      "review_decisions": []
+    },
+    {
+      "key": "16",
+      "ranking_heading": "木乃伊葬仪中的《伊利亚特》 | Iliad in mummification context",
+      "rank": 39,
+      "status": "CCTV",
+      "grade": "C",
+      "reanalysis": false,
+      "page": "discoveries/16-iliad-mummy.qmd"
+    },
+    {
+      "key": "review:polynesia",
+      "ranking_heading": "波利尼西亚现代人基因组与航海扩散",
+      "rank": 40,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "波利尼西亚人群基因组与航海扩散 | Polynesian genomes and long-distance voyaging",
+      "review_decisions": []
+    },
+    {
+      "key": "review:crawford",
+      "ranking_heading": "Crawford Lake沉积古DNA",
+      "rank": 41,
+      "status": "Under review",
+      "grade": null,
+      "reanalysis": false,
+      "review_heading": "Crawford Lake沉积古DNA与千年人地关系 | Crawford Lake sedaDNA and a millennium of human–environment interactions",
+      "review_decisions": []
+    },
+    {
+      "key": "10",
+      "ranking_heading": "底格里斯河畔亚历山大城 | Alexandria on the Tigris",
+      "rank": 42,
+      "status": "CCTV",
+      "grade": "B",
+      "reanalysis": false,
+      "page": "discoveries/10-alexandria-tigris.qmd"
+    },
+    {
+      "key": "11",
+      "ranking_heading": "阿西诺中希联合发掘 | Sino-Greek excavation at Arsinoe",
+      "rank": 43,
+      "status": "CCTV",
+      "grade": "C",
+      "reanalysis": false,
+      "page": "discoveries/11-arsinoe-china-greece.qmd"
+    },
+    {
+      "key": "9",
+      "ranking_heading": "特洛伊“agora” | Troy proposed agora",
+      "rank": 44,
+      "status": "CCTV",
+      "grade": "D",
+      "reanalysis": false,
+      "page": "discoveries/09-troy-agora.qmd"
+    }
+  ]
+}
