@@ -115,6 +115,8 @@ class EditorialQA(unittest.TestCase):
         self.assertEqual(numbers('14.2–15.8 ka'), numbers('1.42万–1.58万年前'))
         self.assertEqual(numbers('1.7 to 1.8 Ma'), numbers('170万至180万年前'))
         self.assertEqual(numbers('55–37 ka'), numbers('5.5万–3.7万年前'))
+        self.assertEqual(numbers('55–37 ka层段'), numbers('5.5万–3.7万年前'))
+        self.assertEqual(numbers('1.77 Ma年代'), numbers('177万年前'))
 
     def test_english_number_words_are_review_not_guessed(self):
         self.assertEqual(numeric_review_hint('5至8项', 'five to eight cases'),
