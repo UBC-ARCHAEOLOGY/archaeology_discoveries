@@ -4,7 +4,7 @@ import shutil
 import tempfile
 import unittest
 
-from editorial_qa import numbers, run
+from editorial_qa import numbers, numeric_review_hint, run
 
 
 SOURCE = Path(__file__).resolve().parents[1]
@@ -105,6 +105,39 @@ class EditorialQA(unittest.TestCase):
     def test_common_scale_units(self):
         self.assertEqual(numbers('6.78万年前'), numbers('67.8 ka'))
         self.assertEqual(numbers('1.8 Ma'), numbers('180万年前'))
+
+    def test_english_million_and_thousand_scales(self):
+        self.assertEqual(numbers('1.77 million years ago'), numbers('177万年前'))
+        self.assertEqual(numbers('1.8 Ma'), numbers('180万年前'))
+        self.assertEqual(numbers('14.2 thousand years ago'), numbers('1.42万年前'))
+
+    def test_shared_unit_ranges(self):
+        self.assertEqual(numbers('14.2–15.8 ka'), numbers('1.42万–1.58万年前'))
+        self.assertEqual(numbers('1.7 to 1.8 Ma'), numbers('170万至180万年前'))
+        self.assertEqual(numbers('55–37 ka'), numbers('5.5万–3.7万年前'))
+
+    def test_english_number_words_are_review_not_guessed(self):
+        self.assertEqual(numeric_review_hint('5至8项', 'five to eight cases'),
+                         'spelled-number-or-scope')
+        self.assertNotEqual(numbers('five to eight'), numbers('5–8'))
+
+    def test_true_number_conflict_still_visible(self):
+        self.assertNotEqual(numbers('14.2 ka'), numbers('15.8 thousand years'))
+        self.assertEqual(numeric_review_hint('14.2 ka', '15.8 thousand years'),
+                         'unit-or-range-context')
+
+    def test_normalized_equivalent_quantities_no_warning(self):
+        self.mutate('discoveries/30-roman-iberia-adna.qmd',
+                    'reports genome-wide data from 243',
+                    'reports genome-wide data from 243')
+        self.assertEqual(numbers('1.77 million'), numbers('177万'))
+
+    def test_review_category_is_machine_readable(self):
+        self.mutate('discoveries/30-roman-iberia-adna.qmd',
+                    'reports genome-wide data from 243',
+                    'reports genome-wide data from 999')
+        findings = [f for f in run(self.root) if f['code'] == 'bilingual-numbers']
+        self.assertTrue(any(f.get('review_category') for f in findings))
 
     def test_rendered_fragment(self):
         site = self.root / 'rendered'
