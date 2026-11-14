@@ -15,6 +15,7 @@ project:
     - "!editorial/updates/**"
     - "!monitoring/**"
     - "!work/**"
+    - updates-window.js
     - map.html
     - map-assets/
     - figures/

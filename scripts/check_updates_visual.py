@@ -11,6 +11,8 @@ import json
 from pathlib import Path
 import shutil
 import threading
+import updates as u
+from datetime import datetime, timedelta, timezone
 from playwright.sync_api import sync_playwright
 
 
@@ -41,7 +43,7 @@ def main():
                     errors=[];page.on('pageerror',lambda error:errors.append(str(error)))
                     response=page.goto(f'http://127.0.0.1:{server.server_port}/{filename}',wait_until='networkidle')
                     assert response.status==200
-                    expected=min(len(public),registry['homepage_limit']) if filename=='index.html' else len(public)
+                    expected=len(u.recent(registry)) if filename=='index.html' else len(public)
                     assert page.locator('.update-card').count()==expected
                     assert page.locator('.update-category').all_text_contents()
                     baselines=page.locator('.update-card[data-update-state="baseline"]')
@@ -49,6 +51,9 @@ def main():
                     if filename=='index.html':
                         assert baselines.locator('time').count()==0
                         assert page.locator('.update-dates').count()==0
+                        assert baselines.count()==0
+                        assert page.locator('#past-week-updates').count()==1
+                        assert page.locator('.updates-group-title').count()==len(u.CATEGORIES)
                     else:
                         assert baselines.locator('.update-recorded-date time').count()==baselines.count()
                         assert page.locator('.update-dates').count()==expected
@@ -59,14 +64,14 @@ def main():
                         assert card.evaluate('(el)=>el.scrollWidth<=el.clientWidth'), 'Card content overflow'
                     if filename=='index.html':
                         positions=page.evaluate('''() => ({hero:document.querySelector('.homepage-hero').getBoundingClientRect().bottom,
-                            updates:document.querySelector('#latest-updates').getBoundingClientRect().top,
+                            updates:document.querySelector('#past-week-updates').getBoundingClientRect().top,
                             map:document.querySelector('iframe').getBoundingClientRect().top,
                             last:document.querySelector('.updates-panel').getBoundingClientRect().bottom})''')
-                        assert positions['hero']<positions['updates']<positions['last']<positions['map']
-                        panel=page.locator('.latest-updates-grid')
-                        columns=panel.evaluate('(el)=>getComputedStyle(el).gridTemplateColumns.split(" ").length')
-                        assert columns==(1 if label=='mobile' else 2), columns
-                        page.evaluate("window.scrollTo(0, document.querySelector('#latest-updates').getBoundingClientRect().top + window.scrollY - 110)")
+                        assert positions['hero']<positions['map']<positions['updates']<positions['last']
+                        panel=page.locator('.latest-updates-grid').filter(has=page.locator('.update-card')).first
+                        columns=panel.evaluate('(el)=>getComputedStyle(el).gridTemplateColumns.split(" ").filter(x=>parseFloat(x)>0).length')
+                        assert columns==(1 if label=='mobile' else min(2,panel.locator('.update-card').count())), columns
+                        page.evaluate("window.scrollTo(0, document.querySelector('#past-week-updates').getBoundingClientRect().top + window.scrollY - 110)")
                         page.screenshot(path=str(args.output/f'{label}-latest-viewport.png'))
                         page.locator('.update-card').first.screenshot(path=str(args.output/f'{label}-update-card.png'))
                     page.screenshot(path=str(args.output/f'{label}-{Path(filename).stem}.png'),full_page=True)
@@ -82,6 +87,15 @@ def main():
                         page.wait_for_url('**/update-history.html')
                         assert page.locator('.update-card').count()==len(public)
                     page.close()
+            # Existing entries must age out without a scheduled build or publication.
+            future=browser.new_page()
+            day=u.today()+timedelta(days=8)
+            future.clock.install(time=datetime(day.year,day.month,day.day,20,tzinfo=timezone.utc))
+            future.goto(f'http://127.0.0.1:{server.server_port}/index.html',wait_until='networkidle')
+            assert future.locator('.update-card').count()==0
+            assert future.locator('.updates-empty:visible').count()==len(u.CATEGORIES)
+            assert day.isoformat() in future.locator('.updates-window').inner_text()
+            future.close()
             browser.close()
     finally:
         server.shutdown();server.server_close()

@@ -194,9 +194,8 @@ def run(root, rendered=None):
     counts = Counter(r['status'] for r in records)
     # Explicit summary claims in both languages, rather than arbitrary numerals.
     claims = {
-        'index.qmd': [(r'全部(\d+)项发现', len(formal)), (r'all (\d+) discoveries', len(formal)),
-                      (r'\*\*(\d+)项\*\*中央', counts['CCTV']), (r'\*\*(\d+)\*\* discoveries from', counts['CCTV']),
-                      (r'\*\*(\d+)项\*\*补充', counts['Additional']), (r'\*\*(\d+)\*\* additional candidates', counts['Additional'])],
+        # Current coverage was replaced by a weekly digest; the map total remains mandatory.
+        'index.qmd': [(r'全部(\d+)项发现', len(formal)), (r'all (\d+) discoveries', len(formal))],
         'ranking.qmd': [(r'\*\*(\d+)个候选项目', len(records)), (r'\*\*(\d+) current candidate projects', len(records)),
                         (r'(\d+)项央视候选', counts['CCTV']), (r'(\d+) CCTV candidates', counts['CCTV']),
                         (r'(\d+)项补充建议', counts['Additional']), (r'(\d+) additional candidates', counts['Additional']),

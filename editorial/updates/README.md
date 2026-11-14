@@ -129,3 +129,34 @@ independent of category or date. This deliberately conservative rule may reject 
 truly distinct later event using the same source: it requires a separately reviewed
 identity/schema extension, not changing a category or date to bypass the check.
 Mirrored sources and paraphrases still require human semantic duplicate review.
+
+## Homepage correction: past week (supersedes initial homepage contract)
+
+The owner clarified that the old Current coverage block is to become **过去一周的更新 |
+Updates In the Past Week**, at its original position. The prior pre-map retrospective
+card section is removed. Homepage includes only reviewed, verified website-dated
+records from seven Vancouver calendar dates including today; no minimum, padding
+with historical records or truncation by `homepage_limit` (retained for schema
+compatibility). The permanent history retains all records. Within each category,
+records are newest first. New `ranking_changed` and `site_updated` categories log
+already approved actions; they do not authorize rankings or publication decisions.
+
+A tiny local progressive-enhancement script removes records that age out between
+site builds and updates the Vancouver window. It never fetches proposals or writes
+data; without JavaScript the labelled build-date interval remains visible. New
+records still require review and a new site build. No scheduled monitoring is added.
+
+One real website event is now logged: PR #6's already successful 2026-11-14 Pages
+release of bilingual Update History, tied to run 43645480011 and owner approval.
+No undocumented archaeological additions or ranking changes are inferred from Git
+timestamps. Empty groups mean no verified logged events, not proof of no changes.
+
+The subsequent verification also located successful Pages run **42686436717**:
+its deploy log reports success at 2026-11-09T19:49:26Z for exact build
+`f86ffae6a66913f701920d95d79310729b9563e9`. The registry now logs that release's
+Bongal addition (owner commit `3df8376`), Font Major earlier-reference addition
+(`f86ffae`), Plain of Jars independent caution/report link (`29a6b9e`) and provisional
+ranking revision (`d6eea18`). These are verified published release changes, not dates
+inferred solely from commits, new scholarly decisions or assertions that the
+underlying discoveries/publications occurred that week. Baseline inventory records
+remain frozen separately; this is not a complete reconstruction of all site history.

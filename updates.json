@@ -305,6 +305,256 @@
         }
       ],
       "review": null
+    },
+    {
+      "id": "website-update-history-launch",
+      "state": "reviewed",
+      "category": "site_updated",
+      "title": {
+        "zh": "上线双语更新日志",
+        "en": "Bilingual Update History launched"
+      },
+      "description": {
+        "zh": "新增永久更新日志及双语导航，六条既有记录单列为历史整理，不代表新发现。",
+        "en": "Added permanent Update History and bilingual navigation; six existing records are separate historical context, not new discoveries."
+      },
+      "page": "update-history.qmd",
+      "source_url": null,
+      "recorded_on": "2026-11-14",
+      "website_updated_on": "2026-11-14",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43645480011",
+        "description": {
+          "zh": "Pages 成功部署提交 197f55b；核实网页更新日期。",
+          "en": "Pages successfully deployed commit 197f55b; website update date verified."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (repository owner; explicit merge/deploy authorization)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/6"
+      },
+      "evidence": [
+        {
+          "path": "update-history.qmd",
+          "quote": "本日志自**2026-11-14**开始建档",
+          "sha256": "e0b2507c8ae281a8ad1e594c9ce841c4914a43b10042ba44ecf2f82b17cb8693"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "bongal-added-release",
+      "state": "reviewed",
+      "category": "discovery_added",
+      "title": {
+        "zh": "Bongal 古船纳入档案",
+        "en": "Bongal watercraft added to the archive"
+      },
+      "description": {
+        "zh": "已发布版本新增 Bongal 条目，保留次生情境和先前研究的限制。",
+        "en": "The published release added the Bongal entry, retaining limitations concerning secondary context and earlier research."
+      },
+      "page": "discoveries/34-bongal-boats.qmd",
+      "source_url": null,
+      "recorded_on": "2026-11-14",
+      "website_updated_on": "2026-11-09",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
+        "description": {
+          "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
+          "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/commit/3df83769cf9b3139b8d3dc116823ecce009a747b"
+      },
+      "evidence": [
+        {
+          "path": "discoveries/34-bongal-boats.qmd",
+          "quote": "title: \"34. 苏门答腊Bongal：lashed-lug古船与印度洋海上网络\"",
+          "sha256": "71e07961fa80ac6337e09ca67dfcd38cf707197a5ced39a48bff020fa4c21477"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "font-major-reference-release",
+      "state": "reviewed",
+      "category": "publication_added",
+      "title": {
+        "zh": "Font Major：补列早期文献",
+        "en": "Font Major: earlier reference added"
+      },
+      "description": {
+        "zh": "页面补充早期综述的引用，区分初步报告与完整组合的系统研究；这不是新发表的论文。",
+        "en": "The page added the earlier review citation, distinguishing preliminary reporting from systematic study of the full corpus; this is not a newly published paper."
+      },
+      "page": "discoveries/28-font-major-rock-art.qmd",
+      "source_url": "https://doi.org/10.15184/aqy.2022.34",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": "2026-11-09",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
+        "description": {
+          "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
+          "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/commit/f86ffae6a66913f701920d95d79310729b9563e9"
+      },
+      "evidence": [
+        {
+          "path": "discoveries/28-font-major-rock-art.qmd",
+          "quote": "title: \"28. 加泰罗尼亚Cova de la Font Major：旧石器时代洞穴刻画\"",
+          "sha256": "36fdc1b407164f206021eef54b8b2184126d9e578cf91c004247b08224c61ef2"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "jars-caution-release",
+      "state": "reviewed",
+      "category": "research_update",
+      "title": {
+        "zh": "石缸平原：补充独立解释限制",
+        "en": "Plain of Jars: independent interpretive cautions added"
+      },
+      "description": {
+        "zh": "页面补充独立研究者的保守解释及报道链接，保留葬仪过程和推广范围的不确定性。",
+        "en": "The page added an independent researcher’s cautious interpretation and reporting link, retaining uncertainty about mortuary processes and broader generalization."
+      },
+      "page": "discoveries/26-plain-of-jars-death-jar.qmd",
+      "source_url": "https://www.nationalgeographic.com/history/article/laos-giant-stone-death-jars",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": "2026-11-09",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
+        "description": {
+          "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
+          "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/commit/29a6b9ea8d2d78ad78feb038b8aed79377779840"
+      },
+      "evidence": [
+        {
+          "path": "discoveries/26-plain-of-jars-death-jar.qmd",
+          "quote": "title: \"26. 老挝石缸平原Site 75：多代次生葬的“死亡之缸”\"",
+          "sha256": "98efb0536b9b3ab66cfefc8389c50a1e4cb0a7d7f566214875612f4762279119"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "ranking-revision-release",
+      "state": "reviewed",
+      "category": "ranking_changed",
+      "title": {
+        "zh": "已发布的暂定排名修订",
+        "en": "Published revision to the provisional ranking"
+      },
+      "description": {
+        "zh": "该版本调整暂定排序，强调田野发现、情境与平衡因素；这里仅记录既有修订，不再次改变排名。",
+        "en": "That release revised the provisional order, emphasizing field discoveries, context and balance; this record logs the existing revision without changing ranks again."
+      },
+      "page": "ranking.qmd",
+      "source_url": null,
+      "recorded_on": "2026-11-14",
+      "website_updated_on": "2026-11-09",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
+        "description": {
+          "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
+          "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/commit/d6eea188c460985fa479361b6358695eafe94803"
+      },
+      "evidence": [
+        {
+          "path": "ranking.qmd",
+          "quote": "title: \"2026考古发现暂定综合排名 | Tentative Ranking\"",
+          "sha256": "4fbe262e6ea9061af7ad2e9ec38c1e2a49cfed5981d9c4272e16c8850be50db8"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
     }
   ]
 }
