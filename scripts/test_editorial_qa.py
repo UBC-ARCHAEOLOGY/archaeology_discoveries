@@ -126,11 +126,9 @@ class EditorialQA(unittest.TestCase):
         self.assertEqual(numeric_review_hint('14.2 ka', '15.8 thousand years'),
                          'unit-or-range-context')
 
-    def test_normalized_equivalent_quantities_no_warning(self):
-        self.mutate('discoveries/30-roman-iberia-adna.qmd',
-                    'reports genome-wide data from 243',
-                    'reports genome-wide data from 243')
+    def test_normalized_equivalent_quantities(self):
         self.assertEqual(numbers('1.77 million'), numbers('177万'))
+        self.assertEqual(numbers('55–37 ka'), numbers('55 to 37 thousand years ago'))
 
     def test_review_category_is_machine_readable(self):
         self.mutate('discoveries/30-roman-iberia-adna.qmd',
