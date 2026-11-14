@@ -45,22 +45,71 @@ def sections(text, level):
         text, re.M | re.S)]
 
 
+_SCALE = {
+    '百万': 1000000, '万': 10000, '千': 1000,
+    'ma': 1000000, 'ka': 1000,
+    'million': 1000000, 'millions': 1000000,
+    'thousand': 1000, 'thousands': 1000,
+}
+_SCALE_RE = r'(?:百万|万|千|Ma\b|ka\b|millions?\b|thousands?\b)'
+_NUMBER_RE = r'\d[\d,]*(?:\.\d+)?'
+_RANGE_UNIT_RE = re.compile(
+    rf'(?<![\d.])(?P<first>{_NUMBER_RE})(?P<sep>\s*(?:–|—|-|\bto\b)\s*)'
+    rf'(?P<second>{_NUMBER_RE})(?P<space>\s*)(?P<scale>{_SCALE_RE})',
+    re.I,
+)
+_TOKEN_RE = re.compile(
+    rf'(?<![\d.])(?P<number>{_NUMBER_RE})\s*(?P<scale>{_SCALE_RE})?',
+    re.I,
+)
+_WORD_NUMBER_RE = re.compile(
+    r'\b(?:one|two|three|four|five|six|seven|eight|nine|ten|'
+    r'eleven|twelve|twenty|thirty|forty|fifty|hundred|'
+    r'first|second|third)\b', re.I,
+)
+
+
 def numbers(text):
-    """Arabic quantities with common archaeological scale units; advisory only."""
+    """Normalize explicit Arabic quantities, including English scale words.
+
+    A range suffix such as '14.2–15.8 ka' applies to BOTH endpoints.
+    This deliberately does not infer hidden context (e.g. a date in an earlier
+    paragraph) or transform English number words into numbers.
+    """
+    text = _RANGE_UNIT_RE.sub(
+        lambda m: (
+            f"{m['first']} {m['scale']}{m['sep']}"
+            f"{m['second']}{m['space']}{m['scale']}"
+        ),
+        text,
+    )
     values = []
-    for m in re.finditer(r'(?<![\d.])\d[\d,]*(?:\.\d+)?\s*(百万|万|千|Ma\b|ka\b)?', text):
-        scale = {'百万': 1000000, 'Ma': 1000000, '万': 10000,
-                 'ka': 1000, '千': 1000}.get(m[1], 1)
-        value = re.match(r'[\d,.]+', m[0])[0]
-        values.append(Decimal(value.replace(',', '')) * scale)
+    for m in _TOKEN_RE.finditer(text):
+        scale = _SCALE.get((m['scale'] or '').lower(), 1)
+        values.append(Decimal(m['number'].replace(',', '')) * scale)
     return sorted(values)
+
+
+def numeric_review_hint(chinese, english):
+    """Advisory category only; none of these labels establishes a factual error."""
+    if _WORD_NUMBER_RE.search(english):
+        return 'spelled-number-or-scope'
+    if re.search(rf'{_SCALE_RE}', chinese + ' ' + english, re.I):
+        return 'unit-or-range-context'
+    if len(numbers(chinese)) != len(numbers(english)):
+        return 'unequal-detail-or-context'
+    return 'possible-quantity-discrepancy'
+
 
 
 def run(root, rendered=None):
     findings = []
 
-    def report(code, path, message, severity='error'):
-        findings.append(dict(severity=severity, code=code, path=str(path), message=message))
+    def report(code, path, message, severity='error', category=None):
+        finding = dict(severity=severity, code=code, path=str(path), message=message)
+        if category is not None:
+            finding['review_category'] = category
+        findings.append(finding)
 
     def require(ok, code, path, message):
         if not ok:
@@ -167,7 +216,10 @@ def run(root, rendered=None):
             left, right = numbers(match[1]), numbers(match[2])
             if left != right:
                 line = text[:match.start()].count('\n') + 1
-                report('bilingual-numbers', f'{path}:{line}', f'Arabic quantities differ: Chinese {left}; English {right}. Check units, spelled-out numbers and scope manually.', 'warning')
+                category = numeric_review_hint(match[1], match[2])
+                report('bilingual-numbers', f'{path}:{line}',
+                       f'Explicit quantities differ after scale normalization: Chinese {left}; English {right}. Heuristic: {category}; inspect context manually.',
+                       'warning', category=category)
 
     def check_link(path, href, base, html_mode=False):
         parsed = urlsplit(href)
