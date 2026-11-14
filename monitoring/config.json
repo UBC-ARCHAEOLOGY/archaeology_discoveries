@@ -1,0 +1,155 @@
+{
+  "target_year": 2026,
+  "start_date": "2026-01-01",
+  "overlap_days": 7,
+  "max_pages_per_source": 2,
+  "page_size": 25,
+  "query": "archaeology",
+  "priority_regions": [
+    "South Asia",
+    "Central Asia",
+    "Africa",
+    "Southeast Asia",
+    "Australia",
+    "Pacific"
+  ],
+  "tag_rules": {
+    "geographic": {
+      "South Asia": [
+        "Sri Lanka",
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "Central Asia": [
+        "Tajikistan",
+        "Karatau",
+        "Kazakhstan",
+        "Uzbekistan",
+        "Kyrgyzstan"
+      ],
+      "Africa": [
+        "Africa",
+        "Senegal",
+        "Sudan",
+        "Lesotho",
+        "Egypt"
+      ],
+      "Southeast Asia": [
+        "Sumatra",
+        "Indonesia",
+        "Sulawesi",
+        "Laos",
+        "Vietnam",
+        "Cambodia"
+      ],
+      "Australia": [
+        "Australia",
+        "Kimberley"
+      ],
+      "Pacific": [
+        "Polynesia",
+        "Melanesia",
+        "Micronesia",
+        "New Guinea",
+        "Vanuatu"
+      ]
+    },
+    "chronological": {
+      "Pleistocene": [
+        "Pleistocene",
+        "Palaeolithic",
+        "Paleolithic"
+      ],
+      "Holocene": [
+        "Holocene"
+      ],
+      "Bronze Age": [
+        "Bronze Age"
+      ],
+      "Iron Age": [
+        "Iron Age"
+      ],
+      "Historic": [
+        "century",
+        "centuries",
+        "Classic"
+      ]
+    },
+    "discovery_type": {
+      "settlement_urban": [
+        "settlement",
+        "urban",
+        "residential"
+      ],
+      "burial": [
+        "burial",
+        "tomb",
+        "mortuary"
+      ],
+      "production_workshop": [
+        "workshop",
+        "production",
+        "smelting",
+        "faience"
+      ],
+      "landscape": [
+        "landscape",
+        "irrigation",
+        "earthworks"
+      ],
+      "maritime": [
+        "maritime",
+        "boat",
+        "shipwreck"
+      ],
+      "inscriptions": [
+        "inscri",
+        "epigraph",
+        "script",
+        "archive"
+      ],
+      "Indigenous_community_led": [
+        "community-governed",
+        "Traditional Owners",
+        "Arraluli",
+        "Tribal Council"
+      ],
+      "rock_art": [
+        "rock art",
+        "engravings"
+      ]
+    },
+    "evidence_type": {
+      "excavation": [
+        "excavat"
+      ],
+      "survey": [
+        "survey",
+        "LiDAR",
+        "remote sensing"
+      ],
+      "stratigraphy": [
+        "stratif",
+        "stratigraph"
+      ],
+      "dating": [
+        "radiocarbon",
+        "OSL",
+        "luminescence",
+        "dated"
+      ],
+      "molecular": [
+        "genom",
+        "ancient DNA",
+        "palaeoproteo"
+      ],
+      "material_analysis": [
+        "chemical",
+        "petrograph",
+        "technology"
+      ]
+    }
+  }
+}

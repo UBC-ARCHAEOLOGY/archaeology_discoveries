@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "crossref",
+      "label": "Crossref works",
+      "adapter": "crossref",
+      "regions": [
+        "global"
+      ],
+      "enabled": true,
+      "access_note": "Public API documented at https://www.crossref.org/documentation/retrieve-metadata/rest-api/ ; proxy returned 403 on 2026-11-14. Index-date overlap; bounded cursor pages. Metadata does not verify claims.",
+      "url": "https://api.crossref.org/works"
+    },
+    {
+      "id": "openalex",
+      "label": "OpenAlex works",
+      "adapter": "openalex",
+      "regions": [
+        "global"
+      ],
+      "enabled": false,
+      "access_note": "API adapter implemented, disabled pending credential/access review (https://docs.openalex.org/). Publication-window rescan, no update watermark; metadata coverage incomplete.",
+      "url": "https://api.openalex.org/works"
+    },
+    {
+      "id": "antiquity",
+      "label": "Antiquity",
+      "adapter": "crossref",
+      "regions": [
+        "global"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0003-598X"
+    },
+    {
+      "id": "jaa",
+      "label": "Journal of Anthropological Archaeology",
+      "adapter": "crossref",
+      "regions": [
+        "global"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0278-4165"
+    },
+    {
+      "id": "jas",
+      "label": "Journal of Archaeological Science",
+      "adapter": "crossref",
+      "regions": [
+        "global"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0305-4403"
+    },
+    {
+      "id": "ara",
+      "label": "Archaeological Research in Asia",
+      "adapter": "crossref",
+      "regions": [
+        "South Asia",
+        "Central Asia",
+        "Southeast Asia"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "2352-2267"
+    },
+    {
+      "id": "african",
+      "label": "African Archaeological Review",
+      "adapter": "crossref",
+      "regions": [
+        "Africa"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0263-0338"
+    },
+    {
+      "id": "azania",
+      "label": "Azania: Archaeological Research in Africa",
+      "adapter": "crossref",
+      "regions": [
+        "Africa"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0067-270X"
+    },
+    {
+      "id": "australian",
+      "label": "Australian Archaeology",
+      "adapter": "crossref",
+      "regions": [
+        "Australia"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0312-2417"
+    },
+    {
+      "id": "oceania",
+      "label": "Archaeology in Oceania",
+      "adapter": "crossref",
+      "regions": [
+        "Pacific",
+        "Australia"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0728-4896"
+    },
+    {
+      "id": "nautical",
+      "label": "International Journal of Nautical Archaeology",
+      "adapter": "crossref",
+      "regions": [
+        "global"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "1057-2414"
+    },
+    {
+      "id": "field",
+      "label": "Journal of Field Archaeology",
+      "adapter": "crossref",
+      "regions": [
+        "global"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0093-4690"
+    },
+    {
+      "id": "asian",
+      "label": "Asian Perspectives",
+      "adapter": "crossref",
+      "regions": [
+        "South Asia",
+        "Southeast Asia",
+        "Pacific"
+      ],
+      "enabled": true,
+      "access_note": "Metadata API only; full text/paywall not fetched; current reachability untested. No prestige weighting.",
+      "issn": "0066-8435"
+    },
+    {
+      "id": "asi",
+      "label": "Archaeological Survey of India",
+      "adapter": "manual_primary",
+      "regions": [
+        "South Asia"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://asi.nic.in/"
+    },
+    {
+      "id": "sl",
+      "label": "Department of Archaeology Sri Lanka",
+      "adapter": "manual_primary",
+      "regions": [
+        "South Asia"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://archaeology.gov.lk/"
+    },
+    {
+      "id": "brin",
+      "label": "BRIN",
+      "adapter": "manual_primary",
+      "regions": [
+        "Southeast Asia"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://www.brin.go.id/"
+    },
+    {
+      "id": "inah",
+      "label": "INAH",
+      "adapter": "manual_primary",
+      "regions": [
+        "Americas"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://www.inah.gob.mx/"
+    },
+    {
+      "id": "cabah",
+      "label": "CABAH",
+      "adapter": "manual_primary",
+      "regions": [
+        "Australia",
+        "Pacific"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://epicaustralia.org.au/"
+    },
+    {
+      "id": "anu",
+      "label": "Australian National University",
+      "adapter": "manual_primary",
+      "regions": [
+        "Australia",
+        "Pacific"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://www.anu.edu.au/"
+    },
+    {
+      "id": "wits",
+      "label": "University of the Witwatersrand",
+      "adapter": "manual_primary",
+      "regions": [
+        "Africa"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://www.wits.ac.za/"
+    },
+    {
+      "id": "samarkand",
+      "label": "Samarkand Institute of Archaeology",
+      "adapter": "manual_primary",
+      "regions": [
+        "Central Asia"
+      ],
+      "enabled": false,
+      "access_note": "Registry lead only; no automated access permission or stable feed established. Disabled. Human may supply attributed public announcement extracts after checking terms/robots/community protocols. No page scraping.",
+      "url": "https://archaeology.uz/"
+    }
+  ]
+}

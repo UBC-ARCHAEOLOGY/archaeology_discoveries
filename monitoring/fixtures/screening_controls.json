@@ -1,0 +1,33 @@
+{
+  "description": "Synthetic screening controls, not archaeological candidates; no DOI/author/institution claims.",
+  "records": [
+    {
+      "source_id": "synthetic_control",
+      "title": "Quantum circuit experiment",
+      "publication_date": "2026",
+      "claims": {
+        "en": "Laboratory physics without archaeological context"
+      }
+    },
+    {
+      "source_id": "synthetic_control",
+      "title": "Excavation online in 2025, print in 2026",
+      "publication_date": "2025-12-20",
+      "source_dates": {
+        "published-print": "2026-03"
+      },
+      "claims": {
+        "en": "Excavation report"
+      }
+    },
+    {
+      "source_id": "synthetic_control",
+      "title": "Undated maritime press story",
+      "publication_date": null,
+      "announcement_date": null,
+      "claims": {
+        "en": "New boat headline without date or earlier history"
+      }
+    }
+  ]
+}
