@@ -54,3 +54,13 @@ Run `python3 scripts/editorial_qa.py`, its mutation tests, and
 mode. Keep generated `docs/`, screenshots, and temporary reports out of commits.
 Do not run source-rewriting cleanup/image-fetch scripts as part of QA.
 Quarto may alter tracked `.gitignore`; inspect `git status` and `git diff` after rendering. The current Codex `render-site` helper reports status but does not restore `.gitignore`. Do not reset, overwrite, or discard pre-existing user changes.
+
+## Phase 2B publication proposal (default OFF)
+
+Issue #3 authorizes a proposed narrow standing-authorization policy for new formal
+entries; it does not activate an exception to the human-approval rule above.
+See `monitoring/PUBLICATION_POLICY.md` and `monitoring/publication-policy.json`.
+Until independent gate review, live verified new evidence and a separately approved
+ranking/integration procedure are recorded, all promotions still require individual
+human academic approval. The collector cannot grant itself authorization. Existing
+entries, grades, ranks and HOLD decisions remain outside the proposed exception.

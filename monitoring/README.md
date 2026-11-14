@@ -1,3 +1,16 @@
+# Discovery monitoring
+
+Phase 2B operating instructions, cadence, durable state and current blockers are in
+[PHASE2B.md](PHASE2B.md). Formal publication remains OFF; see
+[PUBLICATION_POLICY.md](PUBLICATION_POLICY.md). Results are in
+[PHASE2B_RESULTS.md](PHASE2B_RESULTS.md).
+
+The following describes the retained **Phase 2A** offline/dry-run implementation,
+not the new scheduled production runner (`operations.py`). Its limitations remain
+applicable to those legacy commands.
+
+---
+
 # Phase 2A: Global Archaeological Discovery Monitor
 
 This is a read-only candidate **proposal** pipeline. It implements the three
