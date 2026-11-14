@@ -17,6 +17,18 @@ The first normalization pass (commit `8d7f3fa`) reduced that to **0 errors / 45 
 
 Subsequent commits extend recognition to `ka`/`Ma` next to Chinese characters; the latest CI JSON is the authoritative report for the resulting count. **The categories are heuristic triage hints, not verified outcomes.** All remaining discrepancies stay visible; no warning has been suppressed.
 
+## Latest verified hosted CI result (commit `02ff4fc`)
+
+The GitHub-hosted Editorial consistency QA workflow **passed** at commit `02ff4fc160814b3bd13207e9a595909dbdcc2731` (run `43625678174`):
+
+- **0 structural errors**
+- **42 review warnings total** (41 numeric screening warnings and 1 previously identified Tampa Bay bilingual Reanalysis-label warning)
+- Numeric categories: **19** `spelled-number-or-scope`, **18** `unequal-detail-or-context`, **4** `unit-or-range-context`.
+- The two Widgingarri warnings for range-unit syntax disappeared after handling English `between roughly 55 and 37 ka` and `ka` adjacent to Chinese characters.
+- Academic source paragraphs, grades, candidate statuses and ranks remain unchanged by this PR.
+
+The warning decrease from 47 to 42 reflects **better parsing**, not correction of five archaeological statements. The 41 remaining numeric warnings still need human screening against the original paired text and primary literature where necessary.
+
 ## Examples inspected against source paragraphs
 
 - **Likely false positive: Shég’ Xdaltth’í’, page 24**, Chinese `66个AMS年代` vs English *Sixty-six AMS radiocarbon dates*. Different numeral notation, no substantive disagreement; retain as a warning unless a future audited number-word parser is added.
