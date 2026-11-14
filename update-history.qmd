@@ -23,6 +23,10 @@ Records with verified website dates are ordered by website-update date, newest f
 
 ## 本周摘要与变更类别 | Weekly summary and change categories
 
-首页仅列出最近 7 个日历日（America/Vancouver，含当日）有核实网页日期的记录，按类别分组、组内由新到旧排序。包括新收录条目、新添文献／报道、研究更新、暂定排名调整和其他网站更新。此日志不补推过去未核实的网页日期；没有记录不能证明没有变化。排名调整须另有人工批准，记录本身没有修改排名的权限。
+首页仅列出最近 7 个日历日（Asia/Shanghai，含当日）有核实网页日期的记录，按类别分组、组内由新到旧排序。包括新收录条目、新添文献／报道、研究更新、暂定排名调整和其他网站更新。此日志不补推过去未核实的网页日期；没有记录不能证明没有变化。排名调整须另有人工批准，记录本身没有修改排名的权限。
 
-The homepage includes only verified website-dated records from the latest 7 calendar days (America/Vancouver, including today), grouped by category and newest first within each group: archive additions, references/reports, research updates, provisional ranking changes and other website changes. Earlier unverified website dates are not reconstructed. Missing records do not establish absence of changes. Ranking changes require separate human approval; logging an event never authorizes a ranking change.
+The homepage includes only verified website-dated records from the latest 7 calendar days (Asia/Shanghai, including today), grouped by category and newest first within each group: archive additions, references/reports, research updates, provisional ranking changes and other website changes. Earlier unverified website dates are not reconstructed. Missing records do not establish absence of changes. Ranking changes require separate human approval; logging an event never authorizes a ranking change.
+
+本周窗口按北京时间（Asia/Shanghai）计算；有 UTC 部署回执的网页日期亦换算为北京时间。原有回溯登记日期保留历史记录，不参与本周筛选。
+
+The weekly window uses Beijing time (Asia/Shanghai); website dates with UTC deployment receipts are converted to the same timezone. Original retrospective recording dates remain historical metadata and are excluded from the weekly filter.

@@ -18,6 +18,7 @@ from urllib.parse import urlsplit, urlunsplit
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
+UPDATE_TIMEZONE = 'Asia/Shanghai'
 CATEGORIES = {
     'discovery_added': ('新收录条目', 'Archive entry added'),
     'publication_added': ('新添文献', 'Reference added'),
@@ -45,7 +46,7 @@ def require(condition, message):
 
 
 def today():
-    return datetime.now(ZoneInfo('America/Vancouver')).date()
+    return datetime.now(ZoneInfo(UPDATE_TIMEZONE)).date()
 
 
 def exact_day(value, as_of):
@@ -178,7 +179,13 @@ def validate(registry, root=ROOT, as_of=None):
         if record['state'] == 'reviewed':
             exact_day(record['website_updated_on'], as_of)
             proof = record['website_date_evidence']
-            require(isinstance(proof, dict) and set(proof) == {'reference', 'description'}, 'Verified website-date evidence required')
+            require(isinstance(proof, dict) and set(proof) in ({'reference', 'description'}, {'reference', 'description', 'published_at'}), 'Verified website-date evidence required')
+            if 'published_at' in proof:
+                stamp = proof['published_at']
+                require(isinstance(stamp, str) and re.fullmatch(r'\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z', stamp), 'Exact UTC deployment timestamp required')
+                published = datetime.fromisoformat(stamp.replace('Z', '+00:00'))
+                require(published.astimezone(ZoneInfo(UPDATE_TIMEZONE)).date().isoformat() == record['website_updated_on'],
+                        'Website date must match deployment timestamp in Beijing time')
             https_url(proof['reference']); bilingual(proof['description'])
             review = record['review']
             require(isinstance(review, dict) and set(review) == {'editor', 'reference'} and
@@ -254,7 +261,7 @@ def card(record, compact=False):
 
 
 def recent(registry, as_of=None):
-    """Seven Vancouver calendar dates, inclusive; never use recording/source dates."""
+    """Seven Beijing calendar dates, inclusive; never use recording/source dates."""
     end = as_of or today()
     start = end - timedelta(days=6)
     return [r for r in ordered(registry)[0]
@@ -267,7 +274,7 @@ def render(registry, view, as_of=None):
     if view == 'latest':
         end = as_of or today()
         start = end - timedelta(days=6)
-        h.append(f'<p class="updates-window">统计区间 / Window: {start.isoformat()} – {end.isoformat()} · America/Vancouver</p>')
+        h.append(f'<p class="updates-window">统计区间 / Window: {start.isoformat()} – {end.isoformat()} · 北京时间 / Beijing time (Asia/Shanghai)</p>')
         rows = recent(registry, end)
         for category, (zh, en) in CATEGORIES.items():
             group = [r for r in rows if r['category'] == category]

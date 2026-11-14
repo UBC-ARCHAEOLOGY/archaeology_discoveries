@@ -129,3 +129,6 @@ main.content .update-card .update-summary{font-size:.9rem;line-height:1.7;margin
 .update-card-compact{padding:.9rem 1rem}
 main.content .update-card-compact .update-summary{font-size:.84rem;line-height:1.55}
 .update-card-compact .update-links{font-size:.8rem}
+
+/* Keep the linked media crosswalk heading clear of the sticky mobile navbar. */
+#reader-reports{scroll-margin-top:8rem}

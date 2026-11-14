@@ -87,10 +87,16 @@ def main():
                         page.wait_for_url('**/update-history.html')
                         assert page.locator('.update-card').count()==len(public)
                     page.close()
+            boundary=browser.new_page()
+            boundary.clock.install(time=datetime(2026,11,14,16,1,tzinfo=timezone.utc))
+            boundary.goto(f'http://127.0.0.1:{server.server_port}/index.html',wait_until='networkidle')
+            assert '2026-11-09 – 2026-11-15' in boundary.locator('.updates-window').inner_text()
+            assert 'Asia/Shanghai' in boundary.locator('.updates-window').inner_text()
+            boundary.close()
             # Existing entries must age out without a scheduled build or publication.
             future=browser.new_page()
             day=u.today()+timedelta(days=8)
-            future.clock.install(time=datetime(day.year,day.month,day.day,20,tzinfo=timezone.utc))
+            future.clock.install(time=datetime(day.year,day.month,day.day,4,tzinfo=timezone.utc))
             future.goto(f'http://127.0.0.1:{server.server_port}/index.html',wait_until='networkidle')
             assert future.locator('.update-card').count()==0
             assert future.locator('.updates-empty:visible').count()==len(u.CATEGORIES)

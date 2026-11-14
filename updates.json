@@ -320,14 +320,15 @@
       },
       "page": "update-history.qmd",
       "source_url": null,
-      "recorded_on": "2026-11-14",
-      "website_updated_on": "2026-11-14",
+      "recorded_on": "2026-11-15",
+      "website_updated_on": "2026-11-15",
       "website_date_evidence": {
         "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43645480011",
         "description": {
           "zh": "Pages 成功部署提交 197f55b；核实网页更新日期。",
           "en": "Pages successfully deployed commit 197f55b; website update date verified."
-        }
+        },
+        "published_at": "2026-11-14T22:00:57Z"
       },
       "review": {
         "editor": "Zhichun Jing (repository owner; explicit merge/deploy authorization)",
@@ -370,14 +371,15 @@
       },
       "page": "discoveries/34-bongal-boats.qmd",
       "source_url": null,
-      "recorded_on": "2026-11-14",
-      "website_updated_on": "2026-11-09",
+      "recorded_on": "2026-11-15",
+      "website_updated_on": "2026-11-10",
       "website_date_evidence": {
         "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
         "description": {
           "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
           "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
-        }
+        },
+        "published_at": "2026-11-09T19:49:26Z"
       },
       "review": {
         "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
@@ -420,14 +422,15 @@
       },
       "page": "discoveries/28-font-major-rock-art.qmd",
       "source_url": "https://doi.org/10.15184/aqy.2022.34",
-      "recorded_on": "2026-11-14",
-      "website_updated_on": "2026-11-09",
+      "recorded_on": "2026-11-15",
+      "website_updated_on": "2026-11-10",
       "website_date_evidence": {
         "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
         "description": {
           "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
           "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
-        }
+        },
+        "published_at": "2026-11-09T19:49:26Z"
       },
       "review": {
         "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
@@ -470,14 +473,15 @@
       },
       "page": "discoveries/26-plain-of-jars-death-jar.qmd",
       "source_url": "https://www.nationalgeographic.com/history/article/laos-giant-stone-death-jars",
-      "recorded_on": "2026-11-14",
-      "website_updated_on": "2026-11-09",
+      "recorded_on": "2026-11-15",
+      "website_updated_on": "2026-11-10",
       "website_date_evidence": {
         "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
         "description": {
           "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
           "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
-        }
+        },
+        "published_at": "2026-11-09T19:49:26Z"
       },
       "review": {
         "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
@@ -520,14 +524,15 @@
       },
       "page": "ranking.qmd",
       "source_url": null,
-      "recorded_on": "2026-11-14",
-      "website_updated_on": "2026-11-09",
+      "recorded_on": "2026-11-15",
+      "website_updated_on": "2026-11-10",
       "website_date_evidence": {
         "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/42686436717",
         "description": {
           "zh": "Pages 日志确认成功部署 f86ffae，包含本项已发布修订。",
           "en": "Pages logs confirm successful deployment of f86ffae, containing this published revision."
-        }
+        },
+        "published_at": "2026-11-09T19:49:26Z"
       },
       "review": {
         "editor": "Zhichun Jing (owner-authored published revision; logging requested by owner)",
