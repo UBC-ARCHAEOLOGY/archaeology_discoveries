@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "enabled": false,
+  "independent_gate_review": null,
+  "standing_authorization": null,
+  "live_verified_new_record_run": null,
+  "rank_integration_procedure": null,
+  "responsible_editors": [],
+  "approved_dossiers": {},
+  "policy": "Issue #3 proposes narrow standing authorization; no authorization is active. All decisions remain human-controlled."
+}

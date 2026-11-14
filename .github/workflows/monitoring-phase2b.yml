@@ -1,0 +1,180 @@
+name: Phase 2B scheduled monitoring and editorial review
+on:
+  schedule:
+    - cron: '0 8 * * 1,4'
+      timezone: America/Vancouver
+    - cron: '0 9 * * 5'
+      timezone: America/Vancouver
+    - cron: '0 9 * * 0'
+      timezone: America/Vancouver
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Live monitor, human review queue, or archive balance audit
+        type: choice
+        options: [monitor, review, audit]
+        default: monitor
+      full:
+        description: Backfill from January (unfinished windows resume first)
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: archaeology-monitoring-phase2b-state
+  cancel-in-progress: false
+jobs:
+  collect:
+    # Production schedules are hard-disabled for independent round-two review.
+    # Enabling later requires a reviewed workflow change AND the repository switch.
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    outputs:
+      mode: ${{ steps.mode.outputs.mode }}
+      outage: ${{ steps.report.outputs.outage }}
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: '3.12'
+      - name: Offline regression tests
+        run: python -m unittest discover -s monitoring -p 'test_*.py' -v
+      - name: Resolve Vancouver timetable
+        id: mode
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_MODE: ${{ inputs.mode }}
+          INPUT_FULL: ${{ inputs.full }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          python - <<'PY'
+          import os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          mode = os.environ['INPUT_MODE'] if os.environ['EVENT_NAME'] == 'workflow_dispatch' else {'0 8 * * 1,4':'monitor','0 9 * * 5':'review','0 9 * * 0':'audit'}[os.environ['SCHEDULE']]
+          full = os.environ['INPUT_FULL'] == 'true' if os.environ['EVENT_NAME'] == 'workflow_dispatch' else mode == 'monitor' and datetime.now(ZoneInfo('America/Vancouver')).weekday() == 0
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as stream:
+              stream.write(f'mode={mode}\nfull={str(full).lower()}\n')
+          PY
+      - name: Restore durable state (failure never resets)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python monitoring/state_store.py restore
+      - name: Run selected mode
+        env:
+          MODE: ${{ steps.mode.outputs.mode }}
+          FULL: ${{ steps.mode.outputs.full }}
+        run: |
+          args=()
+          if [ "$FULL" = true ]; then args+=(--full); fi
+          python monitoring/operations.py --mode "$MODE" "${args[@]}"
+      - name: Summarize and mark outages
+        id: report
+        run: |
+          cat monitoring/runs/phase2b/summary.md >> "$GITHUB_STEP_SUMMARY"
+          python - <<'PY'
+          import json, os
+          r=json.load(open('monitoring/runs/phase2b/report.json'))
+          with open(os.environ['GITHUB_OUTPUT'],'a') as f:
+              f.write('outage=' + str(bool(r['outages'] or r['incomplete_sources'])).lower() + '\n')
+          if r['outages']: print('::warning::Source outages detected; see safe report diagnostics. No coverage or verification is implied.')
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: phase2b-safe-state
+          path: monitoring/runs/durable/state.json
+          retention-days: 7
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: phase2b-safe-reports
+          path: monitoring/runs/phase2b/
+          retention-days: 30
+  persist:
+    # No hosted contents-write token until protections and credentials are independently reviewed.
+    if: false
+    needs: collect
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: phase2b-safe-state
+          path: monitoring/runs/durable/
+      - name: Persist state only (no archive/main writes)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python monitoring/state_store.py persist
+  editorial-queue:
+    # Intentionally disabled with persistence. Manual review produces artifacts only.
+    # A future reviewed change must fix/test dependency semantics before enabling Issue writes.
+    if: false
+    needs: [collect, persist]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: phase2b-safe-reports
+          path: monitoring/runs/phase2b/
+      - name: Refresh human review queue or outage alert
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          MODE: ${{ needs.collect.outputs.mode }}
+        run: python monitoring/review_issue.py
+  operational-failure-alert:
+    needs: [collect, persist, editorial-queue]
+    if: always() && (needs.collect.result == 'failure' || needs.collect.result == 'cancelled' || needs.persist.result == 'failure' || needs.persist.result == 'cancelled' || needs.editorial-queue.result == 'failure' || needs.editorial-queue.result == 'cancelled')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      issues: write
+    steps:
+      - name: Alert without checkout, collector output or state artifacts
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          COLLECT_RESULT: ${{ needs.collect.result }}
+          PERSIST_RESULT: ${{ needs.persist.result }}
+          QUEUE_RESULT: ${{ needs.editorial-queue.result }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os, subprocess, tempfile
+          from pathlib import Path
+          allowed = {'success', 'failure', 'cancelled', 'skipped'}
+          results = {name: os.environ.get(name, '') for name in ('COLLECT_RESULT', 'PERSIST_RESULT', 'QUEUE_RESULT')}
+          if any(value not in allowed for value in results.values()):
+              raise ValueError('Invalid job outcome')
+          title = 'Phase 2B — operational pipeline failure'
+          body = 'Operational failure; no academic decision or successful persistence is implied.\n\n'
+          body += '\n'.join(f'{key}: {value}' for key, value in results.items())
+          body += f"\n\nRun: https://github.com/{os.environ['GITHUB_REPOSITORY']}/actions/runs/{os.environ['GITHUB_RUN_ID']}\n"
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              summary.write(body)
+          def gh(*args):
+              return subprocess.check_output(['gh', *args], text=True)
+          issues = json.loads(gh('issue', 'list', '--state', 'open', '--limit', '100', '--json', 'number,title,author'))
+          matches = [i for i in issues if i['title'] == title and i['author']['login'] == 'github-actions[bot]']
+          with tempfile.TemporaryDirectory() as tmp:
+              path = Path(tmp)/'alert.md'
+              path.write_text(body)
+              if matches:
+                  gh('issue', 'edit', str(matches[0]['number']), '--body-file', str(path))
+              else:
+                  gh('issue', 'create', '--title', title, '--body-file', str(path))
+          PY

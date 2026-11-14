@@ -1,0 +1,35 @@
+name: Monitoring offline regression
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: '3.12'
+      - name: Run offline regression with reviewable log
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p work
+          python -m unittest discover -s monitoring -p 'test_*.py' -v 2>&1 | tee work/monitoring-tests.log
+      - name: Package committed third-round focused review snapshot
+        run: |
+          mkdir -p work
+          python monitoring/package_review.py --output work/phase2b-round3-review.zip
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: phase2b-round3-review-package
+          path: |
+            work/phase2b-round3-review.zip
+            work/monitoring-tests.log
+          retention-days: 30
