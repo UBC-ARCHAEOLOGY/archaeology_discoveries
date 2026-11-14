@@ -14,6 +14,10 @@ jobs:
           python-version: '3.12'
       - name: Test consistency checker
         run: python -m unittest discover -s scripts -p 'test_editorial_qa.py' -v
+      - name: Test and validate update registry
+        run: |
+          python -m unittest discover -s scripts -p 'test_updates.py' -v
+          python scripts/updates.py check
       - name: Check source corpus
         run: |
           python scripts/check_bilingual.py
@@ -31,6 +35,20 @@ jobs:
           quarto render
       - name: Check rendered links and fragments
         run: python scripts/editorial_qa.py --rendered docs --json /tmp/editorial-rendered.json
+      - name: Check rendered update identities, placement and links
+        run: python scripts/updates.py check --rendered docs
+      - name: Check update layout on desktop and mobile
+        run: |
+          python -m pip install 'playwright==1.62.0'
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk
+          python scripts/check_updates_visual.py --site docs --output work/updates-visual
+      - name: Upload update visual evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: latest-updates-visual-qa
+          path: work/updates-visual/
       - name: Upload academic review findings
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
