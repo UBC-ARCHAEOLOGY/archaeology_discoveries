@@ -58,6 +58,12 @@ _RANGE_UNIT_RE = re.compile(
     rf'(?P<second>{_NUMBER_RE})(?P<space>\s*)(?P<scale>{_SCALE_RE})',
     re.I,
 )
+_BETWEEN_UNIT_RE = re.compile(
+    rf'\bbetween\s+(?:roughly\s+|about\s+|approximately\s+)?'
+    rf'(?P<first>{_NUMBER_RE})\s+and\s+'
+    rf'(?P<second>{_NUMBER_RE})\s+(?P<scale>{_SCALE_RE})',
+    re.I,
+)
 _TOKEN_RE = re.compile(
     rf'(?<![\d.])(?P<number>{_NUMBER_RE})\s*(?P<scale>{_SCALE_RE})?',
     re.I,
@@ -76,6 +82,10 @@ def numbers(text):
     This deliberately does not infer hidden context (e.g. a date in an earlier
     paragraph) or transform English number words into numbers.
     """
+    text = _BETWEEN_UNIT_RE.sub(
+        lambda m: f"between {m['first']} {m['scale']} and {m['second']} {m['scale']}",
+        text,
+    )
     text = _RANGE_UNIT_RE.sub(
         lambda m: (
             f"{m['first']} {m['scale']}{m['sep']}"
