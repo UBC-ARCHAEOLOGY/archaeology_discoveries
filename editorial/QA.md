@@ -15,9 +15,10 @@ python3 scripts/editorial_qa.py --json /tmp/editorial-source.json
 ```
 
 Render the website before checking generated targets and fragments. In the prepared
-cloud environment use `/workspace/.setup/render-site`, which preserves `.gitignore`.
-Elsewhere run `quarto render` with Quarto 1.11.9, preserving any automatic changes
-to `.gitignore`. Then:
+cloud environment use `/workspace/.setup/render-site`, which runs `quarto render`
+and prints Git status; it does **not** restore `.gitignore`.
+Elsewhere run `quarto render` with Quarto 1.11.9. Inspect changes to tracked
+files afterwards; never silently overwrite or discard pre-existing edits. Then:
 
 ```sh
 python3 scripts/editorial_qa.py --rendered docs --json /tmp/editorial-rendered.json
