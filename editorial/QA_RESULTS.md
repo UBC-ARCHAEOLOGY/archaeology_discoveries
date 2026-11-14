@@ -54,3 +54,16 @@ Reproduce complete locations and quantity lists with the commands in `QA.md`; JS
 ## Validation limits
 
 The checker validates consistency and observed metadata, not publication truth, 2026 eligibility, appropriate grades, scholarship, translation equivalence or portfolio balance. Explicit human approval remains required. External citation reachability and browser screenshot capture were not part of this change's validation. The new GitHub Actions workflow has been checked locally through its underlying commands; a hosted Actions run is not claimed.
+
+
+## Refinement pass: verified hosted results (2026-11-14)
+
+After explicit scale/range normalization and regression tests, hosted run [43625678174](https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43625678174) succeeded at `02ff4fc`:
+
+- Source and rendered QA: **0 structural errors, 42 review warnings**.
+- **41** numeric-warning signals (19 spelled-number/scope, 18 unequal-detail/context, 4 unit/range-context), **1** Reanalysis-label warning for Tampa Bay.
+- Initial total was **47** warnings (46 numeric + 1 Reanalysis); the reduction of five warnings is due to better numeric-unit parsing and **does not constitute five verified academic corrections**.
+- New tests cover English `million/thousand`, shared-unit ranges, `ka/Ma` immediately before Chinese characters, and guarded English `between X and Y ka` syntax. All hosted tests passed.
+- See `WARNING_TRIAGE.md` for category interpretation and concrete review examples. All remaining warnings stay visible; no academic content is auto-corrected.
+
+The metadata warning remains open for explicit academic/editorial approval: Tampa Bay is labelled Reanalysis in ranking but not yet explicitly in its bilingual discovery-page metadata. The QA-only PR deliberately does not modify that page.
