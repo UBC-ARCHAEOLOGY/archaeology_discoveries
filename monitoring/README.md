@@ -1,8 +1,10 @@
 # Discovery monitoring
 
-**Second-round independent review:** see [review package](review-round2/README.md)
-and [point-by-point response](review-round2/RESPONSE.md). Scheduled collection and
-hosted persistence are hard-disabled; formal publication remains OFF.
+**Current focused revision:** see [third-round package](review-round3/README.md)
+and [assessment/response](review-round3/RESPONSE.md) to the attached second-round
+report. Scheduled collection, hosted persistence and normal Issue queue remain
+hard-disabled; formal publication remains OFF. Prior [second-round response](review-round2/RESPONSE.md)
+is historical evidence for head `d07dc52`, not a statement of the current schema.
 
 Phase 2B operating instructions, cadence, durable state and current blockers are in
 [PHASE2B.md](PHASE2B.md). Formal publication remains OFF; see

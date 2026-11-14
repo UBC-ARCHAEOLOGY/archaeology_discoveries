@@ -138,7 +138,10 @@ class GateTests(unittest.TestCase):
                      **{field:reference for field in ['independent_gate_review','standing_authorization','live_verified_new_record_run','rank_integration_procedure']}}
         self.dossier['eligibility_evidence'] = {
             'first_substantive_publication': {
-                'publication_dates': {'online':'2026-01-01','print':None,'first_publication':'2026-01-01'}, 'publication_source_ids': ['primary-1'],
+                'publication_dates': {'online':'2026-01-01','print':None,'first_publication':'2026-01-01',
+                    'verification': {field:{'status':'not_applicable' if field == 'print' else 'verified',
+                        'source_ids':['primary-1'],'rationale':'Synthetic online-only publisher date evidence'}
+                        for field in ('online','print','first_publication')}}, 'publication_source_ids': ['primary-1'],
                 'peer_reviewed': True, 'earlier_publications': [],
                 'history_search': {'statement':'Synthetic history search', 'source_ids':['primary-1']},
                 'substantive_increment': {'statement':'Synthetic substantive increment', 'source_ids':['primary-1']}}}

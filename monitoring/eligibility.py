@@ -51,14 +51,31 @@ def supported_statement(value, sources):
             text(value['statement']) and references(value['source_ids'], sources))
 
 
-def publication_dates(value, today):
-    if not isinstance(value, dict) or set(value) != {'online', 'print', 'first_publication'}:
+def publication_dates(value, today, sources):
+    """Known dates need cited verification; absent editions need supported N/A.
+    Unknown is not verified. A first-date assertion alone never reconciles history.
+    """
+    fields = {'online', 'print', 'first_publication'}
+    if not isinstance(value, dict) or set(value) != fields | {'verification'}:
         return False
     if not exact_date(value['first_publication'], today, 2026):
         return False
-    if not all(v is None or exact_date(v, today) for v in (value['online'], value['print'])):
+    if value['online'] is None and value['print'] is None:
         return False
-    known = [v for v in value.values() if v is not None]
+    verification = value['verification']
+    if not isinstance(verification, dict) or set(verification) != fields:
+        return False
+    for field in fields:
+        receipt = verification[field]
+        if (not isinstance(receipt, dict) or set(receipt) != {'status', 'source_ids', 'rationale'} or
+            not references(receipt['source_ids'], sources) or not text(receipt['rationale'])):
+            return False
+        if value[field] is None:
+            if field == 'first_publication' or receipt['status'] != 'not_applicable':
+                return False
+        elif not exact_date(value[field], today) or receipt['status'] != 'verified':
+            return False
+    known = [value[field] for field in fields if value[field] is not None]
     return value['first_publication'] == min(known)
 
 
@@ -90,7 +107,7 @@ def _validate(route, evidence, sources, today):
         required |= {'substantive_increment'} if route == 'first_substantive_publication' else {
             'legacy_material', 'legacy_provenance', 'analysis_date', 'important_question', 'interpretive_gain', 'gain_type'}
         check(set(data) == required, 'publication_or_reanalysis_schema')
-        check(publication_dates(data.get('publication_dates'), today), 'ineligible_or_tentative_publication_dates')
+        check(publication_dates(data.get('publication_dates'), today, sources), 'ineligible_or_tentative_publication_dates')
         check(data.get('peer_reviewed') is True, 'peer_review_not_verified')
         check(references(data.get('publication_source_ids'), sources), 'publication_sources_missing')
         check(supported_statement(data.get('history_search'), sources), 'publication_history_search_missing')
@@ -111,7 +128,7 @@ def _validate(route, evidence, sources, today):
                   isinstance(legacy.get('original_dates'), list) and bool(legacy['original_dates']) and
                   all(exact_date(d, today) and d < data.get('analysis_date', '') for d in legacy['original_dates']), 'legacy_provenance_or_original_dates_missing')
             check(exact_date(data.get('analysis_date'), today, 2026), 'analysis_date_not_2026')
-            if publication_dates(data.get('publication_dates'), today) and exact_date(data.get('analysis_date'), today):
+            if publication_dates(data.get('publication_dates'), today, sources) and exact_date(data.get('analysis_date'), today):
                 check(data['analysis_date'] <= data['publication_dates']['first_publication'], 'analysis_after_publication')
             for field in ('important_question', 'interpretive_gain'):
                 check(supported_statement(data.get(field), sources), 'unsupported_' + field)

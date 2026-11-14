@@ -114,8 +114,10 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: python monitoring/state_store.py persist
   editorial-queue:
+    # Intentionally disabled with persistence. Manual review produces artifacts only.
+    # A future reviewed change must fix/test dependency semantics before enabling Issue writes.
+    if: false
     needs: [collect, persist]
-    if: needs.collect.outputs.mode == 'review' || needs.collect.outputs.outage == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: read

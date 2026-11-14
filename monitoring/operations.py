@@ -106,7 +106,7 @@ def transport(address, attempts=3, sleep=time.sleep, opener=API_OPEN):
 
 
 def empty_state():
-    return {'schema': STATE_SCHEMA, 'taxonomy_sha256': schema.taxonomy_hash(json.loads((m.ROOT/'config.json').read_text())),
+    return {'schema': STATE_SCHEMA, 'observation_projection': schema.OBSERVATION_PROJECTION, 'taxonomy_sha256': schema.taxonomy_hash(json.loads((m.ROOT/'config.json').read_text())),
             'sources': {}, 'observations': {}, 'runs': {}}
 
 
@@ -190,15 +190,15 @@ def safe_tags(record, config):
 
 def scholarly_projection(record):
     """Versioned scholarly fields only. Provider indexing/citation/score counters,
-    deposit timestamps and fetch/source bookkeeping are not scholarly revisions.
+    deposit timestamps, affiliation-only edits and fetch/source bookkeeping are not scholarly revisions.
     Retraction/correction relations, authors, claims and dates ARE revisions.
     """
     provider = record.get('provider_record') or {}
     return {
-        'projection_version': 2,
+        'projection_version': schema.OBSERVATION_PROJECTION,
         'doi': m.doi(record.get('doi')), 'url': m.url(record.get('url')),
         'title': ' '.join((record.get('title') or '').split()),
-        'authors': [{k: author[k] for k in ('given', 'family', 'name', 'ORCID', 'sequence', 'affiliation') if k in author}
+        'authors': [{k: author[k] for k in ('given', 'family', 'name', 'ORCID', 'sequence') if k in author}
                     for author in record.get('authors', [])],
         'container': record.get('container', []), 'claims': record.get('claims', {}),
         'publication_dates': {k: v for k, v in record.get('source_dates', {}).items()
@@ -253,17 +253,30 @@ def counts(rows):
             for dim in ('geographic', 'chronological', 'discovery_type', 'evidence_type')}
 
 
-def archive_category(project):
+def archive_classification(project):
+    """Preserve established Reanalysis; a proposal cannot authorize its reversal."""
     classification = project.get('research_type')
+    proposed = classification if classification in schema.CATEGORIES else None
+    existing_reanalysis = project.get('reanalysis') is True
+    if existing_reanalysis and proposed not in (None, 'Reanalysis'):
+        return {'category': 'Reanalysis', 'classification_conflict': True,
+                'proposed_category': proposed, 'review_required': True}
     provenance = project.get('research_type_provenance')
-    if (classification in schema.CATEGORIES and isinstance(provenance, dict) and
+    if (proposed is not None and isinstance(provenance, dict) and
         set(provenance) == {'editor', 'approval_reference', 'source_references'} and
         isinstance(provenance['editor'], str) and provenance['editor'].strip() and
         https_provenance_url(provenance['approval_reference']) and
         isinstance(provenance['source_references'], list) and provenance['source_references'] and
         all(https_provenance_url(u) for u in provenance['source_references'])):
-        return classification
-    return 'Reanalysis' if project.get('reanalysis') is True else 'Unresolved'
+        return {'category': proposed, 'classification_conflict': False,
+                'proposed_category': proposed, 'review_required': False}
+    return {'category': 'Reanalysis' if existing_reanalysis else 'Unresolved',
+            'classification_conflict': False, 'proposed_category': proposed,
+            'review_required': proposed is not None}
+
+
+def archive_category(project):
+    return archive_classification(project)['category']
 
 
 def archive_audit(config):
@@ -283,12 +296,16 @@ def archive_audit(config):
         text = page.read_text()
         record = {'title': cells[1], 'claims': {'en': text},
                   'geographic_context': cells[2], 'chronological_context': cells[3]}
+        classification = archive_classification(project)
         rows.append({'id': identity, 'region_column': cells[2], 'period_column': cells[3],
                      'source_sha256': m.digest(text), 'tags': {
                          **safe_tags(record, config),
                          'geographic': safe_tags({'title': cells[2]}, config)['geographic'],
                          'chronological': safe_tags({'title': cells[3]}, config)['chronological']},
-                     'field_reanalysis': archive_category(project)})
+                     'field_reanalysis': classification['category'],
+                     'classification_conflict': classification['classification_conflict'],
+                     'proposed_field_reanalysis': classification['proposed_category'],
+                     'classification_review_required': classification['review_required']})
     if not rows or len({r['id'] for r in rows}) != len(rows):
         raise ValueError('Missing/duplicate formal membership')
     return {'formal_entries': len(rows), 'ranking_positions': len(inventory),
@@ -297,6 +314,7 @@ def archive_audit(config):
             'region_columns': dict(Counter(r['region_column'] for r in rows)),
             'period_columns': dict(Counter(r['period_column'] for r in rows)),
             'coverage': counts(rows), 'field_reanalysis': {category: sum(r['field_reanalysis'] == category for r in rows) for category in schema.CATEGORIES},
+            'classification_conflicts': [r['id'] for r in rows if r['classification_conflict']],
             'rows': rows, 'interpretation': 'Heuristic multi-label screening; unknowns explicit. No quotas, grades or ranking decisions.'}
 
 

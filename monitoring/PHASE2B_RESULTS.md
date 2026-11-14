@@ -1,7 +1,8 @@
 # Phase 2B round-one results (historical)
 
-Current second-round results and reviewer response are in
-[review-round2/RESPONSE.md](review-round2/RESPONSE.md). The 38-test figures below
+Current focused third-round assessment and results are in
+[review-round3/RESPONSE.md](review-round3/RESPONSE.md); prior second-round results
+remain in [review-round2/RESPONSE.md](review-round2/RESPONSE.md). The 38-test figures below
 describe original head `2def086`, not the revised implementation.
 
 Date: 2026-11-14. Verified base:

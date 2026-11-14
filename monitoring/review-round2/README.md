@@ -1,5 +1,9 @@
 # Second-round independent review package — Draft PR #4
 
+Historical package for reviewed head `d07dc52`. Current focused assessment and
+revisions are in [review-round3](../review-round3/README.md); the schema and test
+counts below describe that historical snapshot.
+
 Review target: **default-OFF, non-publishing infrastructure only**. Nothing in this
 package requests merge, production approval, new credentials, repository settings
 changes, schedule activation or formal publication. 本轮仅提交默认关闭的基础设施复审；

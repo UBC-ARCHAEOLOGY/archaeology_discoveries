@@ -42,7 +42,13 @@ route-specific date structure. `eligibility_evidence` must contain exactly the s
   dates; the earliest reconciled publication must be 2026. Prior publications
   retain date/stage/description/source IDs, with explicit history search and
   supported substantive-increment assessment. Empty prior history is permitted
-  only with a supported search, never inferred from missing input.
+  only with a supported search, never inferred from missing input. At least one
+  dated online/print record is required. Each known date, including earliest
+  publication, needs `verification` status `verified`, source IDs resolving to
+  dossier receipts, and a rationale. A null online/print date is accepted only as
+  supported `not_applicable` (such as an online-only journal); `unknown` fails.
+  Two null editions plus an asserted first date always fail. These are
+  editor-verifiable evidence assertions, not a live lookup by this pure gate.
 - `Reanalysis`: the publication/history fields above, legacy collection/dataset
   identification and dated original provenance, exact 2026 analysis date before
   publication, supported important-question and interpretive-gain statements, and

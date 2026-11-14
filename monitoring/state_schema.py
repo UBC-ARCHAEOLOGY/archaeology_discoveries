@@ -6,7 +6,8 @@ from zoneinfo import ZoneInfo
 from datetime import datetime
 import re
 
-SCHEMA = 2
+SCHEMA = 3
+OBSERVATION_PROJECTION = 3
 CATEGORIES = ('Field discovery', 'Reanalysis', 'Mixed', 'Unresolved')
 MODES = ('monitor', 'review', 'audit')
 DIAGNOSTICS = {None, 'http_403_access_or_terms', 'metadata_not_found', 'rate_limited',
@@ -48,8 +49,9 @@ def allowed_list(value, allowed, limit):
 def validate(state, registry, config, today=None):
     today = today or datetime.now(ZoneInfo('America/Vancouver')).date()
     start = date.fromisoformat(config['start_date'])
-    allowed = {'taxonomy_sha256', 'schema', 'sources', 'observations', 'runs', '_parent', 'last_monitor_access', 'last_monitor_date'}
-    require(isinstance(state, dict) and set(state) <= allowed and {'taxonomy_sha256', 'schema', 'sources', 'observations', 'runs'} <= set(state))
+    allowed = {'observation_projection', 'taxonomy_sha256', 'schema', 'sources', 'observations', 'runs', '_parent', 'last_monitor_access', 'last_monitor_date'}
+    require(isinstance(state, dict) and set(state) <= allowed and {'observation_projection', 'taxonomy_sha256', 'schema', 'sources', 'observations', 'runs'} <= set(state))
+    require(type(state['observation_projection']) is int and state['observation_projection'] == OBSERVATION_PROJECTION)
     require(state['taxonomy_sha256'] == taxonomy_hash(config))
     require(type(state['schema']) is int and state['schema'] == SCHEMA)
     require(all(isinstance(state[k], dict) for k in ('sources', 'observations', 'runs')))

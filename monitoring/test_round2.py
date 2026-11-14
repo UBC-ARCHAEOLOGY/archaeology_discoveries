@@ -31,7 +31,9 @@ def route_data(route):
         return {'announcement_date': '2026-01-02', 'fieldwork_dates': ['2024-05-01'],
                 'first_announcement_confirmed': True, 'announcement_source_ids': ['primary-1'],
                 'field_context_source_ids': ['primary-1'], 'earlier_announcement_search': statement()}
-    common = {'publication_dates': {'online':'2026-02-01', 'print':'2026-03-01', 'first_publication':'2026-02-01'},
+    common = {'publication_dates': {'online':'2026-02-01', 'print':'2026-03-01', 'first_publication':'2026-02-01',
+                  'verification':{field:{'status':'verified','source_ids':['primary-1'],
+                      'rationale':'Synthetic publisher date evidence'} for field in ('online','print','first_publication')}},
               'publication_source_ids': ['primary-1'], 'peer_reviewed': True,
               'earlier_publications': [{'date':'2022-01-01','stage':'preliminary','description':'Synthetic prior report','source_ids':['primary-1']}],
               'history_search': statement()}
@@ -268,7 +270,7 @@ class DocumentationAndPackageTests(unittest.TestCase):
             with patch.object(pack,'git',side_effect=git):
                 pack.package(target)
             with zipfile.ZipFile(target) as archive:
-                self.assertEqual(set(archive.namelist()),{'source/monitoring/example.py','manifest.json','round2.diff','complete-pr.diff'})
+                self.assertEqual(set(archive.namelist()),{'source/monitoring/example.py','manifest.json','round2.diff','round3.diff','complete-pr.diff'})
                 manifest=json.loads(archive.read('manifest.json'))
                 self.assertEqual(manifest['head'],'a'*40)
                 self.assertEqual(set(manifest['source_sha256']),{'monitoring/example.py'})

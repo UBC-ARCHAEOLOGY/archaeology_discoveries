@@ -1,0 +1,239 @@
+{
+  "kind": "local author-run checks, not independent certification",
+  "recorded_at_utc": "2026-11-14T20:23:11.429438+00:00",
+  "reviewed_head": "d07dc52262ebb9d6604cc11127686924bf289369",
+  "main_base": "3d518218d4825a325cef60269c6d3cea4bc2cf93",
+  "original_attachment_sha256": "81fff853a1fde33246889eef64794ac729cf76f6104351d353b8c45b12ef4bc5",
+  "assessment_controls": {
+    "synthetic_data_only": true,
+    "reanalysis_conflict": {
+      "reviewed_result": "Field discovery",
+      "revised_result": {
+        "category": "Reanalysis",
+        "classification_conflict": true,
+        "proposed_category": "Field discovery",
+        "review_required": true
+      }
+    },
+    "both_publication_editions_unknown": {
+      "reviewed_accepts": true,
+      "revised_rejects_legacy_shape": true,
+      "revised_rejects_typed_both_null": true
+    },
+    "affiliation_only": {
+      "reviewed_creates_new_revision": true,
+      "revised_creates_new_revision": false
+    }
+  },
+  "checks": [
+    {
+      "check": "monitoring regression",
+      "argv": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "monitoring",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "tests": 65
+    },
+    {
+      "check": "editorial mutation tests",
+      "argv": [
+        "python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "scripts",
+        "-p",
+        "test_editorial_qa.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "tests": 26
+    },
+    {
+      "check": "bilingual checker",
+      "argv": [
+        "python",
+        "scripts/check_bilingual.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "check": "source QA",
+      "argv": [
+        "python",
+        "scripts/editorial_qa.py",
+        "--json",
+        "/tmp/round3-source.json"
+      ],
+      "exit_code": 0
+    },
+    {
+      "check": "rendered QA",
+      "argv": [
+        "python",
+        "scripts/editorial_qa.py",
+        "--root",
+        "work/round3/render-source",
+        "--rendered",
+        "docs",
+        "--json",
+        "/tmp/round3-rendered.json"
+      ],
+      "exit_code": 0
+    },
+    {
+      "check": "compile Python",
+      "argv": [
+        "python",
+        "-m",
+        "compileall",
+        "-q",
+        "monitoring"
+      ],
+      "exit_code": 0
+    },
+    {
+      "check": "workflow YAML syntax",
+      "argv": [
+        "python",
+        "-c",
+        "import pathlib,yaml; [yaml.safe_load(p.read_text()) for p in pathlib.Path('.github/workflows').glob('*.yml')]; print('5 workflow YAML documents parsed')"
+      ],
+      "exit_code": 0
+    },
+    {
+      "check": "focused diff whitespace",
+      "argv": [
+        "git",
+        "diff",
+        "--check",
+        "d07dc52262ebb9d6604cc11127686924bf289369"
+      ],
+      "exit_code": 0
+    }
+  ],
+  "quarto": {
+    "version": "1.11.9",
+    "method": "clean tracked-source snapshot in work/round3/render-source, normal docs layout",
+    "exit_code": 0,
+    "pages": 49
+  },
+  "qa": {
+    "source": {
+      "errors": 0,
+      "warnings": 42,
+      "review_categories": {
+        "spelled-number-or-scope": 19,
+        "unequal-detail-or-context": 18,
+        "unit-or-range-context": 4
+      }
+    },
+    "rendered": {
+      "errors": 0,
+      "warnings": 42,
+      "review_categories": {
+        "spelled-number-or-scope": 19,
+        "unequal-detail-or-context": 18,
+        "unit-or-range-context": 4
+      }
+    }
+  },
+  "archive": {
+    "formal_entries": 33,
+    "ranking_positions": 44,
+    "categories": {
+      "Field discovery": 0,
+      "Reanalysis": 1,
+      "Mixed": 0,
+      "Unresolved": 32
+    },
+    "classification_conflicts": []
+  },
+  "academic_navigation_bytes_equal_reviewed_head_and_main": {
+    ".gitignore": "a2171fa2f7dbe7fa5351f1b203ea1430137ae3f8207d309b7553edc72b082fe3",
+    "_quarto.yml": "a20b774796144ee4eb015e72752cb3c6ccabaec8fc421eb79f155e4c1bb00bee",
+    "cctv.qmd": "c18f275fb163bf20212e2ca6b4ad2938d874905a36c2261db7f321e4acde3f83",
+    "discoveries/01-wonderwerk-fire.qmd": "8fac72ffd1dae0736a739d7f6ca1ec0efcc6992de44b23aed3e3aaf1670ca932",
+    "discoveries/02-yunxian-homo-erectus.qmd": "db65d628dee63a8bf0506d3bcb7916c81ace887f32a9014ca22507e46f69daa4",
+    "discoveries/03-megalopolis-wood-tools.qmd": "4b455cf524dcc9eac69b86a42f8a4d16f07b962028343c84f77b31278b5b1f62",
+    "discoveries/04-denisovans-yunnan.qmd": "a6e03f306b033f23312be63a322d97743d8126edcd132e77e971a6e72853baed",
+    "discoveries/05-oldest-dog-genomes.qmd": "4461ea530824458ed5e4ba7607522ccd3b1ed143ae669d2144cf1a0fff0368f5",
+    "discoveries/06-romito-genetic-disease.qmd": "096133e540bcbbb49c1ab9af72ccbf0535582000b2a5075ce86b48fd886d97c1",
+    "discoveries/07-baikal-plague.qmd": "a867c34d6f24ba5934be38e2343f2e44c8fa38d4d1d16e63a673ef16b310d719",
+    "discoveries/08-egypt-early-dynastic-tombs.qmd": "75609968220f3eb3f5b07d24b33780611963deebcfdfa365149e5b117216e57a",
+    "discoveries/09-troy-agora.qmd": "b38f22819c1be8f9f6ea10c48c84d9f5130cc41f376e0fae1d57e625c79de095",
+    "discoveries/10-alexandria-tigris.qmd": "e928734e0b4e54a87957f68df3d0ebc8a8e1b876e848105ab4cc34cb91078eb3",
+    "discoveries/11-arsinoe-china-greece.qmd": "5b5bb879725eb726a15817cd6943def3ee2e59094ff80ab22cbc23b7b31f6af3",
+    "discoveries/12-uspallata-ancient-dna.qmd": "c08396cc869b22b61181570ae810949876f50886a226f3aadd69d396f4a82b99",
+    "discoveries/13-urartian-irrigation.qmd": "aa6a34f8b4c1df4447bff5e87fa684315685eea8766d6b8a4e0c1e89cfae33ed",
+    "discoveries/14-dide-west-iron-smelting.qmd": "bb7a0253b1372ff0146c0c77740f6155f27eddeb420e84b16fa93d4e822a3687",
+    "discoveries/15-kush-faience.qmd": "7b86a171cc415ce650e4005dd6736fc3a6cb4818f51bd15fec9b56127871ca9b",
+    "discoveries/16-iliad-mummy.qmd": "4323735cfc607347a27392ec2ba319d450c2da2cbe522e3347b7f91efdb79383",
+    "discoveries/17-amazon-earthworks.qmd": "9c5811c47b03864bc71c8cb573e39eea5e9f01e0a8052af9d38d9a2cc305a3aa",
+    "discoveries/18-chan-chan-tomb.qmd": "51e85ecf766dd21ce4f9fd9aa01dab5bc7dbcb831d91c46b0c0691f02d14835c",
+    "discoveries/19-celtic-ancient-dna.qmd": "474a0ff20da9ecd13e92ee79ee161686cf289c00513d3f7523ee8697a67b3a94",
+    "discoveries/20-sulawesi-rock-art.qmd": "1fc7454af8a62a925fa27ee3ead1f6a34d8d0bc6d9bac2cf8002afdb575cd6b0",
+    "discoveries/21-maya-mathematician.qmd": "f9f64d4368fcbedb358182a6c8dce3352894f99b1182bf972b37bd1e285d3c18",
+    "discoveries/22-hittite-royal-archive.qmd": "daea4f2852f1bccdf2bb87bbf1377a606b06c5f0b6258c9d6c15f24af0bf3cc6",
+    "discoveries/23-camarones-smallpox.qmd": "ba9662f813936e055c6f977745744a565d9891b65a081be4b64c6e85431a4405",
+    "discoveries/24-sheg-xdaltthi.qmd": "b4c9e98c4a23be219b1b9d78b532efcf95334a8f1a65f3475d118d757749cba7",
+    "discoveries/25-huitzo-tomb-10.qmd": "40caaae641bf0b718411638b9e5d34470a452f18284578443a4aa59a289211d5",
+    "discoveries/26-plain-of-jars-death-jar.qmd": "81c89630755dbaff1b683a6c1d46ca9480f256965588e162b6f314f8c697e5bc",
+    "discoveries/27-maya-mercury.qmd": "b23384f4de6407c75754e4a2bb85a77a8977c080e58c5b9e39c2361bd4d994be",
+    "discoveries/28-font-major-rock-art.qmd": "59590ba76b4c7ef02ce54ddaa464885c03e57a7cd2b75d223a7c67da2637bf00",
+    "discoveries/29-etowah-cacao.qmd": "4b5cceabd46814f219f2087d635fbdc50ee6458d1d0028676e9d1f162fe15caa",
+    "discoveries/30-roman-iberia-adna.qmd": "7a6f6d8dd95efbad9bc423c2ef0e5a9a4f96e2b2bc4ebf20534b45ce07f52bed",
+    "discoveries/31-tampa-bay-migrant-potters.qmd": "1516b1fefd37f2f0390bb6691b7fe2ce32c951e8d62ab6789cfd4d13221594ea",
+    "discoveries/32-karatau-palaeolithic.qmd": "bf6110a04bfaa89f74c3ed48de374c29b8adceeb49417584a3b178277f3e7749",
+    "discoveries/33-widgingarri-shelter.qmd": "9c2c3795733f5fe6049a61393ae284c67bc4d05a7f4f9ab3342cc19276202e91",
+    "discoveries/34-bongal-boats.qmd": "b9e180fb7e5f0f88f10c856a95e87d0ae55eda891438acbe6d03f6fdc07ae091",
+    "discoveries.qmd": "409a91c5abad6ab8d0dec13e80cdb49d7029a79cfd6a8cb54818e667480e2fe4",
+    "editorial/inventory.json": "011450aefa3b3b3aff2f5f3c0afee42177b1e8c535e5d8386b8a047bffb3aae1",
+    "index.qmd": "ae43ddc80541c20b5cad06c5291184d0a4692898c87605c07fb164df52df4579",
+    "map.html": "3bbbe81ddf3919d7de8985f8746253aa595f8bec447c9c31906cff8fad0c59f1",
+    "methods.qmd": "281f7a39a5959364914265d7c26b8efc1df20a88b6c9e1409143a58f5dd0ab9d",
+    "ranking.qmd": "b297f82b64feaf8e8e620eac58ddb19e6b2d27c3a7d8bd87876d6cc5b98f69e7",
+    "sources.qmd": "9d829380a4410b5bfd8ff28424f255e8995339d7de47f66317d2daff2fd487a6",
+    "styles.css": "97ecc73c2e4b776ef5dc15f5f53c2104aed533b24fab546dfad08651beda47e7",
+    "under-review.qmd": "36cf16d701cf35e9dd515ea70b1579453a7c9d79c53b3f3e7dca2d0ad69ef093"
+  },
+  "implementation_sha256": {
+    "monitoring/operations.py": "8bc14d4b0ea48011d18b4372497468587f75535d4566e7a8cb04fa2bf3c90954",
+    "monitoring/eligibility.py": "833cad61bba4e0ba7156076135533e0a075e22a8ea85633586b4ec0400a010fa",
+    "monitoring/state_schema.py": "255b4d048a7662087e6838c3078c3f06808ac14b06d8ed3ed727a5612c21b44b",
+    "monitoring/test_round3.py": "bd20391fd3ecb39bbd82edc8514f2890471ef378084dbc5bb0892ab0d200c01e",
+    "monitoring/test_round2.py": "595a2f5387e510d3a9d443b8e7dde41c04066a62d12ec4a085a7fd69d69b2d68",
+    "monitoring/test_operations.py": "cf4eb03f198ee87444d8b781a9339763c5d760aaee58ed1531894733d4b40169",
+    "monitoring/package_review.py": "bd4ed5e5e8ad97c8d285bd293ef3e7432a3f679b9d3d144bef42713328e945f4",
+    "monitoring/publication-policy.json": "a46558b18c837e815853e8433f5f58d8fcb132d4a58b6816331012f29d507f47",
+    "monitoring/contact.json": "8ff3c65c2e2978e11dbd7d81e63e533ead2fef056c4164145241e4c1f32cd020",
+    ".github/workflows/monitoring-phase2b.yml": "e95eeae86be65b736243717f6bddd1d0391d7237a9194cc05eec267032c370da",
+    ".github/workflows/monitoring-tests.yml": "a9097d2e48a2d1643560fc6e3546b41153d949f46afa7fa0279cb8fc12375fd7"
+  },
+  "not_run": [
+    "operational workflow_dispatch",
+    "hosted persistence",
+    "Issue queue",
+    "production activation",
+    "formal publication"
+  ],
+  "external_blockers_unresolved": [
+    "protection/ruleset/writer scope",
+    "repository variable value",
+    "institutional contact",
+    "hosted operational smoke/alert",
+    "regional/local-language permissions",
+    "real verified new records",
+    "human category review",
+    "ranking/publication integration"
+  ]
+}

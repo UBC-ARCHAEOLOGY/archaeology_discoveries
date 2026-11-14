@@ -5,7 +5,7 @@ Base verified against fetched `origin/main` and live remote main:
 Branch: `monitoring/phase2b-scheduled-review`. Issue #3 body and all comments
 (no comments at implementation time) were read through the GitHub connector.
 
-## Cadence and activation
+## Planned cadence and activation (all schedules disabled)
 
 `.github/workflows/monitoring-phase2b.yml` declares timezone-aware schedules:
 
@@ -13,7 +13,7 @@ Branch: `monitoring/phase2b-scheduled-review`. Issue #3 body and all comments
 |---|---|
 | Monday 08:00 | Full backfill (finish a pending interval first) |
 | Thursday 08:00 | Incremental monitoring with seven-day overlap |
-| Friday 09:00 | Human editorial review queue refresh |
+| Friday 09:00 | Human review summary/artifact; Issue queue disabled |
 | Sunday 09:00 | Formal archive and candidate balance audit |
 
 GitHub's `schedule.timezone` handles PST/PDT; UTC times are not hard-coded.
@@ -50,7 +50,7 @@ Do not turn it on as part of enabling monitoring.
 
 A dedicated `monitoring/state-phase2b` branch stores **one `state.json`** containing
 source windows/cursors/watermarks, hashed observations, controlled tags, run digests
-and report digests. Schema 2 removes the redundant restored `latest_report`;
+and report digests. Schema 3 does not retain a restored `latest_report`;
 reports are regenerated from validated state and the actual archive. It contains no raw titles, abstracts, personal names,
 new source URLs, DOI strings, or coordinates. It is public if the repository is
 public. Hashes permit correlation, not reconstruction of primary evidence; do not
@@ -82,20 +82,22 @@ main push or source rewriting in these workflows. The existing deployment is
 untouched; monitoring never shares its rendered output or edits its inputs.
 
 Scholarly observations use a versioned explicit projection: normalized DOI/URL,
-title, authors, publication dates, claims/abstract, earlier history, work type and
+title, author identity (not affiliation metadata), publication dates, claims/abstract, earlier history, work type and
 correction/retraction relations. Raw provider payloads, indexed/deposited timestamps,
-reference metadata, scores and citation counts do not enter identity. A scholarly
+reference metadata, author-affiliation formatting, scores and citation counts do not enter identity. A scholarly
 change retains a new revision; a source/retrieval change merges source IDs and
 updates last-seen without adding an editorial observation. Hashed DOI/URL/title
 edges still group revisions; title edges are proposals, not identity proof.
 
-Schema 2 and a taxonomy SHA256 bind the state format and local tag dictionary.
+Schema 3, observation projection version 3 and a taxonomy SHA256 bind the state format and local tag dictionary.
 `state_schema.py` validates the entire restored object before replacement or use:
 exact field sets, enabled source allowlist, tag dimensions/labels, source ID lists,
 hash types, dates, category, windows/cursors, run keys/digests, diagnostics and parent
 commit. Duplicate JSON keys, oversized state, unexpected fields and old schemas
 fail closed. The collector category must be `Unresolved`; academic categories can
-only come from reviewed archive provenance. Schema 1 is **not silently migrated**.
+only come from reviewed archive provenance. Schemas 1 and 2 are **not silently migrated**; projection 3 excludes affiliation-only edits.
+The schema binds the projection version so incompatible old observation hashes cannot
+be mixed with new identity hashes.
 The reviewer observed no production state branch. If any legacy state exists later,
 preserve it, stop writes, review an explicit migration/backfill; old hashes alone
 cannot recover the scholarly projection from discarded raw payloads. Taxonomy
@@ -115,13 +117,27 @@ bibliography); methodological/type labels screen page text and may overmatch.
 The four output categories are `Field discovery / Reanalysis / Mixed / Unresolved`.
 Existing Reanalysis flags remain respected. A future explicit category requires a
 named editor, approval reference and source references in reviewed archive metadata;
-no such metadata is added by this PR. The current audit remains **0 Field discovery,
+no such metadata is added by this PR. A conflicting proposal cannot reverse an
+existing `reanalysis:true`, even with syntactically valid provenance. The audit keeps
+Reanalysis, emits `classification_conflict`, the proposed category and human-review
+requirement, and lists conflicting stable IDs. Resolving the established academic
+flag requires a separate explicit human decision; an approval-shaped URL alone
+cannot authorize a reversal. The current audit remains **0 Field discovery,
 1 Reanalysis, 0 Mixed, 32 Unresolved**. Non-Reanalysis never implies field discovery. Molecular methods are
 counted without prestige weighting. Candidate coverage uses identity groups;
 formal and candidate counts are shown separately. No quota or automatic selection.
 
-The Friday bilingual summary and safe report artifact form the provisional review
-queue. An operational bot-owned issue links to each run; source outages/incomplete
+The Friday bilingual summary and safe report artifact are the available provisional
+review output for manual smoke. **Normal Issue queue is disabled**: its
+`needs: [collect, persist]` dependency would skip it whenever persist is skipped.
+The job now also has literal `if: false`, making that intended restriction explicit.
+A manual `mode=review` can produce JSON/Markdown artifacts; it cannot publish or
+refresh an editorial Issue. Before enabling any normal Issue queue, a separately
+reviewed workflow change must either require successful protected persistence and
+restore both jobs together, or decouple an artifact-only queue with explicit
+success/failure/skipped semantics. Test those dependencies on hosted runners.
+The independent failure alert does not depend on normal-queue execution and remains
+separate; skipped is not failure. The proposed bot-owned Issue would link each run; source outages/incomplete
 pagination get a separate issue on monitoring/audit runs once operational writes
 are separately approved. An independent `always()` alert job checks collection,
 persistence and queue failures/cancellations without downloading reports/state or
