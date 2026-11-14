@@ -7,7 +7,7 @@ Monitoring may write separate proposals, never the canonical registry or site.
 from __future__ import annotations
 import argparse
 from collections import Counter
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 import hashlib
 from html import escape
 from html.parser import HTMLParser
@@ -22,6 +22,8 @@ CATEGORIES = {
     'discovery_added': ('新收录条目', 'Archive entry added'),
     'publication_added': ('新添文献', 'Reference added'),
     'research_update': ('研究更新', 'Research update'),
+    'ranking_changed': ('暂定排名调整', 'Provisional ranking change'),
+    'site_updated': ('其他网站更新', 'Other website update'),
 }
 BASELINE_CATEGORIES = {
     'discovery_added': ('既有发现条目', 'Existing archive entry'),
@@ -251,21 +253,35 @@ def card(record, compact=False):
     return '\n'.join(h)
 
 
-def render(registry, view):
+def recent(registry, as_of=None):
+    """Seven Vancouver calendar dates, inclusive; never use recording/source dates."""
+    end = as_of or today()
+    start = end - timedelta(days=6)
+    return [r for r in ordered(registry)[0]
+            if start <= date.fromisoformat(r['website_updated_on']) <= end]
+
+
+def render(registry, view, as_of=None):
     reviewed, baseline = ordered(registry)
-    compact = view == 'latest'
-    if compact:
-        reviewed = reviewed[:registry['homepage_limit']]
-        baseline = baseline[:max(0, registry['homepage_limit']-len(reviewed))]
     h = ['<div class="updates-panel">']
-    if reviewed:
-        h += ['<p class="updates-group-title">最近网站更新 / Latest website updates</p>',
-              '<div class="latest-updates-grid">', *[card(r, compact) for r in reviewed], '</div>']
-    if baseline:
-        h += ['<p class="updates-baseline-label">历史记录整理 / Retrospective archive baseline</p>',
-              '<div class="latest-updates-grid">', *[card(r, compact) for r in baseline], '</div>']
-    if not reviewed and not baseline:
-        h.append('<p>尚无经审阅记录 / No reviewed records yet.</p>')
+    if view == 'latest':
+        end = as_of or today()
+        start = end - timedelta(days=6)
+        h.append(f'<p class="updates-window">统计区间 / Window: {start.isoformat()} – {end.isoformat()} · America/Vancouver</p>')
+        rows = recent(registry, end)
+        for category, (zh, en) in CATEGORIES.items():
+            group = [r for r in rows if r['category'] == category]
+            h.append(f'<h3 class="updates-group-title">{zh} / {en}</h3>')
+            h += ['<div class="latest-updates-grid">', *[card(r, True) for r in group], '</div>']
+            hidden = ' hidden' if group else ''
+            h.append(f'<p class="updates-empty"{hidden}>本周暂无已核实登记 / No verified records logged this week.</p>')
+    else:
+        if reviewed:
+            h += ['<p class="updates-group-title">网站更新 / Website updates</p>',
+                  '<div class="latest-updates-grid">', *[card(r) for r in reviewed], '</div>']
+        if baseline:
+            h += ['<p class="updates-baseline-label">历史记录整理 / Retrospective archive baseline</p>',
+                  '<div class="latest-updates-grid">', *[card(r) for r in baseline], '</div>']
     h.append('</div>')
     return '\n'.join(h)
 
@@ -304,7 +320,7 @@ class Links(HTMLParser):
 def check_rendered(root, directory, registry):
     reviewed, baseline = ordered(registry)
     expected = {r['id'] for r in reviewed+baseline}
-    for filename, ids in [('index.html', {r['id'] for r in (reviewed[:registry['homepage_limit']]+baseline[:max(0,registry['homepage_limit']-len(reviewed))])}),
+    for filename, ids in [('index.html', {r['id'] for r in recent(registry)}),
                           ('update-history.html', expected)]:
         path = directory/filename
         text = path.read_text()
@@ -317,7 +333,7 @@ def check_rendered(root, directory, registry):
                 target = (path.parent/parsed.path).resolve()
                 require(target.is_relative_to(directory.resolve()) and target.exists(), 'Broken rendered link: '+href)
     home = (directory/'index.html').read_text()
-    require(home.index('最新发现与报道') < home.index('世界地图'), 'Updates must precede world map')
+    require('past-week-updates' in home and 'Current coverage' not in home, 'Weekly updates must replace Current coverage')
 
 
 def main():

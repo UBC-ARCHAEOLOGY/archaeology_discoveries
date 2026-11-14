@@ -20,6 +20,7 @@ class EditorialQA(unittest.TestCase):
         for path in SOURCE.glob('*.qmd'):
             shutil.copy(path, self.root / path.name)
         shutil.copy(SOURCE / 'map.html', self.root / 'map.html')
+        shutil.copy(SOURCE / 'updates-window.js', self.root / 'updates-window.js')
 
     def mutate(self, name, old, new):
         p = self.root / name

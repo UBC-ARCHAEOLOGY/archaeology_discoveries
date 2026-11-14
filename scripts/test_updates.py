@@ -14,6 +14,7 @@ class UpdatesTests(unittest.TestCase):
     def setUp(self):
         (u.ROOT/'work').mkdir(exist_ok=True)
         self.data=json.loads((u.ROOT/'updates.json').read_text())
+        self.data['records']=[r for r in self.data['records'] if r['state']=='baseline']
 
     def validate(self,data):
         return u.validate(data,as_of=AS_OF)
@@ -21,13 +22,13 @@ class UpdatesTests(unittest.TestCase):
     def test_baseline_is_evidenced_bilingual_and_does_not_invent_website_dates(self):
         self.validate(self.data)
         self.assertEqual(len(self.data['records']),6)
-        self.assertEqual({r['category'] for r in self.data['records']},set(u.CATEGORIES))
+        self.assertEqual({r['category'] for r in self.data['records']},set(u.BASELINE_CATEGORIES))
         self.assertTrue(all(r['state']=='baseline' and r['website_updated_on'] is None for r in self.data['records']))
         for r in self.data['records']:
             for field in ('discovery_date','announcement_date','publication_date'):
                 self.assertNotEqual(r[field]['value'],'2026-01-01')
-        self.assertIn('Retrospective archive baseline',u.render(self.data,'latest'))
-        self.assertEqual(u.render(self.data,'latest').count('<article '),6)
+        self.assertIn('Retrospective archive baseline',u.render(self.data,'history'))
+        self.assertEqual(u.render(self.data,'latest',AS_OF).count('<article '),0)
 
     def test_duplicate_id_title_and_substantive_identity_fail(self):
         for variant in ('id','title','identity'):
@@ -83,9 +84,9 @@ class UpdatesTests(unittest.TestCase):
         self.validate(data)
         reviewed,baseline=u.ordered(data)
         self.assertEqual([r['id'] for r in reviewed],[new['id'],old['id']])
-        html=u.render(data,'latest')
+        html=u.render(data,'latest',AS_OF)
         self.assertLess(html.index(new['id']),html.index(old['id']))
-        self.assertLess(html.index(old['id']),html.index('updates-baseline-label'))
+        self.assertNotIn('updates-baseline-label',html)
 
     def test_reviewed_record_requires_editor_and_website_date_evidence(self):
         for missing in ('review','website_date_evidence','website_updated_on'):
@@ -108,7 +109,7 @@ class UpdatesTests(unittest.TestCase):
             data=copy.deepcopy(self.data);row['id']='proposal-control';row['title']={'zh':'待审提案','en':'Pending proposal'}
             data['records'].append(row)
             self.validate(data)
-            self.assertNotIn('proposal-control',u.render(data,'latest'))
+            self.assertNotIn('proposal-control',u.render(data,'latest',AS_OF))
             self.assertNotIn('proposal-control',u.render(data,'history'))
             with self.assertRaises(ValueError):u.propose(candidate,u.ROOT/'updates.json')
         self.assertEqual((u.ROOT/'updates.json').read_bytes(),before)
@@ -125,7 +126,7 @@ class UpdatesTests(unittest.TestCase):
             self.assertIn('bilingual_review_pending',payload['review_flags'])
             data=copy.deepcopy(self.data);data['records'].append(draft)
             self.validate(data)
-            self.assertNotIn('english-only-proposal',u.render(data,'latest'))
+            self.assertNotIn('english-only-proposal',u.render(data,'latest',AS_OF))
             self.assertNotIn('english-only-proposal',u.render(data,'history'))
             draft['state']='baseline'
             with self.assertRaises(ValueError):self.validate(data)
@@ -139,7 +140,7 @@ class UpdatesTests(unittest.TestCase):
     def test_plain_text_is_escaped_not_executable_markup(self):
         data=copy.deepcopy(self.data);self.reviewed(data['records'][0],'2026-11-14');data['records'][0]['title']={'zh':'<script>攻击</script>','en':'<script>attack</script>'}
         self.validate(data)
-        html=u.render(data,'latest')
+        html=u.render(data,'latest',AS_OF)
         self.assertNotIn('<script>',html)
         self.assertIn('&lt;script&gt;',html)
         self.assertNotIn('.qmd"',html)
@@ -151,7 +152,7 @@ class UpdatesTests(unittest.TestCase):
         self.reviewed(row,'2026-11-14')
         data['records'].append(row)
         self.validate(data)
-        self.assertEqual(u.render(data,'latest').count('<article '),6)
+        self.assertEqual(u.render(data,'latest',AS_OF).count('<article '),1)
         self.assertEqual(u.render(data,'history').count('<article '),7)
 
     def test_seventh_baseline_and_replacement_with_unapproved_baseline_are_rejected(self):
@@ -176,7 +177,7 @@ class UpdatesTests(unittest.TestCase):
         row.update(id='proposal-cast-to-baseline',title={'zh':'待审记录','en':'Pending record'},state='proposed')
         data=copy.deepcopy(self.data);data['records'][0]=row
         self.validate(data)
-        self.assertNotIn(row['id'],u.render(data,'latest'))
+        self.assertNotIn(row['id'],u.render(data,'latest',AS_OF))
         row['state']='baseline'
         with self.assertRaisesRegex(ValueError,'six bootstrap IDs'):self.validate(data)
         row['state']='reviewed'
@@ -194,21 +195,48 @@ class UpdatesTests(unittest.TestCase):
                     self.validate(data)
 
     def test_baseline_labels_and_date_prominence_are_state_specific(self):
-        home=u.render(self.data,'latest');history=u.render(self.data,'history')
+        home=u.render(self.data,'latest',AS_OF);history=u.render(self.data,'history')
         for label in ('Existing archive entry','Existing publication reference','Existing research note'):
-            self.assertIn(label,home)
-        self.assertNotIn('Archive entry added',home)
-        self.assertNotIn('Reference added',home)
+            self.assertIn(label,history)
+        self.assertNotIn('Archive entry added',history)
+        self.assertNotIn('Reference added',history)
         self.assertNotIn('<time',home)
         self.assertNotIn('update-dates',home)
         self.assertEqual(history.count('class="update-recorded-date"'),6)
         self.assertEqual(history.count('<dl class="update-dates">'),6)
         self.assertNotIn('class="update-date"',history)
         data=copy.deepcopy(self.data);self.reviewed(data['records'][0],'2026-11-14')
-        rendered=u.render(data,'latest')
-        self.assertIn('Latest website updates',rendered)
+        rendered=u.render(data,'latest',AS_OF)
+        self.assertIn('Window:',rendered)
         self.assertIn('Archive entry added',rendered)
         self.assertIn('<time datetime="2026-11-14">',rendered)
+
+    def test_week_window_is_inclusive_and_excludes_stale_future_baseline_proposed(self):
+        data=copy.deepcopy(self.data)
+        for i,day in enumerate(('2026-11-14','2026-11-15','2026-11-21','2026-11-22')):
+            row=copy.deepcopy(data['records'][i]);self.reviewed(row,day)
+            data['records'][i]=row
+        draft=copy.deepcopy(data['records'][0]);draft.update(id='draft',state='proposed')
+        data['records'].append(draft)
+        rows=u.recent(data,date(2026,11,21))
+        self.assertEqual([r['website_updated_on'] for r in rows],['2026-11-21','2026-11-15'])
+        self.assertNotIn('draft',u.render(data,'latest',date(2026,11,21)))
+        self.assertEqual(u.render(data,'latest',date(2026,11,21)).count('<article '),2)
+        self.assertIn('2026-11-15 – 2026-11-21',u.render(data,'latest',date(2026,11,21)))
+
+    def test_live_registry_and_ranking_other_categories_keep_review_gate(self):
+        registry=u.load()
+        self.assertEqual(len([r for r in registry['records'] if r['state']=='baseline']),6)
+        self.assertTrue(any(r['id']=='website-update-history-launch' for r in registry['records']))
+        for category in ('ranking_changed','site_updated'):
+            data=copy.deepcopy(self.data);r=self.reviewed(data['records'][0],'2026-11-14')
+            r['category']=category;self.validate(data)
+            html=u.render(data,'latest',AS_OF)
+            self.assertIn('href="discoveries/25-huitzo-tomb-10.html"',html)
+            self.assertIn(u.CATEGORIES[category][1],html)
+            r['review']=None
+            with self.assertRaises(ValueError):self.validate(data)
+
 
 
 if __name__=='__main__':unittest.main()
