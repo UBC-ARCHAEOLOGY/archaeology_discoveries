@@ -16,6 +16,17 @@ title-block-style: none
 [浏览全部发现 / Browse all discoveries](discoveries.qmd){.btn .btn-primary .me-2} [央视候选 / CCTV candidates](cctv.qmd){.btn .btn-outline-primary} [其他待评估发现 / Other discoveries under review](under-review.qmd){.btn .btn-outline-secondary .ms-2}
 :::
 
+## 最新发现与报道 | Latest Updates {#latest-updates}
+
+首批为历史回溯登记，**非今日新增**；原网页更新日期未核实。各类日期分开列示。
+
+The initial records are retrospective, **not new today**. Original website-update dates are unverified; date types are shown separately.
+
+::: {.updates-home}
+:::
+
+[查看完整更新日志 / View full Update History](update-history.qmd){.updates-history-link}
+
 ## 世界地图 | World map
 
 ::: {.callout-note title="地图说明 | Map guide"}

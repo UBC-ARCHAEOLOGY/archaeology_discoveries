@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "registry_created_on": "2026-11-14",
+  "homepage_limit": 6,
+  "records": [
+    {
+      "id": "baseline-huitzo-entry",
+      "state": "baseline",
+      "category": "discovery_added",
+      "title": {
+        "zh": "Huitzo 10号墓：存档收录",
+        "en": "Huitzo Tomb 10: archive entry"
+      },
+      "description": {
+        "zh": "既有补充建议页面记录调查和正式公布的不同时间，并保留尚待完整学术发表的限制。",
+        "en": "The existing additional-candidate page separates investigation from the official announcement and retains the limits of preliminary documentation."
+      },
+      "page": "discoveries/25-huitzo-tomb-10.qmd",
+      "source_url": "https://www.inah.gob.mx/boletines/el-gobierno-de-mexico-anuncia-el-descubrimiento-de-una-milenaria-tumba-zapoteca",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "discovery_date": {
+        "value": "2025",
+        "precision": "year",
+        "evidence": {
+          "path": "discoveries/25-huitzo-tomb-10.qmd",
+          "quote": "Investigation of Tomb 10 began in 2025"
+        }
+      },
+      "announcement_date": {
+        "value": "2026-01-23",
+        "precision": "day",
+        "evidence": {
+          "path": "discoveries/25-huitzo-tomb-10.qmd",
+          "quote": "INAH formally announced the discovery on 23 January 2026."
+        }
+      },
+      "publication_date": {
+        "value": "2026-01-23",
+        "precision": "day",
+        "evidence": {
+          "path": "discoveries/25-huitzo-tomb-10.qmd",
+          "quote": "INAH — El Gobierno de México anuncia el descubrimiento de una milenaria tumba zapoteca (January 23, 2026)"
+        }
+      },
+      "evidence": [
+        {
+          "path": "discoveries/25-huitzo-tomb-10.qmd",
+          "quote": "INAH — El Gobierno de México anuncia el descubrimiento de una milenaria tumba zapoteca (January 23, 2026)",
+          "sha256": "16bffc4d8d25e413ccb9c68696399698f34d5dce8096ea2717d9e2d277a7f43f"
+        },
+        {
+          "path": "EDITORIAL_RESPONSE_V2_3.md",
+          "quote": "2025年匿名举报后发现/调查，2026年1月23日正式公布",
+          "sha256": "0c8c396b7fc992d3497d2f2131e6c282bbfeb70517494d8ca1596d0e32992798"
+        }
+      ],
+      "review": null
+    },
+    {
+      "id": "baseline-widgingarri-entry",
+      "state": "baseline",
+      "category": "discovery_added",
+      "title": {
+        "zh": "Widgingarri Shelter 1：存档收录",
+        "en": "Widgingarri Shelter 1: archive entry"
+      },
+      "description": {
+        "zh": "现有页面介绍与Arraluli Clan合作的重新发掘，并区分具体遗址的证据与更广地区的推论。",
+        "en": "The existing page describes re-excavation with the Arraluli Clan and distinguishes evidence at the specific shelter from broader regional inference."
+      },
+      "page": "discoveries/33-widgingarri-shelter.qmd",
+      "source_url": "https://doi.org/10.1080/03122417.2026.2717665",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": "2026",
+        "precision": "year",
+        "evidence": {
+          "path": "discoveries/33-widgingarri-shelter.qmd",
+          "quote": "Lin, S. C., et al. (2026). Recent archaeological investigations at Widgingarri Shelter 1"
+        }
+      },
+      "evidence": [
+        {
+          "path": "discoveries/33-widgingarri-shelter.qmd",
+          "quote": "Lin, S. C., et al. (2026). Recent archaeological investigations at Widgingarri Shelter 1",
+          "sha256": "2e31711482e89471924245bb8ea9bfa87d5bd9edc596751ec2b9cea6904c7f9d"
+        },
+        {
+          "path": "discoveries/33-widgingarri-shelter.qmd",
+          "quote": "In 2022, the Arraluli Clan and CABAH jointly reopened and deepened the excavation.",
+          "sha256": "bb0349bf0461821dc3c6c4be78594da8d120fd7fa357fd93b5763fdf62890705"
+        }
+      ],
+      "review": null
+    },
+    {
+      "id": "baseline-bongal-publication",
+      "state": "baseline",
+      "category": "publication_added",
+      "title": {
+        "zh": "Bongal：论文与既有发表史",
+        "en": "Bongal: publication and earlier history"
+      },
+      "description": {
+        "zh": "存档列出2026年系统论文与2021年先前研究，并保留船材来自次生情境的限制。",
+        "en": "The archive lists the 2026 synthesis alongside the 2021 study and retains the limitation that the timbers came from secondary contexts."
+      },
+      "page": "discoveries/34-bongal-boats.qmd",
+      "source_url": "https://doi.org/10.1080/10572414.2026.2714901",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": "2026",
+        "precision": "year",
+        "evidence": {
+          "path": "discoveries/34-bongal-boats.qmd",
+          "quote": "Mochtar, A. S., Adhityatama, S., Hendrawan, M. F., Restiyadi, A., Purnawibowo, S., & Soedewo, E. (2026)."
+        }
+      },
+      "evidence": [
+        {
+          "path": "discoveries/34-bongal-boats.qmd",
+          "quote": "Mochtar, A. S., Adhityatama, S., Hendrawan, M. F., Restiyadi, A., Purnawibowo, S., & Soedewo, E. (2026).",
+          "sha256": "6900e325080e8be7583faf4e92117ec6875fbdccf521e437c7d90d09877d7cca"
+        },
+        {
+          "path": "discoveries/34-bongal-boats.qmd",
+          "quote": "Bongal was not first published in 2026: Purnawibowo and Mochtar reported seventh-century boat remains and lashed-lug construction in 2021.",
+          "sha256": "638385534de449d5a2b23a8d5151f90bc7a699509c9f0f72a9f9f739d1f784a1"
+        }
+      ],
+      "review": null
+    },
+    {
+      "id": "baseline-jars-publication",
+      "state": "baseline",
+      "category": "publication_added",
+      "title": {
+        "zh": "石缸平原Site 75：论文记录",
+        "en": "Plain of Jars Site 75: publication record"
+      },
+      "description": {
+        "zh": "既有页面链接发掘研究及独立保留意见；本次登记不将该解释推广为所有石缸的统一功能。",
+        "en": "The existing page links the excavation study and independent cautions; this record does not generalize the interpretation to all jars."
+      },
+      "page": "discoveries/26-plain-of-jars-death-jar.qmd",
+      "source_url": "https://doi.org/10.15184/aqy.2026.10352",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": "2026",
+        "precision": "year",
+        "evidence": {
+          "path": "discoveries/26-plain-of-jars-death-jar.qmd",
+          "quote": "Skopal, N., Pradier, B., Bounxayhip, S., et al. (2026)."
+        }
+      },
+      "evidence": [
+        {
+          "path": "discoveries/26-plain-of-jars-death-jar.qmd",
+          "quote": "Skopal, N., Pradier, B., Bounxayhip, S., et al. (2026).",
+          "sha256": "793066b55f392c0fd6cda6d452b9b3e794e42feea785ed7ceaac7382af1d7592"
+        },
+        {
+          "path": "discoveries/26-plain-of-jars-death-jar.qmd",
+          "quote": "It does not establish a single function for every jar across the Plain of Jars.",
+          "sha256": "7fd2a807778e84af680f3c4f62ce3862d4be38bba66491dba6d6f6476c7b41be"
+        }
+      ],
+      "review": null
+    },
+    {
+      "id": "baseline-font-major-history",
+      "state": "baseline",
+      "category": "research_update",
+      "title": {
+        "zh": "Font Major：既有发表史说明",
+        "en": "Font Major: earlier-publication clarification"
+      },
+      "description": {
+        "zh": "页面已披露2019年识别、2022年初步报道和2026年系统发表，避免将旧材料误写成当年首次发现。",
+        "en": "The page discloses recognition in 2019, preliminary reporting in 2022 and systematic publication in 2026, avoiding a claim of first discovery that year."
+      },
+      "page": "discoveries/28-font-major-rock-art.qmd",
+      "source_url": "https://doi.org/10.15184/aqy.2026.10447",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "discovery_date": {
+        "value": "2019",
+        "precision": "year",
+        "evidence": {
+          "path": "discoveries/28-font-major-rock-art.qmd",
+          "quote": "Palaeolithic engravings were first recognized in 2019"
+        }
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": "2026",
+        "precision": "year",
+        "evidence": {
+          "path": "discoveries/28-font-major-rock-art.qmd",
+          "quote": "Vergès Bosch, J. M., & Salas-Altès, M. (2026)."
+        }
+      },
+      "evidence": [
+        {
+          "path": "discoveries/28-font-major-rock-art.qmd",
+          "quote": "Vergès Bosch, J. M., & Salas-Altès, M. (2026).",
+          "sha256": "8a1e1557614d5175bf08dadcaa73adde4ba78603a7717700322c63b7c3b6ba69"
+        },
+        {
+          "path": "discoveries/28-font-major-rock-art.qmd",
+          "quote": "A 2022 *Antiquity* regional review of conglomerate-cave archaeology in north-eastern Iberia had already reported roughly 100 Palaeolithic-style figurative engravings at Font Major;",
+          "sha256": "47bc43de4ae7568f80421afe29870d505ea9c06eba7431220f3e29b0f3a8bd01"
+        }
+      ],
+      "review": null
+    },
+    {
+      "id": "baseline-stonehenge-research",
+      "state": "baseline",
+      "category": "research_update",
+      "title": {
+        "zh": "巨石阵祭坛石：研究更新",
+        "en": "Stonehenge Altar Stone: research update"
+      },
+      "description": {
+        "zh": "存档已将来源问题列为研究更新，保留具体来源未定的结论；它不是正式名单新增项目。",
+        "en": "The archive treats the provenance question as a research update and retains the unresolved origin; it is not a new formal-list entry."
+      },
+      "page": "under-review.qmd",
+      "source_url": "https://doi.org/10.1144/jgs2026-090",
+      "recorded_on": "2026-11-14",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": "2026",
+        "precision": "year",
+        "evidence": {
+          "path": "under-review.qmd",
+          "quote": "Pirrie, D., Bevins, R. E., Ixer, R. A., Pearce, N. J. G., Turner, P., Power, M. R., et al. (2026)."
+        }
+      },
+      "evidence": [
+        {
+          "path": "under-review.qmd",
+          "quote": "Pirrie, D., Bevins, R. E., Ixer, R. A., Pearce, N. J. G., Turner, P., Power, M. R., et al. (2026).",
+          "sha256": "d89c41c8376322f1f273e4aa2621fe68e1853595d33e009405d366cc14ca764d"
+        },
+        {
+          "path": "under-review.qmd",
+          "quote": "This is better treated as a scholarly correction than as a new 2026 discovery.",
+          "sha256": "6df0181ca034e61a454911a638b66893efcf0bef766e6df515e3d7b6652d16bc"
+        }
+      ],
+      "review": null
+    }
+  ]
+}
