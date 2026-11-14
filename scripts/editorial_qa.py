@@ -51,7 +51,7 @@ _SCALE = {
     'million': 1000000, 'millions': 1000000,
     'thousand': 1000, 'thousands': 1000,
 }
-_SCALE_RE = r'(?:百万|万|千|Ma\b|ka\b|millions?\b|thousands?\b)'
+_SCALE_RE = r'(?:百万|万|千|Ma(?![A-Za-z])|ka(?![A-Za-z])|millions?\b|thousands?\b)'
 _NUMBER_RE = r'\d[\d,]*(?:\.\d+)?'
 _RANGE_UNIT_RE = re.compile(
     rf'(?<![\d.])(?P<first>{_NUMBER_RE})(?P<sep>\s*(?:–|—|-|\bto\b)\s*)'
