@@ -2,10 +2,10 @@
 
 **Source:** Complete report supplied by the owner in this revision conversation on 2026-11-14. The text below is the authoritative independent review; implementation responses are in `RESPONSE.md`.
 
-**Repository:** `UBC-ARCHAEOLOGY/archaeology_discoveries`  
-**PR:** #4 — *Phase 2B: scheduled review operations and disabled formal-publication gate*  
-**Base:** `3d518218d4825a325cef60269c6d3cea4bc2cf93`  
-**Head:** `2def086a9f9796fe483be415e653ccc1ffaf4f30`  
+**Repository:** `UBC-ARCHAEOLOGY/archaeology_discoveries`
+**PR:** #4 — *Phase 2B: scheduled review operations and disabled formal-publication gate*
+**Base:** `3d518218d4825a325cef60269c6d3cea4bc2cf93`
+**Head:** `2def086a9f9796fe483be415e653ccc1ffaf4f30`
 **审阅日期:** 2026-11-14
 
 ## 一、结论
@@ -443,22 +443,22 @@ source['adapter'] == 'crossref'
 
 以下不是引用 Codex 自评，而是我从代码路径独立确认：
 
-1. **formal publication 当前确实是 OFF。**  
+1. **formal publication 当前确实是 OFF。**
    `publication-policy.json` 没有 active authorization。
-2. **publication gate 是纯函数，没有 archive writer。**  
+2. **publication gate 是纯函数，没有 archive writer。**
    通过后最多返回 `prepare_transaction_pr`；不存在直接 main push 或 auto-merge。
 3. **现有 33 项、44 ranks 没有被这个 PR 改写。**
-4. **state push 固定到 `refs/heads/monitoring/state-phase2b`。**  
+4. **state push 固定到 `refs/heads/monitoring/state-phase2b`。**
    不接受任意 branch 参数，也没有 force push。
-5. **有 stale-parent check 和 non-force Git push。**  
+5. **有 stale-parent check 和 non-force Git push。**
    对 concurrent writer 的基本防护设计合理。
-6. **watermark 只有完整 interval 才推进。**  
+6. **watermark 只有完整 interval 才推进。**
    page cap、missing/repeated cursor、网络错误不会静默推进。
 7. **原始 Crossref title、abstract、DOI、coordinates 等没有直接写入 durable public ledger。**
 8. **retrieved text 没有进入 shell command 或 publication instruction path。**
-9. **Pages deployment 不会被 state branch push 触发。**  
+9. **Pages deployment 不会被 state branch push 触发。**
    现有 Pages workflow 只监听 `main`。
-10. **GitHub-hosted regression 的确实际执行了 38 tests。**  
+10. **GitHub-hosted regression 的确实际执行了 38 tests。**
     我检查了 job log，而不是只接受 PR 描述；但这些测试仍然不能替代本次独立审阅。
 
 # 六、三类证据状态的最终划分
@@ -492,7 +492,7 @@ PR diff/base/head；13 changed files；33 formal/44 ranking；ID 29 非 formal�
 
 **B — 小修后复审。**
 
-**可以接受的目标：**  
+**可以接受的目标：**
 修订后作为 **default-OFF、non-publishing Phase 2B infrastructure** 合并。
 
 **目前不能批准：**

@@ -84,7 +84,8 @@
       "argv": [
         "git",
         "diff",
-        "--check"
+        "--check",
+        "2def086a9f9796fe483be415e653ccc1ffaf4f30"
       ],
       "exit_code": 0
     },
