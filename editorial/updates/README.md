@@ -160,3 +160,13 @@ ranking revision (`d6eea18`). These are verified published release changes, not 
 inferred solely from commits, new scholarly decisions or assertions that the
 underlying discoveries/publications occurred that week. Baseline inventory records
 remain frozen separately; this is not a complete reconstruction of all site history.
+
+## Beijing timezone supersession
+
+The owner subsequently requested Beijing time. The active weekly digest now uses
+Asia/Shanghai in both Python and browser calculations. Previously logged verified
+website days are converted from UTC deployment-success receipts; optional structured
+`published_at` requires a matching Beijing date. Frozen historical baselines keep
+their original recording dates and remain outside the digest. Historical review
+notes above describe the implementation at their time, not the current timezone.
+See `BEIJING_AND_MEDIA.md` for timestamp evidence and media-coverage findings.

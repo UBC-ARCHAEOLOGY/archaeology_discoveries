@@ -20,6 +20,34 @@ title: "来源与编辑原则 | Sources & Editorial Policy"
 4. project or archaeological-agency announcements;
 5. secondary summaries are used only as leads and not as the sole basis for major scholarly claims.
 
+## 读者所提报道与站内对应 | Reader-highlighted reporting {#reader-reports}
+
+媒体报道与正式收录是不同层次。本索引补足报道入口，不新增正式发现、候选资格、证据等级或排名。报道日期也不是网页新增日期。
+
+Reporting and formal inclusion are separate. This index adds access to reporting; it does not create formal discoveries, candidate decisions, evidence grades or ranks. A report date is not a website-addition date.
+
+### 西伯利亚大麻研究 | Siberian cannabis research
+
+[New York Times — Were These Ancient Siberian Nomads the First Stoners?](https://www.nytimes.com/2026/11/05/science/ancient-siberia-scythians-first-marijuanna-cannabis-use.html) 对应本站已有的 [Tunnug 1 待评估记录](under-review.qmd#tunnug-1-uyuk谷地约2800年前大麻使用证据-cannabis-use-at-tunnug-1-uyuk-valley)，目前仍为 **HOLD**。既有评议区分葬仪中的大麻与确证摄入；毛发的外部接触问题仍未解决。原始研究：[Science DOI](https://doi.org/10.1126/science.aeg3800)。
+
+The NYT report maps to the existing **Tunnug 1** review record, which remains **HOLD**. The existing assessment distinguishes cannabis in the mortuary context from demonstrated ingestion; external exposure of hair remains an unresolved issue. The reporting link does not reverse that decision.
+
+### 凯尔特语传播研究 | Celtic-language dispersal research
+
+[Science — Mighty and mysterious Celts hailed from the heart of Europe](https://www.science.org/content/article/mighty-and-mysterious-celts-hailed-heart-europe) 对应已正式收录的 [ID 19：古基因组与凯尔特语、日耳曼语传播](discoveries/19-celtic-ancient-dna.qmd)。原始研究：[Nature DOI](https://doi.org/10.1038/s41586-026-11198-9)。原页面已说明，基因流动不能直接等同于语言传播。
+
+The Science report maps to **formal entry ID 19**, already in the archive. Its existing distinction between genetic movement and language transmission remains unchanged; this is an additional reporting reference, not a second discovery.
+
+### 尼安德特人木工与创伤研究 | Neanderthal woodworking and trauma research
+
+[New York Times — Neanderthals Used Wood for Tools, Housing — and Murder?](https://www.nytimes.com/2026/11/03/science/neanderthals-wood-tools.html) 涉及两个不同项目，原档案未建立对应条目：西班牙 **Abric Romaní** 木工研究（[Science Advances DOI](https://doi.org/10.1126/sciadv.aeh2287)，[开放原文](https://pmc.ncbi.nlm.nih.gov/articles/PMC13644747/)）与伊拉克 **Shanidar A** 创伤研究（[Scientific Reports DOI](https://doi.org/10.1038/s41598-026-69193-z)，[出版方说明](https://www.natureasia.com/en/info/press-releases/detail/9463)）。它们不能由本站的 [希腊 Marathousa 1 木器条目](discoveries/03-megalopolis-wood-tools.qmd) 代替。这里仅登记报道线索，正式／候选收录另待学术审核；木矛致伤的解释不等于已经证明“谋杀”。
+
+The NYT report concerns two distinct projects without corresponding archive entries: **Abric Romaní** woodworking in Spain and **Shanidar A** trauma in Iraq. The Greek Marathousa 1 entry is a different project. These are reporting leads only, with inclusion requiring separate academic review. A proposed wooden-spear injury does not establish deliberate murder; the publisher notes uncertainty between accident and violence.
+
+NYT 原文及 Science 新闻页面的直接访问受限；本次对应关系亦参考[剑桥媒体索引](https://www.cantab.org/cambridge-in-north-american-news)、[哥德堡大学研究说明](https://www.gu.se/en/news/ancient-dna-reveals-the-origins-of-languages)和可访问的原始论文／出版方说明，不声称已通读受限新闻全文。
+
+Direct access to the NYT originals and Science news page was restricted. Cross-referencing also used Cambridge’s media index, the University of Gothenburg research release, and accessible papers/publisher explanations; no full-text reading of restricted reports is claimed.
+
 ## 图像 | Images
 
 **中文。** 图片遵循“**来源明确、用途透明、尽量使用开放许可或出版方允许的图版**”原则。可以确认再利用许可的图像保存到仓库并附完整图注；没有明确再利用许可的图像只提供原始来源链接。

@@ -39,9 +39,9 @@ A major discovery is not simply a spectacular headline. We emphasize whether a f
 
 ## 过去一周的更新 | Updates In the Past Week {#past-week-updates}
 
-按已核实的网页更新日期列出最近 7 个日历日（温哥华时间，含当日）的新收录发现／报道、研究更新、暂定排名调整及其他网站修改。历史回溯记录不计入；未登记不代表没有变化。
+按已核实的网页更新日期列出最近 7 个日历日（北京时间，含当日）的新收录发现／报道、研究更新、暂定排名调整及其他网站修改。历史回溯记录不计入；未登记不代表没有变化。
 
-Verified website updates from the latest 7 calendar days (Vancouver time, including today): newly included discoveries/reports, research updates, provisional ranking changes and other website changes. Retrospective records are excluded; an empty category does not prove that no changes occurred.
+Verified website updates from the latest 7 calendar days (Beijing time, including today): newly included discoveries/reports, research updates, provisional ranking changes and other website changes. Retrospective records are excluded; an empty category does not prove that no changes occurred.
 
 ::: {.updates-home}
 :::
@@ -49,6 +49,8 @@ Verified website updates from the latest 7 calendar days (Vancouver time, includ
 <script src="updates-window.js" defer></script>
 
 [完整更新日志与历史记录 / Full Update History and historical records](update-history.qmd){.updates-history-link}
+
+[读者所提 NYT／Science 报道与站内对应 / Reader-highlighted NYT and Science coverage](sources.qmd#reader-reports)
 
 ::: {.callout-note title="Living archive / 持续更新"}
 **中文。** 这是一个持续更新的研究型网站。若论文尚未正式发表，页面会明确标记“正式论文待发表”，避免把媒体报道当作已经同行评议的学术结论。

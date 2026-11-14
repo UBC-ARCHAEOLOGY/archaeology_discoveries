@@ -1,10 +1,12 @@
 """Registry mutation tests: chronology, evidence, identity and proposal separation."""
 import copy
-from datetime import date
+from datetime import date, datetime, timezone
 import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest.mock import patch
+from zoneinfo import ZoneInfo
 import updates as u
 
 AS_OF=date(2026,11,14)
@@ -236,6 +238,26 @@ class UpdatesTests(unittest.TestCase):
             self.assertIn(u.CATEGORIES[category][1],html)
             r['review']=None
             with self.assertRaises(ValueError):self.validate(data)
+
+
+    def test_today_uses_beijing_midnight_not_vancouver_or_utc(self):
+        self.assertEqual(u.UPDATE_TIMEZONE,'Asia/Shanghai')
+        for instant, expected in [('2026-11-14T15:59:59+00:00',date(2026,11,14)),
+                                  ('2026-11-14T16:00:00+00:00',date(2026,11,15))]:
+            with patch('updates.datetime',wraps=datetime) as clock:
+                clock.now.return_value=datetime.fromisoformat(instant).astimezone(ZoneInfo(u.UPDATE_TIMEZONE))
+                self.assertEqual(u.today(),expected)
+                clock.now.assert_called_once_with(ZoneInfo('Asia/Shanghai'))
+
+    def test_receipt_timestamp_requires_matching_beijing_date(self):
+        data=copy.deepcopy(self.data);row=self.reviewed(data['records'][0],'2026-11-14')
+        row['website_date_evidence']['published_at']='2026-11-13T16:00:00Z'
+        self.validate(data)
+        row['website_date_evidence']['published_at']='2026-11-13T15:59:59Z'
+        with self.assertRaisesRegex(ValueError,'Beijing time'):self.validate(data)
+        for stamp in ('2026-11-13T16:00:00','not-a-time'):
+            row['website_date_evidence']['published_at']=stamp
+            with self.assertRaisesRegex(ValueError,'UTC deployment timestamp'):self.validate(data)
 
 
 
