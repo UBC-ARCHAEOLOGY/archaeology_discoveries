@@ -45,7 +45,7 @@ def main():
                     assert response.status==200
                     expected=len(u.recent(registry)) if filename=='index.html' else len(public)
                     assert page.locator('.update-card').count()==expected
-                    assert page.locator('.update-category').all_text_contents()
+                    assert page.locator('.update-category').count()==expected
                     baselines=page.locator('.update-card[data-update-state="baseline"]')
                     assert baselines.locator('.update-date').count()==0
                     if filename=='index.html':
