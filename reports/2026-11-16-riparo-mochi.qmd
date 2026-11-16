@@ -1,0 +1,37 @@
+---
+title: "Riparo Mochi：旧石器营地年代重评 | Riparo Mochi: reassessing an Ice Age camp"
+---
+
+[返回本期周报 / Back to this weekly digest](2026-11-16.qmd)
+
+**资料性质 / Reporting type:** 新发掘结合年代与使用痕迹研究的报道 / Reporting on excavation, dating and use-wear research
+
+**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）
+
+**收录范围 / Scope:** 本页收录报道与阅读线索，不是正式发现条目或候选资格决定，不附加证据等级或排名。 / Reporting and reading leads only; this page is not a formal discovery or candidate decision and assigns no grade or rank.
+
+## 本周报道 | This week’s report
+
+**中文。** 报道介绍法意边境附近 Riparo Mochi 新发掘的炉址、石器与海贝测年。所报海贝年代约为 30,000—30,800 年前，为该地 Noaillian 技术传统的年代重评提供材料；石器使用痕迹也涉及工具功能的重新解释。
+
+**English.** Reporting describes a newly excavated hearth, lithics and marine-shell dating at Riparo Mochi near the French–Italian border. The reported shell ages of about 30,000–30,800 years inform reassessment of the local Noaillian chronology, while use-wear contributes to interpretations of tool function.
+
+## 日期与既往工作 | Dates and earlier work
+
+**中文。** Phys.org 报道日期为 2026-11-10；所引论文 DOI 为 10.1016/j.jasrep.2026.106131，首次在线发表日未独立核实。遗址曾有较早发掘。
+
+**English.** Phys.org reported the work on 2026-11-10. The cited paper is DOI 10.1016/j.jasrep.2026.106131; its first online publication day was not independently verified. The site had earlier excavations.
+
+## 解释边界 | Limits of interpretation
+
+**中文。** 材料年代、技术传统传播与人群迁徙是不同层次的推论；本期不将其写成已由遗传证据证明的族群迁移，也不据新闻日期判定首次学术发表资格。原论文全文访问受限。
+
+**English.** Dating material, tracing a technological tradition and inferring population movement are different steps. This digest does not treat migration as genetically demonstrated or use the news date to establish first scholarly publication. Full-paper access was restricted.
+
+## 来源 | Sources
+
+- [Archaeology Magazine](https://archaeology.org/news/2026/11/11/scientists-re-date-ice-age-camp-in-northern-italy/)
+- [论文 DOI / Paper DOI](https://doi.org/10.1016/j.jasrep.2026.106131)
+- [Phys.org：2026-11-10](https://phys.org/news/2026-11-ice-age-reveals-hunter-italy.html)
+
+[完整网页更新日志 / Website Update History](../update-history.qmd)

@@ -1,0 +1,37 @@
+---
+title: "汤恩儿童：旧化石研究的本周报道 | Taung Child: this week’s coverage of a legacy fossil study"
+---
+
+[返回本期周报 / Back to this weekly digest](2026-11-16.qmd)
+
+**资料性质 / Reporting type:** 旧标本年代与分类研究的报道 / Reporting on dating and classification of a legacy specimen
+
+**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）
+
+**收录范围 / Scope:** 本页收录报道与阅读线索，不是正式发现条目或候选资格决定，不附加证据等级或排名。 / Reporting and reading leads only; this page is not a formal discovery or candidate decision and assigns no grade or rank.
+
+## 本周报道 | This week’s report
+
+**中文。** 本周报道重述一项关于汤恩儿童化石年代、发育比较与南部非洲早期人类多样性的研究。它属于旧标本研究，不是本周新出土的化石。原始论文为 npj Palaeoecosystems，而非 Nature 主刊。
+
+**English.** This week’s coverage revisits a study of the Taung Child’s age, developmental comparisons and southern African hominin diversity. It concerns a legacy specimen, not a fossil newly excavated this week. The paper is in npj Palaeoecosystems, not the flagship Nature journal.
+
+## 日期与既往工作 | Dates and earlier work
+
+**中文。** 化石发现于 1924 年；论文发表于 2026-11-05，VUB 机构稿为 2026-11-09。本期依据 2026-11-11 的报道列入。
+
+**English.** The fossil was found in 1924; the paper was published on 2026-11-05 and the VUB release on 2026-11-09. Inclusion here is based on coverage dated 2026-11-11.
+
+## 解释边界 | Limits of interpretation
+
+**中文。** 论文全文本次访问受限。精确年代的上下限、标本层位关系及分类推论仍需阅读全文复核；本期不把媒体标题中的年龄当作直接测定骨骼的精确年代，也不宣布发现新物种。
+
+**English.** Full-paper access was restricted. Age bounds, the specimen’s stratigraphic relationship and taxonomic inferences require full-text checking. A headline age is not treated as an exact direct date on the fossil, and no new species is declared.
+
+## 来源 | Sources
+
+- [GreekReporter](https://greekreporter.com/2026/11/11/taung-child-fossil-new-human-evolution-mystery/)
+- [论文 DOI：2026-11-05 / Paper DOI](https://doi.org/10.1038/s44513-026-00008-2)
+- [VUB：2026-11-09](https://www.vub.be/en/news/three-million-year-old-taung-child-once-again-shakes-our)
+
+[完整网页更新日志 / Website Update History](../update-history.qmd)

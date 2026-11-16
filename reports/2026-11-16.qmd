@@ -1,0 +1,57 @@
+---
+title: "考古报道周报：2026-11-10—16 | Archaeology Weekly: 10–16 November 2026"
+---
+
+本期选择北京时间 **2026-11-10—2026-11-16** 期间发表的可核查报道。报道日期沿用来源标示的日历日期；有时刻时另在核查记录保留时区。它不是世界新发现的完整清单，亦不把本周报道等同于本周发掘或首次公布。
+
+This edition selects verifiable reporting published during **2026-11-10–2026-11-16**, using the Beijing-time review window. Calendar dates retain the source’s stated precision; known timestamps/timezones are kept in the verification record. This is a selected digest, not a complete global discovery list, and recent reporting does not imply recent excavation or first announcement.
+
+本期只增加报道与原始来源链接，保留既有 **33** 项正式发现、**44** 个排名、证据等级及 HOLD 决定。涉及正式／候选收录、学术判断或排名的变更另需人工学术审核。
+
+This edition adds reporting and original-source links while preserving the existing **33** formal entries, **44** ranking positions, grades and HOLD decisions. Formal/candidate inclusion, scholarly decisions and ranking changes require separate human academic approval.
+
+## 六则报道 | Six reports
+
+### [北京：早期长城与聚落考古成果 | Beijing: early Great Wall and settlement archaeology](2026-11-16-beijing.qmd)
+
+2026-11-11 · 北京市文物局 / Beijing Municipal Cultural Heritage Bureau · 田野成果的官方报道 / Official reporting on fieldwork
+
+[阅读摘要、日期和解释限制 / Read the summary, dates and limitations](2026-11-16-beijing.qmd)
+
+### [巴伐利亚：铸造石范与青铜窖藏报道 | Bavaria: casting moulds and a bronze hoard](2026-11-16-bavaria.qmd)
+
+2026-11-11 · HeritageDaily · 田野材料及文物保护报道 / Field-material and heritage reporting
+
+[阅读摘要、日期和解释限制 / Read the summary, dates and limitations](2026-11-16-bavaria.qmd)
+
+### [Riparo Mochi：旧石器营地年代重评 | Riparo Mochi: reassessing an Ice Age camp](2026-11-16-riparo-mochi.qmd)
+
+2026-11-11 · Archaeology Magazine · 新发掘结合年代与使用痕迹研究的报道 / Reporting on excavation, dating and use-wear research
+
+[阅读摘要、日期和解释限制 / Read the summary, dates and limitations](2026-11-16-riparo-mochi.qmd)
+
+### [Bar Hill：蛙骨堆积的再分析 | Bar Hill: reanalysis of a frog-bone deposit](2026-11-16-bar-hill.qmd)
+
+2026-11-10 · Bournemouth University · 既有发掘材料的再分析报道 / Reporting on reanalysis of excavated material
+
+[阅读摘要、日期和解释限制 / Read the summary, dates and limitations](2026-11-16-bar-hill.qmd)
+
+### [Karagaily：萨卡时期金熊饰的本周报道 | Karagaily: this week’s reporting on a Saka gold bear](2026-11-16-karagaily.qmd)
+
+2026-11-11 · Live Science · 较早官方公布的田野发现之新报道 / New reporting on an earlier official fieldwork announcement
+
+[阅读摘要、日期和解释限制 / Read the summary, dates and limitations](2026-11-16-karagaily.qmd)
+
+### [汤恩儿童：旧化石研究的本周报道 | Taung Child: this week’s coverage of a legacy fossil study](2026-11-16-taung.qmd)
+
+2026-11-11 · GreekReporter · 旧标本年代与分类研究的报道 / Reporting on dating and classification of a legacy specimen
+
+[阅读摘要、日期和解释限制 / Read the summary, dates and limitations](2026-11-16-taung.qmd)
+
+## 范围与缺口 | Scope and gaps
+
+本期含中国、中亚、欧洲及南部非洲的材料，但不是区域配额审计或全球覆盖认证。美洲、南亚、东南亚、澳大利亚及太平洋来源覆盖仍有缺口。AI／LiDAR 线索未经地面核验不作确认发现；旧材料再分析与田野发现分别标示，不用媒体热度代替学术评估。图片仅链接来源，不复制未核实许可的图像。
+
+The selection covers China, Central Asia, Europe and southern Africa but is neither a regional-quota audit nor certification of global coverage. Coverage of the Americas, South/Southeast Asia, Australia and the Pacific remains incomplete. Unground-truthed AI/LiDAR leads are not presented as confirmed discoveries. Legacy-material analysis and fieldwork reporting are distinguished; media attention does not replace scholarly assessment. Images are linked at source rather than copied without verified reuse permission.
+
+[网页更新历史 / Website Update History](../update-history.qmd) · [报道来源索引 / Reporting sources](../sources.qmd)

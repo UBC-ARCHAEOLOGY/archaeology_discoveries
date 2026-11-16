@@ -560,6 +560,252 @@
         "precision": "unknown",
         "evidence": null
       }
+    },
+    {
+      "id": "report-2026-11-16-beijing",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "北京：早期长城与聚落考古成果",
+        "en": "Beijing: early Great Wall and settlement archaeology"
+      },
+      "description": {
+        "zh": "田野成果的官方报道；原工作与本周报道的日期分列，详见页面。",
+        "en": "Official reporting on fieldwork; earlier work and this week’s coverage are dated separately on the page."
+      },
+      "page": "reports/2026-11-16-beijing.qmd",
+      "source_url": "https://wwj.beijing.gov.cn/bjww/362679/362680/482911/744158672/index.html",
+      "recorded_on": "2026-11-16",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-16-beijing.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）",
+          "sha256": "4ec7d9227c17e0fda78f726ddc07cff59b4af9199a4b6cf05d9aa2002f478845"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-16-bavaria",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "巴伐利亚：铸造石范与青铜窖藏报道",
+        "en": "Bavaria: casting moulds and a bronze hoard"
+      },
+      "description": {
+        "zh": "田野材料及文物保护报道；原工作与本周报道的日期分列，详见页面。",
+        "en": "Field-material and heritage reporting; earlier work and this week’s coverage are dated separately on the page."
+      },
+      "page": "reports/2026-11-16-bavaria.qmd",
+      "source_url": "https://www.heritagedaily.com/2026/11/rare-bronze-age-finds-reveal-ancient-metalworking-in-bavaria/159988",
+      "recorded_on": "2026-11-16",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-16-bavaria.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）",
+          "sha256": "4ec7d9227c17e0fda78f726ddc07cff59b4af9199a4b6cf05d9aa2002f478845"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-16-riparo-mochi",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "Riparo Mochi：旧石器营地年代重评",
+        "en": "Riparo Mochi: reassessing an Ice Age camp"
+      },
+      "description": {
+        "zh": "新发掘结合年代与使用痕迹研究的报道；原工作与本周报道的日期分列，详见页面。",
+        "en": "Reporting on excavation, dating and use-wear research; earlier work and this week’s coverage are dated separately on the page."
+      },
+      "page": "reports/2026-11-16-riparo-mochi.qmd",
+      "source_url": "https://archaeology.org/news/2026/11/11/scientists-re-date-ice-age-camp-in-northern-italy/",
+      "recorded_on": "2026-11-16",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-16-riparo-mochi.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）",
+          "sha256": "4ec7d9227c17e0fda78f726ddc07cff59b4af9199a4b6cf05d9aa2002f478845"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-16-bar-hill",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "Bar Hill：蛙骨堆积的再分析",
+        "en": "Bar Hill: reanalysis of a frog-bone deposit"
+      },
+      "description": {
+        "zh": "既有发掘材料的再分析报道；原工作与本周报道的日期分列，详见页面。",
+        "en": "Reporting on reanalysis of excavated material; earlier work and this week’s coverage are dated separately on the page."
+      },
+      "page": "reports/2026-11-16-bar-hill.qmd",
+      "source_url": "https://www.bournemouth.ac.uk/news/2026-11-10/ancient-frog-mystery-solved",
+      "recorded_on": "2026-11-16",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-16-bar-hill.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-10（来源标示日期 / source-stated date）",
+          "sha256": "028ef54398626668803fc3b1f08fa3028a241a5f8bda8fa203a08ec52f203f61"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-16-karagaily",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "Karagaily：萨卡时期金熊饰的本周报道",
+        "en": "Karagaily: this week’s reporting on a Saka gold bear"
+      },
+      "description": {
+        "zh": "较早官方公布的田野发现之新报道；原工作与本周报道的日期分列，详见页面。",
+        "en": "New reporting on an earlier official fieldwork announcement; earlier work and this week’s coverage are dated separately on the page."
+      },
+      "page": "reports/2026-11-16-karagaily.qmd",
+      "source_url": "https://www.livescience.com/archaeology/2-200-year-old-gold-bear-figurine-and-surprising-number-of-bones-found-in-massive-burial-mound-in-kazakhstan",
+      "recorded_on": "2026-11-16",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-16-karagaily.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）",
+          "sha256": "4ec7d9227c17e0fda78f726ddc07cff59b4af9199a4b6cf05d9aa2002f478845"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-16-taung",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "汤恩儿童：旧化石研究的本周报道",
+        "en": "Taung Child: this week’s coverage of a legacy fossil study"
+      },
+      "description": {
+        "zh": "旧标本年代与分类研究的报道；原工作与本周报道的日期分列，详见页面。",
+        "en": "Reporting on dating and classification of a legacy specimen; earlier work and this week’s coverage are dated separately on the page."
+      },
+      "page": "reports/2026-11-16-taung.qmd",
+      "source_url": "https://greekreporter.com/2026/11/11/taung-child-fossil-new-human-evolution-mystery/",
+      "recorded_on": "2026-11-16",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-16-taung.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）",
+          "sha256": "4ec7d9227c17e0fda78f726ddc07cff59b4af9199a4b6cf05d9aa2002f478845"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
     }
   ]
 }
