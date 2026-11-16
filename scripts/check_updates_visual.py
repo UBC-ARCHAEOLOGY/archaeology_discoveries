@@ -45,7 +45,7 @@ def main():
                     assert response.status==200
                     expected=len(u.recent(registry)) if filename=='index.html' else len(public)
                     assert page.locator('.update-card').count()==expected
-                    assert page.locator('.update-category').all_text_contents()
+                    assert page.locator('.update-category').count()==expected
                     baselines=page.locator('.update-card[data-update-state="baseline"]')
                     assert baselines.locator('.update-date').count()==0
                     if filename=='index.html':
@@ -68,12 +68,16 @@ def main():
                             map:document.querySelector('iframe').getBoundingClientRect().top,
                             last:document.querySelector('.updates-panel').getBoundingClientRect().bottom})''')
                         assert positions['hero']<positions['map']<positions['updates']<positions['last']
-                        panel=page.locator('.latest-updates-grid').filter(has=page.locator('.update-card')).first
-                        columns=panel.evaluate('(el)=>getComputedStyle(el).gridTemplateColumns.split(" ").filter(x=>parseFloat(x)>0).length')
-                        assert columns==(1 if label=='mobile' else min(2,panel.locator('.update-card').count())), columns
+                        if expected:
+                            panel=page.locator('.latest-updates-grid').filter(has=page.locator('.update-card')).first
+                            columns=panel.evaluate('(el)=>getComputedStyle(el).gridTemplateColumns.split(" ").filter(x=>parseFloat(x)>0).length')
+                            assert columns==(1 if label=='mobile' else min(2,panel.locator('.update-card').count())), columns
+                        else:
+                            assert page.locator('.updates-empty:visible').count()==len(u.CATEGORIES)
                         page.evaluate("window.scrollTo(0, document.querySelector('#past-week-updates').getBoundingClientRect().top + window.scrollY - 110)")
                         page.screenshot(path=str(args.output/f'{label}-latest-viewport.png'))
-                        page.locator('.update-card').first.screenshot(path=str(args.output/f'{label}-update-card.png'))
+                        if expected:
+                            page.locator('.update-card').first.screenshot(path=str(args.output/f'{label}-update-card.png'))
                     page.screenshot(path=str(args.output/f'{label}-{Path(filename).stem}.png'),full_page=True)
                     assert not errors, errors
                     results.append({'viewport':label,'page':filename,'cards':expected,'horizontal_overflow':False,'page_errors':errors})
@@ -86,6 +90,21 @@ def main():
                         link.click()
                         page.wait_for_url('**/update-history.html')
                         assert page.locator('.update-card').count()==len(public)
+                    page.close()
+                for report in sorted((args.site/'reports').glob('*.html')):
+                    filename='reports/'+report.name
+                    page=browser.new_page(viewport={'width':width,'height':height},is_mobile=label=='mobile')
+                    errors=[];page.on('pageerror',lambda error:errors.append(str(error)))
+                    response=page.goto(f'http://127.0.0.1:{server.server_port}/{filename}',wait_until='networkidle')
+                    assert response.status==200
+                    assert '|' in page.locator('main h1').inner_text(), 'Bilingual report title required'
+                    assert page.evaluate('document.documentElement.scrollWidth <= window.innerWidth'), filename+': horizontal overflow'
+                    if report.stem.count('-')>2:
+                        assert page.get_by_text('中文。',exact=True).count()==3
+                        assert page.get_by_text('English.',exact=True).count()==3
+                    assert not errors, errors
+                    page.screenshot(path=str(args.output/f'{label}-reports-{report.stem}.png'),full_page=True)
+                    results.append({'viewport':label,'page':filename,'horizontal_overflow':False,'page_errors':errors})
                     page.close()
             boundary=browser.new_page()
             boundary.clock.install(time=datetime(2026,11,14,16,1,tzinfo=timezone.utc))
@@ -107,6 +126,7 @@ def main():
         server.shutdown();server.server_close()
     (args.output/'layout-results.json').write_text(json.dumps(results,indent=2)+'\n')
     print('Latest Updates visual QA passed: desktop/mobile homepage, complete history and mobile navigation.')
+    print('Weekly report viewport checks:',sum(row['page'].startswith('reports/') for row in results))
 
 
 if __name__=='__main__':main()

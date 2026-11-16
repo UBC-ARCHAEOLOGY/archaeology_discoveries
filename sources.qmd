@@ -20,6 +20,10 @@ title: "来源与编辑原则 | Sources & Editorial Policy"
 4. project or archaeological-agency announcements;
 5. secondary summaries are used only as leads and not as the sole basis for major scholarly claims.
 
+## 每周考古报道 | Weekly archaeology reporting
+
+[2026-11-10—16：六则来源核查报道 / Six source-checked reports](reports/2026-11-16.qmd)。每则分列报道与既往工作日期，保留解释限制，不自动产生正式条目或排名。 / Each separates reporting from earlier work and records limitations; no formal entries or ranks are created automatically.
+
 ## 读者所提报道与站内对应 | Reader-highlighted reporting {#reader-reports}
 
 媒体报道与正式收录是不同层次。本索引补足报道入口，不新增正式发现、候选资格、证据等级或排名。报道日期也不是网页新增日期。

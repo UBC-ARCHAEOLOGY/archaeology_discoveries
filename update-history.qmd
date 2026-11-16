@@ -30,3 +30,7 @@ The homepage includes only verified website-dated records from the latest 7 cale
 本周窗口按北京时间（Asia/Shanghai）计算；有 UTC 部署回执的网页日期亦换算为北京时间。原有回溯登记日期保留历史记录，不参与本周筛选。
 
 The weekly window uses Beijing time (Asia/Shanghai); website dates with UTC deployment receipts are converted to the same timezone. Original retrospective recording dates remain historical metadata and are excluded from the weekly filter.
+
+## 考古报道周报档案 | Weekly reporting archive
+
+- [2026-11-10—16：考古发现与报道 / Archaeology reporting](reports/2026-11-16.qmd)

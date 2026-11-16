@@ -15,7 +15,7 @@ class EditorialQA(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.root = Path(self.temp.name)
-        for name in ('discoveries', 'editorial', 'figures', 'map-assets'):
+        for name in ('discoveries', 'editorial', 'figures', 'map-assets', 'reports'):
             shutil.copytree(SOURCE / name, self.root / name)
         for path in SOURCE.glob('*.qmd'):
             shutil.copy(path, self.root / path.name)
