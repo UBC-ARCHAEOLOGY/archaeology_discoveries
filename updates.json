@@ -563,22 +563,32 @@
     },
     {
       "id": "report-2026-11-16-beijing",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "北京：早期长城与聚落考古成果",
         "en": "Beijing: early Great Wall and settlement archaeology"
       },
       "description": {
-        "zh": "田野成果的官方报道；原工作与本周报道的日期分列，详见页面。",
-        "en": "Official reporting on fieldwork; earlier work and this week’s coverage are dated separately on the page."
+        "zh": "官方稿介绍早期长城、聚落与古船成果；活动和发掘早于本周。",
+        "en": "Official reporting on early walls, settlements and boats; the presentation and excavations predate this week."
       },
       "page": "reports/2026-11-16-beijing.qmd",
       "source_url": "https://wwj.beijing.gov.cn/bjww/362679/362680/482911/744158672/index.html",
       "recorded_on": "2026-11-16",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-16",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43892013112",
+        "published_at": "2026-11-16T15:06:31Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/9"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-16-beijing.qmd",
@@ -597,29 +607,42 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-11",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-16-beijing.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-16-bavaria",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "巴伐利亚：铸造石范与青铜窖藏报道",
         "en": "Bavaria: casting moulds and a bronze hoard"
       },
       "description": {
-        "zh": "田野材料及文物保护报道；原工作与本周报道的日期分列，详见页面。",
-        "en": "Field-material and heritage reporting; earlier work and this week’s coverage are dated separately on the page."
+        "zh": "石范与铜器组合的本周报道，保留不同地点和受扰情境的区别。",
+        "en": "This week’s coverage of casting moulds and bronze finds retains distinctions between sites and disturbed contexts."
       },
       "page": "reports/2026-11-16-bavaria.qmd",
       "source_url": "https://www.heritagedaily.com/2026/11/rare-bronze-age-finds-reveal-ancient-metalworking-in-bavaria/159988",
       "recorded_on": "2026-11-16",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-16",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43892013112",
+        "published_at": "2026-11-16T15:06:31Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/9"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-16-bavaria.qmd",
@@ -638,29 +661,42 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-11",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-16-bavaria.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-16-riparo-mochi",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "Riparo Mochi：旧石器营地年代重评",
         "en": "Riparo Mochi: reassessing an Ice Age camp"
       },
       "description": {
-        "zh": "新发掘结合年代与使用痕迹研究的报道；原工作与本周报道的日期分列，详见页面。",
-        "en": "Reporting on excavation, dating and use-wear research; earlier work and this week’s coverage are dated separately on the page."
+        "zh": "炉址、海贝测年及石器功能的新报道；人群迁徙解释保留限制。",
+        "en": "New reporting on a hearth, shell dating and lithic functions, with limits on population-movement interpretations."
       },
       "page": "reports/2026-11-16-riparo-mochi.qmd",
       "source_url": "https://archaeology.org/news/2026/11/11/scientists-re-date-ice-age-camp-in-northern-italy/",
       "recorded_on": "2026-11-16",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-16",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43892013112",
+        "published_at": "2026-11-16T15:06:31Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/9"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-16-riparo-mochi.qmd",
@@ -679,29 +715,42 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-11",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-16-riparo-mochi.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-16-bar-hill",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "Bar Hill：蛙骨堆积的再分析",
         "en": "Bar Hill: reanalysis of a frog-bone deposit"
       },
       "description": {
-        "zh": "既有发掘材料的再分析报道；原工作与本周报道的日期分列，详见页面。",
-        "en": "Reporting on reanalysis of excavated material; earlier work and this week’s coverage are dated separately on the page."
+        "zh": "既有蛙骨堆积再分析，研究者提出猛禽捕食的形成解释。",
+        "en": "Reanalysis of an excavated frog-bone deposit proposes raptor predation as its formation process."
       },
       "page": "reports/2026-11-16-bar-hill.qmd",
       "source_url": "https://www.bournemouth.ac.uk/news/2026-11-10/ancient-frog-mystery-solved",
       "recorded_on": "2026-11-16",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-16",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43892013112",
+        "published_at": "2026-11-16T15:06:31Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/9"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-16-bar-hill.qmd",
@@ -720,29 +769,42 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-10",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-16-bar-hill.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-10（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-16-karagaily",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "Karagaily：萨卡时期金熊饰的本周报道",
         "en": "Karagaily: this week’s reporting on a Saka gold bear"
       },
       "description": {
-        "zh": "较早官方公布的田野发现之新报道；原工作与本周报道的日期分列，详见页面。",
-        "en": "New reporting on an earlier official fieldwork announcement; earlier work and this week’s coverage are dated separately on the page."
+        "zh": "金熊形饰物与墓丘发掘报道；原公告较早，埋葬人数尚未确定。",
+        "en": "Coverage of a gold bear ornament and burial mound; the announcement is earlier and the burial count remains unresolved."
       },
       "page": "reports/2026-11-16-karagaily.qmd",
       "source_url": "https://www.livescience.com/archaeology/2-200-year-old-gold-bear-figurine-and-surprising-number-of-bones-found-in-massive-burial-mound-in-kazakhstan",
       "recorded_on": "2026-11-16",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-16",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43892013112",
+        "published_at": "2026-11-16T15:06:31Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/9"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-16-karagaily.qmd",
@@ -761,29 +823,42 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-11",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-16-karagaily.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-16-taung",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "汤恩儿童：旧化石研究的本周报道",
         "en": "Taung Child: this week’s coverage of a legacy fossil study"
       },
       "description": {
-        "zh": "旧标本年代与分类研究的报道；原工作与本周报道的日期分列，详见页面。",
-        "en": "Reporting on dating and classification of a legacy specimen; earlier work and this week’s coverage are dated separately on the page."
+        "zh": "旧化石年代与发育比较的报道，不据媒体标题确定精确骨龄或新物种。",
+        "en": "Coverage of dating and development in a legacy fossil, without treating headlines as exact skeletal ages or new species."
       },
       "page": "reports/2026-11-16-taung.qmd",
       "source_url": "https://greekreporter.com/2026/11/11/taung-child-fossil-new-human-evolution-mystery/",
       "recorded_on": "2026-11-16",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-16",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/43892013112",
+        "published_at": "2026-11-16T15:06:31Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/9"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-16-taung.qmd",
@@ -802,9 +877,12 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-11",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-16-taung.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）"
+        }
       }
     }
   ]
