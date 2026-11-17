@@ -884,6 +884,88 @@
           "quote": "**报道日期 / Report date:** 2026-11-11（来源标示日期 / source-stated date）"
         }
       }
+    },
+    {
+      "id": "report-2026-11-18-jericho",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "杰里科：抢救发掘发现古代墓地",
+        "en": "Jericho: an ancient cemetery found during salvage work"
+      },
+      "description": {
+        "zh": "田野发现的初步报道；日期、来源和限制见链接页面。",
+        "en": "Preliminary field-discovery reporting; see the linked page for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-18-jericho.qmd",
+      "source_url": "https://english.wafa.ps/Pages/Details/176998",
+      "recorded_on": "2026-11-18",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-18-jericho.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）",
+          "sha256": "977f71d9e15ba4937c3c2cb8b4530dce564df1f991f329d0e773f05505ebd8d0"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-18-old-dongola",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "旧栋古拉：中世纪教堂地面发掘进展",
+        "en": "Old Dongola: progress reaching a medieval church floor"
+      },
+      "description": {
+        "zh": "既有遗址的田野进展报道；日期、来源和限制见链接页面。",
+        "en": "Fieldwork-progress reporting on a known site; see the linked page for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-18-old-dongola.qmd",
+      "source_url": "https://www.arabnews.com/middle-east/hidden-cathedral-floor-emerges-in-sudan-revealing-one-of-the-biggest-medieval-churches-3012316",
+      "recorded_on": "2026-11-18",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-18-old-dongola.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）",
+          "sha256": "977f71d9e15ba4937c3c2cb8b4530dce564df1f991f329d0e773f05505ebd8d0"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
     }
   ]
 }
