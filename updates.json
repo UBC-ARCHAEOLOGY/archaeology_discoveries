@@ -887,7 +887,7 @@
     },
     {
       "id": "report-2026-11-18-jericho",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "杰里科：抢救发掘发现古代墓地",
@@ -900,9 +900,19 @@
       "page": "reports/2026-11-18-jericho.qmd",
       "source_url": "https://english.wafa.ps/Pages/Details/176998",
       "recorded_on": "2026-11-18",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-18",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44132948837",
+        "published_at": "2026-11-17T17:08:26Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/11"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-18-jericho.qmd",
@@ -921,14 +931,17 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-16",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-18-jericho.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-18-old-dongola",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "旧栋古拉：中世纪教堂地面发掘进展",
@@ -941,9 +954,19 @@
       "page": "reports/2026-11-18-old-dongola.qmd",
       "source_url": "https://www.arabnews.com/middle-east/hidden-cathedral-floor-emerges-in-sudan-revealing-one-of-the-biggest-medieval-churches-3012316",
       "recorded_on": "2026-11-18",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-18",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44132948837",
+        "published_at": "2026-11-17T17:08:26Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/11"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-18-old-dongola.qmd",
@@ -962,9 +985,12 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-16",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-18-old-dongola.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）"
+        }
       }
     }
   ]
