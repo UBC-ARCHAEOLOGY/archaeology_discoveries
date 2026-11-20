@@ -995,7 +995,7 @@
     },
     {
       "id": "report-2026-11-21-laohudun",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "老虎墩：秦汉墓地的简牍与漆木器",
@@ -1008,9 +1008,19 @@
       "page": "reports/2026-11-21-laohudun.qmd",
       "source_url": "https://www.hbkgy.com/yjy_bydt/p/13194.html",
       "recorded_on": "2026-11-21",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-21",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44792662402",
+        "published_at": "2026-11-20T18:30:21Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/13"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-21-laohudun.qmd",
@@ -1029,14 +1039,17 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-18",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-21-laohudun.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-18（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-21-guangxi",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "广西：古人类牙齿鉴定与雨林适应研究",
@@ -1049,9 +1062,19 @@
       "page": "reports/2026-11-21-guangxi.qmd",
       "source_url": "https://doi.org/10.1038/s41586-026-11271-3",
       "recorded_on": "2026-11-21",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-21",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44792662402",
+        "published_at": "2026-11-20T18:30:21Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/13"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-21-guangxi.qmd",
@@ -1070,14 +1093,17 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-18",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-21-guangxi.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-18（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-21-lotschenpass",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "Lötschenpass：青铜时代颈环的新发现",
@@ -1090,9 +1116,19 @@
       "page": "reports/2026-11-21-lotschenpass.qmd",
       "source_url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=371a8ef7-aa1a-4f6c-a704-2912012bf111",
       "recorded_on": "2026-11-21",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-21",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44792662402",
+        "published_at": "2026-11-20T18:30:21Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/13"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-21-lotschenpass.qmd",
@@ -1111,14 +1147,17 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-18",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-21-lotschenpass.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-18（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-21-spitfire",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "Spitfire：昆士兰外海沉船定位",
@@ -1131,9 +1170,19 @@
       "page": "reports/2026-11-21-spitfire.qmd",
       "source_url": "https://www.defence.gov.au/news-events/releases/2026-11-19/shipwreck-australian-warship-found-off-queensland-coast",
       "recorded_on": "2026-11-21",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-21",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44792662402",
+        "published_at": "2026-11-20T18:30:21Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/13"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-21-spitfire.qmd",
@@ -1152,14 +1201,17 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-19",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-21-spitfire.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-19（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-21-calescoves",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "publication_added",
       "title": {
         "zh": "Calescoves：葬仪陶器中的乳制品与葡萄类残留",
@@ -1172,9 +1224,19 @@
       "page": "reports/2026-11-21-calescoves.qmd",
       "source_url": "https://www.uab.cat/en/prehistory/news/20261116/lletivi-menorca-en",
       "recorded_on": "2026-11-21",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-21",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44792662402",
+        "published_at": "2026-11-20T18:30:21Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/13"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-21-calescoves.qmd",
@@ -1193,14 +1255,17 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-16",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-21-calescoves.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）"
+        }
       }
     },
     {
       "id": "report-2026-11-21-jericho-followup",
-      "state": "proposed",
+      "state": "reviewed",
       "category": "research_update",
       "title": {
         "zh": "杰里科：墓葬建筑与葬具资料补充",
@@ -1213,9 +1278,19 @@
       "page": "reports/2026-11-18-jericho.qmd",
       "source_url": "https://www.uniroma1.it/en/node/558258",
       "recorded_on": "2026-11-21",
-      "website_updated_on": null,
-      "website_date_evidence": null,
-      "review": null,
+      "website_updated_on": "2026-11-21",
+      "website_date_evidence": {
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/actions/runs/44792662402",
+        "published_at": "2026-11-20T18:30:21Z",
+        "description": {
+          "zh": "报道页面已成功部署；网页日期按北京时间确认。",
+          "en": "Report pages successfully deployed; website day confirmed in Beijing time."
+        }
+      },
+      "review": {
+        "editor": "Zhichun Jing (owner-requested source-only reporting update; no formal-inclusion approval)",
+        "reference": "https://github.com/UBC-ARCHAEOLOGY/archaeology_discoveries/pull/13"
+      },
       "evidence": [
         {
           "path": "reports/2026-11-18-jericho.qmd",
@@ -1234,9 +1309,12 @@
         "evidence": null
       },
       "publication_date": {
-        "value": null,
-        "precision": "unknown",
-        "evidence": null
+        "value": "2026-11-18",
+        "precision": "day",
+        "evidence": {
+          "path": "reports/2026-11-18-jericho.qmd",
+          "quote": "**补充报道日期 / Follow-up report date:** 2026-11-18（Sapienza）"
+        }
       }
     }
   ]
