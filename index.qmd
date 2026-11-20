@@ -43,7 +43,7 @@ A major discovery is not simply a spectacular headline. We emphasize whether a f
 
 Verified website updates from the latest 7 calendar days (Beijing time, including today): newly included discoveries/reports, research updates, provisional ranking changes and other website changes. Retrospective records are excluded; an empty category does not prove that no changes occurred.
 
-[过去两天考古发现与报道：2026-11-18 核查 / Latest two-day archaeology digest](reports/2026-11-18.qmd){.updates-history-link}
+[本期考古报道：2026-11-15—21 / Read the latest archaeology weekly](reports/2026-11-21.qmd){.updates-history-link}
 
 ::: {.updates-home}
 :::

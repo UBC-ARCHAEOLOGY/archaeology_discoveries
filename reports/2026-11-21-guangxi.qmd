@@ -1,0 +1,37 @@
+---
+title: "广西：古人类牙齿鉴定与雨林适应研究 | Guangxi: hominin tooth identification and rainforest adaptation"
+---
+
+[返回本期周报 / Back to the weekly digest](2026-11-21.qmd)
+
+**资料性质 / Reporting type:** 既往发掘化石的系统发表 / Systematic publication of previously excavated fossils
+
+**报道日期 / Report date:** 2026-11-18（来源标示日期 / source-stated date）
+
+**收录范围 / Scope:** 本页是来源核查报道，不决定正式或候选收录，不赋予证据等级或排名。 / Source-checked reporting only; no formal/candidate admission, evidence grade or ranking assigned.
+
+## 报道摘要 | Report summary
+
+**中文。** 廖卫等与 Westaway 等的两篇论文分析岜仙洞、那线洞的 9 枚古人类牙齿，8 枚被归入直立人；5 枚开展古蛋白分析，其中 4 枚具有支持性蛋白特征。研究将材料约束在约 324,000—184,000 年前，并提出雨林资源利用的解释。
+
+**English.** Linked papers by Liao and colleagues and Westaway and colleagues examine 9 hominin teeth from Baxian and Naxian, assigning 8 to Homo erectus. Of 5 analysed proteomically, 4 show supporting protein variation. The studies constrain the material to approximately 324,000–184,000 years ago and propose rainforest resource use.
+
+## 日期与既往工作 | Dates and earlier work
+
+**中文。** 化石出自 2015—2022 年发掘。两篇 Nature 论文标示发表日为 2026-11-18，山东大学公告为 2026-11-19；期刊日期与机构报道日期分列。先前出土不自动等于已发表结论的再分析。
+
+**English.** The fossils come from excavations in 2015–2022. Both Nature papers list publication on 2026-11-18; Shandong University’s release is dated 2026-11-19. Paper and institutional-report dates remain separate. Earlier recovery alone does not establish reanalysis of a published conclusion.
+
+## 解释边界 | Limits of interpretation
+
+**中文。** 年龄范围不证明持续居住，洞穴堆积不等于居住遗址。PA1796 分类未定，不能称为已确认丹尼索瓦人。地层关联、堆积过程、测年与同位素空间解释仍需独立全文及补充材料审读。
+
+**English.** The age range does not prove continuous occupation, and cave deposits do not establish a habitation site. PA1796 remains unresolved, not a confirmed Denisovan. Associations, accumulation, dating and isotope interpretations require independent full-text and supplementary review.
+
+## 来源 | Sources
+
+- [Nature：两篇配套论文 / Two linked papers](https://doi.org/10.1038/s41586-026-11271-3)
+- [Westaway 等：环境与年代论文 / Environment and chronology](https://doi.org/10.1038/s41586-026-11155-6)
+- [山东大学：2026-11-19 / Shandong release](https://www.view.sdu.edu.cn/info/1003/215278.htm)
+
+[网页更新日志 / Website Update History](../update-history.qmd)

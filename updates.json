@@ -992,6 +992,252 @@
           "quote": "**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）"
         }
       }
+    },
+    {
+      "id": "report-2026-11-21-laohudun",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "老虎墩：秦汉墓地的简牍与漆木器",
+        "en": "Laohudun: manuscripts and lacquerware from Qin–Han tombs"
+      },
+      "description": {
+        "zh": "新田野材料的机构初报；日期、来源与限制见详情。",
+        "en": "Institutional preliminary report on new field material; see details for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-21-laohudun.qmd",
+      "source_url": "https://www.hbkgy.com/yjy_bydt/p/13194.html",
+      "recorded_on": "2026-11-21",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-21-laohudun.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-18（来源标示日期 / source-stated date）",
+          "sha256": "71810ada5b9b16d5fa46af0a9106521212bdad43ca59bd7b81908185bd01c18d"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-21-guangxi",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "广西：古人类牙齿鉴定与雨林适应研究",
+        "en": "Guangxi: hominin tooth identification and rainforest adaptation"
+      },
+      "description": {
+        "zh": "既往发掘化石的系统发表；日期、来源与限制见详情。",
+        "en": "Systematic publication of previously excavated fossils; see details for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-21-guangxi.qmd",
+      "source_url": "https://doi.org/10.1038/s41586-026-11271-3",
+      "recorded_on": "2026-11-21",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-21-guangxi.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-18（来源标示日期 / source-stated date）",
+          "sha256": "71810ada5b9b16d5fa46af0a9106521212bdad43ca59bd7b81908185bd01c18d"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-21-lotschenpass",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "Lötschenpass：青铜时代颈环的新发现",
+        "en": "Lötschenpass: a newly recovered Bronze Age neck ring"
+      },
+      "description": {
+        "zh": "已知山口的新田野物件；日期、来源与限制见详情。",
+        "en": "New field object at a known mountain pass; see details for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-21-lotschenpass.qmd",
+      "source_url": "https://www.be.ch/de/start/dienstleistungen/medien/medienmitteilungen.html?newsID=371a8ef7-aa1a-4f6c-a704-2912012bf111",
+      "recorded_on": "2026-11-21",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-21-lotschenpass.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-18（来源标示日期 / source-stated date）",
+          "sha256": "71810ada5b9b16d5fa46af0a9106521212bdad43ca59bd7b81908185bd01c18d"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-21-spitfire",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "Spitfire：昆士兰外海沉船定位",
+        "en": "Spitfire: a wreck located off Queensland"
+      },
+      "description": {
+        "zh": "沉船定位与初步记录；日期、来源与限制见详情。",
+        "en": "Wreck location and initial documentation; see details for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-21-spitfire.qmd",
+      "source_url": "https://www.defence.gov.au/news-events/releases/2026-11-19/shipwreck-australian-warship-found-off-queensland-coast",
+      "recorded_on": "2026-11-21",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-21-spitfire.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-19（来源标示日期 / source-stated date）",
+          "sha256": "f17d854a7e33fd47e10255777c28e540909b3ddc5ca53a2ffdfec39599752376"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-21-calescoves",
+      "state": "proposed",
+      "category": "publication_added",
+      "title": {
+        "zh": "Calescoves：葬仪陶器中的乳制品与葡萄类残留",
+        "en": "Calescoves: dairy and grape-derived residues in funerary pottery"
+      },
+      "description": {
+        "zh": "Reanalysis / 旧材料再分析报道；日期、来源与限制见详情。",
+        "en": "Reanalysis of previously excavated material; see details for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-21-calescoves.qmd",
+      "source_url": "https://www.uab.cat/en/prehistory/news/20261116/lletivi-menorca-en",
+      "recorded_on": "2026-11-21",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-21-calescoves.qmd",
+          "quote": "**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）",
+          "sha256": "977f71d9e15ba4937c3c2cb8b4530dce564df1f991f329d0e773f05505ebd8d0"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "id": "report-2026-11-21-jericho-followup",
+      "state": "proposed",
+      "category": "research_update",
+      "title": {
+        "zh": "杰里科：墓葬建筑与葬具资料补充",
+        "en": "Jericho: architectural and burial evidence update"
+      },
+      "description": {
+        "zh": "同一线索的机构资料补充，不重复计发现；日期、来源与限制见详情。",
+        "en": "Institutional evidence update to the same lead, not a second discovery; see details for dates, sources and limitations."
+      },
+      "page": "reports/2026-11-18-jericho.qmd",
+      "source_url": "https://www.uniroma1.it/en/node/558258",
+      "recorded_on": "2026-11-21",
+      "website_updated_on": null,
+      "website_date_evidence": null,
+      "review": null,
+      "evidence": [
+        {
+          "path": "reports/2026-11-18-jericho.qmd",
+          "quote": "**补充报道日期 / Follow-up report date:** 2026-11-18（Sapienza）",
+          "sha256": "7c60720b4d1aebc028bd69ced93dfce8f86ba1ab452979591fb19a82cf52bb69"
+        }
+      ],
+      "discovery_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "announcement_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      },
+      "publication_date": {
+        "value": null,
+        "precision": "unknown",
+        "evidence": null
+      }
     }
   ]
 }
