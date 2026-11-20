@@ -1,0 +1,37 @@
+---
+title: "Calescoves：葬仪陶器中的乳制品与葡萄类残留 | Calescoves: dairy and grape-derived residues in funerary pottery"
+---
+
+[返回本期周报 / Back to the weekly digest](2026-11-21.qmd)
+
+**资料性质 / Reporting type:** Reanalysis / 旧材料再分析报道 / Reanalysis of previously excavated material
+
+**报道日期 / Report date:** 2026-11-16（来源标示日期 / source-stated date）
+
+**收录范围 / Scope:** 本页是来源核查报道，不决定正式或候选收录，不赋予证据等级或排名。 / Source-checked reporting only; no formal/candidate admission, evidence grade or ranking assigned.
+
+## 报道摘要 | Report summary
+
+**中文。** Carbonell Pastor、Coll Sabater 与 Breu Barcons 研究第 45 号墓相关的 34 件陶器残留，将本地高底器与乳制品、部分外来风格的本地器物与葡萄类产品相联系。论文使用“葡萄类产品”，机构稿解释为葡萄酒。
+
+**English.** Carbonell Pastor, Coll Sabater and Breu Barcons analyse residues in 34 vessels associated with Cave 45, linking local high-bottomed forms with dairy and some locally made, foreign-inspired forms with grape-derived products. The paper uses “grape-derived products”; the institutional release interprets wine.
+
+## 日期与既往工作 | Dates and earlier work
+
+**中文。** 器物出土于 2023、2024 年。论文首次在线与 UAB 公告均为 2026-11-16；Phys.org 已于 2026-11-15 刊出该机构的研究报道，因此不能把 16 日写成首次公开。
+
+**English.** The vessels were recovered in 2023 and 2024. First online publication and the UAB release are dated 2026-11-16; Phys.org carried university-provided coverage on 2026-11-15, so the 16th is not treated as first publicity.
+
+## 解释边界 | Limits of interpretation
+
+**中文。** 本页保留摘要与机构解释的差别，不把葡萄残留直接等同于确认发酵酒。论文全文、污染对照和逐件判据本轮尚未完成核查，也不采用“首次证明葡萄酒祭祀”作结论。
+
+**English.** The abstract and institutional interpretation remain distinct; grape residues are not equated with confirmed fermentation. Full-text methods, contamination controls and vessel-level criteria were not completely checked, and a first-proof-of-wine-ritual conclusion is not adopted.
+
+## 来源 | Sources
+
+- [UAB 与论文 / UAB and research paper](https://www.uab.cat/en/prehistory/news/20261116/lletivi-menorca-en)
+- [论文 DOI / Paper DOI](https://doi.org/10.1016/j.jas.2026.106719)
+- [较早报道：2026-11-15 / Earlier coverage](https://phys.org/news/2026-11-wine-menorcan-funerary-rituals-years.html)
+
+[网页更新日志 / Website Update History](../update-history.qmd)

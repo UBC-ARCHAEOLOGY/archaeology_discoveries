@@ -22,6 +22,8 @@ title: "来源与编辑原则 | Sources & Editorial Policy"
 
 ## 近期考古报道 | Recent archaeology reporting
 
+[2026-11-15—21：五篇新报道与杰里科资料补充 / Five reports and a Jericho follow-up](reports/2026-11-21.qmd)。发现、报道、网页更新日期分列。 / Discovery, report and website-update dates remain separate.
+
 [2026-11-18 核查：过去两天的两则报道 / Two reports from the latest two-day check](reports/2026-11-18.qmd)。分别标示田野发现初报与既有遗址新报道。 / Preliminary field discoveries and new reporting on known sites are distinguished.
 
 [2026-11-10—16：六则来源核查报道 / Six source-checked reports](reports/2026-11-16.qmd)。每则分列报道与既往工作日期，保留解释限制，不自动产生正式条目或排名。 / Each separates reporting from earlier work and records limitations; no formal entries or ranks are created automatically.

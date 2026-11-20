@@ -1,0 +1,57 @@
+---
+title: "考古报道周报：2026-11-15—21 | Archaeology Weekly: 15–21 November 2026"
+---
+
+本期依据编辑提供的双语审阅稿，核查至北京时间 **2026-11-21 01:45**；窗口起于 **2026-11-15 00:00**，最后一天尚未结束。来源只标日期时保留原精度，不伪造时区。报道、发现及网页更新日期分别记录，不声称覆盖所有全球新发现。
+
+Based on the supplied bilingual editorial draft, this edition covers **2026-11-15 00:00–2026-11-21 01:45 Beijing time**; the final day is incomplete. Source dates retain their stated precision without invented timezones. Reporting, discovery and website-update dates remain separate; this is not an exhaustive global census.
+
+本期为五篇新报道及一则既有报道补充，不新增正式或候选发现。既有 **33** 项正式发现、**44** 个排名、**11** 项待评估、证据等级及编辑决定保持不变；无排名调整。老虎墩与广西研究的独立学术深审尚未完成。
+
+This edition adds five reports and one follow-up to an existing report, not formal or candidate discoveries. The existing **33** formal discoveries, **44** ranking positions, **11** under-review projects, grades and editorial decisions remain unchanged; there is no ranking change. Independent scholarly review of Laohudun and the Guangxi studies remains outstanding.
+
+## 本期报道 | This edition
+
+### [老虎墩：秦汉墓地的简牍与漆木器 | Laohudun: manuscripts and lacquerware from Qin–Han tombs](2026-11-21-laohudun.qmd)
+
+2026-11-18 · 新田野材料的机构初报 / Institutional preliminary report on new field material
+
+[阅读摘要、日期和限制 / Summary, dates and limitations](2026-11-21-laohudun.qmd)
+
+### [广西：古人类牙齿鉴定与雨林适应研究 | Guangxi: hominin tooth identification and rainforest adaptation](2026-11-21-guangxi.qmd)
+
+2026-11-18 · 既往发掘化石的系统发表 / Systematic publication of previously excavated fossils
+
+[阅读摘要、日期和限制 / Summary, dates and limitations](2026-11-21-guangxi.qmd)
+
+### [杰里科：墓葬建筑与葬具资料补充 | Jericho: architectural and burial evidence update](2026-11-18-jericho.qmd) {#jericho-update}
+
+2026-11-18 · Sapienza · 既有报道补充，不重复计发现 / Follow-up to an existing report, not a second discovery
+
+[在原报道页阅读补充及对应关系限制 / Read the follow-up and identity limitations on the existing page](2026-11-18-jericho.qmd)
+
+### [Lötschenpass：青铜时代颈环的新发现 | Lötschenpass: a newly recovered Bronze Age neck ring](2026-11-21-lotschenpass.qmd)
+
+2026-11-18 · 已知山口的新田野物件 / New field object at a known mountain pass
+
+[阅读摘要、日期和限制 / Summary, dates and limitations](2026-11-21-lotschenpass.qmd)
+
+### [Spitfire：昆士兰外海沉船定位 | Spitfire: a wreck located off Queensland](2026-11-21-spitfire.qmd)
+
+2026-11-19 · 沉船定位与初步记录 / Wreck location and initial documentation
+
+[阅读摘要、日期和限制 / Summary, dates and limitations](2026-11-21-spitfire.qmd)
+
+### [Calescoves：葬仪陶器中的乳制品与葡萄类残留 | Calescoves: dairy and grape-derived residues in funerary pottery](2026-11-21-calescoves.qmd)
+
+2026-11-16 · Reanalysis / 旧材料再分析报道 / Reanalysis of previously excavated material
+
+[阅读摘要、日期和限制 / Summary, dates and limitations](2026-11-21-calescoves.qmd)
+
+## 范围与后续审阅 | Scope and further review
+
+本期包括中国、欧洲、中东及澳大利亚的报道。欧亚身高综合研究、Old Kapan、桃花河、反山、岭头上、Ballymacombs More Woman、Tell Kom Abu Billo 与 El Mirador 保留为编辑跟踪线索，未作新的候选或 HOLD 决定。美洲、非洲等地区的覆盖仍有缺口，不为地域配额将未核实增量写成新发现。独立深审顺序不构成年度排名。
+
+The selection covers China, Europe, the Middle East and Australia. The Eurasian stature synthesis, Old Kapan, Taohuahe, Fanshan, Lingtoushang, Ballymacombs More Woman, Tell Kom Abu Billo and El Mirador remain editorial tracking leads, not new candidate or HOLD decisions. Coverage gaps remain in the Americas, Africa and elsewhere; unverified increments are not promoted to fill regional quotas. Review priorities are not annual rankings.
+
+[网页更新日志 / Website Update History](../update-history.qmd) · [上一期两日简报 / Previous two-day digest](2026-11-18.qmd) · [报道来源 / Sources](../sources.qmd)
