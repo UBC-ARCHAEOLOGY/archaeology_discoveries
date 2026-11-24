@@ -24,13 +24,23 @@ title: "广西：古人类牙齿鉴定与雨林适应研究 | Guangxi: hominin t
 
 ## 解释边界 | Limits of interpretation
 
-**中文。** 年龄范围不证明持续居住，洞穴堆积不等于居住遗址。PA1796 分类未定，不能称为已确认丹尼索瓦人。地层关联、堆积过程、测年与同位素空间解释仍需独立全文及补充材料审读。
+**中文。** 年龄范围不证明持续居住，洞穴堆积不等于居住遗址。PA1796 分类未定，不能称为已确认丹尼索瓦人。地层关联、堆积过程、测年与同位素空间解释的补充审读见下。
 
-**English.** The age range does not prove continuous occupation, and cave deposits do not establish a habitation site. PA1796 remains unresolved, not a confirmed Denisovan. Associations, accumulation, dating and isotope interpretations require independent full-text and supplementary review.
+**English.** The age range does not prove continuous occupation, and cave deposits do not establish a habitation site. PA1796 remains unresolved, not a confirmed Denisovan. Associations, accumulation, dating and isotope interpretations are reviewed further below.
+
+## 补充证据审读 | Evidence review {#evidence-review-2026-11-24}
+
+**评议。** 两篇论文的证据应分层理解。岜仙洞 3 枚、那线洞 6 枚牙齿合计 9 枚，不等于 9 个人。作者综合归入直立人 8 枚；5 枚做了牙釉质蛋白分析，其中 4 枚的蛋白特征支持这一归属。岜仙洞 PA1796 的形态和蛋白信号有别，可能代表另一人群，但不显示现有参照中的已知丹尼索瓦人蛋白变异，不能据此确认身份。含化石沉积的模型年代约为岜仙洞距今 32.4 万至 18.4 万年、那线洞距今 31.9 万至 24.1 万年；这不是逐牙直接测年，重叠不证明两类人群同地同时生活。
+
+**Assessment.** The two papers support different kinds of claims. Three Baxian and six Naxian teeth make nine specimens, not nine individuals. The authors assign eight teeth to *Homo erectus* overall; five teeth were examined proteomically, four with enamel-protein variation supporting that assignment. Baxian PA1796 differs in morphology and proteins and may represent another population, but it does not display the known Denisovan protein variation in available reference material. Modelled fossil-bearing deposit ages are approximately 324,000–184,000 years at Baxian and 319,000–241,000 at Naxian. They are not direct dates of individual teeth, and overlap does not establish co-presence.
+
+**评议。** 动物群和环境指标支持森林环境。那线洞 3 枚牙齿的碳同位素与利用森林资源相容，但不能据此证明只在闭合冠层下觅食。4 枚牙齿的锶同位素可提示幼年接触不同地质区的资源，不能单独判定本人去过何处。环境论文图 3c 使用 0.724 作地理匹配值，而 PA1799 的个体剖面上限报告为 0.7220（扩展数据图 10，另见补充说明 §11）。两者对应关系未厘清；即使数值核定，地理匹配也非唯一。因此不采用确定路线或移动距离。详见下方两篇原文。
+
+**Assessment.** Faunal and environmental data support forested conditions. Carbon measurements from three Naxian teeth are consistent with forest-resource use, but do not show exclusive feeding under closed canopy. Strontium from four teeth suggests childhood access to resources from different geological settings, not a unique travel route. Figure 3c uses 0.724 for a geographic assignment; the reported PA1799 individual profile tops out at 0.7220 (Extended Data Fig. 10; see also Supplementary Information §11). The correspondence is unresolved, and matching is geographically non-unique even if the value is reconciled. No definitive route or distance is therefore adopted. See both papers below.
 
 ## 来源 | Sources
 
-- [Nature：两篇配套论文 / Two linked papers](https://doi.org/10.1038/s41586-026-11271-3)
+- [廖卫等：牙齿鉴定论文 / Liao et al., tooth identification](https://doi.org/10.1038/s41586-026-11271-3)
 - [Westaway 等：环境与年代论文 / Environment and chronology](https://doi.org/10.1038/s41586-026-11155-6)
 - [山东大学：2026-11-19 / Shandong release](https://www.view.sdu.edu.cn/info/1003/215278.htm)
 

@@ -1,0 +1,31 @@
+---
+title: "考古报道补报：2026-11-21—24 | Archaeology update: 21–24 November 2026"
+---
+
+本期接续[上一期周报](2026-11-21.qmd)，检索窗口为北京时间 **2026-11-21 01:45 至 2026-11-24 08:41**。这是一份滚动补报，不是完整七天的统计。按发掘方、研究机构和期刊资料核查日期与实质新增内容；仅有当地日期的来源不推定具体时刻。另对上期两则中国报道补做证据审读，更新原页，不重复计为新发现。
+
+This update follows the [previous weekly digest](2026-11-21.qmd) and covers **21 November 2026, 01:45 to 24 November 2026, 08:41 Beijing time**. It is a rolling supplement, not a seven-day census. Excavator, institutional and journal sources were checked for dates and substantive additions; no precise timestamp is inferred from a date-only source. Two Chinese reports from the previous issue were reviewed in more depth and updated in place, not counted as new discoveries.
+
+## 新核实的田野进展 | Newly verified fieldwork
+
+### [卡纳瓦尔泰佩：晚铜石并用时代的房屋与泥封 | Canavartepe: Late Chalcolithic houses and clay sealings](2026-11-24-canavartepe.qmd)
+
+**中文。** 阿塞拜疆发掘机构 11 月 23 日发布 2026 年田野材料：圆角长方形半地穴式房屋、相通的多室建筑及泥封，为比较聚落内部空间和封缄活动提供新证据。这是已知遗址的新进展，并非新发现的遗址。
+
+**English.** The excavating institute’s 23 November field report documents a rounded-corner rectangular semi-subterranean house, an interconnected multi-room structure and clay sealings. The finds add evidence about spatial organization and sealing practices at an already known site.
+
+## 上期报道的证据审读 | Evidence review of two previous reports
+
+- [湖北云梦老虎墩 / Laohudun, Hubei](2026-11-21-laohudun.qmd#evidence-review-2026-11-24)：秦墓 M116 的 50 枚竹简把县以下防务落实到赤丘、步东两亭的具体记录；簿籍不等于实际战备，完整释文尚未公布。 / Fifty bamboo slips from Qin tomb M116 give unusually specific evidence for local defence records at Chiqiu and Budong. An inventory is not evidence of actual readiness, and a full transcription has not yet been released with the briefing.
+- [广西崇左古人类牙齿 / Hominin teeth from Chongzuo, Guangxi](2026-11-21-guangxi.qmd#evidence-review-2026-11-24)：八枚牙齿归入直立人，其中四枚有牙釉质蛋白证据支持；环境适应、具体移动路线和另一枚牙齿的身份需分别判断。 / Eight teeth were assigned to *Homo erectus*, four with supporting enamel-protein evidence. Habitat use, travel routes and the identity of the remaining tooth require separate judgments.
+
+## 未列为新发现 | Not treated as new discoveries
+
+- **墨西哥 Yotzin / Yotzin, Mexico。** [墨西哥国家人类学与历史研究所简报 / INAH bulletin](https://www.inah.gob.mx/boletines/fechamiento-arroja-antigueedad-de-13-000-anos-para-el-esqueleto-humano-yotzin) 标为墨西哥当地 11 月 20 日，无确切时间，无法判明在本期北京时间起点哪一侧。骨骼出自 2021 年，增量是测年；两项公布年龄区间不重合，不能合成一个精确年代。 / The date-only institutional announcement falls near the time-zone boundary. The skeleton was recovered in 2021; the update concerns dating. The two reported age intervals do not overlap and should not be collapsed into one precise age.
+- **美国楠塔基特岛北岸 / Nantucket North Shore, USA。** [11 月 23 日报道 / 23 November account](https://nantucketcurrent.com/news/shipwreck-remains-uncovered-on-nantuckets-north-shore-after-fall-noreaster) 引述海事机构的初步检查；船材年代和所属船只尚未确认。 / The account attributes the preliminary inspection to the maritime institute; the date and identity of the timbers remain unverified.
+- **巴拿马 El Caño / El Caño, Panama。** 11 月传播的墓葬消息须与[文化部 2 月的 3 号墓公告 / February ministry release on Tomb 3](https://micultura.gob.pa/en/2026/02/20/excavacion-en-la-tumba-3-en-el-cano-un-hallazgo-de-mas-de-mil-anos-que-fortalece-el-patrimonio-arqueologico-de-panama/)及[10 月的 9 号墓展览资料 / October exhibition release on Tomb 9](https://micultura.gob.pa/2026/10/27/ministerio-de-cultura-y-fundacion-el-cano-presentan-la-exhibicion-el-ultimo-vuelo-del-chaman/)区分，不据转载日期登记为新出土。 / Recent circulation does not establish fresh excavation; the February Tomb 3 announcement and the October exhibition of Tomb 9 material are distinct.
+- **埃及 Qubbet el-Hawa / Qubbet el-Hawa, Egypt。** [哈恩大学 11 月 23 日消息 / 23 November University of Jaén release](https://diariodigital.ujaen.es/investigacion-y-transferencia/el-embajador-de-espana-en-egipto-visita-los-trabajos-arqueologicos) 核实了正在进行的田野工作及考察访问，未核实传述的新墓编号、组合或断代。 / The university documents ongoing work and a visit, not the purported new tomb identifiers, assemblages or dates.
+
+本期没有调整 **33 项正式收录、11 项待评估、44 项暂定排名**，也未改证据等级或央视候选身份。未找到足够证据的地区不凑数。 / The **33 formal entries, 11 under review and 44 ranked entries** remain unchanged, as do grades and CCTV status. Regions are not represented by unverified items for the sake of coverage.
+
+[网页更新日志 / Website Update History](../update-history.qmd)
