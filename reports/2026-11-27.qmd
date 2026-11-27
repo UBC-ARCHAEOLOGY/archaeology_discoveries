@@ -2,9 +2,9 @@
 title: "考古报道补报：2026-11-24—27 | Archaeology update: 24–27 November 2026"
 ---
 
-本期接续[11 月 24 日补报](2026-11-24.qmd)，检索范围自北京时间 **11 月 24 日 08:41** 至 **11 月 27 日**，按来源所载当地日期注明公布或发表时间；仅有日期的消息不补推时刻。田野工作日期、公布日期和论文日期分别处理。本期收录三则田野消息和两项研究进展，不是全球发现的完整统计。
+本期接续[11 月 24 日补报](2026-11-24.qmd)，检索范围自北京时间 **11 月 24 日 08:41** 至 **11 月 27 日**，按来源所载当地日期注明公布或发表时间；仅有日期的消息不补推时刻。田野工作日期、公布日期和论文日期分别处理。本期收录三则田野消息和三项研究进展，不是全球发现的完整统计。
 
-This supplement follows the [24 November digest](2026-11-24.qmd), covering the interval from **08:41 Beijing time on 24 November through 27 November**. Announcements and publications retain the dates given by their sources; no exact time is inferred from a date alone. Fieldwork, announcements and publication are dated separately. The three field reports and two research updates are a selection, not a global census.
+This supplement follows the [24 November digest](2026-11-24.qmd), covering the interval from **08:41 Beijing time on 24 November through 27 November**. Announcements and publications retain the dates given by their sources; no exact time is inferred from a date alone. Fieldwork, announcements and publication are dated separately. The three field reports and three research updates are a selection, not a global census.
 
 ## 田野进展 | Fieldwork
 
@@ -39,6 +39,12 @@ This supplement follows the [24 November digest](2026-11-24.qmd), covering the i
 **中文。** Jennings 等 11 月 26 日发表的研究，结合沃特福德郡洞穴新发掘与 1878–1882 年馆藏的再分析。在旧藏的两件巨鹿肢骨上，研究团队识别出疑似劈砍与敲击痕迹；其中跖骨的直接放射性碳年代为距今 13,573–13,321 校正年。年代测定针对骨骼，痕迹是否由人造成仍待确认：表面风化使显微条纹难以辨认，也没有与这些骨骼直接关联的石器。新发掘证实洞内仍有保存的冰期沉积，但不应把新发掘中的层位倒用于 19 世纪旧藏。若人为加工得到证实，才有理由把爱尔兰已知人类活动向前推。[论文](https://doi.org/10.1353/ria.0.a1009058)；[研究团队所在大学的说明](https://www.ljmu.ac.uk/about-us/news/articles/2026/11/26/ireland-human-inhabitation)
 
 **English.** Jennings and colleagues’ 26 November study combines new excavation in County Waterford with reanalysis of the 1878–1882 museum collection. Two giant deer limb bones from the legacy collection have possible chopping or percussion marks. Direct radiocarbon dating places the metatarsal at 13,573–13,321 calibrated years BP. The date is for the bone; a human origin for the marks remains unconfirmed. Weathering obscured microscopic striations and no stone tools are directly associated with these specimens. The new trenches establish that intact Ice Age sediments survive, but their stratigraphy cannot be assigned retrospectively to the legacy bones. An earlier date for human activity in Ireland depends on confirming the marks as anthropogenic. [Paper](https://doi.org/10.1353/ria.0.a1009058); [research team’s university release](https://www.ljmu.ac.uk/about-us/news/articles/2026/11/26/ireland-human-inhabitation)
+
+### 丹麦西西兰岛：通道墓陶器的腐蚀与食物加工 | Western Zealand, Denmark: pottery corrosion and food processing in passage tombs {#danish-pottery}
+
+**中文。** Claudi-Hansen 等在 11 月 26 日发表于《Antiquity》的研究中，将新石器时代陶器的使用痕迹与复原陶器实验对照。31 件带腐蚀痕迹的古代陶器中，29 件出自通道墓墓室；这个比例描述的是受腐蚀器物的出土情境，并非墓室陶器的乳制品检出率。牛奶在实验容器中经过 10 周的微生物作用，形成了与部分古器相似的点蚀和剥落；在该实验条件下，啤酒和蜂蜜酒没有产生同样的腐蚀。实验支持乳制品加工这一解释，但腐蚀不能单独鉴定原盛物，也不能证明仪式上倒洒过乳品。[期刊论文](https://doi.org/10.15184/aqy.2026.10483)
+
+**English.** In a 26 November *Antiquity* paper, Claudi-Hansen and colleagues compare use traces on Neolithic pottery with experiments on reconstructed vessels. Of 31 ancient vessels showing corrosion, 29 came from passage-tomb chambers. This is the context distribution of corroded vessels, not a dairy detection rate for tomb pottery. After 10 weeks of microbial activity, the milk vessel developed pitting and spalling comparable to some archaeological traces; beer and mead did not produce that corrosion under the conditions tested. This makes dairy processing a plausible explanation, but surface corrosion alone cannot identify the former contents or demonstrate a milk libation. [Journal article](https://doi.org/10.15184/aqy.2026.10483)
 
 ## 收录说明 | Editorial scope
 
