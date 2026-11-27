@@ -40,3 +40,5 @@ The weekly window uses Beijing time (Asia/Shanghai); website dates with UTC depl
 - [2026-11-15—21：考古报道周报 / Archaeology Weekly](reports/2026-11-21.qmd)
 
 - [2026-11-21—24：考古报道补报与两项证据审读 / Archaeology update and two evidence reviews](reports/2026-11-24.qmd)
+
+- [2026-11-24—27：田野与研究进展 / Fieldwork and research update](reports/2026-11-27.qmd)

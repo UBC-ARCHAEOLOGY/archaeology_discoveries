@@ -1,0 +1,55 @@
+---
+title: "考古报道补报：2026-11-24—27 | Archaeology update: 24–27 November 2026"
+---
+
+本期接续[11 月 24 日补报](2026-11-24.qmd)，检索范围自北京时间 **11 月 24 日 08:41** 至 **11 月 27 日**，按来源所载当地日期注明公布或发表时间；仅有日期的消息不补推时刻。田野工作日期、公布日期和论文日期分别处理。本期收录三则田野消息和三项研究进展，不是全球发现的完整统计。
+
+This supplement follows the [24 November digest](2026-11-24.qmd), covering the interval from **08:41 Beijing time on 24 November through 27 November**. Announcements and publications retain the dates given by their sources; no exact time is inferred from a date alone. Fieldwork, announcements and publication are dated separately. The three field reports and three research updates are a selection, not a global census.
+
+## 田野进展 | Fieldwork
+
+### 埃及亚历山大城：古王区的大型建筑基址 | Alexandria, Egypt: a monumental foundation in the Royal Quarter {#alexandria}
+
+**中文。** 埃及国家信息服务局 11 月 24 日转述文物部门消息：希腊考古队在亚历山大城 Shallalat 花园发现大型石灰岩基础，周边有墙体，下方有通道。新材料有助于恢复古王区的建筑布局。考察委员会提出托勒密王室陵墓的可能性，但公布材料不足以确定建筑用途或墓主人。本期按可核的政府报道日期收录，不把后来报道的日期当作发现日期。[埃及国家信息服务局](https://sis.gov.eg/en/media-center/news/greek-mission-uncovers-massive-structure-in-alexandria-s-ancient-royal-quarter/)
+
+**English.** On 24 November Egypt’s State Information Service reported that a Greek mission had uncovered massive limestone foundations in Alexandria’s Shallalat Gardens, with surrounding walls and a passage beneath. The remains add evidence for the layout of the ancient Royal Quarter. A committee raised the possibility of a Ptolemaic royal tomb, but the published evidence does not establish the building’s function or identify an occupant. The source date is the date of this government report, not the date of discovery. [State Information Service](https://sis.gov.eg/en/media-center/news/greek-mission-uncovers-massive-structure-in-alexandria-s-ancient-royal-quarter/)
+
+### 西班牙加泰罗尼亚：山地调查记录三处遗址 | Catalonia, Spain: three sites documented in a mountain survey {#catalonia}
+
+**中文。** 加泰罗尼亚古典考古研究所（ICAC）11 月 25 日公布与 IPHES 的联合调查。托尔托萨山区记录了一处史前洞穴遗址和两处有罗马时期或中世纪活动证据的地点，三处海拔均超过 1,000 米。另一处早已为人所知的 Mola de Genessies，地表材料指向史前和晚期罗马两个阶段；团队以摄影测量绘制平面，并开了两处小探沟。地表材料提示活动年代，尚不能用来给地面墙体断代。[ICAC 田野简报](https://icac.cat/en/actualitat/noticies/2026/first-archaeological-survey-campaign-in-the-vandellos-mountain-ranges-and-the-ports-de-tortosa-comes-to-an-end/)
+
+**English.** On 25 November the Catalan Institute of Classical Archaeology (ICAC) reported results from its survey with IPHES. The team documented a prehistoric cave site and two sites with Roman or medieval evidence in the Ports de Tortosa; all three lie above 1,000 metres. At the separately investigated, previously known Mola de Genessies, surface finds suggest prehistoric and Late Roman activity. The team mapped the site photogrammetrically and opened two small trenches. Surface finds alone do not date the standing walls. [ICAC field report](https://icac.cat/en/actualitat/noticies/2026/first-archaeological-survey-campaign-in-the-vandellos-mountain-ranges-and-the-ports-de-tortosa-comes-to-an-end/)
+
+### 波兰巴拉努夫：已知墓地的抢救发掘完成 | Baranów, Poland: rescue excavation of a known cemetery {#baranow}
+
+**中文。** Port Polska 11 月 26 日公布机场工程前的发掘结果：自 2023 年以来，调查及发掘范围逾 1 公顷，出土数千件器物。墓地以火葬为主，出土骨灰瓮、盾脐、饰品等。初步归入普热沃斯克文化。这处墓地在 20 世纪 60 年代末至 70 年代初的地表调查中已发现；本次增量是对墓地范围和组合的发掘记录。器物数不等于墓葬数，邻近聚落是否确与墓地同期仍待核实。[工程方公告（波兰语）](https://portpolska.pl/pl/aktualnosci-2/tysiace-zabytkow-sprzed-ponad-2-tys-lat-archeolodzy-zbadali-cmentarzysko-pod-baranowem)
+
+**English.** On 26 November Port Polska reported results from rescue excavations ahead of airport construction. Work beginning in 2023 investigated more than 1 hectare and recovered thousands of objects. Cremations predominate; the finds include urns, shield bosses and ornaments. The preliminary attribution is to the Przeworsk culture. The cemetery was identified in surface survey in the late 1960s or early 1970s; the new evidence is the excavated extent and assemblage. The object count is not a grave count, and contemporaneity with the nearby settlement remains to be demonstrated. [Project announcement (Polish)](https://portpolska.pl/pl/aktualnosci-2/tysiace-zabytkow-sprzed-ponad-2-tys-lat-archeolodzy-zbadali-cmentarzysko-pod-baranowem)
+
+## 研究进展 | Research
+
+### 中国广西：龙穿洞与穿山洞的古人类牙齿 | Guangxi, China: hominin teeth from Longchuandong and Chuanshandong {#guangxi-homo}
+
+**中文。** Xing 等在 11 月 25 日出版的《Nature》论文中报告两洞的 4 枚离散人牙，其中 3 枚用于牙釉质古蛋白分析。鹿寨龙穿洞的两枚牙分别给出了约 104,500 年和 42,600 年的铀系年龄估计，不能理解为连续居住期。牙齿形态与蛋白变异共同支持其丹尼索瓦人亲和性。隆安穿山洞的最小年龄估计约为 100,800 年；其牙形与蛋白变异组合不同，亲缘归属尚未确定，不能据此命名一个新种。两洞均无与人牙共出的石器或其他文化遗物；沉积和化石年龄的差异也提醒我们，不能把材料放入同一次洞穴占用。云南蝙蝠洞是论文的比较样本，而非这批人牙的产地；详见[云南原条目的跨地区研究链接](../discoveries/04-denisovans-yunnan.qmd#related-guangxi-2026-11)。[论文及补充材料](https://doi.org/10.1038/s41586-026-11341-6)
+
+**English.** Xing and colleagues’ *Nature* paper, published on 25 November, reports four isolated hominin teeth from two Guangxi caves; three were sampled for enamel palaeoproteomics. The two Longchuandong teeth from Luzhai gave separate uranium-series age estimates of about 104,500 and 42,600 years, not a continuous occupation span. Dental morphology and protein variants together support Denisovan affinity. At Chuanshandong in Long’an the estimated minimum age is about 100,800 years. Its combination of dental and protein traits differs, but the taxonomic affinity remains unresolved; the study does not name a new species. Neither cave yielded stone tools or other cultural material associated with the teeth, and deposition cannot be equated with a single occupation. Yunnan’s Bianfu Cave provided comparative specimens; it is not where these teeth were found. See the [cross-reference on the Bianfu entry](../discoveries/04-denisovans-yunnan.qmd#related-guangxi-2026-11). [Paper and supplementary materials](https://doi.org/10.1038/s41586-026-11341-6)
+
+### 爱尔兰巴利纳明特拉洞穴：巨鹿骨上的疑似屠宰痕迹 | Ballynamintra Cave, Ireland: possible butchery marks on giant deer bones {#ballynamintra}
+
+**中文。** Jennings 等 11 月 26 日发表的研究，结合沃特福德郡洞穴新发掘与 1878–1882 年馆藏的再分析。在旧藏的两件巨鹿肢骨上，研究团队识别出疑似劈砍与敲击痕迹；其中跖骨的直接放射性碳年代为距今 13,573–13,321 校正年。年代测定针对骨骼，痕迹是否由人造成仍待确认：表面风化使显微条纹难以辨认，也没有与这些骨骼直接关联的石器。新发掘证实洞内仍有保存的冰期沉积，但不应把新发掘中的层位倒用于 19 世纪旧藏。若人为加工得到证实，才有理由把爱尔兰已知人类活动向前推。[论文](https://doi.org/10.1353/ria.0.a1009058)；[研究团队所在大学的说明](https://www.ljmu.ac.uk/about-us/news/articles/2026/11/26/ireland-human-inhabitation)
+
+**English.** Jennings and colleagues’ 26 November study combines new excavation in County Waterford with reanalysis of the 1878–1882 museum collection. Two giant deer limb bones from the legacy collection have possible chopping or percussion marks. Direct radiocarbon dating places the metatarsal at 13,573–13,321 calibrated years BP. The date is for the bone; a human origin for the marks remains unconfirmed. Weathering obscured microscopic striations and no stone tools are directly associated with these specimens. The new trenches establish that intact Ice Age sediments survive, but their stratigraphy cannot be assigned retrospectively to the legacy bones. An earlier date for human activity in Ireland depends on confirming the marks as anthropogenic. [Paper](https://doi.org/10.1353/ria.0.a1009058); [research team’s university release](https://www.ljmu.ac.uk/about-us/news/articles/2026/11/26/ireland-human-inhabitation)
+
+### 丹麦西西兰岛：通道墓陶器的腐蚀与食物加工 | Western Zealand, Denmark: pottery corrosion and food processing in passage tombs {#danish-pottery}
+
+**中文。** Claudi-Hansen 等在 11 月 26 日发表于《Antiquity》的研究中，将新石器时代陶器的使用痕迹与复原陶器实验对照。31 件带腐蚀痕迹的古代陶器中，29 件出自通道墓墓室；这个比例描述的是受腐蚀器物的出土情境，并非墓室陶器的乳制品检出率。牛奶在实验容器中经过 10 周的微生物作用，形成了与部分古器相似的点蚀和剥落；在该实验条件下，啤酒和蜂蜜酒没有产生同样的腐蚀。实验支持乳制品加工这一解释，但腐蚀不能单独鉴定原盛物，也不能证明仪式上倒洒过乳品。[期刊论文](https://doi.org/10.15184/aqy.2026.10483)
+
+**English.** In a 26 November *Antiquity* paper, Claudi-Hansen and colleagues compare use traces on Neolithic pottery with experiments on reconstructed vessels. Of 31 ancient vessels showing corrosion, 29 came from passage-tomb chambers. This is the context distribution of corroded vessels, not a dairy detection rate for tomb pottery. After 10 weeks of microbial activity, the milk vessel developed pitting and spalling comparable to some archaeological traces; beer and mead did not produce that corrosion under the conditions tested. This makes dairy processing a plausible explanation, but surface corrosion alone cannot identify the former contents or demonstrate a milk libation. [Journal article](https://doi.org/10.15184/aqy.2026.10483)
+
+## 收录说明 | Editorial scope
+
+在中国、欧洲、中东及非洲、美洲和其他亚太地区的检索中，优先核对发掘方或研究方发布及论文，另与[上期周报](2026-11-21.qmd)、[更新日志](../update-history.qmd)和[正式档案](../discoveries.qmd)对照。危地马拉 El Mirador 的泥塑消息已在上期周报列为追踪项，本期不按转载重计。南印度 Keeladi 与 Gottiprolu 的[陶器残留物研究](https://doi.org/10.1038/s40494-026-03033-1)于 10 月发表，不纳入本期。未找到能在本窗口核实实质新增材料的地区，不为覆盖而收录。本期未改变 33 项正式收录、待评估名单、证据等级或排名。
+
+Searches across China, Europe, the Middle East and Africa, the Americas and the rest of Asia-Pacific prioritized excavator, institutional and journal sources, with deduplication against the [previous weekly digest](2026-11-21.qmd), [update history](../update-history.qmd) and [formal archive](../discoveries.qmd). The El Mirador stucco report from Guatemala was already tracked in the previous digest. The [Keeladi and Gottiprolu pottery residue study](https://doi.org/10.1038/s40494-026-03033-1) was published in October, outside this window. Regions without verified substantive additions are not included for coverage alone. The 33 formal entries, the under-review list, evidence grades and rankings are unchanged.
+
+[网页更新日志 / Website Update History](../update-history.qmd)
